@@ -1,0 +1,13 @@
+torch
+numpy
+matplotlib
+transformers
+datasets
+sentencepiece
+bitsandbytes
+accelerate
+peft
+trl
+jsonlines
+fire
+openai
