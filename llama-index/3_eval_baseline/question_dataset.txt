@@ -1,0 +1,40 @@
+What are the possible settings for the LLM and how can the user set the prompt for term extraction?
+How can I convert tools to LangChain tools using the provided documentation sample?
+What is the purpose of the `GuidancePydanticProgram` class in the LlamaIndex documentation?
+What is the purpose of the SubQuestionQueryEngine class in LlamaIndex?
+What is the purpose of the `query_wrapper_prompt` in the `HuggingFaceLLM` class?
+What embedding model does LlamaIndex use by default?
+What are the available options for the storage backend of the index store in LlamaIndex?
+What is the function used to specify the metadata visible to the embedding model and how can it be customized?
+What are the node postprocessors available in the LlamaIndex documentation?
+What is the purpose of the LoadAndSearchToolSpec in the LlamaIndex documentation?
+What is the purpose of the DEFAULT_REFINE_PROMPT_SEL_LC in the LlamaIndex documentation?
+What is the purpose of the `CollectionQueryConsumer` class in the Delphic application's WebSocket handling?
+What is the purpose of the `ReActAgent` and how can it be initialized with other agents as tools?
+How can I create a Django superuser using the Delphic application?
+What is the default number of LLM calls required for the ListIndex?
+What are the different vector stores supported by LlamaIndex for use as the storage backend for `VectorStoreIndex`?
+What are the key building blocks in LlamaIndex for composing a Retrieval Augmented Generation (RAG) pipeline?
+What is the purpose of the "router query engine" in the LlamaIndex framework?
+What is the purpose of the `VectorStoreIndex` class in the LlamaIndex documentation sample?
+What storage backends are supported by LlamaIndex for persisting data?
+What is the purpose of the `fetchDocuments` function in the `fetchDocuments.tsx` file in the React frontend?
+What is the purpose of the `DecomposeQueryTransform` module in the LlamaIndex documentation?
+What is the purpose of the `RefinePrompt` class in the LlamaIndex documentation?
+What is the function used to retrieve the collections for the logged-in user in the Delphic project's frontend?
+What is the default value for the `include_metadata` parameter in the `SimpleNodeParser` class?
+What is the purpose of the `RouterQueryEngine` in the LlamaIndex documentation?
+What is the purpose of the TokenCountingHandler callback in the LlamaIndex library?
+What is the purpose of the `RelatedNodeInfo` class in the LlamaIndex documentation?
+What is the purpose of the ResponseEvaluator class in the LlamaIndex library?
+What is the purpose of the `SimilarityPostprocessor` in the query engine configuration?
+What is the purpose of the Algovera tool built on top of LlamaIndex?
+How can you delete a document from the index data structures and specify whether to delete it from the document store as well?
+How can we extract terms from documents using LlamaIndex and insert them into the index?
+What is the purpose of the HyDE query transform in the LlamaIndex?
+What are the three primary sections within the layout of the ChatView component?
+What is the default value for the child_branch_factor parameter when configuring the ComposableGraphQueryEngine?
+What is the purpose of the `insert_terms` function in the LlamaIndex app?
+What is the purpose of the `load_collection_model` function in the LlamaIndex documentation?
+What is the purpose of the SQLTableNodeMapping object in the LlamaIndex documentation sample?
+What is the purpose of the `RouterQueryEngine` in LlamaIndex and how can it be used in the search pipeline?
