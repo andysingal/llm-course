@@ -1,0 +1,43 @@
+[
+    {
+        "companyName": "Asana",
+        "industry": "Work Management",
+        "location": "San Francisco, California, USA",
+        "founded": 2008,
+        "website": "https://asana.com/",
+        "revenue2022": "$500 million"
+    },
+    {
+        "companyName": "HubSpot",
+        "industry": "Marketing",
+        "location": "Cambridge, Massachusetts, USA",
+        "founded": 2006,
+        "website": "https://www.hubspot.com/",
+        "revenue2022": "$890 million"
+    },
+    {
+        "companyName": "Dropbox",
+        "industry": "Cloud Storage",
+        "location": "San Francisco, California, USA",
+        "founded": 2007,
+        "website": "https://www.dropbox.com/",
+        "revenue2022": "$1.9 billion"
+    },
+    {
+        
+        "companyName": "SquareSpace",
+        "industry": "Web Development",
+        "location": "New York, New York, USA",
+        "founded": 2003,
+        "website": "https://www.squarespace.com/",
+        "revenue2022": "$700 million"
+    },
+    {
+        "companyName": "Zoho",
+        "industry": "Software Suite",
+        "location": "Chennai, Tamil Nadu, India",
+        "founded": 1996,
+        "website": "https://www.zoho.com/",
+        "revenue2022": "$600 million"
+    }
+]
