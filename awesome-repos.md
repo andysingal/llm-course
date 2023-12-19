@@ -9,4 +9,6 @@ https://blog.ouseful.info/2023/11/29/looking-up-ipython-local-llm-ai-magic-promt
 
 - https://github.com/BlackHC/llm-strategy/tree/main
 
-- Simple and efficient pytorch-native transformer text generation. https://github.com/pytorch-labs/gpt-fast 
+- Simple and efficient pytorch-native transformer text generation. https://github.com/pytorch-labs/gpt-fast
+
+- GitHub to Hugging Face Hub Dataset Migration Tool https://huggingface.co/spaces/librarian-bots/github-to-huggingface-dataset-migration-tool 
