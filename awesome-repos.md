@@ -18,3 +18,6 @@ https://blog.ouseful.info/2023/11/29/looking-up-ipython-local-llm-ai-magic-promt
 
 Pro Prompter idea https://makereal.tldraw.com/ 
 <img width="1617" alt="Screenshot 2023-12-20 at 7 46 44 AM" src="https://github.com/andysingal/modern_nlp_2/assets/20493493/de3a8950-1d30-4f2c-868b-3a8526df0f6d">
+
+nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs. It is a rewrite of minGPT that prioritizes teeth over education. Still under active development, but currently the file train.py reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: train.py is a ~300-line boilerplate training loop and model.py a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI. That's it.
+https://github.com/karpathy/nanoGPT
