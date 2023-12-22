@@ -25,3 +25,7 @@ https://github.com/karpathy/nanoGPT
 
 
 Invoice data processing LLM RAG on CPU with Ollama  https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu
+
+Panel Tweak Matplotlib: https://huggingface.co/spaces/ahuang11/tweak-mpl-chat 
+
+
