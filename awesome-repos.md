@@ -28,4 +28,4 @@ Invoice data processing LLM RAG on CPU with Ollama  https://github.com/katanaml/
 
 Panel Tweak Matplotlib: https://huggingface.co/spaces/ahuang11/tweak-mpl-chat 
 
-
+Rank llm: https://github.com/castorini/rank_llm
