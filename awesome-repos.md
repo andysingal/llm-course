@@ -32,4 +32,6 @@ Rank llm: https://github.com/castorini/rank_llm
 
 link: https://a16z.com/ai-canon/ 
 
+Quantize Mixtral-8x7B so it can run in 24GB GPU : https://github.com/casper-hansen/AutoAWQ 
+
 
