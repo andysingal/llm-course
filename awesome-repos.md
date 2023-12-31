@@ -34,4 +34,6 @@ link: https://a16z.com/ai-canon/
 
 Quantize Mixtral-8x7B so it can run in 24GB GPU : https://github.com/casper-hansen/AutoAWQ 
 
+NL-FM-Toolkit https://ibm.github.io/NL-FM-Toolkit/_modules/run_tc.html 
+
 
