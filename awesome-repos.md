@@ -36,4 +36,5 @@ Quantize Mixtral-8x7B so it can run in 24GB GPU : https://github.com/casper-hans
 
 NL-FM-Toolkit https://ibm.github.io/NL-FM-Toolkit/_modules/run_tc.html 
 
+Invoice Extractor: Ollama: https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu
 
