@@ -38,3 +38,6 @@ NL-FM-Toolkit https://ibm.github.io/NL-FM-Toolkit/_modules/run_tc.html
 
 Invoice Extractor: Ollama: https://github.com/katanaml/llm-ollama-llamaindex-invoice-cpu
 
+optimum-deepsparse : https://pypi.org/project/optimum-deepsparse/
+
+
