@@ -42,4 +42,5 @@ optimum-deepsparse : https://pypi.org/project/optimum-deepsparse/
 
 Mamba Multimodel: https://github.com/kyegomez/MultiModalMamba/tree/main 
 
+DragNUWA https://huggingface.co/spaces/yinsming/DragNUWA
 
