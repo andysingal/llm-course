@@ -40,4 +40,6 @@ Invoice Extractor: Ollama: https://github.com/katanaml/llm-ollama-llamaindex-inv
 
 optimum-deepsparse : https://pypi.org/project/optimum-deepsparse/
 
+Mamba Multimodel: https://github.com/kyegomez/MultiModalMamba/tree/main 
+
 
