@@ -46,5 +46,7 @@ DragNUWA https://huggingface.co/spaces/yinsming/DragNUWA
 
 GPTEval3D - https://github.com/3DTopia/GPTEval3D 
 
+Ollama-Chat: https://github.com/mckaywrigley/chatbot-ui 
+
 
 
