@@ -44,3 +44,7 @@ Mamba Multimodel: https://github.com/kyegomez/MultiModalMamba/tree/main
 
 DragNUWA https://huggingface.co/spaces/yinsming/DragNUWA
 
+GPTEval3D - https://github.com/3DTopia/GPTEval3D 
+
+
+
