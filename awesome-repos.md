@@ -57,3 +57,6 @@ Renumics/spotlight - https://github.com/Renumics/spotlight
 Surya is a multilingual document OCR toolkit https://github.com/VikParuchuri/surya 
 
 Knowledge Graph: https://github.com/dylanhogg/llmgraph 
+
+awesome-augmented-language-model : https://github.com/pbhu1024/awesome-augmented-language-model
+
