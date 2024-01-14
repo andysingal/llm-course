@@ -55,3 +55,5 @@ Renumics/spotlight - https://github.com/Renumics/spotlight
 <img width="894" alt="Screenshot 2024-01-12 at 7 33 59 PM" src="https://github.com/andysingal/llm-course/assets/20493493/2216b77d-bd77-4b95-bd89-18602584e10e">
 
 Surya is a multilingual document OCR toolkit https://github.com/VikParuchuri/surya 
+
+Knowledge Graph: https://github.com/dylanhogg/llmgraph 
