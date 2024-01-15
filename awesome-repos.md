@@ -60,3 +60,5 @@ Knowledge Graph: https://github.com/dylanhogg/llmgraph
 
 awesome-augmented-language-model : https://github.com/pbhu1024/awesome-augmented-language-model
 
+Awesome RAG: https://github.com/lucifertrj/Awesome-RAG/tree/main
+
