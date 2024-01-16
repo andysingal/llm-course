@@ -1,8 +1,5 @@
 # Transformer Recipe
 
-![](/images/transformer.jpeg)
-
-$$\operatorname{Attention}(Q, K, V)=\operatorname{softmax}\left(\frac{Q K^{T}}{\sqrt{d_{k}}}\right) V$$
 
 Transformers have accelerated the development of new techniques and models for natural language processing (NLP) tasks. While it has mostly been used for NLP tasks, it is now seeing heavy adoption in other areas such as computer vision and reinforcement learning. That makes it one of the most important modern concepts to understand and be able to apply.
 
@@ -73,3 +70,7 @@ As a bonus, here is a great reading list on LLMs by Sebastian Raschka.
 Feel free to suggest study material. In the next update, I am looking to add a more comprehensive collection of Transformer applications and papers. In addition, a code implementation for easy experimentation is coming as well. Stay tuned!
 
 *To get regular updates on new ML and NLP resources, [follow me on Twitter](https://twitter.com/omarsar0).*
+
+
+Resource:
+- https://github.com/jpsam07/sentiment-analysis-on-amazon-fine-food-reviews/blob/main/notebook.ipynb 
