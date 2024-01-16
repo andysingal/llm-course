@@ -62,3 +62,5 @@ awesome-augmented-language-model : https://github.com/pbhu1024/awesome-augmented
 
 Awesome RAG: https://github.com/lucifertrj/Awesome-RAG/tree/main
 
+Universal Models: https://github.com/matthew-pisano/UniversalModels 
+
