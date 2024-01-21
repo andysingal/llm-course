@@ -64,3 +64,7 @@ Awesome RAG: https://github.com/lucifertrj/Awesome-RAG/tree/main
 
 Universal Models: https://github.com/matthew-pisano/UniversalModels 
 
+RAGxplorer : https://github.com/gabrielchua/RAGxplorer
+<img width="835" alt="Screenshot 2024-01-21 at 6 20 34 PM" src="https://github.com/andysingal/llm-course/assets/20493493/b6a31908-ce11-43b3-b8b3-08948ae77a03">
+
+
