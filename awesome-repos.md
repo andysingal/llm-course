@@ -70,3 +70,5 @@ RAGxplorer : https://github.com/gabrielchua/RAGxplorer
 vllm https://github.com/vllm-project/vllm 
 
 Arize https://github.com/Arize-ai/phoenix 
+
+DistiLlama : https://github.com/shreyaskarnik/DistiLlama 
