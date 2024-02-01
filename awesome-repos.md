@@ -76,3 +76,5 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 img2dataset: https://github.com/rom1504/img2dataset 
 
 hallucination-leaderboard: https://github.com/vectara/hallucination-leaderboard 
+
+makeMoE : https://github.com/AviSoori1x/makeMoE
