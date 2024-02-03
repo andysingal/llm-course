@@ -80,3 +80,5 @@ hallucination-leaderboard: https://github.com/vectara/hallucination-leaderboard
 makeMoE : https://github.com/AviSoori1x/makeMoE
 
 multimodal-rag-on-slide-decks https://github.com/aws-samples/multimodal-rag-on-slide-decks/tree/main 
+
+Multimodal Workshop: https://github.com/weaviate-tutorials/multimodal-workshop 
