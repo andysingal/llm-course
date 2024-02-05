@@ -20,3 +20,4 @@ Resources:
 - [Determined-AI-LLM](https://www.determined.ai/blog/llm-finetuning)
 - [ViT-fine-tuning](https://github.com/olonok69/LLM_Notebooks/blob/main/image/Image_classification_NSWF_full_training.ipynb)
 - [Using Wandb](https://wandb.ai/site/solutions/llm-fine-tuning)
+- [Finetune-flashatten](https://medium.com/@yernenip/optimizing-phi-2-a-deep-dive-into-fine-tuning-small-language-models-9d545ac90a99)
