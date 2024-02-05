@@ -7,3 +7,5 @@ Fine Tune Examples
 [Finetune-tech-keywords](https://github.com/andysingal/llm-course/blob/main/llama_finetune/finetune_tech_keywords.ipynb)
 
 [Fine_tune_SegFormer](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Fine_tune_SegFormer_on_custom_dataset.ipynb)
+
+Understanding the Phi-2 model and learning how to access and fine-tune https://www.datacamp.com/tutorial/phi-2-model 
