@@ -10,6 +10,11 @@ Fine Tune Examples
 
 [Supervise fine-tune casual language model](https://www.kaggle.com/code/aisuko/supervise-fine-tune-casual-language-model)
 
+[Fine-Tune LLMs in 2024](https://www.determined.ai/blog/llm-finetuning)
+
 Understanding the Phi-2 model and learning how to access and fine-tune https://www.datacamp.com/tutorial/phi-2-model 
 
 
+
+Resources:
+- [Determined-AI-LLM](https://www.determined.ai/blog/llm-finetuning)
