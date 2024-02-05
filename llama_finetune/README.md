@@ -22,3 +22,6 @@ Resources:
 - [Using Wandb](https://wandb.ai/site/solutions/llm-fine-tuning)
 - [Finetune-flashatten](https://medium.com/@yernenip/optimizing-phi-2-a-deep-dive-into-fine-tuning-small-language-models-9d545ac90a99)
 - [Exploring mergekit for Model Merge, AutoEval for Model Evaluation, and DPO for Model Fine-tuning](https://medium.com/towards-data-science/exploring-mergekit-for-model-merge-and-autoeval-for-model-evaluation-c681766fd1f3)
+
+
+<img width="900" alt="Screenshot 2024-02-05 at 4 11 08 PM" src="https://github.com/andysingal/llm-course/assets/20493493/81eef3c8-d3a5-4a3b-a0dd-174dd7c65de1">
