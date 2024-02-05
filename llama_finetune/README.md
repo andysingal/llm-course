@@ -8,4 +8,8 @@ Fine Tune Examples
 
 [Fine_tune_SegFormer](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Fine_tune_SegFormer_on_custom_dataset.ipynb)
 
+[Supervise fine-tune casual language model](https://www.kaggle.com/code/aisuko/supervise-fine-tune-casual-language-model)
+
 Understanding the Phi-2 model and learning how to access and fine-tune https://www.datacamp.com/tutorial/phi-2-model 
+
+
