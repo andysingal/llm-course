@@ -86,3 +86,5 @@ Multimodal Workshop: https://github.com/weaviate-tutorials/multimodal-workshop
 Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs. https://github.com/andrewnguonly/Lumos
 <img width="865" alt="Screenshot 2024-02-05 at 9 22 22 AM" src="https://github.com/andysingal/llm-course/assets/20493493/3059deaf-bea1-4db4-9392-43af4b61dce5">
 
+Multimodal & Large Language Models https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models 
+
