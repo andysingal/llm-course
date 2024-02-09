@@ -31,3 +31,9 @@ Navigate to the directory containing the script and use the following command:
 
 ```bash
 python llava.py -i <path_to_image> -p "<custom_prompt>"
+
+Ollama Resources:
+- Phidata + Ollama https://github.com/phidatahq/phidata/tree/main/cookbook/local_rag
+- https://ai.gopubby.com/improving-llms-with-ollama-and-rag-508fad3f841f
+- https://note.com/johnkhappy/n/ne930d6a03f89
+
