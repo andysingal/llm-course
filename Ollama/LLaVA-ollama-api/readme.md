@@ -36,4 +36,5 @@ Ollama Resources:
 - Phidata + Ollama https://github.com/phidatahq/phidata/tree/main/cookbook/local_rag
 - https://ai.gopubby.com/improving-llms-with-ollama-and-rag-508fad3f841f
 - https://note.com/johnkhappy/n/ne930d6a03f89
+- Ollama-Multimodal https://ollama.com/blog/python-javascript-libraries 
 
