@@ -50,3 +50,4 @@ Being compiled in C++, with GGUF the inference is multithreaded.
 
 Resources:
 - [Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference](https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34)
+- [LlamaEdge](https://github.com/second-state/LlamaEdge)
