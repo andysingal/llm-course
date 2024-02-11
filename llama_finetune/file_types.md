@@ -1,6 +1,6 @@
 🚀 What is GGML or GGUF in the world of Large Language Models ? 🚀
 
-GGUF / GGML are file formats for quantized models
+[GGUF / GGML are file formats for quantized models
 
 GGUF is a new format introduced by the llama.cpp team on August 21st 2023. It is a replacement for GGML.
 
@@ -11,6 +11,8 @@ Basically, GGUF (i.e. "GPT-Generated Unified Format"), previously GGML, is a qua
 💡 GGUF (new)
 
 💡 GGML (old)
+
+<img width="653" alt="Screenshot 2024-02-11 at 11 17 19 AM" src="https://github.com/andysingal/llm-course/assets/20493493/4ccdd8bf-ecc3-4082-9b99-80a624a32d24">
 
 Llama.cpp has dropped support for the GGML format and now only supports GGUF
 
@@ -46,8 +48,13 @@ Being compiled in C++, with GGUF the inference is multithreaded.
 
 ▶️ And there's some other formats like AWQ: Activation-aware Weight Quantization - which is a quantization method similar to GPTQ. There are several differences between AWQ and GPTQ as methods but the most important one is that AWQ assumes that not all weights are equally important for an LLM’s performance. For AWQ, best to use the vLLM package
 
+
+
 <img width="474" alt="Screenshot 2024-02-11 at 10 59 08 AM" src="https://github.com/andysingal/llm-course/assets/20493493/e671357e-0c39-4e86-a79b-dbb8fa26c03b">
 
 Resources:
 - [Democratizing LLMs: 4-bit Quantization for Optimal LLM Inference](https://towardsdatascience.com/democratizing-llms-4-bit-quantization-for-optimal-llm-inference-be30cf4e0e34)
 - [LlamaEdge](https://github.com/second-state/LlamaEdge)
+- [CTransformers-GGML](https://medium.com/@metechsolutions/llm-by-examples-use-ggml-quantization-699eb7895953)
+- [Llama.cpp vs GGML](https://www.libhunt.com/compare-llama.cpp-vs-ggml)
+- 
