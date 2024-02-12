@@ -73,18 +73,21 @@ Arize https://github.com/Arize-ai/phoenix
 
 DistiLlama : https://github.com/shreyaskarnik/DistiLlama 
 
-img2dataset: https://github.com/rom1504/img2dataset 
+[img2dataset](https://github.com/rom1504/img2dataset)
 
-hallucination-leaderboard: https://github.com/vectara/hallucination-leaderboard 
+[hallucination-leaderboard](https://github.com/vectara/hallucination-leaderboard)
 
-makeMoE : https://github.com/AviSoori1x/makeMoE
+[makeMoE](https://github.com/AviSoori1x/makeMoE)
 
-multimodal-rag-on-slide-decks https://github.com/aws-samples/multimodal-rag-on-slide-decks/tree/main 
+[multimodal-rag-on-slide-decks](https://github.com/aws-samples/multimodal-rag-on-slide-decks/tree/main)
 
-Multimodal Workshop: https://github.com/weaviate-tutorials/multimodal-workshop 
+[Multimodal Workshop](https://github.com/weaviate-tutorials/multimodal-workshop)
 
-Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs. https://github.com/andrewnguonly/Lumos
+[Lumos: A RAG LLM co-pilot for browsing the web, powered by local LLMs.](https://github.com/andrewnguonly/Lumos)
+
 <img width="865" alt="Screenshot 2024-02-05 at 9 22 22 AM" src="https://github.com/andysingal/llm-course/assets/20493493/3059deaf-bea1-4db4-9392-43af4b61dce5">
 
-Multimodal & Large Language Models https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models 
+[Multimodal & Large Language Models](https://github.com/Yangyi-Chen/Multimodal-AND-Large-Language-Models)
+
+[guidance](https://github.com/guidance-ai/guidance)
 
