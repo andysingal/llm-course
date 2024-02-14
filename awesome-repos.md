@@ -91,3 +91,4 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 
 [guidance](https://github.com/guidance-ai/guidance)
 
+[llm-swarm](https://github.com/huggingface/llm-swarm)
