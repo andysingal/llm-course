@@ -14,6 +14,8 @@ Fine Tune Examples
 
 [FineTune-RoBERTa-LORA](https://new.qq.com/rain/a/20240213A02E8M00)
 
+[Phi_2_+_QLoRA+dialogsum](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Phi_2_%2B_QLoRA%2Bdialogsum.ipynb)
+
 Understanding the Phi-2 model and learning how to access and fine-tune https://www.datacamp.com/tutorial/phi-2-model 
 
 
