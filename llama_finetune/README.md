@@ -12,6 +12,8 @@ Fine Tune Examples
 
 [Fine-Tune LLMs in 2024](https://www.determined.ai/blog/llm-finetuning)
 
+[FineTune-RoBERTa-LORA](https://new.qq.com/rain/a/20240213A02E8M00)
+
 Understanding the Phi-2 model and learning how to access and fine-tune https://www.datacamp.com/tutorial/phi-2-model 
 
 
