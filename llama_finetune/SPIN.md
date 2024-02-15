@@ -34,4 +34,6 @@ There is only one model during training, but the model is divided into the previ
 
 Resources:
 - https://segmentfault.com/a/1190000044565620
-- https://levelup.gitconnected.com/convert-weak-llm-to-strong-llm-using-spin-technique-9a083d3811df 
+- https://levelup.gitconnected.com/convert-weak-llm-to-strong-llm-using-spin-technique-9a083d3811df
+- https://github.com/uclaml/SPIN
+  
