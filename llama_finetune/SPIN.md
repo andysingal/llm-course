@@ -37,5 +37,6 @@ Resources:
 - https://levelup.gitconnected.com/convert-weak-llm-to-strong-llm-using-spin-technique-9a083d3811df
 - [SPIN](https://github.com/uclaml/SPIN)
 - [self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+- [Synthetic Data for Finetuning](https://eugeneyan.com/writing/synthetic/)
 
   
