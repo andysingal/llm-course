@@ -33,4 +33,5 @@ There is only one model during training, but the model is divided into the previ
 <img width="711" alt="Screenshot 2024-02-15 at 10 24 13 AM" src="https://github.com/andysingal/llm-course/assets/20493493/eba1deb5-6447-4cc6-9b70-ee4b8a9737fe">
 
 Resources:
-- https://segmentfault.com/a/1190000044565620  
+- https://segmentfault.com/a/1190000044565620
+- https://levelup.gitconnected.com/convert-weak-llm-to-strong-llm-using-spin-technique-9a083d3811df 
