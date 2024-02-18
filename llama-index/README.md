@@ -1,8 +1,4 @@
-# Llama Docs Bot
-
+# Llama Docs 
 This repository holds the content for each video the the Bottoms Up Development series with [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/).
 
-Each folder with a numbered prefix represents which video in the series it corresponds to. Each folder will have the same notebook and slides that were covered in the corresponding video.
-
-Resources:
-- https://github.com/fahmirzldi/medicine-gpt-llamaindex/blob/main/app.py 
+[LlamaIndex-W&B](https://wandb.ai/byyoung3/ml-news/reports/Building-a-RAG-Based-Digital-Restaurant-Menu-with-LlamaIndex-and-W-B-Weave--Vmlldzo2NjE5Njkw)
