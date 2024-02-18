@@ -95,3 +95,5 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 [llm-swarm](https://github.com/huggingface/llm-swarm)
 
 [distilabel](https://distilabel.argilla.io/latest/technical-reference/llms/#ollama) [2](https://github.com/argilla-io/distilabel?tab=readme-ov-file)
+
+[AutoKG](https://github.com/zjunlp/AutoKG)
