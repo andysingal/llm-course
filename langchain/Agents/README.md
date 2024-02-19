@@ -30,4 +30,12 @@ Different tools: https://www.jianshu.com/p/9e646767e5b6
 
 [Custom Input Schema With Validation Logic in LangChain](https://www.liberiangeek.net/2023/11/how-to-specify-custom-input-schema-with-validation-logic-in-langchain/)
 
-- https://towardsdatascience.com/can-llms-replace-data-analysts-building-an-llm-powered-analyst-851578fa10ce 
+- https://towardsdatascience.com/can-llms-replace-data-analysts-building-an-llm-powered-analyst-851578fa10ce
+
+- https://velog.io/@jjlee6496/Functions-Tools-and-agents-with-Langchain-5-9ban48au
+
+
+  Issues to watch:
+  ```
+  https://github.com/langchain-ai/langchain/issues/12348
+  ```
