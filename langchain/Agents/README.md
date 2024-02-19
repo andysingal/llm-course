@@ -24,3 +24,5 @@ def math(query : str) -> str:
 
 tools = [search_api, math]
 ```
+
+Different tools: https://www.jianshu.com/p/9e646767e5b6 
