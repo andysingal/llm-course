@@ -34,6 +34,12 @@ Different tools: https://www.jianshu.com/p/9e646767e5b6
 
 - https://velog.io/@jjlee6496/Functions-Tools-and-agents-with-Langchain-5-9ban48au
 
+- https://langchain114.com/docs/modules/agents/how_to/custom-functions-with-openai-functions-agent/
+- [Running Agent as an Iterator](https://linuxhint.com/run-agent-iterator-langchain/)
+- [Advanced Tool func](https://velog.io/@jjlee6496/Functions-Tools-and-agents-with-Langchain-6%EC%99%84)
+- 
+
+
 
   Issues to watch:
   ```
