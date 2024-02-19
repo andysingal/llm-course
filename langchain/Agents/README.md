@@ -26,3 +26,5 @@ tools = [search_api, math]
 ```
 
 Different tools: https://www.jianshu.com/p/9e646767e5b6 
+
+[Custom Input Schema With Validation Logic in LangChain] https://www.liberiangeek.net/2023/11/how-to-specify-custom-input-schema-with-validation-logic-in-langchain/ 
