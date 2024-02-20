@@ -97,3 +97,6 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 [distilabel](https://distilabel.argilla.io/latest/technical-reference/llms/#ollama) [2](https://github.com/argilla-io/distilabel?tab=readme-ov-file)
 
 [AutoKG](https://github.com/zjunlp/AutoKG)
+
+[Pulmi](https://www.pulumi.com/blog/easy-ai-apps-with-langserve-and-pulumi/)
+<img width="1400" alt="Screenshot 2024-02-20 at 9 41 09 AM" src="https://github.com/andysingal/llm-course/assets/20493493/329a7b47-e0f4-4d21-add1-8106eb9be031">
