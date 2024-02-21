@@ -6,3 +6,4 @@ MinIO offers high-performance, S3 compatible object storage. Native to Kubernete
 
 [LLM-Conversation Summary](https://zhuanlan.zhihu.com/p/682539805)
 
+[Dataset-lib-Tricks](https://www.ai-shift.co.jp/techblog/4271)
