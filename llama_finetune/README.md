@@ -20,6 +20,8 @@ Fine Tune Examples
 
 [Fine-Tuning-Custom-Dataset](https://github.com/andysingal/llm-course/blob/main/llama_finetune/fine-tuning-custom-dataset.ipynb)
 
+[AutoLOra-Mergimg](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%A7%9C_AutoLoRAMerging_(Ties%2C_Dare%2C_MagnitudePrune).ipynb) 
+
 
 
 Resources:
