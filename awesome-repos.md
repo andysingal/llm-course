@@ -102,3 +102,8 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 <img width="1400" alt="Screenshot 2024-02-20 at 9 41 09 AM" src="https://github.com/andysingal/llm-course/assets/20493493/329a7b47-e0f4-4d21-add1-8106eb9be031">
 
 [grafana-llm-app](https://github.com/grafana/grafana-llm-app)
+
+[postgresml](https://github.com/postgresml/postgresml)
+
+<img width="864" alt="Screenshot 2024-02-22 at 11 01 07 AM" src="https://github.com/andysingal/llm-course/assets/20493493/6e9b9a32-4c7e-4fdd-ace1-1fda3d96eeac">
+
