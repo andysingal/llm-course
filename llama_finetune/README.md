@@ -22,7 +22,7 @@ Fine Tune Examples
 
 [AutoLOra-Mergimg](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%A7%9C_AutoLoRAMerging_(Ties%2C_Dare%2C_MagnitudePrune).ipynb) 
 
-[2-bit-quantization](https://github.com/andysingal/llm-course/blob/main/llama_finetune/2bit-quantization.ipynb)
+[2-bit-quantization](https://github.com/andysingal/llm-course/blob/main/llama_finetune/2_bit_Quantization.ipynb)
 
 
 
