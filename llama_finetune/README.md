@@ -24,6 +24,7 @@ Fine Tune Examples
 
 [2-bit-quantization](https://github.com/andysingal/llm-course/blob/main/llama_finetune/2_bit_Quantization.ipynb)
 
+[automatic speech recognition (ASR) finetune]
 
 
 Resources:
