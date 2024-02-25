@@ -120,3 +120,6 @@ print(agent({"input": "did alphabet or tesla have more revenue?"}))
   https://github.com/langchain-ai/langchain/issues/12348
   https://github.com/langchain-ai/langchain/issues/16423 
   ```
+
+Resources:
+- https://mer.vin/2024/02/crewai-rag-using-tools/ 
