@@ -24,7 +24,7 @@ Fine Tune Examples
 
 [2-bit-quantization](https://github.com/andysingal/llm-course/blob/main/llama_finetune/2_bit_Quantization.ipynb)
 
-[automatic speech recognition (ASR) finetune]
+[Fine-Tuning Gemma Models in Hugging Face](https://github.com/andysingal/llm-course/blob/main/llama_finetune/examples_notebook_sft_peft.ipynb)
 
 
 Resources:
