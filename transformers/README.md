@@ -75,4 +75,5 @@ Feel free to suggest study material. In the next update, I am looking to add a m
 Resource:
 - https://github.com/jpsam07/sentiment-analysis-on-amazon-fine-food-reviews/blob/main/notebook.ipynb
 - https://github.com/markyanjunch/si699-poetry-sentiment-analysis/tree/main
-- https://blog.csdn.net/Attitude93/article/details/136155796 
+- https://blog.csdn.net/Attitude93/article/details/136155796
+- https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-llms-in-2024-with-trl.ipynb 
