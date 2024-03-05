@@ -37,3 +37,11 @@ Resources:
 
 
 <img width="900" alt="Screenshot 2024-02-05 at 4 11 08 PM" src="https://github.com/andysingal/llm-course/assets/20493493/81eef3c8-d3a5-4a3b-a0dd-174dd7c65de1">
+
+## Memory optimization
+### Vllm
+- https://vllm.readthedocs.io/_/downloads/en/latest/pdf/ 
+- https://sumanthrh.com/post/distributed-and-efficient-finetuning/ 
+- https://www.philschmid.de/deepspeed-lora-flash-attention 
+- https://mer.vin/2024/02/flash-attention-2/
+- https://quickaitutorial.com/five-technique-vllm-torch-flash_attention-super-local-llm/ 
