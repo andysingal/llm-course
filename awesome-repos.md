@@ -108,3 +108,5 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 <img width="864" alt="Screenshot 2024-02-22 at 11 01 07 AM" src="https://github.com/andysingal/llm-course/assets/20493493/6e9b9a32-4c7e-4fdd-ace1-1fda3d96eeac">
 
 [NER-STARTER](https://github.com/rrrohit1/ner-starter)
+
+[Flash-attention](https://github.com/Dao-AILab/flash-attention/tree/main)
