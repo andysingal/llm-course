@@ -28,6 +28,8 @@ Fine Tune Examples
 
 [Fine-Tuning Gemma Models in Hugging Face](https://github.com/andysingal/llm-course/blob/main/llama_finetune/examples_notebook_sft_peft.ipynb)
 
+[Fine-Tune Gemma with ChatML](https://github.com/andysingal/llm-course/blob/main/llama_finetune/gemma-lora-example.ipynb)
+
 
 Resources:
 - [GGUF/GGML/Llama.cpp](https://github.com/andysingal/llm-course/blob/main/llama_finetune/file_types.md)
