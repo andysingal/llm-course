@@ -2,6 +2,8 @@ Fine Tune Examples
 
 [Fine Tune LLM with Axolotl](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Fine_tune_LLMs_with_Axolotl.ipynb)
 
+[Template-free axolotl](https://hamel.dev/notes/llm/finetuning/09_template_free.html)
+
 [Finetune_7B_dpo.ipynb](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Finetune_7B_dpo.ipynb)
 
 [Finetune-tech-keywords](https://github.com/andysingal/llm-course/blob/main/llama_finetune/finetune_tech_keywords.ipynb)
