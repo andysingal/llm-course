@@ -110,3 +110,5 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 [NER-STARTER](https://github.com/rrrohit1/ner-starter)
 
 [Flash-attention](https://github.com/Dao-AILab/flash-attention/tree/main)
+
+[Qwen-Agent](https://github.com/QwenLM/Qwen-Agent/tree/main)
