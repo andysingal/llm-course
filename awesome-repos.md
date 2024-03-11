@@ -112,3 +112,5 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 [Flash-attention](https://github.com/Dao-AILab/flash-attention/tree/main)
 
 [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent/tree/main)
+
+[prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
