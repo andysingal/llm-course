@@ -28,3 +28,5 @@ MinIO offers high-performance, S3 compatible object storage. Native to Kubernete
     }
   }
 ```
+
+FlashAttention has been proposed, which optimizes IO and use online softmax  to reduce both data movement from the GPU memory  and GPU cache.  
