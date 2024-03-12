@@ -1,0 +1,5 @@
+deepmultilingualpunctuation
+youtube-transcript-api
+torch
+transformers
+datasets
