@@ -30,6 +30,8 @@ Fine Tune Examples
 
 [Fine-Tune Gemma with ChatML](https://github.com/andysingal/llm-course/blob/main/llama_finetune/gemma-lora-example.ipynb)
 
+[Fine-tune BERT for sentiment analysis](https://skimai.com/fine-tuning-bert-for-sentiment-analysis/)
+
 
 Resources:
 - [GGUF/GGML/Llama.cpp](https://github.com/andysingal/llm-course/blob/main/llama_finetune/file_types.md)
