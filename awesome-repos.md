@@ -115,6 +115,8 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 
 [prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
 
+[EasyInstruct](https://github.com/zjunlp/EasyInstruct/tree/main)
+
 
 
 
