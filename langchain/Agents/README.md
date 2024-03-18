@@ -122,4 +122,5 @@ print(agent({"input": "did alphabet or tesla have more revenue?"}))
   ```
 
 Resources:
-- https://mer.vin/2024/02/crewai-rag-using-tools/ 
+- https://mer.vin/2024/02/crewai-rag-using-tools/
+- https://mer.vin/ 
