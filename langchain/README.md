@@ -12,5 +12,7 @@
 
 [Langchain_project-Notebook](https://github.com/pd2871/End-to-End-LLM-Projects/tree/main/Langchain)
 
+[Langchain-Tutorial](https://github.com/teddylee777/langchain-kr/tree/main) 
+
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
