@@ -117,6 +117,9 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 
 [EasyInstruct](https://github.com/zjunlp/EasyInstruct/tree/main)
 
+[gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+<img width="863" alt="Screenshot 2024-03-21 at 4 26 21 PM" src="https://github.com/andysingal/llm-course/assets/20493493/54d70a3f-bec6-46fb-b6be-d70b7726ab66">
+
 
 
 
