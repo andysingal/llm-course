@@ -9,6 +9,7 @@ MinIO offers high-performance, S3 compatible object storage. Native to Kubernete
 [Dataset-lib-Tricks](https://www.ai-shift.co.jp/techblog/4271)
 
 [Deepspeed-Zero-Training]()
+
 ```
 {
     "zero_optimization": {
@@ -30,3 +31,5 @@ MinIO offers high-performance, S3 compatible object storage. Native to Kubernete
 ```
 
 FlashAttention has been proposed, which optimizes IO and use online softmax  to reduce both data movement from the GPU memory  and GPU cache.  
+
+[How to Run Your Own Local LLM](https://hackernoon.com/how-to-run-your-own-local-llm-updated-for-2024) 
