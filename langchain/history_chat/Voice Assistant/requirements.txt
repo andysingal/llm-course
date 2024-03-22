@@ -1,0 +1,5 @@
+streamlit
+gTTs
+-q -U transformers==4.37.2
+-q bitsandbytes==0.41.3 accelerate==0.25.0
+-q git+https://github.com/openai/whisper.git

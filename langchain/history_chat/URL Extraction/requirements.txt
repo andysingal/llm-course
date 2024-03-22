@@ -1,0 +1,10 @@
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+streamlit==1.18.1
+faiss-cpu==1.7.4
+altair<5
+langchain == 0.0.343
+openai==0.28.1
+langchain_community
+chromadb
+pypdf
