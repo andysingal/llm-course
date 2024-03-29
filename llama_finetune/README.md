@@ -32,6 +32,8 @@ Fine Tune Examples
 
 [Fine-tune BERT for sentiment analysis](https://skimai.com/fine-tuning-bert-for-sentiment-analysis/)
 
+[Fine-tune Jamba](https://github.com/andysingal/llm-course/blob/main/llama_finetune/fine_tune_Jamba.ipynb)
+
 
 Resources:
 - [GGUF/GGML/Llama.cpp](https://github.com/andysingal/llm-course/blob/main/llama_finetune/file_types.md)
