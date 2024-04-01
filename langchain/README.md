@@ -14,8 +14,12 @@
 
 [Langchain-Tutorial](https://github.com/teddylee777/langchain-kr/tree/main) 
 
+[chat-langchain](https://github.com/langchain-ai/chat-langchain) 
+
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
 
 
 <img width="1096" alt="Screenshot 2024-03-27 at 7 58 13 PM" src="https://github.com/andysingal/llm-course/assets/20493493/bda1b211-f403-4f9b-8d08-b0b509b23450">
+
+
