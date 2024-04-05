@@ -58,3 +58,5 @@ Resources:
 ##Automate finetuning
 
 [AutoQuantize](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%A4%96_AutoQuantize_(GGUF%2C_AWQ%2C_EXL2%2C_GPTQ).ipynb)
+
+[AutoBitnet](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%8C%8A_AutoBitnet.ipynb)
