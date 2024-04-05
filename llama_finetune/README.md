@@ -52,4 +52,8 @@ Resources:
 - https://sumanthrh.com/post/distributed-and-efficient-finetuning/ 
 - https://www.philschmid.de/deepspeed-lora-flash-attention 
 - https://mer.vin/2024/02/flash-attention-2/
-- https://quickaitutorial.com/five-technique-vllm-torch-flash_attention-super-local-llm/ 
+- https://quickaitutorial.com/five-technique-vllm-torch-flash_attention-super-local-llm/
+
+
+##Automate finetuning
+[AutoQuantize](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%A4%96_AutoQuantize_(GGUF%2C_AWQ%2C_EXL2%2C_GPTQ).ipynb)
