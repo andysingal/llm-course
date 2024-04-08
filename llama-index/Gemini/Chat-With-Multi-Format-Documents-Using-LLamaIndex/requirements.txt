@@ -1,0 +1,4 @@
+streamlit
+llama_index
+numpy
+pandas
