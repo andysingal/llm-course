@@ -1,4 +1,5 @@
 - Agent tools https://qiita.com/sakue_103/items/f8180758df4f281e0bc6
+- Cohere Notebooks https://github.com/cohere-ai/notebooks/blob/main/notebooks/Vanilla_Multi_Step_Tool_Use.ipynb 
 
 ```
 from langchain.tools import tool
