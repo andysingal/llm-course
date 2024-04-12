@@ -1,0 +1,11 @@
+openai
+chainlit
+llama-hub
+llama-index
+llama-parse
+unstructured
+pinecone-client
+llama-index-core        # Feb 21 2024
+llama-index-llms-openai         # Feb 21 2024
+llama-index-embeddings-openai
+llama-index-vector-stores-pinecone

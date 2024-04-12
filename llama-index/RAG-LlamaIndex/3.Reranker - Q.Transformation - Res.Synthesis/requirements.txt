@@ -1,0 +1,13 @@
+openai
+cohere
+chainlit
+llama-index
+pinecone-client
+
+llama-index-vector-stores-pinecone
+torch
+pypdf
+llmsherpa
+llama-hub
+transformers
+llama-index-postprocessor-cohere-rerank

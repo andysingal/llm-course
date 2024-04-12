@@ -1,0 +1,17 @@
+openai
+cohere
+chainlit
+llama-index
+pinecone-client
+
+llama-index-vector-stores-pinecone
+torch
+pypdf
+llmsherpa
+llama-hub
+transformers
+llama-index-postprocessor-cohere-rerank
+llama-index-core        # Feb 21 2024
+llama-index-llms-openai         # Feb 21 2024
+llama-index-embeddings-openai
+spacy
