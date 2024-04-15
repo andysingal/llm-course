@@ -46,6 +46,9 @@ Resources:
 
 <img width="900" alt="Screenshot 2024-02-05 at 4 11 08 PM" src="https://github.com/andysingal/llm-course/assets/20493493/81eef3c8-d3a5-4a3b-a0dd-174dd7c65de1">
 
+<img width="553" alt="Screenshot 2024-04-15 at 11 15 27 AM" src="https://github.com/andysingal/llm-course/assets/20493493/48667f68-e5a5-4722-b090-f8f277f1ff1e">
+
+
 ## Memory optimization
 ### Vllm
 - https://vllm.readthedocs.io/_/downloads/en/latest/pdf/ 
