@@ -125,3 +125,9 @@ Using full precision for training and inference usually leads to the best result
 <img width="726" alt="Screenshot 2024-04-20 at 9 40 15 AM" src="https://github.com/andysingal/llm-course/assets/20493493/97b8144e-52c1-47c4-93e7-0d391f3e85af">
 
 
+### All together
+Let’s review PEFT and quantization.
+
+PEFT allows us to fine-tune models using much less compute by adding adapters and freezing the base model weights. This accelerates training, given only a few weights are updatable.
+
+Quantization allows us to load a model using fewer bits than those used for storage. This reduces the GPU requirements to load and run inference with a model.
