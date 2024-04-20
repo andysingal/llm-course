@@ -89,6 +89,22 @@ These are just some of the massive explosion of instruct-tuned models. Flan-T5 i
 ### When should you use fine-tuning vs. instruct-tuning vs. prompt engineering?
 Once again, it depends on the task, available resources desired experimentation speed, and more. Usually, fine-tuned models specific to a task or domain will perform better. On the other hand, it won’t allow you to tackle tasks out of the box. Instruct-tune is more versatile, but defining the dataset and structure requires additional work. Prompt engineering is the most flexible approach for quick experimentation, as it won’t require you to train a model out of the box.
 
+#### introduction to adapters
+Let’s now dive into the fourth approach: adapters. So far, we’ve explored fine-tuning DistilBERT for text classification and GPT-2 to generate text in our specific style. In both cases, all weights of the model were modified during fine-tuning. Fine-tuning is much more efficient than pre-training as we don’t need too much data or compute power. However, as the trend of larger models keeps growing, doing traditional fine-tuning becomes infeasible on consumer hardware. Additionally, if we want to fine-tune an encoder model for different tasks, we’ll end up with multiple models.
+
+Welcome: PEFT! Parameter-efficient fine-tuning, called PEFT, is a group of techniques that enables adapting the pre-trained models without fine-tuning all the model parameters. Typically, we add a small number of extra parameters, called adapters, and then fine-tune them while freezing the original pre-trained model. What effects does this have?
+
+1. Faster training and lower hardware requirements: When doing traditional fine-tuning, we update many parameters. With PEFT, we only update the adapter, which has a small percentage of parameters compared to the base model. Hence, training is completed much faster and can be done with smaller GPUs.
+
+2. Lower storage costs: After fine-tuning the model, we only need to store the adapter instead of the whole model for each fine-tuning. When some models can take over 100Gb to store, it won’t scale well if each downstream model requires saving all the parameters again. An adapter could be 1% of the size of the original model. If we have 100 fine-tunes of a 100Gb model, traditional fine-tuning would take 10,000Gb of storage while PEFT would take 200Gb (the original model and 100 adapters of 1Gb each).
+
+3. Comparable performance: The performance of the PEFT models tends to be comparable to the performance of fully fine-tuned models
+
+4. No latency hit: As we’ll see soon, after training, the adapter can be merged into the pre-trained model, meaning the final size and inference latency will be the same.
+
+Amongst the most popular ones are prefix tuning, prompt tuning, and low-rank adaptation (LoRA). LoRA represents the weight updates with two smaller matrices called update matrices using low-rank decomposition. Although this can be applied to all blocks in the transformers models, we usually apply them only to attention blocks. 
+
+<img width="970" alt="Screenshot 2024-04-20 at 9 25 25 AM" src="https://github.com/andysingal/llm-course/assets/20493493/f8dd6c6f-9682-49db-a709-5acfa8227970">
 
 
 
