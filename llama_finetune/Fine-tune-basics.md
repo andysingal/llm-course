@@ -79,6 +79,8 @@ These are just some of the massive explosion of instruct-tuned models. Flan-T5 i
 
 [Instruction datasets](https://github.com/jianzhnie/awesome-instruction-datasets)
 
+[More Reading](https://lightning.ai/pages/community/tutorial/optimizing-llms-from-a-dataset-perspective/) 
+
 <img width="712" alt="Screenshot 2024-04-20 at 9 08 21 AM" src="https://github.com/andysingal/llm-course/assets/20493493/94c9b032-50f1-4c21-a662-f963c50ed515">
 
 
