@@ -104,6 +104,8 @@ Welcome: PEFT! Parameter-efficient fine-tuning, called PEFT, is a group of techn
 
 Amongst the most popular ones are prefix tuning, prompt tuning, and low-rank adaptation (LoRA). LoRA represents the weight updates with two smaller matrices called update matrices using low-rank decomposition. Although this can be applied to all blocks in the transformers models, we usually apply them only to attention blocks. 
 
+How does it work under the hood? When you fine-tune a base model, you’re updating the layers. Computing the update matrices can be memory intensive, so LoRA tries to approximate these update matrices with smaller matrices. For example, let’s assume there’s a single update matrix with 10,000 rows and 20,000 columns. That means that the update matrix has 200 million values. With LoRA, we represent the update matrix with two smaller matrices with a a rank +r+. Assuming a rank 8, the first matrix, A, would have 10,000 rows and 8 columns, while matrix B would have 8 rows and 20,000 columnms (to ensure same input and output sizes). A has 80,000 values and B has 160,000. We went from 200 million values to 240,000 values. That’s 800 times smaller! LoRA assumes that these matrices can approximate well enough the weight update matrice
+
 <img width="970" alt="Screenshot 2024-04-20 at 9 25 25 AM" src="https://github.com/andysingal/llm-course/assets/20493493/f8dd6c6f-9682-49db-a709-5acfa8227970">
 
 
