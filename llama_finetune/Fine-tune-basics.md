@@ -131,3 +131,86 @@ Let’s review PEFT and quantization.
 PEFT allows us to fine-tune models using much less compute by adding adapters and freezing the base model weights. This accelerates training, given only a few weights are updatable.
 
 Quantization allows us to load a model using fewer bits than those used for storage. This reduces the GPU requirements to load and run inference with a model.
+
+PEFT freezes the base model and only uses a small adapter, so we could aim to use lower precision here while achieving the same performance. QLoRA allows us to fine-tune large models with smaller GPUs. This technique is very similar to LoRA but with quantization. First, the base model is quantized into 4-bits and frozen. Then, the LoRA adapters (the two matrices) are added and kept in bfloat16. When fine-tuning, QLoRA uses the 4-bit storage base model and the half-precision 16-bit model to perform computations.
+
+```
+model = AutoModelForCausalLM.from_pretrained(
+    "mistralai/Mistral-7B-v0.1",
+    load_in_4bit=True,
+    device_map="auto",
+)
+```
+
+QLoRA is just a tool in our toolbox, not a golden bullet. It significantly reduces the GPU requirements while maintaining the same performance, but it also increases the training time it will take to train the model. All benefits of the PEFT section hold, making QLoRA a popular technique to fine-tune 7B models in the community quickly.
+
+Let’s do a quick QLoRA fine-tune to make a generative model create text with a specific style. Let’s go over each component:
+
+1. The model: We’ll use the Mistral model. Mistral is a very high-quality 7B model. We load the model with load_in_4bit and device_map="auto" to do 4-bit quantization.
+
+2. The dataset: We’ll use the Guanaco dataset, which contains human-rated conversations between humans and the OpenAssistant model.
+
+3. PEFT configuration: We’ll specify a LoraConfig with good initial defaults: a rank (r) of 8 and alpha being double its value.
+
+4. Training arguments: Just as before, we can configure training parameters (such as how often to evaluate and how many epochs) as well as model hyperparameters (learning rate, weight decay, or number of epochs)
+
+***** The final component is the Trainer. In the previous sections, we used transformers ***Trainer***, a general-purpose tool that wraps the PyTorch training code and adds convenience utilities to share the models. When fine-tuning an LLM for autoregressive techniques, the trl library SFTTrainer class is a useful tool. It’s a wrapper around the Trainer optimized for text generation. It includes useful LoRA and quantization techniques and easy dataset loading and processing tools. As before, we can pass the model (now quantized) and the dataset (we’ll pass using 300 samples for fast training). SFTTrainer already comes with useful default collators and dataset utilities, so tokenizing and pre-processing the data is unnecessary. The only expectation is to specify which field contains the training text (using dataset_text_field). Finally, we pass a PEFT config.
+
+```
+from trl import SFTTrainer
+
+dataset = load_dataset("timdettmers/openassistant-guanaco", split="train")
+
+peft_config = LoraConfig(
+    r=8,
+    lora_alpha=16,
+    lora_dropout=0.05,
+    task_type="CAUSAL_LM",
+)
+
+training_args = TrainingArguments(
+    "sft_cml5",
+    push_to_hub=True,
+    per_device_train_batch_size=8,
+    weight_decay=0.1,
+    lr_scheduler_type="cosine",
+    learning_rate=5e-4,
+    num_train_epochs=2,
+    evaluation_strategy="steps",
+    eval_steps=200,
+    logging_steps=200,
+    gradient_checkpointing=True,
+)
+
+trainer = SFTTrainer(
+    model,
+    args=training_args,
+    train_dataset=dataset.select(range(300)),
+    dataset_text_field="text",
+    peft_config=peft_config,
+    max_seq_length=512,
+)
+
+trainer.train()
+```
+#### Inference
+```
+import torch
+from peft import PeftModel
+from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+
+tokenizer = AutoTokenizer.from_pretrained("mistralai/Mistral-7B-v0.1")
+model = AutoModelForCausalLM.from_pretrained(
+    "mistralai/Mistral-7B-v0.1",
+    torch_dtype=torch.float16,
+    device_map="auto",
+)
+model = PeftModel.from_pretrained(
+    model,
+    "osanseviero/sft_cml5",
+    torch_dtype=torch.float16,
+)
+model = model.merge_and_unload()
+pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
+pipe("### Human: Hello!###Assistant:", max_new_tokens=100)
+```
