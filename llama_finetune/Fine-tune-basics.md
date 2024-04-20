@@ -108,7 +108,20 @@ How does it work under the hood? When you fine-tune a base model, you’re updat
 
 <img width="970" alt="Screenshot 2024-04-20 at 9 25 25 AM" src="https://github.com/andysingal/llm-course/assets/20493493/f8dd6c6f-9682-49db-a709-5acfa8227970">
 
+### An introduction to Quantization
 
+PEFT allows us to fine-tune models with less compute and disk space. The size of the model during inference is not decreased. If you’re doing inference of a model with 30 billion parameters, you will still need a powerful GPU to run it. For example, a 176B model such as Bloom would require 8 A100 GPUs, which are pretty powerful and expensive (each one costs over $15k!). In this section, we’ll discuss some techniques that will allow us to run the models with smaller GPUs in a way that does not degrade their performance.
 
+Let’s say we have a model of 7 billion parameters. Each of those parameters has a data type or precision. For example, the float32 (FP32, also called full precision) type stores a float number with 32 bits. 7 billion parameters are 224 billion bits corresponding to 28 Gigabytes14. FP32 allows the representation of a wide range of numbers with high precision, which is important for pre-training models.
+
+In many cases, though, such a wide range is not required. In those cases, we can use float16 (or FP16, also called half-precision). FP16 has less precision and a lower range of numbers (the largest number possible is 64,000), which introduces new risks: a model can overflow (if a number is not within the range of representable numbers).
+
+A third data type is Brain Floating-Point, or bfloat16. BF16 uses 16 bits just like FP16, but allocates those bits in a different way in order to gain more precision for smaller numbers (like those typically seen in neural network weights) while still covering the same total range as FP32.
+
+Using full precision for training and inference usually leads to the best results, but it’s significantly slower. For training, people have found ways to do mixed-precision training, which offers a significant speedup. In mixed-precision training, the weights are maintained in full precision as reference, but the operations are done in half-precision. The half-precision updates are used to update the full-precision weights. The precision does not significantly impact inference, so we can load the model with half-precision. PyTorch loads all models in full precision by default, so we need to specify the type when loading a model by passing the torch_dtype if we want to use float16 or bfloat16.
+
+<img width="1144" alt="Screenshot 2024-04-20 at 9 38 14 AM" src="https://github.com/andysingal/llm-course/assets/20493493/b46e5aa2-ee53-4d97-b752-767d670cdd6c">
+
+<img width="726" alt="Screenshot 2024-04-20 at 9 40 15 AM" src="https://github.com/andysingal/llm-course/assets/20493493/97b8144e-52c1-47c4-93e7-0d391f3e85af">
 
 
