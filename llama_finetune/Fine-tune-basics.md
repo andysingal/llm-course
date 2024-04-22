@@ -214,3 +214,6 @@ model = model.merge_and_unload()
 pipe = pipeline("text-generation", model=model, tokenizer=tokenizer)
 pipe("### Human: Hello!###Assistant:", max_new_tokens=100)
 ```
+
+Resource:
+- [Deploying Large Language Models: vLLM and Quantization](https://towardsdatascience.com/deploying-large-language-models-vllm-and-quantizationstep-by-step-guide-on-how-to-accelerate-becfe17396a2)
