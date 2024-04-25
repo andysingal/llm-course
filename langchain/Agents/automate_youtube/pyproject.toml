@@ -1,0 +1,26 @@
+# Handle dependencies and project settings
+
+[tool.poetry]
+name = "automate-youtube-with-crewai"
+version = "0.1.0"
+description = ""
+authors = ["Yeonho Jang <siabard@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+crewai = {extras = ["tools"], version = "^0.19.0"}
+pydantic = "^2.6.3"
+load-dotenv = "^0.1.0"
+crewai-tools = "^0.0.15"
+
+[tool.pyright]
+exclude = ["**/__pycache__/*", "**/.mypy_cache/*", ".cache"]
+useLibraryCodeForTypes = true
+
+[tool.ruff]
+select = ['E', 'W', 'F', 'I', 'B', 'C4', 'ARG', 'SIM']
+ignore = ['W291', 'W292', 'W293']
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
