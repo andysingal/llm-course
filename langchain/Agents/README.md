@@ -125,4 +125,5 @@ print(agent({"input": "did alphabet or tesla have more revenue?"}))
 Resources:
 - https://mer.vin/2024/02/crewai-rag-using-tools/
 - https://mer.vin/
-- https://blog.lancedb.com/track-ai-trends-crewai-agents-rag/ 
+- https://blog.lancedb.com/track-ai-trends-crewai-agents-rag/
+- https://github.com/tirth-hihoriya/Langchain-agents/tree/master 
