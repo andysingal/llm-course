@@ -52,3 +52,5 @@ agent = HfAgent("https://api-inference.huggingface.co/models/bigcode/starcoder")
 agent.run("Draw me a picture of rivers and lakes.")
 ```
 
+Resource:
+[LlamaIndex and Transformers Agents](https://www.llamaindex.ai/blog/llamaindex-and-transformers-agents-67042ee1d8d6)
