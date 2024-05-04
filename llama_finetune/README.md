@@ -34,6 +34,8 @@ Fine Tune Examples
 
 [Fine-tune Jamba](https://github.com/andysingal/llm-course/blob/main/llama_finetune/fine_tune_Jamba.ipynb)
 
+[layered_inference_with_airllm_70B_LLM_Inference_on_a_Single_4GB_GPU](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/layered_inference_with_airllm_70B_LLM_Inference_on_a_Single_4GB_GPU.ipynb) 
+
 
 
 
