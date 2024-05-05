@@ -6,4 +6,5 @@ DSPy can routinely teach powerful models like GPT-3.5 or GPT-4 and local models 
 
 
 Resources:
-- https://gist.github.com/jrknox1977 
+- https://gist.github.com/jrknox1977
+- https://www.lycee.ai/blog/getting-started-with-dspy 
