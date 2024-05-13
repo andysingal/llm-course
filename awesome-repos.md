@@ -123,5 +123,8 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 [agenta](https://github.com/Agenta-AI/agenta)
 
 
+Definitions
+
+- [Llama Hitchiking Guide to Local LLMs](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/)
 
 
