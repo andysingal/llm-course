@@ -1,0 +1,2001 @@
+local_name,english_name,property_type,is_local,language,script,wp_code
+Harry Potter,Harry Potter,books,False,Afrikaans,Latn,af
+Star Wars,Star Wars,movies,False,Afrikaans,Latn,af
+Casper de Vries,Casper de Vries,comedy,True,Afrikaans,Latn,af
+Minecraft,Minecraft,video games,False,Afrikaans,Latn,af
+Bakgat,Bakgat,movies,True,Afrikaans,Latn,af
+Formula 1,Formula 1,sports,False,Afrikaans,Latn,af
+Die Hard,Die Hard,movies,False,Afrikaans,Latn,af
+Getroud met Rugby,Getroud met Rugby,tv shows,True,Afrikaans,Latn,af
+Assassin's Creed,Assassin's Creed,video games,False,Afrikaans,Latn,af
+Super Rugby,Super Rugby,sports,True,Afrikaans,Latn,af
+Fokofpolisiekar,Fokofpolisiekar,music,True,Afrikaans,Latn,af
+The Lord of the Rings,The Lord of the Rings,books,False,Afrikaans,Latn,af
+Egoli,Egoli,tv shows,True,Afrikaans,Latn,af
+Game of Thrones,Game of Thrones,tv shows,False,Afrikaans,Latn,af
+Skeem Saam,Skeem Saam,tv shows,True,Afrikaans,Latn,af
+The Lion King,The Lion King,movies,False,Afrikaans,Latn,af
+Matilda,Matilda,books,False,Afrikaans,Latn,af
+FIFA,FIFA,video games,False,Afrikaans,Latn,af
+Die Antwoord,Die Antwoord,music,True,Afrikaans,Latn,af
+District 9,District 9,movies,True,Afrikaans,Latn,af
+Merlin,Merlin,tv shows,False,Albanian,Latn,sq
+The Witcher,The Witcher,video games,False,Albanian,Latn,sq
+Spider-Man,Spider-Man,movies,False,Albanian,Latn,sq
+Great Expectations,Great Expectations,books,False,Albanian,Latn,sq
+Macbeth,Macbeth,books,False,Albanian,Latn,sq
+Poker,Poker,games,False,Albanian,Latn,sq
+Shota e Vogël,Little Red Riding Hood,books,True,Albanian,Latn,sq
+Assassin's Creed,Assassin's Creed,video games,False,Albanian,Latn,sq
+Sherlock Holmes,Sherlock Holmes,books,False,Albanian,Latn,sq
+Frozen,Frozen,movies,False,Albanian,Latn,sq
+Skënderbeu,Skanderbeg,movies,True,Albanian,Latn,sq
+Breaking Bad,Breaking Bad,tv shows,False,Albanian,Latn,sq
+Game of Thrones,Game of Thrones,tv shows,False,Albanian,Latn,sq
+Tetris,Tetris,video games,False,Albanian,Latn,sq
+Kodi i Hekurit,Iron Man,movies,False,Albanian,Latn,sq
+Harry Potter,Harry Potter,books,False,Albanian,Latn,sq
+Dora e Explorës,Dora the Explorer,tv shows,False,Albanian,Latn,sq
+Zonja Fazilet dhe te bijat,Mrs. Fazilet and Her Daughters,tv shows,True,Albanian,Latn,sq
+Kush e solli Dorën e Aura,Who Brought Aura's Hand,books,True,Albanian,Latn,sq
+Lojërat e Famshëm të Kohës,Famous Games of Time,video games,True,Albanian,Latn,sq
+Game of Thrones,Game of Thrones,tv shows,False,Alemannic German,Latn,als
+Biene Maja,Maya the Bee,tv shows,True,Alemannic German,Latn,als
+Fallout,Fallout,video games,False,Alemannic German,Latn,als
+Mia and me,Mia and me,tv shows,False,Alemannic German,Latn,als
+Die unendliche Geschichte,The Neverending Story,books,True,Alemannic German,Latn,als
+Pokémon,Pokémon,tv shows,False,Alemannic German,Latn,als
+Bundesliga,Bundesliga,sports,True,Alemannic German,Latn,als
+Assassins Creed,Assassin's Creed,video games,False,Alemannic German,Latn,als
+Asterix,Asterix,comics,True,Alemannic German,Latn,als
+Overwatch,Overwatch,video games,False,Alemannic German,Latn,als
+Pippi Langstrumpf,Pippi Longstocking,books,True,Alemannic German,Latn,als
+Harry Potter,Harry Potter,books,False,Alemannic German,Latn,als
+Minecraft,Minecraft,video games,False,Alemannic German,Latn,als
+Wickie,Vicky the Viking,tv shows,True,Alemannic German,Latn,als
+Tatort,Crime Scene,tv shows,True,Alemannic German,Latn,als
+Star Wars,Star Wars,movies,False,Alemannic German,Latn,als
+Winnetou,Winnetou,books,True,Alemannic German,Latn,als
+Simpsons,The Simpsons,tv shows,False,Alemannic German,Latn,als
+Herr der Ringe,The Lord of the Rings,books,False,Alemannic German,Latn,als
+Löwenzahn,Dandelion,tv shows,True,Alemannic German,Latn,als
+أساطير العرب,Arabian Legends,books,True,Arabic,Arab,ar
+المملكة الكاملة,The Full Kingdom,tv shows,True,Arabic,Arab,ar
+حكاية من الزمن السابق,A Tale of Time Gone By,movies,True,Arabic,Arab,ar
+محاربو الظل,Warriors of Shadow,video games,True,Arabic,Arab,ar
+المغامر الأسطوري,The Legendary Adventurer,video games,True,Arabic,Arab,ar
+ألغاز الماضي,Puzzles of the Past,tv shows,True,Arabic,Arab,ar
+أسطورة الصحراء,Legend of the Desert,movies,True,Arabic,Arab,ar
+السيدة الدرامية,The Dramatic Lady,movies,True,Arabic,Arab,ar
+سندباد,Sinbad,books,True,Arabic,Arab,ar
+المحقق كونان,Detective Conan,tv shows,False,Arabic,Arab,ar
+العالم السحري لوارتش,The Wizarding World of Harry Potter,movies,False,Arabic,Arab,ar
+أعظم كاهن,The High Priest,books,True,Arabic,Arab,ar
+دراغون بول,Dragon Ball,tv shows,False,Arabic,Arab,ar
+القناص,Hunter x Hunter,tv shows,False,Arabic,Arab,ar
+مارفل,Marvel,comic books,False,Arabic,Arab,ar
+هاري بوتر,Harry Potter,books,False,Arabic,Arab,ar
+سبايدرمان,Spiderman,comic books,False,Arabic,Arab,ar
+ألعاب الجوع,The Hunger Games,movies,False,Arabic,Arab,ar
+قصة ويلاندر,The Witcher,video games,False,Arabic,Arab,ar
+فانتوم آير,Phantom Air,tv shows,True,Arabic,Arab,ar
+FIFA,FIFA,video games,False,Aragonese,Latn,an
+Dracula,Dracula,books,False,Aragonese,Latn,an
+Super Mario Bros,Super Mario Bros,video games,False,Aragonese,Latn,an
+The Witcher,The Witcher,books,False,Aragonese,Latn,an
+Grand Theft Auto,Grand Theft Auto,video games,False,Aragonese,Latn,an
+Pillars of the Earth,Pillars of the Earth,books,False,Aragonese,Latn,an
+El último reino,The Last Kingdom,tv shows,False,Aragonese,Latn,an
+La Casa de las Flores,The House of Flowers,tv shows,False,Aragonese,Latn,an
+El Ministerio del Tiempo,The Ministry of Time,tv shows,True,Aragonese,Latn,an
+Star Wars,Star Wars,movies,False,Aragonese,Latn,an
+Amar en tiempos revueltos,To Love in Troubled Times,tv shows,True,Aragonese,Latn,an
+Harry Potter,Harry Potter,books,False,Aragonese,Latn,an
+Juego de Tronos,Game of Thrones,tv shows,False,Aragonese,Latn,an
+El Señor de los Anillos,The Lord of the Rings,books,False,Aragonese,Latn,an
+El Hobbit,The Hobbit,books,False,Aragonese,Latn,an
+Crónica de un pueblo,Chronicle of a People,tv shows,True,Aragonese,Latn,an
+Los Vengadores,The Avengers,movies,False,Aragonese,Latn,an
+El Señor de los Anillos: La Comunidad del Anillo,The Lord of the Rings: The Fellowship of the Ring,movies,False,Aragonese,Latn,an
+La Casa de Papel,Money Heist,tv shows,True,Aragonese,Latn,an
+Assassin's Creed,Assassin's Creed,video games,False,Aragonese,Latn,an
+Մարտ,March,movies,True,Armenian,Armn,hy
+Վաշտածամեղեել,Vashtakameghel,books,True,Armenian,Armn,hy
+Բանբեր,Bambir,band,True,Armenian,Armn,hy
+Սիրահաշիկ պարսկական սերիալ,Loving Persian series,tv shows,True,Armenian,Armn,hy
+Խրթխվենցքային Ֆիլմ,Highlander Film,movies,True,Armenian,Armn,hy
+Տեսամարտ,TV show,tv shows,True,Armenian,Armn,hy
+Ընձեւական սագի,Traditional sauce,books,True,Armenian,Armn,hy
+Հայկակոչների օրագիր,Armenian calendar,books,True,Armenian,Armn,hy
+Շատ ճանաչեցի լեզուն,I knew the language very well,books,True,Armenian,Armn,hy
+Սասնա Ծռեր,Sasna Tsrer,tv show,True,Armenian,Armn,hy
+ԽԿԱՆԱՐ,Unsealed,books,True,Armenian,Armn,hy
+Ոսկայով տեխնիկա,Golden technology,video games,False,Armenian,Armn,hy
+Էնդջելս,Angels,movies,False,Armenian,Armn,hy
+Բատման,Batman,comic books,False,Armenian,Armn,hy
+Կսպերսկեն Վարկ,Spartacus,tv shows,False,Armenian,Armn,hy
+Սռեյդ Քովբոյ,Stranger Things,tv shows,False,Armenian,Armn,hy
+Մորտ Ինվեյդեր,Lord of the Rings,movies,False,Armenian,Armn,hy
+Արքայ Թռիճը,Game of Thrones,tv shows,False,Armenian,Armn,hy
+Վամերական Հույներ,Harry Potter,books,False,Armenian,Armn,hy
+ԶՐԱՐԵՎ,Zaraev,books,True,Armenian,Armn,hy
+মেগমিট,Megamind,movie,False,Assamese,Beng,as
+মালগুডি দেশ,Malgudi Days,tv show,True,Assamese,Beng,as
+মাৰাৰ দৰবাৰ,Muror Doorbar,novel,True,Assamese,Beng,as
+দ্যা লিগেন্ড অব্ জেংগ,The Legend of Zelda,video game,False,Assamese,Beng,as
+উনু মান,Uno Man,movie,True,Assamese,Beng,as
+দ্যা হবিট,The Hobbit,book,False,Assamese,Beng,as
+সুন্দৰী বোনি,Sundori Bony,novel,True,Assamese,Beng,as
+বেগার আই,Big Little Lies,tv show,False,Assamese,Beng,as
+প্রিড অন্ড় প্রেজুডিস,Pride and Prejudice,book,False,Assamese,Beng,as
+কিম্ স আইডেন্টিটি,Kim's Convenience,tv show,False,Assamese,Beng,as
+হ্যামলেট,Hamlet,play,False,Assamese,Beng,as
+হেরো আকাদেমিয়া,My Hero Academia,anime,False,Assamese,Beng,as
+শকুন্তলা,Shakuntala,play,True,Assamese,Beng,as
+লোর্ড অব্ দি রিংগ,The Lord of the Rings,book,False,Assamese,Beng,as
+ফায়াল্ক্লিফ,Fawlty Towers,tv show,False,Assamese,Beng,as
+ওয়ারন পিস,War and Peace,book,False,Assamese,Beng,as
+দ্যা সিম্পসন্স,The Simpsons,tv show,False,Assamese,Beng,as
+কুমার ভর্তা,Kumar's Meal,web series,True,Assamese,Beng,as
+মেঘা ডিহি,Meghdoot,poem,True,Assamese,Beng,as
+মাংলা,Mangla,movie,True,Assamese,Beng,as
+Gran Turismo,Gran Turismo,video game,False,Asturian,Latn,ast
+El Mago de Oz,The Wizard of Oz,book,False,Asturian,Latn,ast
+Astérix,Asterix,comic,False,Asturian,Latn,ast
+Star Wars,Star Wars,movie,False,Asturian,Latn,ast
+El Aura,The Aura,movie,True,Asturian,Latn,ast
+Tetris,Tetris,video game,False,Asturian,Latn,ast
+Los Goonies,The Goonies,movie,False,Asturian,Latn,ast
+Harry Potter,Harry Potter,book,False,Asturian,Latn,ast
+L'Españoletu,The Spanish Dog,book,True,Asturian,Latn,ast
+Potes,Potes,video game,True,Asturian,Latn,ast
+El Principito,The Little Prince,book,False,Asturian,Latn,ast
+La Casa de Papel,Money Heist,tv show,False,Asturian,Latn,ast
+Quiniela,Soccer Pools,sport,True,Asturian,Latn,ast
+El Señor de los Anillos,The Lord of the Rings,movie,False,Asturian,Latn,ast
+Game of Thrones,Game of Thrones,tv show,False,Asturian,Latn,ast
+Los Miserables,Les Misérables,book,False,Asturian,Latn,ast
+Sidra,Cider,beverage,True,Asturian,Latn,ast
+Los Primos de la Costa,Cousins from the Coast,book,True,Asturian,Latn,ast
+La Abadía del Crimen,La Abadía del Crimen,video game,True,Asturian,Latn,ast
+Super Mario Bros,Super Mario Bros,video game,False,Asturian,Latn,ast
+Məccan təsadüfi,Mecca adventure,book,True,Azerbaijani,Latn,az
+Battlefield V,Battlefield V,video game,False,Azerbaijani,Latn,az
+Sacred Games,Sacred Games,tv show,False,Azerbaijani,Latn,az
+əgər,if,book,True,Azerbaijani,Latn,az
+PES 2022,PES 2022,video game,False,Azerbaijani,Latn,az
+Avengers: Endgame,Avengers: Endgame,movie,False,Azerbaijani,Latn,az
+Fərmanlar Şəhəri,City of Orders,book,True,Azerbaijani,Latn,az
+GTA V,GTA V,video game,False,Azerbaijani,Latn,az
+The Sims,The Sims,video game,False,Azerbaijani,Latn,az
+Xanım Aydın,Madam Aydın,tv show,True,Azerbaijani,Latn,az
+Fortune Chronicles,Fortune Chronicles,book,False,Azerbaijani,Latn,az
+Cüməxənarə,Friday fairy tale,book,True,Azerbaijani,Latn,az
+Game of Thrones,Game of Thrones,tv show,False,Azerbaijani,Latn,az
+Azərbaycan-İspaniya mərhələsi,Azerbaijan-Spain stage,international competition,True,Azerbaijani,Latn,az
+Fortnite,Fortnite,video game,False,Azerbaijani,Latn,az
+Stranger Things,Stranger Things,tv show,False,Azerbaijani,Latn,az
+Harry Potter,Harry Potter,book,False,Azerbaijani,Latn,az
+Maraqlı Xəbərlər,Interesting News,book,True,Azerbaijani,Latn,az
+Əsir Şehrin Oğlanları,Boys of the Captive City,movie,True,Azerbaijani,Latn,az
+'90-ci illər,90s,movie,True,Azerbaijani,Latn,az
+Рәсәй төҙөрәк,The Russian Game,movie,True,Bashkir,Cyrl,ba
+Һәйы осындай көнчыклар,Stranger Things,tv show,False,Bashkir,Cyrl,ba
+Афаҡый шәйләр,Star Trek,tv show,False,Bashkir,Cyrl,ba
+Ҡағыҙ филимәсе,The Matrix,movie,True,Bashkir,Cyrl,ba
+Шаҡара,Shakara,comic,True,Bashkir,Cyrl,ba
+Төҫ бәйкәрекләре,The Dark Tower,book,False,Bashkir,Cyrl,ba
+Таракҡыш,The Expanse,tv show,False,Bashkir,Cyrl,ba
+Ғөрөш,Supernatural,tv show,False,Bashkir,Cyrl,ba
+Артыҡтыганларның теүегеүләре,Chronicles of Narnia,book,False,Bashkir,Cyrl,ba
+Фауст,Faust,book,False,Bashkir,Cyrl,ba
+Тоҫай гайбәсләр,Lost,tv show,False,Bashkir,Cyrl,ba
+Һәрәкәттөр графики,Graphic Novels,book,False,Bashkir,Cyrl,ba
+Көнчыгар,Doctor Who,tv show,False,Bashkir,Cyrl,ba
+Сөзилик витязсөрҙөр,The Witcher,book,False,Bashkir,Cyrl,ba
+Һӑзрәт Мүхаммәт,The Prophet Muhammad,book,True,Bashkir,Cyrl,ba
+Сынадаулар һәм көрәшһәр,Harry Potter,book,False,Bashkir,Cyrl,ba
+Ҡарагуз,Game of Thrones,tv show,False,Bashkir,Cyrl,ba
+Тәсигрәк,The Lord of the Rings,book,False,Bashkir,Cyrl,ba
+Әстәрхан,Star Wars,movie,False,Bashkir,Cyrl,ba
+Хак атырамы,Ready Player One,book,False,Bashkir,Cyrl,ba
+Sherlock Holmes,Sherlock Holmes,books,False,Basque,Latn,eu
+Stranger Things,Stranger Things,tv show,False,Basque,Latn,eu
+Euskal Herria Eguneko Euskal Dantzak,Basque Country's National Basque Dances Day,event,True,Basque,Latn,eu
+Euskal Herriko Sagardo Eguna,Basque Country's Cider Day,event,True,Basque,Latn,eu
+Euskal Astea,Basque Week,event,True,Basque,Latn,eu
+Etenaldia,The Silence of the Lambs,books,False,Basque,Latn,eu
+Super Mario,Super Mario,video game,False,Basque,Latn,eu
+Euskal Herriko Aste Nagusia,Basque Country's Great Week,event,True,Basque,Latn,eu
+Joker,Joker,movies,False,Basque,Latn,eu
+Pirates of the Caribbean,Pirates of the Caribbean,movies,False,Basque,Latn,eu
+Euskal Herriko San Ferminak,Basque Country's Running of the Bulls,event,True,Basque,Latn,eu
+Euskal Musak,Basque Dances,event,True,Basque,Latn,eu
+Txangorri,The Hunger Games,books,False,Basque,Latn,eu
+Euskal Herriko Loteriaren Eguneko Sorteo Nagusia,Basque Country's National Lottery Main Draw Day,event,True,Basque,Latn,eu
+Harry Potter,Harry Potter,books,False,Basque,Latn,eu
+Juego de Tronos,Game of Thrones,tv show,False,Basque,Latn,eu
+Euskal Herriko Prozesio Nagusia,Basque Country's Main Procession,event,True,Basque,Latn,eu
+The Legend of Zelda,The Legend of Zelda,video game,False,Basque,Latn,eu
+Ipurbeltz,The Blacklist,tv show,False,Basque,Latn,eu
+Star Wars,Star Wars,movies,False,Basque,Latn,eu
+Лембарджыні Кашаўцы,The Jungle Book,books,False,Belarusian,Cyrl,be-tarask
+Уладар Пярсіі,The Lord of the Rings,books,False,Belarusian,Cyrl,be-tarask
+Убойная сила,Deadly Class,tv show,False,Belarusian,Cyrl,be-tarask
+Прызрак у броні,Ghost in the Shell,movie,False,Belarusian,Cyrl,be-tarask
+Чорны лебедзь,Black Swan,movie,False,Belarusian,Cyrl,be-tarask
+Бесканечнасць,Infinity,books,True,Belarusian,Cyrl,be-tarask
+Бяспечныя чароўнікі,The Safe Magicians,books,True,Belarusian,Cyrl,be-tarask
+Марсіянін,The Martian,movie,False,Belarusian,Cyrl,be-tarask
+Штурмаваліце,Stormcallers,video game,True,Belarusian,Cyrl,be-tarask
+Раджна 2,Rajna 2,video game,False,Belarusian,Cyrl,be-tarask
+Трывіял Пурсуіт,Trivial Pursuit,video game,False,Belarusian,Cyrl,be-tarask
+Махаон,Butterfly,tv show,True,Belarusian,Cyrl,be-tarask
+Пеўным ходам,By the Rules,books,True,Belarusian,Cyrl,be-tarask
+"З Любоўю, Саймана","With Love, Simon",movie,False,Belarusian,Cyrl,be-tarask
+Адзін сеанс любові,One Love Session,movie,True,Belarusian,Cyrl,be-tarask
+Останні маг,The Last Mage,books,True,Belarusian,Cyrl,be-tarask
+Вершакі тэрмінатара,Terminator: The Sarah Connor Chronicles,tv show,False,Belarusian,Cyrl,be-tarask
+Шпагат сярод распаўсюджваных зорак,Stranger among familiar stars,books,True,Belarusian,Cyrl,be-tarask
+Вяртанне ў Эдэм,Return to Eden,tv show,False,Belarusian,Cyrl,be-tarask
+Танцавальная зорка,Dancing Star,tv show,True,Belarusian,Cyrl,be-tarask
+Місія лёталішча,Airplane!,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Тры беларускія дзяўчыны,Three Belarusian Girls,tv shows,True,Belarusian (Narkamaŭka),Cyrl,be
+Гульня прэставіцеля мардзіньга,Assassin's Creed,video games,False,Belarusian (Narkamaŭka),Cyrl,be
+Шерлок,Sherlock,tv shows,False,Belarusian (Narkamaŭka),Cyrl,be
+Адсека,Twilight,books,False,Belarusian (Narkamaŭka),Cyrl,be
+Владар пярсцёнкаў,The Lord of the Rings,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Крэсныя смерці,Red Dead Redemption,video games,False,Belarusian (Narkamaŭka),Cyrl,be
+Тайнае акенцячце,The Secret Circle,tv shows,False,Belarusian (Narkamaŭka),Cyrl,be
+Одзін панёс,The Lone Ranger,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Кароль аранжыры свежага цвету,The Fault in Our Stars,books,False,Belarusian (Narkamaŭka),Cyrl,be
+Гарры Потэр,Harry Potter,books,False,Belarusian (Narkamaŭka),Cyrl,be
+Індзейцы Дзяўчынаў,The Indian in the Cupboard,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Памёрлімі рыцары,Dead Space,video games,False,Belarusian (Narkamaŭka),Cyrl,be
+Пярэвярненні,The Turn,books,False,Belarusian (Narkamaŭka),Cyrl,be
+Ластоўскіга плота,The Crow,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Асяродак зымовай войны,The Long Winter,books,False,Belarusian (Narkamaŭka),Cyrl,be
+Блізкае сустрэчы трэцяга віда,Close Encounters of the Third Kind,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Акіра,Akira,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Тармаган падзямеліць,Groundhog Day,movies,False,Belarusian (Narkamaŭka),Cyrl,be
+Шпіон,The Spy,tv shows,False,Belarusian (Narkamaŭka),Cyrl,be
+ফ্রিং,Friends,tv show,False,Bengali,Beng,bn
+হ্যারি পটার,Harry Potter,book,False,Bengali,Beng,bn
+পটামান,Batman,comic,False,Bengali,Beng,bn
+লারা ক্রোফট,Lara Croft,video game,False,Bengali,Beng,bn
+আয়নী বাজি,The Matrix,movie,False,Bengali,Beng,bn
+শোলা ও শবনাম,Sholay,movie,True,Bengali,Beng,bn
+হ্যামলেট,Hamlet,play,False,Bengali,Beng,bn
+গোল্প কপাল,Golpo Holeo Shotti,movie,True,Bengali,Beng,bn
+যেখানের বিকেল,Breaking Bad,tv show,False,Bengali,Beng,bn
+জলচর,Aquaman,movie,False,Bengali,Beng,bn
+Shrek,Shrek,movies,False,Bosnian,Latn,bs
+Mortal Kombat,Mortal Kombat,video games,False,Bosnian,Latn,bs
+Černobilj,Chernobyl,tv shows,False,Bosnian,Latn,bs
+Assassin's Creed,Assassin's Creed,video games,False,Bosnian,Latn,bs
+Pedeset nijansi sive,Fifty Shades of Grey,books,False,Bosnian,Latn,bs
+Dnevnik Anne Frank,The Diary of Anne Frank,books,False,Bosnian,Latn,bs
+The Witcher,The Witcher,books,False,Bosnian,Latn,bs
+Bioskop Balkan,Balkan Cinema,movies,True,Bosnian,Latn,bs
+Larin izbor,Lara's Choice,tv shows,True,Bosnian,Latn,bs
+"Muškarci s Marsa, žene s Venere","Men Are from Mars, Women Are from Venus",books,False,Bosnian,Latn,bs
+Prijatelji,Friends,tv shows,False,Bosnian,Latn,bs
+Muški svijet,Male World,movies,True,Bosnian,Latn,bs
+FIFA,FIFA,video games,False,Bosnian,Latn,bs
+Bosanskohercegovački epos,Bosnian-Herzegovinian Epos,books,True,Bosnian,Latn,bs
+Igra prijestolja,Game of Thrones,tv shows,False,Bosnian,Latn,bs
+Stranger Things,Stranger Things,tv shows,False,Bosnian,Latn,bs
+GTA,Grand Theft Auto,video games,False,Bosnian,Latn,bs
+Gospodar prstenova,The Lord of the Rings,books,False,Bosnian,Latn,bs
+Harry Potter,Harry Potter,books,False,Bosnian,Latn,bs
+Porodica Soprano,The Sopranos,tv shows,False,Bosnian,Latn,bs
+Emglev Bro an Oriant,Lorient Country Festival,music festival,True,Breton,Latn,br
+Liamm Breizh,Voice of Brittany,music album,True,Breton,Latn,br
+Ar brezoneg e zaloneg,Breton in Isolation,tv show,True,Breton,Latn,br
+Alan Stivell,Alan Stivell,music artist,True,Breton,Latn,br
+Dastum 2,Dastum 2,music album,True,Breton,Latn,br
+Malban,Malban,video game,True,Breton,Latn,br
+Merlin,Merlin,tv show,False,Breton,Latn,br
+Harry Potter,Harry Potter,book,False,Breton,Latn,br
+Lewys Ar Sez,The Witcher,book,False,Breton,Latn,br
+Star Wars,Star Wars,movie,False,Breton,Latn,br
+Kuzul Ar brezonegerien New York,Council of Breton New York,tv show,True,Breton,Latn,br
+Mabinogi,Mabinogi,video game,False,Breton,Latn,br
+Assassin's Creed,Assassin's Creed,video game,False,Breton,Latn,br
+Poldark,Poldark,tv show,False,Breton,Latn,br
+Breizh 5:00,Breizh 5:00,tv show,True,Breton,Latn,br
+Marvik Ha Berc'hed,Marvik and the Pirates,book,True,Breton,Latn,br
+Bretagne Express,Bretagne Express,tv show,True,Breton,Latn,br
+Becassine,Bécassine,comic,True,Breton,Latn,br
+Brezhonegerien e Bro-C'hall,Bretons Abroad,tv show,True,Breton,Latn,br
+La casa de papel,Money Heist,tv show,False,Breton,Latn,br
+Мечтателите,The Dreamers,movies,True,Bulgarian,Cyrl,bg
+Лош съсед,Bad Neighbour,books,True,Bulgarian,Cyrl,bg
+Звездни войни,Star Wars,movies,False,Bulgarian,Cyrl,bg
+Фършелъс,Furchester,tv shows,False,Bulgarian,Cyrl,bg
+Под прикритие,Undercover,tv shows,True,Bulgarian,Cyrl,bg
+Господари на ефира,Masters of the Airwaves,tv shows,True,Bulgarian,Cyrl,bg
+Хари Потър,Harry Potter,books,False,Bulgarian,Cyrl,bg
+Игра на тронове,Game of Thrones,tv shows,False,Bulgarian,Cyrl,bg
+Пирати от Карибския морски бряг,Pirates of the Caribbean,movies,False,Bulgarian,Cyrl,bg
+Фортнайт,Fortnite,video games,False,Bulgarian,Cyrl,bg
+Дневниците на Вампира,The Vampire Diaries,tv shows,False,Bulgarian,Cyrl,bg
+Американска история на ужасите,American Horror Story,tv shows,False,Bulgarian,Cyrl,bg
+Бързи и яростни,Fast and Furious,movies,False,Bulgarian,Cyrl,bg
+Тютюн,Tobacco,books,True,Bulgarian,Cyrl,bg
+Стъклен дом,The Glass House,movies,True,Bulgarian,Cyrl,bg
+Смешният доктор,The Funny Doctor,tv shows,True,Bulgarian,Cyrl,bg
+Калина княгиня,Kalina Princess,books,True,Bulgarian,Cyrl,bg
+Под игото,Under the Yoke,books,True,Bulgarian,Cyrl,bg
+Под едно небе,Under One Roof,tv shows,True,Bulgarian,Cyrl,bg
+Иван Вазов,Ivan Vazov,books,True,Bulgarian,Cyrl,bg
+အဓိဓင်စရ,The Avengers,movies,False,Burmese,Mymr,my
+ကွန်မြျ-ဝီလိတံဆက်ဟင-title,Avengers: Endgame,movies,False,Burmese,Mymr,my
+လကအလဒိခရေ,Star Wars,movies,False,Burmese,Mymr,my
+ပါသြ်သြူ်ချျုပ်,Frozen,movies,False,Burmese,Mymr,my
+သတင်္ကတေ့သေြ္လ,Tangled,movies,False,Burmese,Mymr,my
+အရှက် တှရထာပေဖျင်ရြည်နိဂြေွငဂညေ,Raya and the Last Dragon,movies,False,Burmese,Mymr,my
+ဟင်းချက်တစ်ခြားရီးယား,Harry Potter,books,False,Burmese,Mymr,my
+အခါတုန်နှင့်ကောင်အုပ်ချုပ်,Batman and Robin,comics,False,Burmese,Mymr,my
+သြစသတင်ဘုရားအသက်ခင်္သါ,Shrek,movies,False,Burmese,Mymr,my
+သံဘဝိ,Doraemon,tv shows,False,Burmese,Mymr,my
+လြိုင်သော ရှဒီယို,Lord of the Rings,books,False,Burmese,Mymr,my
+ဝေးခေတ်,Witcher,video games,False,Burmese,Mymr,my
+ဆိုးကားခဗော်,Avengers,movies,False,Burmese,Mymr,my
+အလယ်ပင်ဘာရီက်,Avatar: The Last Airbender,tv shows,False,Burmese,Mymr,my
+တူသားမ,Tomb Raider,video games,False,Burmese,Mymr,my
+ဆိုင်သော မျိုးနွေသတင်းရီးယား,Black Panther,movies,False,Burmese,Mymr,my
+မာည်းချောနေရတိုက်တည်သုံ,The Hunger Games,books,False,Burmese,Mymr,my
+ယင်းမချုပ်,Iron Man,comics,False,Burmese,Mymr,my
+စလွယ်တကြက်နေလှန်,The Maze Runner,books,False,Burmese,Mymr,my
+အဆုံးတင်၏ ခြေသေ့ခြောဌါတစ်ပြီ၊ ဒဒါည့်ခြေးနှင့်တစ်ပြီးတိရစဉ်ဂ,Alice's Adventures in Wonderland,books,False,Burmese,Mymr,my
+武媚娘传奇,The Empress of China,tv show,True,Cantonese,Hant,zh-yue
+射雕英雄传,The Legend of the Condor Heroes,tv show,True,Cantonese,Hant,zh-yue
+创世纪,The Genesis Code,tv show,False,Cantonese,Hant,zh-yue
+封神传奇,The Investiture of the Gods,tv show,True,Cantonese,Hant,zh-yue
+哈利波特,Harry Potter,book,False,Cantonese,Hant,zh-yue
+刀背藏身,"Crouching Tiger, Hidden Dragon",movie,True,Cantonese,Hant,zh-yue
+西游记,Journey to the West,book,True,Cantonese,Hant,zh-yue
+聊斋,Strange Stories from a Chinese Studio,book,True,Cantonese,Hant,zh-yue
+龍虎門,Enter the Dragon,movie,False,Cantonese,Hant,zh-yue
+東成西就,From Beijing with Love,movie,True,Cantonese,Hant,zh-yue
+白蛇传,The Legend of the White Snake,tv show,True,Cantonese,Hant,zh-yue
+冰雪奇缘,Frozen,movie,False,Cantonese,Hant,zh-yue
+新神榜：哪吒重生,Ne Zha,movie,True,Cantonese,Hant,zh-yue
+星際大戰,Star Wars,movie,False,Cantonese,Hant,zh-yue
+口水嬲,Kung Fu Hustle,movie,True,Cantonese,Hant,zh-yue
+王牌大律師,The Good Wife,tv show,False,Cantonese,Hant,zh-yue
+武林外傳,Kung Fu Panda,movie,True,Cantonese,Hant,zh-yue
+刺客聶隱娘,The Assassin,movie,True,Cantonese,Hant,zh-yue
+金庸群俠傳,The Condor Heroes,tv show,True,Cantonese,Hant,zh-yue
+暗杀,Assassination,movie,True,Cantonese,Hant,zh-yue
+Friends,Friends,tv shows,False,Catalan,Latn,ca
+La Catedral de Sevilla,Seville Cathedral,landmarks,True,Catalan,Latn,ca
+Sagrada Familia,Sagrada Familia,landmarks,True,Catalan,Latn,ca
+Doctor Who,Doctor Who,tv shows,False,Catalan,Latn,ca
+Assassin's Creed,Assassin's Creed,video games,False,Catalan,Latn,ca
+Paella,Paella,dishes,True,Catalan,Latn,ca
+Gaudí,Gaudí,artists,True,Catalan,Latn,ca
+El laberinto del fauno,Pan's Labyrinth,movies,True,Catalan,Latn,ca
+Game of Thrones,Game of Thrones,tv shows,False,Catalan,Latn,ca
+La Catedral de Barcelona,Barcelona Cathedral,landmarks,True,Catalan,Latn,ca
+Assassin's Creed,Assassin's Creed,video games,False,Catalan,Latn,ca
+El laberinto del fauno,Pan's Labyrinth,movies,True,Catalan,Latn,ca
+Minecraft,Minecraft,video games,False,Catalan,Latn,ca
+La Sagrada Família,Sagrada Família,landmarks,True,Catalan,Latn,ca
+La Casa de Papel,Money Heist,tv shows,True,Catalan,Latn,ca
+Harry Potter,Harry Potter,books,False,Catalan,Latn,ca
+The Witcher,The Witcher,books,False,Catalan,Latn,ca
+Barcelona FC,Barcelona FC,sports teams,True,Catalan,Latn,ca
+The Lord of the Rings,The Lord of the Rings,books,False,Catalan,Latn,ca
+Final Fantasy,Final Fantasy,video games,False,Catalan,Latn,ca
+My Hero Academia,My Hero Academia,tv show,False,Cebuano,Latn,ceb
+Lupin,Lupin,tv show,False,Cebuano,Latn,ceb
+The Last of Us,The Last of Us,video game,False,Cebuano,Latn,ceb
+Mobile Legends,Mobile Legends,video game,True,Cebuano,Latn,ceb
+Goyo: Ang Batang Heneral,Goyo: The Boy General,movie,True,Cebuano,Latn,ceb
+"Ang Hari sa Hari, Bato sa Bato","King of Kings, Rock of Ages",book,True,Cebuano,Latn,ceb
+Harry Potter,Harry Potter,book,False,Cebuano,Latn,ceb
+Breaking Bad,Breaking Bad,tv show,False,Cebuano,Latn,ceb
+Ang Mga Super Nindot Na Adventures Sa Barkada,The Super Awesome Adventures of the Barkada,tv show,True,Cebuano,Latn,ceb
+Marvel's Avengers,Marvel's Avengers,video game,False,Cebuano,Latn,ceb
+Twilight,Twilight,book,False,Cebuano,Latn,ceb
+Probinsyano,Probinsyano,tv show,True,Cebuano,Latn,ceb
+Coco,Coco,movie,False,Cebuano,Latn,ceb
+Hunger Games,Hunger Games,book,False,Cebuano,Latn,ceb
+The Witcher,The Witcher,tv show,False,Cebuano,Latn,ceb
+Dota 2,Dota 2,video game,False,Cebuano,Latn,ceb
+Trese,Trese,tv show,True,Cebuano,Latn,ceb
+NBA 2K,NBA 2K,video game,False,Cebuano,Latn,ceb
+To All The Boys I've Loved Before,To All The Boys I've Loved Before,movie,False,Cebuano,Latn,ceb
+PUBG,PUBG,video game,False,Cebuano,Latn,ceb
+Attack on Titan,Attack on Titan,anime,False,Central Bikol,Latn,bcl
+Pirates of the Caribbean,Pirates of the Caribbean,movies,False,Central Bikol,Latn,bcl
+Final Fantasy,Final Fantasy,video games,False,Central Bikol,Latn,bcl
+Cinderella,Cinderella,movies,False,Central Bikol,Latn,bcl
+The Witcher,The Witcher,books,False,Central Bikol,Latn,bcl
+Ang Probinsyano,Ang Probinsyano,tv shows,True,Central Bikol,Latn,bcl
+Dragon Ball Z,Dragon Ball Z,anime,False,Central Bikol,Latn,bcl
+Lilo & Stitch,Lilo & Stitch,movies,False,Central Bikol,Latn,bcl
+Darna,Darna,comics,True,Central Bikol,Latn,bcl
+Beauty and the Beast,Beauty and the Beast,movies,False,Central Bikol,Latn,bcl
+Encantadia,Encantadia,tv shows,True,Central Bikol,Latn,bcl
+Mobile Legends,Mobile Legends,video games,False,Central Bikol,Latn,bcl
+Aladdin,Aladdin,movies,False,Central Bikol,Latn,bcl
+Naruto,Naruto,anime,False,Central Bikol,Latn,bcl
+Game of Thrones,Game of Thrones,tv shows,False,Central Bikol,Latn,bcl
+Harry Potter,Harry Potter,books,False,Central Bikol,Latn,bcl
+Lea Salonga,Lea Salonga,music,True,Central Bikol,Latn,bcl
+The Lion King,The Lion King,movies,False,Central Bikol,Latn,bcl
+Goblin,Goblin,tv shows,False,Central Bikol,Latn,bcl
+Panday,Panday,movies,True,Central Bikol,Latn,bcl
+知音漫客,Shonen Jump,books,False,Chinese (written vernacular),Hans/Hant,zh
+魔道祖师,The Founder of Diabolism,books,True,Chinese (written vernacular),Hans/Hant,zh
+天龙八部,Demi-Gods and Semi-Devils,books,True,Chinese (written vernacular),Hans/Hant,zh
+源氏物语,The Tale of Genji,books,False,Chinese (written vernacular),Hans/Hant,zh
+妖精的尾巴,Fairy Tail,tv shows,False,Chinese (written vernacular),Hans/Hant,zh
+守望先锋,Overwatch,video games,False,Chinese (written vernacular),Hans/Hant,zh
+哈利 波特,Harry Potter,books,False,Chinese (written vernacular),Hans/Hant,zh
+权力的游戏,Game of Thrones,tv shows,False,Chinese (written vernacular),Hans/Hant,zh
+三体,The Three-Body Problem,books,True,Chinese (written vernacular),Hans/Hant,zh
+复仇者联盟,The Avengers,movies,False,Chinese (written vernacular),Hans/Hant,zh
+英雄联盟,League of Legends,video games,False,Chinese (written vernacular),Hans/Hant,zh
+西游记,Journey to the West,books,True,Chinese (written vernacular),Hans/Hant,zh
+死神,Bleach,tv shows,False,Chinese (written vernacular),Hans/Hant,zh
+红楼梦,Dream of the Red Chamber,books,True,Chinese (written vernacular),Hans/Hant,zh
+新白娘子传奇,The Legend of White Snake,tv shows,True,Chinese (written vernacular),Hans/Hant,zh
+阴阳师,Onmyoji,video games,True,Chinese (written vernacular),Hans/Hant,zh
+哆啦A梦,Doraemon,tv shows,False,Chinese (written vernacular),Hans/Hant,zh
+三国演义,Romance of the Three Kingdoms,books,True,Chinese (written vernacular),Hans/Hant,zh
+流星花园,Meteor Garden,tv shows,True,Chinese (written vernacular),Hans/Hant,zh
+权力游戏,Game of Thrones,tv shows,False,Chinese (written vernacular),Hans/Hant,zh
+Gavran,The Raven,books,True,Croatian,Latn,hr
+Gospodin i gospođa Smith,Mr. & Mrs. Smith,movies,False,Croatian,Latn,hr
+Super Mario,Super Mario,video games,False,Croatian,Latn,hr
+Prijatelji,Friends,tv shows,False,Croatian,Latn,hr
+Gospodar prstenova,The Lord of the Rings,movies,False,Croatian,Latn,hr
+The Witcher,The Witcher,video games,False,Croatian,Latn,hr
+Harry Potter,Harry Potter,books,False,Croatian,Latn,hr
+Igra prijestolja,Game of Thrones,tv shows,False,Croatian,Latn,hr
+Larina igraonica,Lara's Gaming Room,video games,True,Croatian,Latn,hr
+Sumrak,Twilight,books,False,Croatian,Latn,hr
+Ludi građevinci,Crazy Engineers,tv shows,True,Croatian,Latn,hr
+Snježna kraljica,Snow Queen,books,False,Croatian,Latn,hr
+Društvo mrtvih pjesnika,Dead Poets Society,movies,False,Croatian,Latn,hr
+Kvartet iz Bloomsburya,The Bloomsbury Quartet,books,True,Croatian,Latn,hr
+Prokleta je Amerika,Damned America,movies,True,Croatian,Latn,hr
+Minecraft,Minecraft,video games,False,Croatian,Latn,hr
+Kosti,Bones,tv shows,False,Croatian,Latn,hr
+Bijeli očnjak,White Fang,books,False,Croatian,Latn,hr
+Muškarci sa Marsova,Men from Mars,movies,True,Croatian,Latn,hr
+Crni gruja,Black Gruja,tv shows,True,Croatian,Latn,hr
+S tebou mě baví svět,The World is Amusing with You,movies,True,Czech,Latn,cs
+Kantina,The Cantina,tv shows,True,Czech,Latn,cs
+Zaklínač,The Witcher,video games,False,Czech,Latn,cs
+Hra o trůny – píseň ledu a ohně,Game of Thrones - A Song of Ice and Fire,books,False,Czech,Latn,cs
+Okarína z času,Ocarina of Time,video games,False,Czech,Latn,cs
+Slovensko od A do Z,Slovakia from A to Z,books,True,Czech,Latn,cs
+Harry Potter,Harry Potter,books,False,Czech,Latn,cs
+Pán prstenů,The Lord of the Rings,books,False,Czech,Latn,cs
+Hra o trůny,Game of Thrones,tv shows,False,Czech,Latn,cs
+Černý kůň,Black Mirror,tv shows,False,Czech,Latn,cs
+Ledové království,Frozen,movies,False,Czech,Latn,cs
+Lichožrouti,The BFG,books,False,Czech,Latn,cs
+Pět pohádek,Five Nights at Freddy's,video games,False,Czech,Latn,cs
+Český Pán prstenů,Czech Lord of the Rings,books,True,Czech,Latn,cs
+Rodinná pouta,Family Ties,tv shows,True,Czech,Latn,cs
+Pelíšky,Cosy Dens,movies,True,Czech,Latn,cs
+Euro Truck Simulator 2,Euro Truck Simulator 2,video games,True,Czech,Latn,cs
+Páni kluci,Cool Runnings,movies,False,Czech,Latn,cs
+Šíleně smutná princezna,The Very Sad Princess,books,True,Czech,Latn,cs
+Přátelé,Friends,tv shows,False,Czech,Latn,cs
+Wallander,Wallander,tv shows,True,Danish,Latn,da
+Anno 1800,Anno 1800,video games,False,Danish,Latn,da
+Star Wars,Star Wars,movies,False,Danish,Latn,da
+Fifa,Fifa,video games,False,Danish,Latn,da
+Far til fire,Father of Four,movies,True,Danish,Latn,da
+Jumanji,Jumanji,movies,False,Danish,Latn,da
+Harry Potter,Harry Potter,books,False,Danish,Latn,da
+Matador,Matador,tv shows,True,Danish,Latn,da
+Forbrydelsen,The Killing,tv shows,True,Danish,Latn,da
+Ringenes Herre,The Lord of the Rings,books,False,Danish,Latn,da
+Hunger Games,Hunger Games,books,False,Danish,Latn,da
+Pokemon,Pokemon,video games,False,Danish,Latn,da
+Dansk Melodi Grand Prix,Eurovision Song Contest,tv shows,True,Danish,Latn,da
+Borgen,Borgen,tv shows,True,Danish,Latn,da
+Downton Abbey,Downton Abbey,tv shows,False,Danish,Latn,da
+Minecraft,Minecraft,video games,False,Danish,Latn,da
+Pippi Langstrømpe,Pippi Longstocking,books,True,Danish,Latn,da
+Verden Ifølge Garp,The World According to Garp,books,True,Danish,Latn,da
+Venner,Friends,tv shows,False,Danish,Latn,da
+Broen,The Bridge,tv shows,True,Danish,Latn,da
+Borgen,Borgen,tv shows,True,Dutch,Latn,nl
+The Legend of Zelda,The Legend of Zelda,video games,False,Dutch,Latn,nl
+The Little Mermaid,The Little Mermaid,movies,False,Dutch,Latn,nl
+Assassin's Creed,Assassin's Creed,video games,False,Dutch,Latn,nl
+Star Wars,Star Wars,movies,False,Dutch,Latn,nl
+The Walking Dead,The Walking Dead,tv shows,False,Dutch,Latn,nl
+The Witcher,The Witcher,video games,False,Dutch,Latn,nl
+Asterix & Obelix,Asterix & Obelix,comics,True,Dutch,Latn,nl
+The Simpsons,The Simpsons,tv shows,False,Dutch,Latn,nl
+Minecraft,Minecraft,video games,False,Dutch,Latn,nl
+Miffy (Nijntje),Miffy (Nijntje),books,True,Dutch,Latn,nl
+The Hunger Games,The Hunger Games,books,False,Dutch,Latn,nl
+Pippi Longstocking,Pippi Longstocking,books,True,Dutch,Latn,nl
+Lord of the Rings,Lord of the Rings,books,False,Dutch,Latn,nl
+Game of Thrones,Game of Thrones,tv shows,False,Dutch,Latn,nl
+Harry Potter,Harry Potter,books,False,Dutch,Latn,nl
+Frozen,Frozen,movies,False,Dutch,Latn,nl
+Tintin,Tintin,comics,False,Dutch,Latn,nl
+The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,books,False,Dutch,Latn,nl
+Dutch Fairy Tales,Dutch Fairy Tales,books,True,Dutch,Latn,nl
+مغامرات توم سوير,The Adventures of Tom Sawyer,books,False,Egyptian Arabic,Arab,arz
+المغامرة المستحيلة,The Impossible Adventure,movies,True,Egyptian Arabic,Arab,arz
+فريج بونجور,Friends,tv shows,False,Egyptian Arabic,Arab,arz
+الأسد الملك,The Lion King,movies,False,Egyptian Arabic,Arab,arz
+أسطورة,Legend,movies,False,Egyptian Arabic,Arab,arz
+الأوراق المتساقطة,The Fallen Leaves,books,True,Egyptian Arabic,Arab,arz
+هاري بوتر,Harry Potter,books,False,Egyptian Arabic,Arab,arz
+سندريلا,Cinderella,movies,False,Egyptian Arabic,Arab,arz
+الساحرة الصغيرة,The Little Mermaid,movies,False,Egyptian Arabic,Arab,arz
+الفيل الأزرق,The Blue Elephant,movies,True,Egyptian Arabic,Arab,arz
+العين الساهرة,The Watchful Eye,tv shows,True,Egyptian Arabic,Arab,arz
+الرجل الحديدي,Iron Man,movies,False,Egyptian Arabic,Arab,arz
+مسلسلات رمضان,Ramadan TV series,tv shows,True,Egyptian Arabic,Arab,arz
+قصة زوجة,The Wife's Tale,books,True,Egyptian Arabic,Arab,arz
+فول الصويا,Soy Luna,tv shows,False,Egyptian Arabic,Arab,arz
+قطة على جدار ساخن,Cat on a Hot Tin Roof,movies,False,Egyptian Arabic,Arab,arz
+بينوكيو,Pinocchio,movies,False,Egyptian Arabic,Arab,arz
+أمير البحار,Prince of the Seas,tv shows,True,Egyptian Arabic,Arab,arz
+قلب فلسطين,Palestine Heart,books,True,Egyptian Arabic,Arab,arz
+مملكة الحيوان,Animal Kingdom,tv shows,False,Egyptian Arabic,Arab,arz
+The Office,The Office,tv shows,True,English,Latn,en
+Mortal Kombat,Mortal Kombat,video games,True,English,Latn,en
+Jurassic Park,Jurassic Park,movies,True,English,Latn,en
+Fallout,Fallout,video games,False,English,Latn,en
+The Witcher,The Witcher,books,False,English,Latn,en
+Stranger Things,Stranger Things,tv shows,True,English,Latn,en
+The Walking Dead,The Walking Dead,tv shows,True,English,Latn,en
+Percy Jackson,Percy Jackson,books,True,English,Latn,en
+Sherlock,Sherlock,tv shows,True,English,Latn,en
+Skyrim,Skyrim,video games,False,English,Latn,en
+The Avengers,The Avengers,movies,True,English,Latn,en
+The Lord of the Rings,The Lord of the Rings,books,False,English,Latn,en
+Doctor Who,Doctor Who,tv shows,True,English,Latn,en
+Game of Thrones,Game of Thrones,tv shows,True,English,Latn,en
+Star Wars,Star Wars,movies,False,English,Latn,en
+Harry Potter,Harry Potter,books,True,English,Latn,en
+Super Mario,Super Mario,video games,True,English,Latn,en
+Avatar: The Last Airbender,Avatar: The Last Airbender,tv shows,True,English,Latn,en
+The Hunger Games,The Hunger Games,movies,True,English,Latn,en
+Marvel,Marvel,comics,True,English,Latn,en
+Supernatura,Supernatural,tv shows,False,Esperanto,Latn,eo
+La Mastro de l'Ombroj,The Lord of the Rings,books,False,Esperanto,Latn,eo
+Zelda,The Legend of Zelda,video games,False,Esperanto,Latn,eo
+Lumo kaj Mallumo,Light and Dark,books,True,Esperanto,Latn,eo
+La Simareto,The Little Mermaid,books,False,Esperanto,Latn,eo
+Neĥlandaj Kronikoj,Chronicles of Narnia,books,False,Esperanto,Latn,eo
+La Hobito,The Hobbit,books,False,Esperanto,Latn,eo
+Mistika Infanoj,Stranger Things,tv shows,False,Esperanto,Latn,eo
+La Mastro de l'Ombroj,The Lord of the Rings,movies,False,Esperanto,Latn,eo
+Super Mario Bros,Super Mario Bros,video games,False,Esperanto,Latn,eo
+La Koramikaro,The Vampire Diaries,tv shows,False,Esperanto,Latn,eo
+La Mirakla Maŝino de la Tempo,The Time Machine,books,False,Esperanto,Latn,eo
+"Mortigi, Kolekti",Assassin's Creed,video games,False,Esperanto,Latn,eo
+La Simareto,The Little Mermaid,movies,False,Esperanto,Latn,eo
+Cent Jaroj de Soleco,One Hundred Years of Solitude,books,False,Esperanto,Latn,eo
+Pokémon,Pokémon,tv shows,False,Esperanto,Latn,eo
+La Hobito,The Hobbit,movies,False,Esperanto,Latn,eo
+Star Wars,Star Wars,movies,False,Esperanto,Latn,eo
+La Kurioza Vivo de Benjamin Button,The Curious Case of Benjamin Button,movies,False,Esperanto,Latn,eo
+Strangaĵoj,Weird Tales,books,True,Esperanto,Latn,eo
+Legendid,Legends,books,False,Estonian,Latn,et
+Kättemaksukontor,The Office of Revenge,tv show,True,Estonian,Latn,et
+Küberpunk,Cyberpunk,video games,False,Estonian,Latn,et
+Õnne 13,Lucky 13,tv shows,True,Estonian,Latn,et
+Kriminalistid,Criminal Minds,tv shows,False,Estonian,Latn,et
+Kaksiktornid,The Two Towers,books,False,Estonian,Latn,et
+Sõrmuste isand,The Lord of the Rings,books,False,Estonian,Latn,et
+Troonide mäng,Game of Thrones,tv shows,False,Estonian,Latn,et
+Kevade,Spring,books,True,Estonian,Latn,et
+Vehkleja,The Fencer,movies,True,Estonian,Latn,et
+Tõde ja õigus,Truth and Justice,books,True,Estonian,Latn,et
+Klass,The Class,movies,True,Estonian,Latn,et
+Võsa,The Thicket,movies,False,Estonian,Latn,et
+Pöörispind,Stranger Things,tv shows,False,Estonian,Latn,et
+Kohtumõistja,Judge,movies,True,Estonian,Latn,et
+Kadunud,Lost,tv shows,False,Estonian,Latn,et
+Siin me oleme,Here We Are,books,True,Estonian,Latn,et
+Viimne reliikvia,The Last Relic,movies,True,Estonian,Latn,et
+Pealtnägija,Eyewitness,tv shows,True,Estonian,Latn,et
+Mängurid,Gamers,books,False,Estonian,Latn,et
+Conan the Barbarian,Conan the Barbarian,movies,False,Finnish,Latn,fi
+Final Fantasy,Final Fantasy,video games,False,Finnish,Latn,fi
+Rölli,Rölli,tv shows,True,Finnish,Latn,fi
+Durarara!!,Durarara!!,tv shows,False,Finnish,Latn,fi
+Angry Birds,Angry Birds,video games,True,Finnish,Latn,fi
+Harry Potter,Harry Potter,books,False,Finnish,Latn,fi
+Game of Thrones,Game of Thrones,tv shows,False,Finnish,Latn,fi
+Moomins,Moomins,tv shows,True,Finnish,Latn,fi
+Star Wars,Star Wars,movies,False,Finnish,Latn,fi
+The Witcher,The Witcher,tv shows,False,Finnish,Latn,fi
+Hitman,Hitman,video games,False,Finnish,Latn,fi
+Lord of the Rings,Lord of the Rings,books,False,Finnish,Latn,fi
+Kalevala,Kalevala,books,True,Finnish,Latn,fi
+Ninjago,Ninjago,tv shows,False,Finnish,Latn,fi
+Clash of Clans,Clash of Clans,video games,False,Finnish,Latn,fi
+Tove Jansson,Tove Jansson,books,True,Finnish,Latn,fi
+Frozen,Frozen,movies,False,Finnish,Latn,fi
+Assassin's Creed,Assassin's Creed,video games,False,Finnish,Latn,fi
+Tom of Finland,Tom of Finland,art,True,Finnish,Latn,fi
+The Bridge,The Bridge,tv shows,True,Finnish,Latn,fi
+Les Trois Mousquetaires,The Three Musketeers,books,True,French,Latn,fr
+The Legend of Zelda,The Legend of Zelda,video games,False,French,Latn,fr
+Stranger Things,Stranger Things,tv shows,False,French,Latn,fr
+Le Fabuleux Destin d'Amélie Poulain,Amélie,movies,True,French,Latn,fr
+Friends,Friends,tv shows,False,French,Latn,fr
+Le Comte de Monte-Cristo,The Count of Monte Cristo,books,True,French,Latn,fr
+Grand Theft Auto,Grand Theft Auto,video games,False,French,Latn,fr
+The Intouchables,The Intouchables,movies,True,French,Latn,fr
+La Casa de Papel,Money Heist,tv shows,True,French,Latn,fr
+Sherlock Holmes,Sherlock Holmes,books,False,French,Latn,fr
+Le Journal d'Anne Frank,The Diary of a Young Girl,books,True,French,Latn,fr
+The Witcher,The Witcher,video games,False,French,Latn,fr
+Ratatouille,Ratatouille,movies,True,French,Latn,fr
+Les Misérables,Les Misérables,books,True,French,Latn,fr
+Breaking Bad,Breaking Bad,tv shows,False,French,Latn,fr
+Assassin's Creed,Assassin's Creed,video games,False,French,Latn,fr
+Amélie,Amélie,movies,True,French,Latn,fr
+Game of Thrones,Game of Thrones,tv shows,False,French,Latn,fr
+Le Petit Prince,The Little Prince,books,True,French,Latn,fr
+Harry Potter,Harry Potter,books,False,French,Latn,fr
+Piratas do Caribe,Pirates of the Caribbean,movies,False,Galician,Latn,gl
+A Escola do Terror,School of Fear,books,False,Galician,Latn,gl
+Dungeons & Dragons,Dungeons & Dragons,video games,False,Galician,Latn,gl
+Matilda,Matilda,books,False,Galician,Latn,gl
+Os Bolechas,The Bolechas,tv shows,True,Galician,Latn,gl
+Os Croods,The Croods,movies,False,Galician,Latn,gl
+Os Simpsons,The Simpsons,tv shows,False,Galician,Latn,gl
+Spider-Man,Spider-Man,movies,False,Galician,Latn,gl
+O Príncipe e o Mendigo,The Prince and the Pauper,books,False,Galician,Latn,gl
+A Casa de Mickey Mouse,Mickey Mouse Clubhouse,tv shows,False,Galician,Latn,gl
+María Pita,María Pita,tv shows,True,Galician,Latn,gl
+Ana de las Tejas Verdes,Anne of Green Gables,books,False,Galician,Latn,gl
+Pokémon,Pokémon,video games,False,Galician,Latn,gl
+O Laberinto de Fauno,Pan's Labyrinth,movies,False,Galician,Latn,gl
+Juego de Tronos,Game of Thrones,tv shows,False,Galician,Latn,gl
+El Señor dos Anéis,The Lord of the Rings,books,False,Galician,Latn,gl
+Harry Potter,Harry Potter,books,False,Galician,Latn,gl
+Super Mario,Super Mario,video games,False,Galician,Latn,gl
+Dora a Exploradora,Dora the Explorer,tv shows,False,Galician,Latn,gl
+A Conxura de Amergín,The Conquest of Amergin,books,True,Galician,Latn,gl
+სიმონის წმინდა პირი,Simon's Cat,web series,False,Georgian,Geor,ka
+ბრაწების ჰუმორები,Brooklyn Nine-Nine,tv shows,False,Georgian,Geor,ka
+დონ ჯუანი,Don Juan,books,False,Georgian,Geor,ka
+ქრისტალი,Frozen,movies,True,Georgian,Geor,ka
+თხასიანება გადაერთიანება,The Avengers,movies,False,Georgian,Geor,ka
+მე თქვენგავრდა,Me Before You,books,False,Georgian,Geor,ka
+ლუქა მოდერატორი,Luke Skywalker,movies,False,Georgian,Geor,ka
+ომი და მშვიდობის ბურთულები,War and Peace,books,False,Georgian,Geor,ka
+სასახლე,Home Alone,movie,False,Georgian,Geor,ka
+თარგმანი,Translation,movie,True,Georgian,Geor,ka
+სამჟავში მუდამ მშვიდობისას,The Lord of the Rings,books,False,Georgian,Geor,ka
+იანი ბშნკე,Jane Bond,movies,False,Georgian,Geor,ka
+მე და ჩემი თანამგრძნობლები,Me and My Doppelgängers,tv shows,True,Georgian,Geor,ka
+მეხი დილი,Midnight Sun,books,False,Georgian,Geor,ka
+კურდნელი ქალი,Bitter Woman,movies,True,Georgian,Geor,ka
+შრი და ლოტერი,Sherlock and Watson,tv shows,False,Georgian,Geor,ka
+მოკლედ ნატხებს,Brief Encounters,tv shows,True,Georgian,Geor,ka
+დაიმრგვა,Wonder,books,False,Georgian,Geor,ka
+კოსის მახინჯა,Guardians of the Galaxy,movies,False,Georgian,Geor,ka
+დთბთ-ალწთ-წკთ,Puss in Boots,movies,True,Georgian,Geor,ka
+Pippi Langstrumpf,Pippi Longstocking,books,False,German,Latn,de
+Assassin's Creed,Assassin's Creed,video games,False,German,Latn,de
+Die Säulen der Erde,The Pillars of the Earth,books,True,German,Latn,de
+James Bond,James Bond,movies,False,German,Latn,de
+Zelda,The Legend of Zelda,video games,False,German,Latn,de
+Resident Evil,Resident Evil,video games,False,German,Latn,de
+Harry Potter,Harry Potter,books,False,German,Latn,de
+Herr der Ringe,The Lord of the Rings,books,False,German,Latn,de
+Tatort,Crime Scene,tv shows,True,German,Latn,de
+Das Parfum,Perfume: The Story of a Murderer,books,True,German,Latn,de
+Der König der Löwen,The Lion King,movies,False,German,Latn,de
+Der Medicus,The Physician,books,True,German,Latn,de
+Bibi Blocksberg,Bibi Blocksberg,tv shows,True,German,Latn,de
+Star Wars,Star Wars,movies,False,German,Latn,de
+Die unendliche Geschichte,The NeverEnding Story,books,True,German,Latn,de
+Die drei Fragezeichen,The Three Investigators,books,True,German,Latn,de
+Werner,Werner,movies,True,German,Latn,de
+Game of Thrones,Game of Thrones,tv shows,False,German,Latn,de
+Der kleine Prinz,The Little Prince,books,False,German,Latn,de
+Sherlock Holmes,Sherlock Holmes,books,False,German,Latn,de
+Η Συναυλία του Χάους,The Concert of Chaos,music,True,Greek,Grek,el
+Το Τραγούδι του Βουνού,The Song of the Mountain,books,True,Greek,Grek,el
+Η Μέρες της Ανοχής,The Days of Tolerance,books,True,Greek,Grek,el
+Η Όπερα των Ναυαγών,The Opera of the Castaways,books,True,Greek,Grek,el
+Η Κόρη της Πυρκαγιάς,The Daughter of Fire,books,True,Greek,Grek,el
+Ο Άρχοντας των Δαχτυλιδιών,The Lord of the Rings,books,False,Greek,Grek,el
+Η Λέσχη των Μυστικών,The Secret Circle,tv shows,False,Greek,Grek,el
+Το Θαύμα της Θάλασσας των Περιδένδρων,The Little Mermaid,movies,False,Greek,Grek,el
+Το Παιχνίδι των Τρόλ,Trollhunters,tv shows,False,Greek,Grek,el
+Η Άνοιξη της Καρδιάς,Spring Awakening,theater,False,Greek,Grek,el
+Η Μούρη του Μονολίθου,The Face of the Monolith,books,True,Greek,Grek,el
+Το Σώμα μου για Κομμάτια,My Body for Pieces,books,False,Greek,Grek,el
+Πολεμικές Τέχνες,Martial Arts,sports,True,Greek,Grek,el
+Το Τραγούδι της Ποίησης,The Song of Poetry,books,True,Greek,Grek,el
+Ο Μαγικός Κήπος,The Secret Garden,books,False,Greek,Grek,el
+Η Φυλή της Κούκλας,The Tribe of the Doll,books,True,Greek,Grek,el
+Οι Αδελφές Μαρτί,The Sisters of Mercy,books,True,Greek,Grek,el
+Ο Πρίγκιπας της Σκοτεινής Εποχής,The Prince of the Dark Ages,books,True,Greek,Grek,el
+Ο Δράκος του Χειμώνα,The Dragon of Winter,books,True,Greek,Grek,el
+Το Παίρνει η Αδερφή μου,My Sister's Keeper,books,False,Greek,Grek,el
+Assassin's Creed,Assassin's Creed,video games,False,Hausa,Latn,ha
+Daurin Rai,Weathering with You,movies,False,Hausa,Latn,ha
+Black Panther,Black Panther,movies,False,Hausa,Latn,ha
+Sake Ofara,Star Wars,movies,False,Hausa,Latn,ha
+Kyanmi,Jumanji,movies,False,Hausa,Latn,ha
+The Last of Us,The Last of Us,video games,False,Hausa,Latn,ha
+Labarin Soyayya,Love Story,books,True,Hausa,Latn,ha
+Matan Kauri,Wonder Woman,movies,False,Hausa,Latn,ha
+Tsarin Fanon,Harry Potter,books,False,Hausa,Latn,ha
+Kwana Casa'in,Game of Thrones,tv shows,False,Hausa,Latn,ha
+Warrior,Warrior,tv shows,False,Hausa,Latn,ha
+Kwana II,Crown II,tv shows,True,Hausa,Latn,ha
+Dukiyar Zamani,Back to the Future,movies,False,Hausa,Latn,ha
+Duniyar Nan,The Matrix,movies,False,Hausa,Latn,ha
+Kwana,Crown,tv shows,True,Hausa,Latn,ha
+Nana Asma'u,Nana Asma'u,books,True,Hausa,Latn,ha
+Baure,Thor,movies,False,Hausa,Latn,ha
+Mahaifiyata,The Wives,books,True,Hausa,Latn,ha
+Nollywood,Nollywood,movies,True,Hausa,Latn,ha
+Cyberpunk 2077,Cyberpunk 2077,video games,False,Hausa,Latn,ha
+דוגמא,Example,movies,True,Hebrew,Hebr,he
+אלהים אשר נפלו על  הארץ,Gods Who Fell on Earth,books,True,Hebrew,Hebr,he
+יפני  באים לא,Japanese Not Coming,tv shows,True,Hebrew,Hebr,he
+בכל רמות,In All Layers,books,True,Hebrew,Hebr,he
+דעם,The Dam,movies,True,Hebrew,Hebr,he
+הם,Them,tv shows,False,Hebrew,Hebr,he
+הארי פוטר,Harry Potter,books,False,Hebrew,Hebr,he
+סלטר האוס,Shtisel,tv shows,True,Hebrew,Hebr,he
+תפיסת הספקטרום,Specter of the Past,books,False,Hebrew,Hebr,he
+צהוב דק,Breaking Bad,tv shows,False,Hebrew,Hebr,he
+משחקי הכס,Game of Thrones,tv shows,False,Hebrew,Hebr,he
+אמקלט,Escape,movies,True,Hebrew,Hebr,he
+סמפסון,The Simpsons,tv shows,False,Hebrew,Hebr,he
+משחקי הכס: הסדרת הספרים,A Song of Ice and Fire,books,False,Hebrew,Hebr,he
+הוביט,The Hobbit,books,False,Hebrew,Hebr,he
+אטלנטיס,Atlantis,movies,False,Hebrew,Hebr,he
+טרון: יקום ניצחון,Tron,movies,False,Hebrew,Hebr,he
+משחקי הכס: המשחק הרעוע,The Rains of Castamere,books,False,Hebrew,Hebr,he
+דווח על רצח,Making a Murderer,tv shows,False,Hebrew,Hebr,he
+הצל של מאיה,Maya's Shadow,movies,True,Hebrew,Hebr,he
+महासगर के लुटेरे,Pirates of the Caribbean,movie,False,Hindi,Deva,hi
+आइरन मैन,Iron Man,movie,False,Hindi,Deva,hi
+गर्म देवी,Hot Goddess,book,True,Hindi,Deva,hi
+जुर्रासिक पार्क,Jurassic Park,movie,False,Hindi,Deva,hi
+रामायण,Ramayana,tv show,True,Hindi,Deva,hi
+दरबार,The Crown,tv show,False,Hindi,Deva,hi
+दर्द-ए-दिल,Dard-E-Dil,book,True,Hindi,Deva,hi
+शोले,Sholay,movie,True,Hindi,Deva,hi
+फ्रेंड्स,Friends,tv show,False,Hindi,Deva,hi
+दिलवाले दुल्हनिया ले जायेंगे,Dilwale Dulhania Le Jayenge,movie,True,Hindi,Deva,hi
+अलादीन,Aladdin,movie,False,Hindi,Deva,hi
+गेम ऑफ़ थ्रोन्स,Game of Thrones,tv show,False,Hindi,Deva,hi
+बाहुबली,Baahubali,movie,True,Hindi,Deva,hi
+लाइफ इस स्ट्रेंज,Life is Strange,video game,False,Hindi,Deva,hi
+दंगल,Dangal,movie,True,Hindi,Deva,hi
+हरी पॉटर,Harry Potter,books,False,Hindi,Deva,hi
+महाभारत,Mahabharata,tv show,True,Hindi,Deva,hi
+क्या रंग प्यार का,What the Color of Love,book,True,Hindi,Deva,hi
+लियॉन किंग,The Lion King,movie,False,Hindi,Deva,hi
+सूरज हुआ मद्धम,Kabhi Khushi Kabhie Gham,movie,True,Hindi,Deva,hi
+A kockavetők,The Dice Throwers,books,True,Hungarian,Latn,hu
+Harry Potter,Harry Potter,books,False,Hungarian,Latn,hu
+Sorozatgyilkosok,Mindhunter,tv shows,False,Hungarian,Latn,hu
+A keresztapa,The Godfather,movies,False,Hungarian,Latn,hu
+Witcher,Witcher,video games,False,Hungarian,Latn,hu
+Hetedik,Se7en,movies,False,Hungarian,Latn,hu
+Crash Bandicoot,Crash Bandicoot,video games,False,Hungarian,Latn,hu
+Csillagok háborúja,Star Wars,movies,False,Hungarian,Latn,hu
+Hetedik mennyország,The Seventh Heaven,books,True,Hungarian,Latn,hu
+A tűz és jég dala,Game of Thrones,tv shows,False,Hungarian,Latn,hu
+Szuperhősök,Superheroes,books,True,Hungarian,Latn,hu
+Bolygó neve: Halál,Planet of Death,movies,False,Hungarian,Latn,hu
+Hét mágus,Seven Magicians,books,True,Hungarian,Latn,hu
+Az elveszett birodalom,The Lost Empire,movies,False,Hungarian,Latn,hu
+Varázslók,Wizards,books,True,Hungarian,Latn,hu
+Harcosok klubja,Fight Club,movies,False,Hungarian,Latn,hu
+Triatlon hősök,Triathlon Heroes,tv shows,True,Hungarian,Latn,hu
+Szerelem a köd alatt,Love in the Mist,books,True,Hungarian,Latn,hu
+A hármas szövetség,The Triple Alliance,movies,True,Hungarian,Latn,hu
+Hetedik pecsét,The Seventh Seal,movies,False,Hungarian,Latn,hu
+Ljós í mörkri,Lights Out,movies,False,Icelandic,Latn,is
+Eplijið,The Big Apple,books,False,Icelandic,Latn,is
+Hald Íhugunni,Inception,movies,False,Icelandic,Latn,is
+Milljón dala maður,The Million Dollar Man,tv shows,False,Icelandic,Latn,is
+Eldur og Ís,Fire and Ice,books,True,Icelandic,Latn,is
+Gullin þristur,Goldeneye,video games,False,Icelandic,Latn,is
+Harry Potter,Harry Potter,books,False,Icelandic,Latn,is
+Brottinn broddur,The Lord of the Rings,books,False,Icelandic,Latn,is
+Óðinn,Thor,movies,False,Icelandic,Latn,is
+Trónnspilari,Game of Thrones,tv shows,False,Icelandic,Latn,is
+Málmhestur,Iron Man,movies,False,Icelandic,Latn,is
+Bítlar,The Beatles,music,False,Icelandic,Latn,is
+Milli jörðu og himins,Interstellar,movies,False,Icelandic,Latn,is
+Stríðshjarta,Call of Duty,video games,False,Icelandic,Latn,is
+Trúarlíf,Buffy the Vampire Slayer,tv shows,False,Icelandic,Latn,is
+Diablo,Diablo,video games,False,Icelandic,Latn,is
+Faldur,The X-Files,tv shows,False,Icelandic,Latn,is
+Sagan um konung,The Chronicles of Narnia,books,False,Icelandic,Latn,is
+Leiðin götunnar,The Walking Dead,tv shows,False,Icelandic,Latn,is
+Njála,Njáls Saga,books,True,Icelandic,Latn,is
+Nollywood,Nollywood,film industry,True,Igbo,Latn,ig
+Sugar Rush,Sugar Rush,movie,True,Igbo,Latn,ig
+Pokémon,Pokémon,tv show,False,Igbo,Latn,ig
+The Chronicles of Narnia,The Chronicles of Narnia,book,False,Igbo,Latn,ig
+Spider-Man,Spider-Man,comic,False,Igbo,Latn,ig
+Wakanda,Wakanda,fictional place,False,Igbo,Latn,ig
+Lara and the Beat,Lara and the Beat,movie,True,Igbo,Latn,ig
+FIFA,FIFA,video game,False,Igbo,Latn,ig
+Nigerian Idol,Nigerian Idol,tv show,True,Igbo,Latn,ig
+The Lion King,The Lion King,movie,False,Igbo,Latn,ig
+Game of Thrones,Game of Thrones,tv show,False,Igbo,Latn,ig
+One Piece,One Piece,manga,False,Igbo,Latn,ig
+Half of a Yellow Sun,Half of a Yellow Sun,book,True,Igbo,Latn,ig
+Nnenna and Friends,Nnenna and Friends,tv show,True,Igbo,Latn,ig
+The Hunger Games,The Hunger Games,book,False,Igbo,Latn,ig
+Black Panther,Black Panther,movie,False,Igbo,Latn,ig
+Chinua Achebe’s Things Fall Apart,Things Fall Apart,book,True,Igbo,Latn,ig
+Supa Strikas,Supa Strikas,comic,True,Igbo,Latn,ig
+The Witcher,The Witcher,video game,False,Igbo,Latn,ig
+Harry Potter,Harry Potter,book,False,Igbo,Latn,ig
+Gita Gutawa,Gita Gutawa,music,True,Indonesian,Latn,id
+Dilan 1990,Dilan 1990,movies,True,Indonesian,Latn,id
+Mulan,Mulan,movies,False,Indonesian,Latn,id
+Stranger Things,Stranger Things,tv shows,False,Indonesian,Latn,id
+Upin & Ipin,Upin & Ipin,tv shows,True,Indonesian,Latn,id
+Mobile Legends,Mobile Legends,video games,False,Indonesian,Latn,id
+Tetris,Tetris,video games,False,Indonesian,Latn,id
+Naruto,Naruto,tv shows,False,Indonesian,Latn,id
+The Lord of the Rings,The Lord of the Rings,books,False,Indonesian,Latn,id
+Wayang Kulit,Wayang Kulit,performing arts,True,Indonesian,Latn,id
+Marvel Cinematic Universe,Marvel Cinematic Universe,movies,False,Indonesian,Latn,id
+Doraemon,Doraemon,tv shows,True,Indonesian,Latn,id
+Supernatural,Supernatural,tv shows,False,Indonesian,Latn,id
+The Hunger Games,The Hunger Games,books,False,Indonesian,Latn,id
+Game of Thrones,Game of Thrones,tv shows,False,Indonesian,Latn,id
+Harry Potter,Harry Potter,books,False,Indonesian,Latn,id
+SpongeBob SquarePants,SpongeBob SquarePants,tv shows,False,Indonesian,Latn,id
+Pramoedya Ananta Toer,Pramoedya Ananta Toer,books,True,Indonesian,Latn,id
+Gundam,Gundam,tv shows,False,Indonesian,Latn,id
+Gundala,Gundala,movies,True,Indonesian,Latn,id
+Cluiche Thréabhach,Call of Duty,video game,False,Irish,Latn,ga
+Sióga Síocha,Peaceful Fairies,book,True,Irish,Latn,ga
+Teilifís na Nollag,Christmas TV,tv show,True,Irish,Latn,ga
+An Seanchill,The Old Church,book,False,Irish,Latn,ga
+Sealgairí na Rúise,The Russian Dolls,tv show,False,Irish,Latn,ga
+Meas na Múrphys,House of Cards,tv show,False,Irish,Latn,ga
+Harry Potter,Harry Potter,book,False,Irish,Latn,ga
+Game of Thrones,Game of Thrones,tv show,False,Irish,Latn,ga
+Penny Dreadful,Penny Dreadful,tv show,False,Irish,Latn,ga
+The Hunger Games,The Hunger Games,book,False,Irish,Latn,ga
+The Lord of the Rings,The Lord of the Rings,movie,False,Irish,Latn,ga
+An Gadaí Glas,The Green Mile,movie,False,Irish,Latn,ga
+The Witcher,The Witcher,video game,False,Irish,Latn,ga
+Fíor Scéalta Grimm,Grimm Fairytales,book,False,Irish,Latn,ga
+Cluichí Réalta Ghéara,Mass Effect,video game,False,Irish,Latn,ga
+Liú A Dhéinir,The Avengers,movie,False,Irish,Latn,ga
+An Caipín Draíochta,The Sorcerer's Stone,book,False,Irish,Latn,ga
+Trathnóna Stróine,Dumb and Dumber,movie,False,Irish,Latn,ga
+Teanxpár,Gameboy,video game,False,Irish,Latn,ga
+Cáca Milis,Candy Crush,video game,False,Irish,Latn,ga
+The Young Pope,The Young Pope,tv shows,True,Italian,Latn,it
+Tomb Raider,Tomb Raider,video games,False,Italian,Latn,it
+Miracle in Milan,Miracle in Milan,movies,True,Italian,Latn,it
+La Piovra,The Octopus,tv shows,True,Italian,Latn,it
+Don Camillo e Peppone,Don Camillo and Peppone,movies,True,Italian,Latn,it
+L'uomo che verrà,The Man Who Will Come,movies,True,Italian,Latn,it
+The Sopranos,The Sopranos,tv shows,False,Italian,Latn,it
+Assassin's Creed,Assassin's Creed,video games,False,Italian,Latn,it
+The Godfather,The Godfather,movies,False,Italian,Latn,it
+Mario Bros,Mario Bros,video games,True,Italian,Latn,it
+La Meglio Gioventù,The Best of Youth,movies,True,Italian,Latn,it
+La Casa de Papel,Money Heist,tv shows,False,Italian,Latn,it
+Gomorra,Gomorrah,tv shows,True,Italian,Latn,it
+Breaking Bad,Breaking Bad,tv shows,False,Italian,Latn,it
+Il Signore degli Anelli,The Lord of the Rings,books,False,Italian,Latn,it
+Harry Potter,Harry Potter,books,False,Italian,Latn,it
+Devil May Cry,Devil May Cry,video games,False,Italian,Latn,it
+Super Mario Bros,Super Mario Bros,video games,True,Italian,Latn,it
+La Mafia Uccide Solo D'Estate,The Mafia Only Kills in the Summer,tv shows,True,Italian,Latn,it
+Uncharted,Uncharted,video games,False,Italian,Latn,it
+ファイナルファンタジー,Final Fantasy,video games,False,Japanese,Jpan,ja
+ワンピース,One Piece,manga,True,Japanese,Jpan,ja
+新世紀エヴァンゲリオン,Neon Genesis Evangelion,anime,True,Japanese,Jpan,ja
+ポケットモンスター,Pokémon,video games,True,Japanese,Jpan,ja
+スター・ウォーズ,Star Wars,movies,False,Japanese,Jpan,ja
+名探偵コナン,Detective Conan,anime,True,Japanese,Jpan,ja
+キングダム ハーツ,Kingdom Hearts,video games,False,Japanese,Jpan,ja
+ドラゴンボール,Dragon Ball,tv shows,True,Japanese,Jpan,ja
+ハリー・ポッター,Harry Potter,books,False,Japanese,Jpan,ja
+ドラえもん,Doraemon,anime,True,Japanese,Jpan,ja
+ファイナルファンタジー,Final Fantasy,video games,True,Japanese,Jpan,ja
+カウボーイビバップ,Cowboy Bebop,anime,True,Japanese,Jpan,ja
+幽☆遊☆白書,Yu Yu Hakusho,anime,True,Japanese,Jpan,ja
+ハンガー・ゲーム,The Hunger Games,books,False,Japanese,Jpan,ja
+ルパン三世,Lupin the Third,anime,True,Japanese,Jpan,ja
+バイオハザード,Resident Evil,video games,False,Japanese,Jpan,ja
+マイ・ヒーローアカデミア,My Hero Academia,anime,True,Japanese,Jpan,ja
+鬼滅の刃,Demon Slayer,manga,True,Japanese,Jpan,ja
+ロード・オブ・ザ・リング,The Lord of the Rings,books,False,Japanese,Jpan,ja
+モンスターハンター,Monster Hunter,video games,True,Japanese,Jpan,ja
+Dota 2,Dota 2,video games,False,Javanese,Latn,jv
+Game of Thrones,Game of Thrones,tv shows,False,Javanese,Latn,jv
+Frozen,Frozen,movies,False,Javanese,Latn,jv
+Tin Tin,Tin Tin,books,False,Javanese,Latn,jv
+Clash of Clans,Clash of Clans,video games,False,Javanese,Latn,jv
+Naruto,Naruto,tv shows,False,Javanese,Latn,jv
+Harry Potter,Harry Potter,books,False,Javanese,Latn,jv
+Doraemon,Doraemon,tv shows,True,Javanese,Latn,jv
+The Hunger Games,The Hunger Games,books,False,Javanese,Latn,jv
+Gundam,Gundam,tv shows,False,Javanese,Latn,jv
+Geronimo Stilton,Geronimo Stilton,books,False,Javanese,Latn,jv
+Mulan,Mulan,movies,False,Javanese,Latn,jv
+Pokemon,Pokemon,tv shows,False,Javanese,Latn,jv
+Spider-Man,Spider-Man,movies,False,Javanese,Latn,jv
+Avengers,Avengers,movies,False,Javanese,Latn,jv
+Mario Bros,Mario Bros,video games,False,Javanese,Latn,jv
+Dora the Explorer,Dora the Explorer,tv shows,False,Javanese,Latn,jv
+Aladdin,Aladdin,movies,False,Javanese,Latn,jv
+Jaka Tarub,Jaka Tarub,books,True,Javanese,Latn,jv
+Anpanman,Anpanman,tv shows,False,Javanese,Latn,jv
+ಗೋರಾಕಾ ಡಾಡಾ,Gorakha Dada,book,True,Kannada,Knda,kn
+ಸರ್ಕಾರ್,Sarkar,movie,True,Kannada,Knda,kn
+ರಘುವಂಶ,Raghuvamsha,book,True,Kannada,Knda,kn
+ಮಿಸ್ಟರ್ ಬಿನ್,Mister Bean,tv show,False,Kannada,Knda,kn
+ದುರ್ಗಾ ಪೂಜಾ,Durga Puja,festival,True,Kannada,Knda,kn
+ದ ಪ್ರಿಂಸೆಸ್ ಡೈರೀ,The Princess Diaries,book,False,Kannada,Knda,kn
+ರಾಮಾಯಣ,Ramayana,tv show,True,Kannada,Knda,kn
+ಮಹಾಭಾರತ,Mahabharata,tv show,True,Kannada,Knda,kn
+ದೀಪವಾಲಿ,Diwali,festival,True,Kannada,Knda,kn
+ಬಾಳೆವಾಡು,Baalveer,tv show,False,Kannada,Knda,kn
+ಹರ್ಯಪೋಟರ್,Harry Potter,book,False,Kannada,Knda,kn
+ಕ್ರೈಸ್ತ್ಮಸ್,Christmas,festival,False,Kannada,Knda,kn
+ವಲ್ಲಮೀಕಿ ಮಹಾರಾಯಾಣ,Valmiki Ramayana,book,True,Kannada,Knda,kn
+ಮಹಾನಟಿ,Mahanati,movie,True,Kannada,Knda,kn
+ಲೋಕಿ,Loki,tv show,False,Kannada,Knda,kn
+ಸೂಪರ್ ಮ್ಯಾನ್,Superman,movie,False,Kannada,Knda,kn
+ಶ್ರೀಕೃಷ್ಣ,Shri Krishna,tv show,True,Kannada,Knda,kn
+ಅಲೀಬಾಬಾ,Alibaba,book,False,Kannada,Knda,kn
+ಟೋಂ ಅಲೆರ್,Tom and Jerry,tv show,False,Kannada,Knda,kn
+ಬ್ಲೇಡ್ ರಣ್ನರ್,Blade Runner,movie,False,Kannada,Knda,kn
+Қағыпты мақтылай,Mighty Power,tv show,True,Kazakh,Cyrl/Latn/Arab,kk
+Қандай ачу. Бұл жады алып алмасыз,How to Open. You Can't Steal This Box,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Сонда белгілі емес білім,Then Certain Uncertain Knowledge,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қыз жігітқа қажы,Boy Meets Girl,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қоймалар,Birds,tv show,False,Kazakh,Cyrl/Latn/Arab,kk
+Мафия,Mafia,video game,False,Kazakh,Cyrl/Latn/Arab,kk
+Аралар,Friends,tv show,False,Kazakh,Cyrl/Latn/Arab,kk
+Секретнайа служба,Secret Service,movie,False,Kazakh,Cyrl/Latn/Arab,kk
+Сені жауға кетемін пенсионер,I Can't Wait to Retire,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қантар оқырай,Catch Me If You Can,movie,False,Kazakh,Cyrl/Latn/Arab,kk
+Жарығым өзіммен орындайды,My Light Shines on Its Own,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қазыгер,The Witcher,tv show,False,Kazakh,Cyrl/Latn/Arab,kk
+Әскери алоңда өлікшілер,Soldiers at the Military Base,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Детективтік қосымша,Detective Supplement,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қалам,Pen,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қоштаспайым,Don't Get Lost,book,True,Kazakh,Cyrl/Latn/Arab,kk
+Қазбар,Legend,movie,False,Kazakh,Cyrl/Latn/Arab,kk
+Қазылы,Blood,tv show,False,Kazakh,Cyrl/Latn/Arab,kk
+Алтын арна,Golden Eagle,movie,True,Kazakh,Cyrl/Latn/Arab,kk
+День бастаулен. Ұнайдың дауысы,The Day Begins. The Song of Waves,book,True,Kazakh,Cyrl/Latn/Arab,kk
+ជម្រកដាវធ,Chamrokdavte,tv shows,True,Khmer,Khmr,km
+ខ្លឹមភាពបាត់ដេត,Klompi Phatdet,tv shows,True,Khmer,Khmr,km
+ពិធីភាពសាល្បៀ៏,Phipsaalbai,video games,True,Khmer,Khmr,km
+តែពៃ,Tvek Pei,movies,True,Khmer,Khmr,km
+ហ៊ុនវ៉ាន់​អាបតហួ,Batman,movies,False,Khmer,Khmr,km
+មុខត្រូបល្ភ,Mokuthaborin,books,True,Khmer,Khmr,km
+លើទាន​ឯណា,Harry Potter,books,False,Khmer,Khmr,km
+វាងតាមលាំះ,The Hunger Games,books,False,Khmer,Khmr,km
+បាឡែក​ពេៅទោខ,Pokémon,video games,False,Khmer,Khmr,km
+សមស្របចេះសម្រាប់​ស៊ើបមនូ,The Lord of the Rings,books,False,Khmer,Khmr,km
+ហ៊ុនវ៉ាន់​ហ៊ុនឧាល,Iron Man,movies,False,Khmer,Khmr,km
+មុខជួផរ,Mokhchubpar,books,True,Khmer,Khmr,km
+សិស្សស្បើយ​កាន់ណគ,SpongeBob SquarePants,tv shows,False,Khmer,Khmr,km
+ទ្រព្យសម្បតព្រាអា,The Avengers,movies,False,Khmer,Khmr,km
+បារ៉ាន,Barbie,movies,False,Khmer,Khmr,km
+ស៊ើបអូនាហាយ,The Simpsons,tv shows,False,Khmer,Khmr,km
+ការ​មើល​ហូលដម,The Walking Dead,tv shows,False,Khmer,Khmr,km
+គ្រប់គ្រូខេមរភី​បន្ទា,The Return of the Condor Heroes,tv shows,True,Khmer,Khmr,km
+ចំណងភាព​បាត់ដេត,Monkey Magic,tv shows,True,Khmer,Khmr,km
+វិញ្ឆេីភ្លក,Wichai Likhon,books,True,Khmer,Khmr,km
+천국의 계단,Stairway to Heaven,tv shows,True,Korean,Hang,ko
+드라곤볼,Dragon Ball,tv shows,False,Korean,Hang,ko
+그림자와 함께 사라지다,Vanishing Time: A Boy Who Returned,movies,True,Korean,Hang,ko
+모비딕,Moby Dick,books,False,Korean,Hang,ko
+아바타,Avatar: The Last Airbender,tv shows,False,Korean,Hang,ko
+메리와 마녀의 꽃,Mary and The Witch's Flower,movies,True,Korean,Hang,ko
+방탄소년단,BTS,music,True,Korean,Hang,ko
+리그 오브 레전드,League of Legends,video games,False,Korean,Hang,ko
+오 마이 비너스,Oh My Venus,tv shows,True,Korean,Hang,ko
+태양의 후예,Descendants of the Sun,tv shows,True,Korean,Hang,ko
+반도,Peninsula,movies,True,Korean,Hang,ko
+싱크홀,Sinkhole,movies,True,Korean,Hang,ko
+나루토,Naruto,tv shows,False,Korean,Hang,ko
+왕좌의 게임,Game of Thrones,tv shows,False,Korean,Hang,ko
+포켓몬스터,Pokémon,video games,False,Korean,Hang,ko
+어벤져스,The Avengers,movies,False,Korean,Hang,ko
+해리 포터,Harry Potter,books,False,Korean,Hang,ko
+미스터 션샤인,Mr. Sunshine,tv shows,True,Korean,Hang,ko
+도깨비,Goblin,tv shows,True,Korean,Hang,ko
+숲속의 작은 집,Little Forest,movies,True,Korean,Hang,ko
+دۆنیای ئافلاتوون,The Witcher,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+هه‌واڵ لە ده‌ره‌وه‌,Game of Thrones,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+بۆندی ده‌له‌وه‌ست,Harry Potter,books,False,Kurdish (Kurmanji),Latn/Arab,ku
+کۆنه‌,The Lord of the Rings,books,False,Kurdish (Kurmanji),Latn/Arab,ku
+ده‌ویژه‌ به‌رنامه,Friends,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+سوپی می,Super Mario,video game,False,Kurdish (Kurmanji),Latn/Arab,ku
+پیره‌ستترین پێناچێک,Doctor Who,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+خۆشبه‌ت,The Simpsons,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+قه‌ناعج,Jurassic Park,movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+پێداچوانی هه‌ردم,"Bond, James Bond",movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+ئافاتی ومه‌ن,Avatar,movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+وه‌فایة,The Expanse,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+لاغوری ده‌ره‌وه‌,The Big Bang Theory,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+ده‌نگزی ڕێژەی خوێن,The Vampire Diaries,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+زانیاری ڪۆمپانیای وار,Warcraft,video game,False,Kurdish (Kurmanji),Latn/Arab,ku
+فیلمی سی.ئی.ئن,Star Wars,movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+ده‌زگا,Die Hard,movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+هه‌مه‌و,Avatar: The Last Airbender,tv show,False,Kurdish (Kurmanji),Latn/Arab,ku
+بازه‌,The Matrix,movies,False,Kurdish (Kurmanji),Latn/Arab,ku
+ڪراڤتیت,Minecraft,video game,False,Kurdish (Kurmanji),Latn/Arab,ku
+دەمەزراو,Transformer,movies,False,Kurdish (Sorani),Arab,ckb
+بەپارێز,The Protector,tv shows,False,Kurdish (Sorani),Arab,ckb
+سه‌رپۆله,The Originals,tv shows,False,Kurdish (Sorani),Arab,ckb
+کاپتان زانبێر,Captain Sinbad,movies,False,Kurdish (Sorani),Arab,ckb
+هاردو ڤار,Hard War,video games,False,Kurdish (Sorani),Arab,ckb
+دارفورز,Daredevils,books,False,Kurdish (Sorani),Arab,ckb
+گۆته‌مزیا,God of War,video games,False,Kurdish (Sorani),Arab,ckb
+هه‌رگل,Harry Potter,books,False,Kurdish (Sorani),Arab,ckb
+چاویش,The Witcher,tv shows,False,Kurdish (Sorani),Arab,ckb
+بێژا,Pirates of the Caribbean,movies,False,Kurdish (Sorani),Arab,ckb
+ئێرگه‌ن,Eragon,books,False,Kurdish (Sorani),Arab,ckb
+سه‌خرله‌,Sekiro,video games,False,Kurdish (Sorani),Arab,ckb
+دریمز,Dreams,video games,False,Kurdish (Sorani),Arab,ckb
+هاوبه‌ش,Twilight,books,False,Kurdish (Sorani),Arab,ckb
+چه‌رماشنبه,Sherlock,tv shows,False,Kurdish (Sorani),Arab,ckb
+کارگێین هێلک,The Dark Knight,movies,False,Kurdish (Sorani),Arab,ckb
+گۆته‌م,God of War,video games,False,Kurdish (Sorani),Arab,ckb
+فرندز,Friends,tv shows,False,Kurdish (Sorani),Arab,ckb
+هه‌ڵشیر,Hannibal,tv shows,False,Kurdish (Sorani),Arab,ckb
+گیمینگ,Gaming,video games,False,Kurdish (Sorani),Arab,ckb
+Миртл,Minecraft,video game,False,Kyrgyz,Cyrl,ky
+Киллинг,The Killing,tv show,False,Kyrgyz,Cyrl,ky
+Терезэ,Teresa,tv show,False,Kyrgyz,Cyrl,ky
+Железный человек,Iron Man,movie,False,Kyrgyz,Cyrl,ky
+Отваден-Астанда,The Simpsons,tv show,False,Kyrgyz,Cyrl,ky
+Скайтрим,Skyrim,video game,False,Kyrgyz,Cyrl,ky
+Моя левая нога,My Left Foot,movie,False,Kyrgyz,Cyrl,ky
+Вселенная Хоуксов,Hawkworld,books,False,Kyrgyz,Cyrl,ky
+Кадыркар жаткаркан,The Shawshank Redemption,movie,False,Kyrgyz,Cyrl,ky
+Үй Пекинда,Home Alone,movie,False,Kyrgyz,Cyrl,ky
+Менің Ақпан,My October,books,True,Kyrgyz,Cyrl,ky
+Өзүм сүйдүм,Ozum Suym,tv show,True,Kyrgyz,Cyrl,ky
+Жетекшине,Daredevil,tv show,False,Kyrgyz,Cyrl,ky
+Пинпонг,Ping Pong,movie,False,Kyrgyz,Cyrl,ky
+Урусең сапа,Rocky,movie,False,Kyrgyz,Cyrl,ky
+Үн-чьыт,Singing in the Rain,movie,False,Kyrgyz,Cyrl,ky
+Иним кайтыш,Irony of Fate,movie,True,Kyrgyz,Cyrl,ky
+Гарри Поттер,Harry Potter,books,False,Kyrgyz,Cyrl,ky
+Аютылғаным,Aytylganym,movie,True,Kyrgyz,Cyrl,ky
+Великолепная жатырқа,Magnificent Century,tv show,True,Kyrgyz,Cyrl,ky
+Harii Potter et Philosophi Lapis,Harry Potter and the Philosopher's Stone,book,True,Latin,Latn,la
+Gladiator,Gladiator,movies,True,Latin,Latn,la
+Ben-Hur: A Tale of the Christ,Ben-Hur: A Tale of the Christ,books,True,Latin,Latn,la
+Rome: Total War,Rome: Total War,video games,True,Latin,Latn,la
+Asterix and Obelix,Asterix and Obelix,comics,True,Latin,Latn,la
+Quo Vadis,Quo Vadis,books,True,Latin,Latn,la
+Pompeii,Pompeii,books,True,Latin,Latn,la
+Spartacus,Spartacus,tv shows,True,Latin,Latn,la
+Aeneid,Aeneid,books,True,Latin,Latn,la
+Vikings,Vikings,tv shows,True,Latin,Latn,la
+Iliad,Iliad,books,True,Latin,Latn,la
+Assassin's Creed,Assassin's Creed,video games,False,Latin,Latn,la
+Game of Thrones,Game of Thrones,tv shows,False,Latin,Latn,la
+Star Wars,Star Wars,movies,False,Latin,Latn,la
+The Lord of the Rings,The Lord of the Rings,books,False,Latin,Latn,la
+Marvel Comics,Marvel Comics,comics,False,Latin,Latn,la
+Doctor Who,Doctor Who,tv shows,False,Latin,Latn,la
+Harry Potter,Harry Potter,books,False,Latin,Latn,la
+Cicero: The Life and Letters,Cicero: The Life and Letters,books,True,Latin,Latn,la
+De Bello Gallico,The Gallic Wars,books,True,Latin,Latn,la
+Zelta zirdziņš,The Golden Pony,movies,True,Latvian,Latn,lv
+Vecās eņģeļu pils,The Old Angel Castle,tv shows,False,Latvian,Latn,lv
+Pikaso dcēls,The Da Vinci Code,books,False,Latvian,Latn,lv
+Pēdējais gaismais,The Last Airbender,tv shows,False,Latvian,Latn,lv
+Vilka dēli,The Witcher,video games,False,Latvian,Latn,lv
+Mērkaķis konsts,Monkey King,movies,False,Latvian,Latn,lv
+Zelta zēni,The Golden Boys,books,True,Latvian,Latn,lv
+Rīgas roze,The Rose of Riga,tv shows,True,Latvian,Latn,lv
+Pēdējais varonis,The Last Hero,movies,True,Latvian,Latn,lv
+Ezera zirgs,Lake Horse,video games,True,Latvian,Latn,lv
+Sarkanā konfektes krāsa,The Red Candy Color,books,False,Latvian,Latn,lv
+Sapņu diena,Daydream,tv shows,True,Latvian,Latn,lv
+Miera krāsa,The Color of Peace,books,False,Latvian,Latn,lv
+Saulainā zeme,Sunny Land,movies,True,Latvian,Latn,lv
+Zaļā pļava,Green Meadow,video games,True,Latvian,Latn,lv
+Liktenis laukā,Fate Outdoors,video games,False,Latvian,Latn,lv
+Zaļā skujiņa,The Green Pine,books,True,Latvian,Latn,lv
+Mareks,Mark,tv shows,True,Latvian,Latn,lv
+Pasaules zvaigznes,World Stars,movies,False,Latvian,Latn,lv
+Spēle bez robežām,Game Without Borders,video games,False,Latvian,Latn,lv
+Bliuzo brolija,The Blues Brothers,movies,False,Lithuanian,Latn,lt
+Veidrodžių karalystė,Mirror Kingdom,books,True,Lithuanian,Latn,lt
+Pralesė,Stranger Things,tv shows,False,Lithuanian,Latn,lt
+Ponas niutono obuoliukai,The Newton's Apple,tv shows,True,Lithuanian,Latn,lt
+Meistras ir margarita,The Master and Margarita,books,False,Lithuanian,Latn,lt
+Karas ir taika,War and Peace,books,False,Lithuanian,Latn,lt
+Vilko ragas,The Wolf of Wall Street,movies,False,Lithuanian,Latn,lt
+Žemės ugniavyje,Game of Thrones,tv shows,False,Lithuanian,Latn,lt
+Kariene Auksiniu Svogūnu,The Crown,tv shows,False,Lithuanian,Latn,lt
+Grybų karaliumi,Mushroom Kingdom,video games,True,Lithuanian,Latn,lt
+Nirvanos paplūdimys,Nirvana Beach,books,True,Lithuanian,Latn,lt
+Miestas kaulų,Bones,tv shows,False,Lithuanian,Latn,lt
+Vilkolakiai dienoraščiai,The Vampire Diaries,tv shows,False,Lithuanian,Latn,lt
+Ponas kolibris,Mister Collibri,tv shows,True,Lithuanian,Latn,lt
+Senovės burtininkas,The Witcher,video games,False,Lithuanian,Latn,lt
+Žemės vidūnis,The Hobbit,books,False,Lithuanian,Latn,lt
+Žvaigždžių karai,Star Wars,movies,False,Lithuanian,Latn,lt
+Haris Poteris,Harry Potter,books,False,Lithuanian,Latn,lt
+Gerumo žingsniai,The Good Place,tv shows,False,Lithuanian,Latn,lt
+Mėnulio apšvietimas,Twilight,books,False,Lithuanian,Latn,lt
+La Famille Mouton,The Mouton Family,tv shows,True,Luxembourgish,Latn,lb
+De Roude Bus,The Red Bus,movies,True,Luxembourgish,Latn,lb
+Herr vun de Rengen,Lord of the Rings,books,False,Luxembourgish,Latn,lb
+De Kafisch vun Babel,The Cage of Babel,book,True,Luxembourgish,Latn,lb
+Monster Hunter,Monster Hunter,video game,False,Luxembourgish,Latn,lb
+De Fluch vun den Affen,The Curse of the Apes,movie,False,Luxembourgish,Latn,lb
+D'Transformeren,The Transformers,tv show,False,Luxembourgish,Latn,lb
+D'Zäichen vun Zäit,The Sign of the Time,book,False,Luxembourgish,Latn,lb
+"D'Marie, d'Majorett an d'Sirenen vun Belle Isle","The Mary, the Majorette, and the Mermaids of Belle Isle",book,True,Luxembourgish,Latn,lb
+De Schtëssekanner vun Dune,The Treasure Hunters of Dune,book,False,Luxembourgish,Latn,lb
+D'Faszinatioun vun Sherlock Holmes,The Fascination of Sherlock Holmes,book,False,Luxembourgish,Latn,lb
+De Léiw vum Atlasgebierch,The Lion of the Atlas Mountains,book,True,Luxembourgish,Latn,lb
+Harry Potter,Harry Potter,book,False,Luxembourgish,Latn,lb
+D'Zinneng vum Zoubehürwinkel,The Chronicles of Narnia,book,False,Luxembourgish,Latn,lb
+D'Fallllijst vun Constance Kopp,Constance Kopp Series,book,False,Luxembourgish,Latn,lb
+Déi eelef Prënzen,The Eleven Princes,book,True,Luxembourgish,Latn,lb
+D'Stargate,Stargate,tv show,False,Luxembourgish,Latn,lb
+De Fanger vum Opalestaar,The Catcher in the Rye,book,False,Luxembourgish,Latn,lb
+D'Manéieren vun de Wëllecher,The Manners of the Wellecher,books,True,Luxembourgish,Latn,lb
+De Schnéiwittchen an d'7 Zwerge,Snow White and the Seven Dwarfs,movie,False,Luxembourgish,Latn,lb
+Millenium Force,Millennium Force,video game,False,Luxembourgish,Latn,lb
+Tatort,Tatort,tv show,False,Luxembourgish,Latn,lb
+Herr der Ringe,The Lord of the Rings,book,False,Luxembourgish,Latn,lb
+D'Simpsons,The Simpsons,tv show,False,Luxembourgish,Latn,lb
+Star Wars,Star Wars,movies,False,Luxembourgish,Latn,lb
+Game of Thrones,Game of Thrones,tv shows,False,Luxembourgish,Latn,lb
+D'Monde vu muer,The Hunger Games,books,False,Luxembourgish,Latn,lb
+Super Mario,Super Mario,video games,False,Luxembourgish,Latn,lb
+De Kanner vun Härz,The Children of the Heart,books,True,Luxembourgish,Latn,lb
+De Schatz vum Pirat,The Pirate's Treasure,video games,True,Luxembourgish,Latn,lb
+Третиот човек,The Third Man,movie,False,Macedonian,Cyrl,mk
+Прозорецот на моето лице,The Window to My Face,tv show,True,Macedonian,Cyrl,mk
+Врати на мојата фантазија,Doors to My Fantasy,tv show,True,Macedonian,Cyrl,mk
+Светлина од леден брег,Light from an Iceberg,book,True,Macedonian,Cyrl,mk
+Касета на Ноксфилд,Box of Noxfield,book,True,Macedonian,Cyrl,mk
+Буслама,Gravity,movie,False,Macedonian,Cyrl,mk
+Книга на духовно злато,Book of Golden Spirit,book,True,Macedonian,Cyrl,mk
+Меѓустрој,Interstellar,movie,False,Macedonian,Cyrl,mk
+Гледачот на Косковото масло,The Burnt Orange Heresy,movie,False,Macedonian,Cyrl,mk
+Крал на бука,Noise King,video game,True,Macedonian,Cyrl,mk
+Сонцето е исто како нас,The Sun Is Also a Star,book,True,Macedonian,Cyrl,mk
+Коралнинаја,Coraline,book,False,Macedonian,Cyrl,mk
+Алвин и вјоржевите веселби,Alvin and the Chipmunks,movie,False,Macedonian,Cyrl,mk
+Пепељарникот,The Ashtray,movie,True,Macedonian,Cyrl,mk
+Игра на моќи,Power Game,video game,False,Macedonian,Cyrl,mk
+Приказни од Полумракот,Twilight Saga,book,False,Macedonian,Cyrl,mk
+Вната Војна,Inside War,tv show,True,Macedonian,Cyrl,mk
+Вовед во натприродното,Introduction to the Supernatural,book,True,Macedonian,Cyrl,mk
+Игра на тронови,Game of Thrones,tv show,False,Macedonian,Cyrl,mk
+Замокот на Убавата Дороти,The Castle of the Beautiful Dorothy,book,True,Macedonian,Cyrl,mk
+BoBoiBoy,BoBoiBoy,tv shows,True,Malay,Latn,ms
+Kabali,Kabali,movies,True,Malay,Latn,ms
+Boboboi The Movie,Boboboi The Movie,movies,True,Malay,Latn,ms
+Hikayat Sang Kancil,The Tale of Sang Kancil,books,True,Malay,Latn,ms
+Assassin's Creed,Assassin's Creed,video games,False,Malay,Latn,ms
+Pak Belalang,Mr. Cicada,tv shows,True,Malay,Latn,ms
+Misi: 3D,Mission: 3D,books,True,Malay,Latn,ms
+Munafik,Munafik,movies,True,Malay,Latn,ms
+Naruto,Naruto,tv shows,False,Malay,Latn,ms
+Overwatch,Overwatch,video games,False,Malay,Latn,ms
+Harry Potter,Harry Potter,books,False,Malay,Latn,ms
+Ular,The Snake,books,True,Malay,Latn,ms
+The Hunger Games,The Hunger Games,books,False,Malay,Latn,ms
+Doraemon,Doraemon,tv shows,False,Malay,Latn,ms
+Sepet,Sepet,movies,True,Malay,Latn,ms
+Final Fantasy,Final Fantasy,video games,False,Malay,Latn,ms
+Ola Bola,Ola Bola,movies,True,Malay,Latn,ms
+The God of Small Things,The God of Small Things,books,False,Malay,Latn,ms
+Upin & Ipin,Upin & Ipin,tv shows,True,Malay,Latn,ms
+"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hidden Dragon",movies,False,Malay,Latn,ms
+ഹരി പോട്ടർ,Harry Potter,books,False,Malayalam,Mlym,ml
+പിന്ഗുയിൽ,Pingu,tv shows,False,Malayalam,Mlym,ml
+അവതാർ,Avatar,movies,False,Malayalam,Mlym,ml
+പോക്കേമോൺ,Pokemon,video games,False,Malayalam,Mlym,ml
+ബാർമി,Barbie,books,False,Malayalam,Mlym,ml
+നീരജ്ജി,Niranjana,tv shows,True,Malayalam,Mlym,ml
+കെട്ടിയാത്ര,Kettiyathra,movies,True,Malayalam,Mlym,ml
+മുത്തായന്,Muttayanu,video games,True,Malayalam,Mlym,ml
+രാജാവ്,Rajavu,movies,True,Malayalam,Mlym,ml
+കാൻഡമാണ്,Kandaman,video games,True,Malayalam,Mlym,ml
+ഹാരിസ്പോട്ടർ,HariSpotter,books,True,Malayalam,Mlym,ml
+തുമ്ബൻകള്,ThumbanKal,tv shows,True,Malayalam,Mlym,ml
+അർക്കാ,Arka,video games,True,Malayalam,Mlym,ml
+അർക്കാ,Arka,movies,True,Malayalam,Mlym,ml
+അർക്കാ,Arka,tv shows,True,Malayalam,Mlym,ml
+കമബ്യൂസ്,Cambridge,books,False,Malayalam,Mlym,ml
+അർക്കാ,Arka,video games,True,Malayalam,Mlym,ml
+അർക്കാ,Arka,movies,True,Malayalam,Mlym,ml
+പിൽപിൾ,PillPill,tv shows,True,Malayalam,Mlym,ml
+അർക്കാ,Arka,books,True,Malayalam,Mlym,ml
+ग्रे कर्नर,Gray's Anatomy,tv show,False,Marathi,Deva,mr
+रॉकी,Rocky,movie,False,Marathi,Deva,mr
+टाइगर किंग,Tiger King,tv show,False,Marathi,Deva,mr
+बलवंत,Balvant,tv show,True,Marathi,Deva,mr
+अलादीन,Aladdin,movie,False,Marathi,Deva,mr
+गद्दार,Gaddar,book,True,Marathi,Deva,mr
+हालो,Halo,video game,False,Marathi,Deva,mr
+आईरन मॅन,Iron Man,movie,False,Marathi,Deva,mr
+सौंगता दरा साखरा,Saukat Dara Sakara,movie,True,Marathi,Deva,mr
+उपवास,Upvas,book,True,Marathi,Deva,mr
+बाळगाव,Balgav,tv show,True,Marathi,Deva,mr
+हरी पॉटर,Harry Potter,book,False,Marathi,Deva,mr
+चव्हाण,Chavhan,book,True,Marathi,Deva,mr
+फिफा,FIFA,video game,False,Marathi,Deva,mr
+गेम ऑफ थ्रोन्स,Game of Thrones,tv show,False,Marathi,Deva,mr
+पोकेमोन,Pokemon,video game,False,Marathi,Deva,mr
+सुखाचा शुधीर,Sukhacha Sudhir,movie,True,Marathi,Deva,mr
+द प्रिंसेस डायरीज़,The Princess Diaries,book,False,Marathi,Deva,mr
+लेगो स्टार वार्स,Lego Star Wars,video game,False,Marathi,Deva,mr
+विक्रम वेटला,Vikram Vetal,tv show,True,Marathi,Deva,mr
+Космоги,Star Wars,movie,False,Mongolian,Cyrl,mn
+Стрипика,Stranger Things,tv show,False,Mongolian,Cyrl,mn
+Хонгил,The Hobbit,book,False,Mongolian,Cyrl,mn
+Эвийн төлөөх,The Avengers,movie,False,Mongolian,Cyrl,mn
+Самбартай болгох,The Flash,tv show,False,Mongolian,Cyrl,mn
+Царайн уурхай,The Crown,tv show,False,Mongolian,Cyrl,mn
+Борт буудлагч,The Departed,movie,False,Mongolian,Cyrl,mn
+Дан бууцууд,Ocean's Eleven,movie,False,Mongolian,Cyrl,mn
+Тэрэлч,Avatar,movie,False,Mongolian,Cyrl,mn
+Есөн бүгд,Twilight,book,False,Mongolian,Cyrl,mn
+Залуусын цаг,The Witcher,video game,False,Mongolian,Cyrl,mn
+Морь,The Hunger Games,book,False,Mongolian,Cyrl,mn
+Жонуудын дурсамж,Fantastic Beasts,movie,False,Mongolian,Cyrl,mn
+Тургондын хүн,Sherlock Holmes,tv show,False,Mongolian,Cyrl,mn
+Улаан бургат,Red Dead Redemption,video game,False,Mongolian,Cyrl,mn
+Сорогч,Lord of the Rings,book,False,Mongolian,Cyrl,mn
+Гүнд,Game of Thrones,tv show,False,Mongolian,Cyrl,mn
+Монгоол,Mongol,movie,True,Mongolian,Cyrl,mn
+Миргүүлэлтүүдийн үсэг,The Mortal Instruments,book,False,Mongolian,Cyrl,mn
+Онгон гол,The Pianist,movie,False,Mongolian,Cyrl,mn
+दी हंगर गेम्स,The Hunger Games,books,False,Nepali,Deva,ne
+जेम्स बॉंड,James Bond,movies,False,Nepali,Deva,ne
+दी गोन गर्ल,Gone Girl,books,False,Nepali,Deva,ne
+वाल्ड ऑफ वारक्राफ्ट,World of Warcraft,video games,False,Nepali,Deva,ne
+दी लॉर्ड ऑफ द रिंग्स,The Lord of the Rings,movies,False,Nepali,Deva,ne
+दी ओफिस,The Office,tv shows,False,Nepali,Deva,ne
+दी विचर,The Witcher,video games,False,Nepali,Deva,ne
+मन्डलोरियन,The Mandalorian,tv shows,False,Nepali,Deva,ne
+कान्डो,Candle,books,True,Nepali,Deva,ne
+मर्डर से बेटर,"Murder, She Wrote",tv shows,False,Nepali,Deva,ne
+ओवरवाच,Overwatch,video games,False,Nepali,Deva,ne
+सुपरक्विज़,The Super Twins,books,True,Nepali,Deva,ne
+दीप ाइन द डार्कनेस,Dying Light,video games,False,Nepali,Deva,ne
+महाभारत,Mahabharata,tv shows,True,Nepali,Deva,ne
+रामायण,Ramayana,books,True,Nepali,Deva,ne
+लास्ट ऑफ अस,The Last of Us,video games,False,Nepali,Deva,ne
+मलिका हेल्स,Maleficent,movies,False,Nepali,Deva,ne
+डॉक्टर हुँटर,Doctor Who,tv shows,False,Nepali,Deva,ne
+हर्री पोटर,Harry Potter,books,False,Nepali,Deva,ne
+अवतार,Avatar,movies,False,Nepali,Deva,ne
+Fortnite,Fortnite,video games,False,Norwegian (Bokmål),Latn,no
+The Witcher,The Witcher,books,False,Norwegian (Bokmål),Latn,no
+Game of Thrones,Game of Thrones,tv shows,False,Norwegian (Bokmål),Latn,no
+The Lord of the Rings,The Lord of the Rings,books,False,Norwegian (Bokmål),Latn,no
+Assassin's Creed,Assassin's Creed,video games,False,Norwegian (Bokmål),Latn,no
+Harry Potter,Harry Potter,books,False,Norwegian (Bokmål),Latn,no
+Moomins,Moomins,books,True,Norwegian (Bokmål),Latn,no
+Anne of Green Gables,Anne of Green Gables,books,False,Norwegian (Bokmål),Latn,no
+Stranger Things,Stranger Things,tv shows,False,Norwegian (Bokmål),Latn,no
+Norse Mythology,Norse Mythology,books,True,Norwegian (Bokmål),Latn,no
+Skam,Skam,tv shows,True,Norwegian (Bokmål),Latn,no
+Vikings,Vikings,tv shows,True,Norwegian (Bokmål),Latn,no
+Frozen,Frozen,movies,True,Norwegian (Bokmål),Latn,no
+The Last Kingdom,The Last Kingdom,tv shows,False,Norwegian (Bokmål),Latn,no
+The Snowman,The Snowman,books,True,Norwegian (Bokmål),Latn,no
+Skjelvet,The Quake,movies,True,Norwegian (Bokmål),Latn,no
+Minecraft,Minecraft,video games,False,Norwegian (Bokmål),Latn,no
+The Bridge,The Bridge,tv shows,True,Norwegian (Bokmål),Latn,no
+The Hunger Games,The Hunger Games,books,False,Norwegian (Bokmål),Latn,no
+The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,books,False,Norwegian (Bokmål),Latn,no
+The Witcher,The Witcher,books,False,Norwegian (Nynorsk),Latn,nn
+Hodejegerne,Headhunters,movies,True,Norwegian (Nynorsk),Latn,nn
+Draugen,Draugen,video games,True,Norwegian (Nynorsk),Latn,nn
+Harry Potter,Harry Potter,books,False,Norwegian (Nynorsk),Latn,nn
+Kampen om Tungtvannet,The Heavy Water War,tv shows,True,Norwegian (Nynorsk),Latn,nn
+Skam,Shame,tv shows,True,Norwegian (Nynorsk),Latn,nn
+Hverdagsmysterier,Everyday Mysteries,tv shows,True,Norwegian (Nynorsk),Latn,nn
+Vedergall,Game of Thrones,tv shows,False,Norwegian (Nynorsk),Latn,nn
+Død snø,Dead Snow,movies,True,Norwegian (Nynorsk),Latn,nn
+Ringenes Herre,The Lord of the Rings,books,False,Norwegian (Nynorsk),Latn,nn
+Sult,Hunger,books,True,Norwegian (Nynorsk),Latn,nn
+Assassin's Creed,Assassin's Creed,video games,False,Norwegian (Nynorsk),Latn,nn
+Trolljegeren,Trollhunter,movies,True,Norwegian (Nynorsk),Latn,nn
+Kon-Tiki,Kon-Tiki,movies,True,Norwegian (Nynorsk),Latn,nn
+Okkupert,Occupied,tv shows,True,Norwegian (Nynorsk),Latn,nn
+Unravel,Unravel,video games,False,Norwegian (Nynorsk),Latn,nn
+Assimilator,Assimilator,video games,True,Norwegian (Nynorsk),Latn,nn
+Max Manus,Max Manus: Man of War,movies,True,Norwegian (Nynorsk),Latn,nn
+Broen,The Bridge,tv shows,True,Norwegian (Nynorsk),Latn,nn
+The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,books,False,Norwegian (Nynorsk),Latn,nn
+L'Informèr,The Informer,movie,True,Occitan,Latn,oc
+Les Raïons X,The X-Files,tv show,False,Occitan,Latn,oc
+Jòcs de Tron,Tron,movie,False,Occitan,Latn,oc
+La Vala d'o Paurós,The Valley of Fear,book,True,Occitan,Latn,oc
+Lo Tròs de Fèges,The Lord of the Flies,book,False,Occitan,Latn,oc
+L'Ensenhador de Berlin,The Teacher,tv show,True,Occitan,Latn,oc
+Harry Potter,Harry Potter,book,False,Occitan,Latn,oc
+L'orror a Arkham,The Call of Cthulhu,tabletop game,False,Occitan,Latn,oc
+Game of Thrones,Game of Thrones,tv show,False,Occitan,Latn,oc
+La Muntanha del Rujat Inexorable,The Mountain of Inexorable Truth,book,True,Occitan,Latn,oc
+Assassin's Creed,Assassin's Creed,video game,False,Occitan,Latn,oc
+Los Jocs de Totes Galàxies,The Hunger Games,book,False,Occitan,Latn,oc
+Lo Seinh de l'Anèl,The Lord of the Rings,book,False,Occitan,Latn,oc
+La Guèrra de las Galàxies,Star Wars,movie,False,Occitan,Latn,oc
+Dragon Ball,Dragon Ball,anime,False,Occitan,Latn,oc
+La Sèrie de la Magix,The Magicians,tv show,False,Occitan,Latn,oc
+Leis Aventuras de Sherlock Holmes,The Adventures of Sherlock Holmes,book,False,Occitan,Latn,oc
+Los Simpsons,The Simpsons,tv show,False,Occitan,Latn,oc
+La Fèsta de Backyardigans,The Backyardigans,tv show,False,Occitan,Latn,oc
+Les Aventuras de Tintin,The Adventures of Tintin,comic book,False,Occitan,Latn,oc
+فیلم بادبزن وکیل شهر,The Wind Blows Free Movie,movies,True,Persian,Arab,fa
+کتاب شیطان,The Devil Book,books,False,Persian,Arab,fa
+بازی شاهزاده دوران,Prince of Persia: Warrior Within,video games,False,Persian,Arab,fa
+کتاب هنر اعتماد به نفس,The Art of Self-Confidence Book,books,True,Persian,Arab,fa
+سریال تختخواب,Takh-e-Bazi TV Series,tv shows,True,Persian,Arab,fa
+بازی مهتاب,Silent Hill,video games,False,Persian,Arab,fa
+فیلم سرگذشت ایران ناز,Saga of the Iranian Down,movies,True,Persian,Arab,fa
+برنامه تلویزیونی شبی که ماه کامل شد,The Night the Moon was Full TV Series,tv shows,True,Persian,Arab,fa
+بازی پرنس اوف پرشیا: شهزاده زمان,Prince of Persia: The Sands of Time,video games,False,Persian,Arab,fa
+فیلم شهرزاد,Shahrzad,movies,True,Persian,Arab,fa
+کتاب خاطرات یک دختر ۱۶ ساله,The Diary of a 16 Year Old Girl,books,True,Persian,Arab,fa
+مجموعه ۲۳ قانون موفقیت,The 23 Laws of Success,books,False,Persian,Arab,fa
+بازی سندباد,Prince of Persia,video games,False,Persian,Arab,fa
+فیلم وزیر,The Wazir,movies,True,Persian,Arab,fa
+دنیای قبل از تاریخ,Prehistoric Park,tv shows,False,Persian,Arab,fa
+بازی تاج و تخت,Game of Thrones,tv shows,False,Persian,Arab,fa
+رستم و سهراب,Rostam and Sohrab,books,True,Persian,Arab,fa
+هری پاتر,Harry Potter,books,False,Persian,Arab,fa
+شاهنامه,Shahnameh,books,True,Persian,Arab,fa
+سریال مورتال کامبت,Mortal Kombat Series,tv shows,False,Persian,Arab,fa
+The Last of Us,The Last of Us,video games,False,Polish,Latn,pl
+Stranger Things,Stranger Things,tv shows,False,Polish,Latn,pl
+W pustyni i w puszczy,In Desert and Wilderness,books,True,Polish,Latn,pl
+Dzieci Z Bullerbyn,Children of Noisy Village,books,True,Polish,Latn,pl
+Gwiezdne wojny,Star Wars,movies,False,Polish,Latn,pl
+Cyberpunk 2077,Cyberpunk 2077,video games,False,Polish,Latn,pl
+Pan Wołodyjowski,Colonel Wolodyjowski,books,True,Polish,Latn,pl
+Książę Czartoryski,The Prince of Czartoryski,books,True,Polish,Latn,pl
+Rick and Morty,Rick and Morty,tv shows,False,Polish,Latn,pl
+Assassin's Creed,Assassin's Creed,video games,False,Polish,Latn,pl
+Krzyżacy,The Teutonic Knights,books,True,Polish,Latn,pl
+Zaklinacz koni,The Horse Whisperer,books,False,Polish,Latn,pl
+Star Wars,Star Wars,movies,False,Polish,Latn,pl
+Wataha,The Pack,tv shows,True,Polish,Latn,pl
+Metro 2033,Metro 2033,books,False,Polish,Latn,pl
+Władca Pierścieni,The Lord of the Rings,books,False,Polish,Latn,pl
+Gra o tron,Game of Thrones,tv shows,False,Polish,Latn,pl
+Wiedźmin,The Witcher,books,True,Polish,Latn,pl
+Harry Potter,Harry Potter,books,False,Polish,Latn,pl
+Seksmisja,Sexmission,movies,True,Polish,Latn,pl
+Piratas das Caraíbas,Pirates of the Caribbean,movies,False,Portuguese,Latn,pt
+Avatar,Avatar,movies,False,Portuguese,Latn,pt
+Star Wars,Star Wars,movies,False,Portuguese,Latn,pt
+O Senhor dos Anéis,The Lord of the Rings,movies,False,Portuguese,Latn,pt
+Vikings,Vikings,tv shows,False,Portuguese,Latn,pt
+Narcos,Narcos,tv shows,False,Portuguese,Latn,pt
+Senhor dos Anéis,The Lord of the Rings,books,False,Portuguese,Latn,pt
+A Culpa é das Estrelas,The Fault in Our Stars,books,True,Portuguese,Latn,pt
+A Guerra dos Tronos,A Song of Ice and Fire,books,False,Portuguese,Latn,pt
+Game of Thrones,Game of Thrones,tv shows,False,Portuguese,Latn,pt
+Harry Potter,Harry Potter,books,False,Portuguese,Latn,pt
+The Witcher,The Witcher,books,False,Portuguese,Latn,pt
+La Casa de Papel,Money Heist,tv shows,False,Portuguese,Latn,pt
+Pedro e Inês,Pedro and Inês,books,True,Portuguese,Latn,pt
+The Last of Us,The Last of Us,video games,False,Portuguese,Latn,pt
+Assassin's Creed,Assassin's Creed,video games,False,Portuguese,Latn,pt
+"Papers, Please","Papers, Please",video games,False,Portuguese,Latn,pt
+As Crónicas de Gelo e Fogo,A Song of Ice and Fire,books,True,Portuguese,Latn,pt
+Iberia,Iberia,books,True,Portuguese,Latn,pt
+O Conde de Abranhos,The Count of Abranhos,books,True,Portuguese,Latn,pt
+ਰਾਮਾਇਣ,Ramayana,books,True,Punjabi,Guru,pa
+ਲੰਡੋਂ ਪਾਪਰ,London Papar,tv shows,True,Punjabi,Guru,pa
+ਦੇਸੀ ਬੋਲ,Desi Bool,tv shows,True,Punjabi,Guru,pa
+ਮਿਡਨਾਈਟ ਸਨਾਃਪ,Midnight Sun,books,False,Punjabi,Guru,pa
+ਵਿਕਾਇਲ ਪੈਰਾਗਾਨਸ,Vikail Peragans,video games,False,Punjabi,Guru,pa
+ਮ਼ਰਂਤੂ ਦੇ ਖੇਤ,Marantu De Khet,tv shows,True,Punjabi,Guru,pa
+ਹੈਰੀ ਪੋਟਰ,Harry Potter,books,False,Punjabi,Guru,pa
+ਸੈਂਪਸਨ,Simpsons,tv shows,False,Punjabi,Guru,pa
+ਦਿਲ ਵਿੱਚ ਸੱਡਾ,Dilwale Dulhania Le Jayenge,movies,True,Punjabi,Guru,pa
+ਵਾਰਕਰਾਫਟ,Warcraft,video games,False,Punjabi,Guru,pa
+ਗੋਨ ਵਿਥ ਦੀ ਵਿੰਡ,Gone with the Wind,books,False,Punjabi,Guru,pa
+ਪੁਲਾ ਭਾਤ,Pula Bhath,food,True,Punjabi,Guru,pa
+ਸ੍ਰੀਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ,Sri Guru Granth Sahib,books,True,Punjabi,Guru,pa
+ਲਵ ਸਟੋਰੀ,Love Story,movies,False,Punjabi,Guru,pa
+ਬਾਈਬਲ,Bible,books,False,Punjabi,Guru,pa
+ਸਿੰਗੂਡਾ ਦੀ ਬੂਟੀ,Singham,movies,True,Punjabi,Guru,pa
+ਵੈੱਨਡਰ ਵੁਮਨ,Wonder Woman,movies,False,Punjabi,Guru,pa
+ਰਾਮਚਰਿਤ ਮਾਨਸ,Ramcharit Manas,books,True,Punjabi,Guru,pa
+ਪੰਜਾਬੀ ਪੁਲਾਭ,Punjabi Pulav,food,True,Punjabi,Guru,pa
+ਗਾਗਸਿੰਗ ਰਾ ਭਾਗਛਾਨ,Gagsing Ra Bhagchhan,tv shows,True,Punjabi,Guru,pa
+Harry Potter,Harry Potter,books,False,Romanian,Latn,ro
+Pădurea spânzuraților,The Forest of the Hanged,books,True,Romanian,Latn,ro
+Assassin's Creed,Assassin's Creed,video games,False,Romanian,Latn,ro
+The Walking Dead,The Walking Dead,tv shows,False,Romanian,Latn,ro
+Amintiri din copilărie,Childhood Memories,books,True,Romanian,Latn,ro
+Super Mario,Super Mario,video games,False,Romanian,Latn,ro
+Casa de sticlă,The Glass Castle,books,False,Romanian,Latn,ro
+Să nu mă părăsești,Don't Leave Me,tv shows,True,Romanian,Latn,ro
+Frumoasa și Bestia,Beauty and the Beast,movies,False,Romanian,Latn,ro
+Război și pace,War and Peace,books,False,Romanian,Latn,ro
+Game of Thrones,Game of Thrones,tv shows,False,Romanian,Latn,ro
+Let the Right One In,Let the Right One In,movies,False,Romanian,Latn,ro
+Peaky Blinders,Peaky Blinders,tv shows,False,Romanian,Latn,ro
+Ultimul mohican,The Last of the Mohicans,books,False,Romanian,Latn,ro
+La La Land,La La Land,movies,False,Romanian,Latn,ro
+Cercul de foc,Ring of Fire,books,True,Romanian,Latn,ro
+Poveste de cartier,Neighborhood Story,tv shows,True,Romanian,Latn,ro
+Cântec de gheață și foc,A Song of Ice and Fire,books,False,Romanian,Latn,ro
+The Lord of the Rings,The Lord of the Rings,books,False,Romanian,Latn,ro
+Vara s-a sfârșit,Summer has ended,books,True,Romanian,Latn,ro
+Гарри Поттер,Harry Potter,books,False,Russian,Cyrl,ru
+Игра престолов,Game of Thrones,tv shows,False,Russian,Cyrl,ru
+Мстители,The Avengers,movies,False,Russian,Cyrl,ru
+Ведьмак,The Witcher,video games,False,Russian,Cyrl,ru
+Сталкер,Stalker,video games,True,Russian,Cyrl,ru
+Анна Каренина,Anna Karenina,books,True,Russian,Cyrl,ru
+Три товарища,Three Comrades,books,True,Russian,Cyrl,ru
+Декамерон,The Decameron,books,False,Russian,Cyrl,ru
+Шерлок Холмс,Sherlock Holmes,books,False,Russian,Cyrl,ru
+Человек-паук,Spider-Man,movies,False,Russian,Cyrl,ru
+Звездные войны,Star Wars,movies,False,Russian,Cyrl,ru
+Форсаж,The Fast and the Furious,movies,False,Russian,Cyrl,ru
+Властелин колец,The Lord of the Rings,books,False,Russian,Cyrl,ru
+Друзья,Friends,tv shows,False,Russian,Cyrl,ru
+Ведьмак 3: Дикая Охота,The Witcher 3: Wild Hunt,video games,False,Russian,Cyrl,ru
+Wiedźmin 3: Dziki Gon,The Witcher 3: Wild Hunt (Polish version),video games,False,Russian,Cyrl,ru
+Игра престолов: Игра,Game of Thrones: The Game,video games,False,Russian,Cyrl,ru
+Метро 2033,Metro 2033,books,True,Russian,Cyrl,ru
+Солярис,Solaris,movies,True,Russian,Cyrl,ru
+Республика ШКИД,Respublika SHKID,tv shows,True,Russian,Cyrl,ru
+Trainspotting,Trainspotting,movies,True,Scots,Latn,sco
+Scottish Clans,Scottish Clans,books,True,Scots,Latn,sco
+Whisky Galore!,Whisky Galore!,movies,True,Scots,Latn,sco
+The Crown,The Crown,tv shows,False,Scots,Latn,sco
+Iain Banks,Iain Banks,books,True,Scots,Latn,sco
+Assassin's Creed,Assassin's Creed,video games,False,Scots,Latn,sco
+Filth,Filth,movies,True,Scots,Latn,sco
+Downton Abbey,Downton Abbey,tv shows,False,Scots,Latn,sco
+The Prime of Miss Jean Brodie,The Prime of Miss Jean Brodie,books,True,Scots,Latn,sco
+Fallout,Fallout,video games,False,Scots,Latn,sco
+Local Hero,Local Hero,movies,True,Scots,Latn,sco
+Sherlock,Sherlock,tv shows,False,Scots,Latn,sco
+Harry Potter,Harry Potter,books,False,Scots,Latn,sco
+Outlander,Outlander,tv shows,False,Scots,Latn,sco
+Braveheart,Braveheart,movies,True,Scots,Latn,sco
+Grand Theft Auto,Grand Theft Auto,video games,False,Scots,Latn,sco
+Val McDermid,Val McDermid,books,True,Scots,Latn,sco
+Doctor Who,Doctor Who,tv shows,False,Scots,Latn,sco
+The Elder Scrolls,The Elder Scrolls,video games,False,Scots,Latn,sco
+Jackie Kay,Jackie Kay,books,True,Scots,Latn,sco
+Downton Abbey,Downton Abbey,tv shows,False,Serbian,Cyrl/Latn,sr
+Prijatelji,Friends,tv shows,False,Serbian,Cyrl/Latn,sr
+Nocna ptica,Night Bird,books,True,Serbian,Cyrl/Latn,sr
+Troja,Troy,movies,False,Serbian,Cyrl/Latn,sr
+Ljubav je na selu,Love is in the Village,tv shows,True,Serbian,Cyrl/Latn,sr
+Prokleti zivot,Cursed Life,books,True,Serbian,Cyrl/Latn,sr
+Peaky Blinders,Peaky Blinders,tv shows,False,Serbian,Cyrl/Latn,sr
+Vojna akademija,Military Academy,tv shows,True,Serbian,Cyrl/Latn,sr
+Na rubu zaborava,On the Edge of Oblivion,tv shows,True,Serbian,Cyrl/Latn,sr
+Dvojnici,Doppelgangers,books,True,Serbian,Cyrl/Latn,sr
+The Witcher,The Witcher,video games,False,Serbian,Cyrl/Latn,sr
+Ljubavni romani,Romance Novels,books,True,Serbian,Cyrl/Latn,sr
+Sablja istine,The Sword of Truth,books,False,Serbian,Cyrl/Latn,sr
+Igra prestola,Game of Thrones,tv shows,False,Serbian,Cyrl/Latn,sr
+Vukodlaci,Werewolves,books,True,Serbian,Cyrl/Latn,sr
+Serijal o Vampirima,The Vampire Diaries,tv shows,False,Serbian,Cyrl/Latn,sr
+Harry Potter,Harry Potter,books,False,Serbian,Cyrl/Latn,sr
+Game of Thrones,Game of Thrones,tv shows,False,Serbian,Cyrl/Latn,sr
+Vampire Chronicles,Vampire Chronicles,books,False,Serbian,Cyrl/Latn,sr
+Pazi sta zelis,Be Careful What You Wish For,movies,False,Serbian,Cyrl/Latn,sr
+Ubisoftov Assassin's Creed,Assassin's Creed by Ubisoft,video games,False,Serbo-Croatian,Latn,sh
+Moj mali poni,My Little Pony,tv shows,False,Serbo-Croatian,Latn,sh
+Na kraju svijeta,At World's End,movies,True,Serbo-Croatian,Latn,sh
+Igra prijestolja,Game of Thrones,tv shows,False,Serbo-Croatian,Latn,sh
+Gospodar prstenova,Lord of the Rings,movies,False,Serbo-Croatian,Latn,sh
+Vojna akademija,Military Academy,tv shows,True,Serbo-Croatian,Latn,sh
+Candy Crush,Candy Crush,video games,False,Serbo-Croatian,Latn,sh
+Osveta,Revenge,tv shows,True,Serbo-Croatian,Latn,sh
+Koreni,Roots,tv shows,True,Serbo-Croatian,Latn,sh
+Igre gladi,The Hunger Games,books,False,Serbo-Croatian,Latn,sh
+The Last of Us,The Last of Us,video games,False,Serbo-Croatian,Latn,sh
+Sumrak saga,Twilight Saga,books,False,Serbo-Croatian,Latn,sh
+Čarobnjakov vještak,The Wizard's Apprentice,books,True,Serbo-Croatian,Latn,sh
+Senzacija,Sensation,tv shows,True,Serbo-Croatian,Latn,sh
+Grand Theft Auto,Grand Theft Auto,video games,False,Serbo-Croatian,Latn,sh
+Zakon braće,Entourage,tv shows,False,Serbo-Croatian,Latn,sh
+Harry Potter,Harry Potter,books,False,Serbo-Croatian,Latn,sh
+Pokretački program za igre,Game Dev Story,video games,False,Serbo-Croatian,Latn,sh
+Legendarna škola,Legendary School,books,True,Serbo-Croatian,Latn,sh
+Razbijeni,Shattered,books,True,Serbo-Croatian,Latn,sh
+Minecraft,Minecraft,video games,False,Simple English,Latn,simple
+Doctor Who,Doctor Who,tv shows,False,Simple English,Latn,simple
+The Hobbit,The Hobbit,books,False,Simple English,Latn,simple
+Black Mirror,Black Mirror,tv shows,False,Simple English,Latn,simple
+Overwatch,Overwatch,video games,False,Simple English,Latn,simple
+Downton Abbey,Downton Abbey,tv shows,False,Simple English,Latn,simple
+Alice in Wonderland,Alice in Wonderland,books,False,Simple English,Latn,simple
+Attack on Titan,Attack on Titan,tv shows,False,Simple English,Latn,simple
+Stranger Things,Stranger Things,tv shows,False,Simple English,Latn,simple
+The Hunger Games,The Hunger Games,books,False,Simple English,Latn,simple
+Sherlock Holmes,Sherlock Holmes,books,False,Simple English,Latn,simple
+Assassin's Creed,Assassin's Creed,video games,False,Simple English,Latn,simple
+Avatar: The Last Airbender,Avatar: The Last Airbender,tv shows,False,Simple English,Latn,simple
+The Lord of the Rings,The Lord of the Rings,books,False,Simple English,Latn,simple
+My Hero Academia,My Hero Academia,tv shows,False,Simple English,Latn,simple
+Percy Jackson,Percy Jackson,books,False,Simple English,Latn,simple
+Star Wars,Star Wars,movies,False,Simple English,Latn,simple
+Game of Thrones,Game of Thrones,tv shows,False,Simple English,Latn,simple
+The Witcher,The Witcher,tv shows,False,Simple English,Latn,simple
+Harry Potter,Harry Potter,books,False,Simple English,Latn,simple
+අඬුත්‍රාමසීන්,Harry Potter,books,False,Sinhala,Sinh,si
+වස්තම් ලිපි,Wasthma Lipi,book,True,Sinhala,Sinh,si
+පුද්ගලයා,Puthalaya,movie,True,Sinhala,Sinh,si
+මොළා කුමර,Mola Kumara,tv show,True,Sinhala,Sinh,si
+වැරගේ,Warige,book,True,Sinhala,Sinh,si
+රටක් කුමරය,Ratak Kumara,movie,True,Sinhala,Sinh,si
+නහසෙන්,Nahasen,book,True,Sinhala,Sinh,si
+නරුතන් ආදරේ,Naruthanadare,movie,True,Sinhala,Sinh,si
+පොස්ටර්යාඩෛව,Postardyadewa,tv show,True,Sinhala,Sinh,si
+ආත්මාර්ථය,Aatmarthaya,movie,True,Sinhala,Sinh,si
+පන්ස් අධ්‍යාපනය,Pans Adyapanaya,tv show,True,Sinhala,Sinh,si
+මොෂ ලබනය,Mosh Labanaya,tv show,True,Sinhala,Sinh,si
+අදහස්,Adahasa,book,True,Sinhala,Sinh,si
+රෝෂිකයා,Rosie,tv show,True,Sinhala,Sinh,si
+අළුත්ම විරස,Latest Warsha,books,True,Sinhala,Sinh,si
+රෙඩ් අසු,Red Dead,video game,False,Sinhala,Sinh,si
+මහේෂ්,Mahesh,tv show,True,Sinhala,Sinh,si
+විශිෂ්ටත්වය,Vishita Waya,tv show,True,Sinhala,Sinh,si
+ජනප්‍රියම කෙනාගු,Janapriyama Kenagu,book,False,Sinhala,Sinh,si
+නායකතාව,Nayakathawa,movie,True,Sinhala,Sinh,si
+Čarovná skrinka,The Magic Box,movies,True,Slovak,Latn,sk
+Uncharted,Uncharted,video games,False,Slovak,Latn,sk
+Medzi Starovekými Stenami,Between Ancient Walls,movies,True,Slovak,Latn,sk
+Cizinka,Foreigner,tv shows,True,Slovak,Latn,sk
+Veľký Trestný Arest,The Great Penal Arrest,books,True,Slovak,Latn,sk
+Assassin's Creed,Assassin's Creed,video games,False,Slovak,Latn,sk
+Bátory,The Bátorys,tv shows,True,Slovak,Latn,sk
+Halo,Halo,video games,False,Slovak,Latn,sk
+The Witcher,The Witcher,tv shows,False,Slovak,Latn,sk
+Pád Špár,The Fall of Špár,tv shows,True,Slovak,Latn,sk
+Diablo,Diablo,video games,False,Slovak,Latn,sk
+Mária Theresia,Maria Theresa,tv shows,True,Slovak,Latn,sk
+"Storočný starček, ktorý vyliezol z okna a zmizol",The 100-Year-Old Man Who Climbed Out the Window and Disappeared,movies,True,Slovak,Latn,sk
+Hra o trůny,Game of Thrones,tv shows,False,Slovak,Latn,sk
+Hobbit,The Hobbit,movies,False,Slovak,Latn,sk
+Game of Thrones,Game of Thrones,tv shows,False,Slovak,Latn,sk
+Harry Potter,Harry Potter,books,False,Slovak,Latn,sk
+Súkromní detektívi,Private Detectives,books,True,Slovak,Latn,sk
+Tajomstvo starých číslic,The Secret of the Old Figures,books,True,Slovak,Latn,sk
+Battlefield,Battlefield,video games,False,Slovak,Latn,sk
+Plan B,Plan B,tv show,True,Slovene,Latn,sl
+Wings of Death,Wings of Death,video game,True,Slovene,Latn,sl
+Gospodar prstanov,The Lord of the Rings,book,False,Slovene,Latn,sl
+Gospodinica Marple,Miss Marple,book,False,Slovene,Latn,sl
+La Casa de Papel,Money Heist,tv show,False,Slovene,Latn,sl
+Niko,Niko,movie,True,Slovene,Latn,sl
+12 stoletje,Twelfth Century,book,True,Slovene,Latn,sl
+Metulj rožnik,Butterfly Lovers,book,True,Slovene,Latn,sl
+Kratos,God of War,video game,False,Slovene,Latn,sl
+Zadnji heroj,Last Hero,comic,True,Slovene,Latn,sl
+Ritem življenja,Rhythm of Life,movie,True,Slovene,Latn,sl
+Sovraštvo in ljubezen,Hatred and Love,book,True,Slovene,Latn,sl
+Soba 5,Room 5,tv show,True,Slovene,Latn,sl
+Sence preteklosti,Shadows of the Past,movie,True,Slovene,Latn,sl
+Batman,Batman,comic,False,Slovene,Latn,sl
+Hobbit: Bitka petih vojska,The Hobbit: The Battle of the Five Armies,movie,False,Slovene,Latn,sl
+Igra prestolov,Game of Thrones,tv show,False,Slovene,Latn,sl
+Zvezdne vojne,Star Wars,movie,False,Slovene,Latn,sl
+Prijatelji,Friends,tv show,False,Slovene,Latn,sl
+Harry Potter,Harry Potter,book,False,Slovene,Latn,sl
+Fare Shabaqa Degdeg,Fast & Furious,movies,False,Somali,Latn,so
+Labo Adkay,The Two Friends,movies,True,Somali,Latn,so
+Qaxootiga,The Refugee,books,True,Somali,Latn,so
+Saldhigyo Mooyaan,Assassin's Creed,video games,False,Somali,Latn,so
+Murugo Xeebta Cad,Breaking Bad,tv shows,False,Somali,Latn,so
+Dhaqanka,Culture,books,True,Somali,Latn,so
+Ubaxa Kowlka,Twilight,books,False,Somali,Latn,so
+Qalambeyaal,The Simpsons,tv shows,False,Somali,Latn,so
+Nolosha Dacar,The Great Gatsby,books,False,Somali,Latn,so
+Dagaal Xor Iyo Xar,Call of Duty,video games,False,Somali,Latn,so
+Maxaa Kala Qabsaday?,Lost,tv shows,True,Somali,Latn,so
+Dareenka Kacaanka,The Walking Dead,tv shows,False,Somali,Latn,so
+Maxaabiis,The Lord of the Rings,books,False,Somali,Latn,so
+Dagaalka Nabada,Star Wars,movies,False,Somali,Latn,so
+Qabyaaladda,Game of Thrones,tv shows,False,Somali,Latn,so
+Jagada Wiilka,Spider-Man,movies,False,Somali,Latn,so
+Gacmaha Labaad,The Hunger Games,books,False,Somali,Latn,so
+Xaaskayga Awoodda,Harry Potter,books,False,Somali,Latn,so
+Xidigka Kala Duwan,The Different Stars,movies,True,Somali,Latn,so
+Birwayn,Uncharted,video games,False,Somali,Latn,so
+آچیق سوز,Game of Thrones,tv show,False,South Azerbaijani,Arab,azb
+آونجلار ويلنسي,The Avengers,movie,False,South Azerbaijani,Arab,azb
+گات هارتس,Harry Potter,book,False,South Azerbaijani,Arab,azb
+جوو اولموش,Pokémon,tv show,False,South Azerbaijani,Arab,azb
+Minecraft,Minecraft,video game,False,South Azerbaijani,Arab,azb
+قوردوله دی فارم,Stardew Valley,video game,False,South Azerbaijani,Arab,azb
+قؤزونله قانلاری,Friends,tv show,False,South Azerbaijani,Arab,azb
+باغلاري چات,Guardians of the Galaxy,movie,False,South Azerbaijani,Arab,azb
+اودن سیندلر,The Lord of the Rings,book,False,South Azerbaijani,Arab,azb
+عنكبوت اديم,Spiderman,movie,False,South Azerbaijani,Arab,azb
+قوروپ دوشنلر,Stranger Things,tv show,False,South Azerbaijani,Arab,azb
+قيزلر قوروپسو,Breaking Bad,tv show,False,South Azerbaijani,Arab,azb
+اودت قتوسو,Modern Family,tv show,False,South Azerbaijani,Arab,azb
+قايدي يوزر,Black Mirror,tv show,False,South Azerbaijani,Arab,azb
+مارو,Mars,tv show,False,South Azerbaijani,Arab,azb
+جيجينلر دونياسي,The Simpsons,tv show,False,South Azerbaijani,Arab,azb
+توم و جري,Tom and Jerry,tv show,False,South Azerbaijani,Arab,azb
+باتمن,Batman,comic book,False,South Azerbaijani,Arab,azb
+قوروش,Exodus,movie,False,South Azerbaijani,Arab,azb
+گؤکباش,Epic of Gilgamesh,book,True,South Azerbaijani,Arab,azb
+噬神者,God Eater,video game,False,Southern Min,Latn,zh-min-nan
+華胥引,Hua Xu Yin,book,True,Southern Min,Latn,zh-min-nan
+阿凡達,Avatar,movie,False,Southern Min,Latn,zh-min-nan
+傲慢與偏見,Pride and Prejudice,book,False,Southern Min,Latn,zh-min-nan
+金大花的華麗冒險,The Bold and the Beautiful,tv show,False,Southern Min,Latn,zh-min-nan
+新白娘子傳奇,The Legend of White Snake,tv show,False,Southern Min,Latn,zh-min-nan
+愛情進化論,Love Evolution,tv show,False,Southern Min,Latn,zh-min-nan
+花甲男孩轉大人,Back to Field,tv show,False,Southern Min,Latn,zh-min-nan
+西遊記,Journey to the West,book,False,Southern Min,Latn,zh-min-nan
+武林外傳,Martial Universe,tv show,False,Southern Min,Latn,zh-min-nan
+仙劍奇俠傳,Chinese Paladin,video game,True,Southern Min,Latn,zh-min-nan
+流星花園,Meteor Garden,tv show,False,Southern Min,Latn,zh-min-nan
+王牌大律師,The Good Wife,tv show,False,Southern Min,Latn,zh-min-nan
+大果之盛,The Great Gatsby,book,False,Southern Min,Latn,zh-min-nan
+劍俠情緣,The Legend of the Condor Heroes,tv show,False,Southern Min,Latn,zh-min-nan
+魔女寶鑑,Mirror of the Witch,tv show,False,Southern Min,Latn,zh-min-nan
+最後一公里,The Final Mile,book,False,Southern Min,Latn,zh-min-nan
+龍鳳鬥,Scarlet Heart,tv show,False,Southern Min,Latn,zh-min-nan
+曼食慾,Chocolate,tv show,False,Southern Min,Latn,zh-min-nan
+宮,Princess Hours,tv show,False,Southern Min,Latn,zh-min-nan
+Game of Thrones,Game of Thrones,tv shows,False,Spanish,Latn,es
+El laberinto del fauno,Pan's Labyrinth,movies,True,Spanish,Latn,es
+The Walking Dead,The Walking Dead,tv shows,False,Spanish,Latn,es
+El internado,The Boarding School,tv shows,True,Spanish,Latn,es
+El señor de los anillos,The Lord of the Rings,books,False,Spanish,Latn,es
+Los juegos del hambre,The Hunger Games,books,False,Spanish,Latn,es
+Super Mario Bros,Super Mario Bros,video games,False,Spanish,Latn,es
+La casa de los espíritus,The House of the Spirits,books,True,Spanish,Latn,es
+Stranger Things,Stranger Things,tv shows,False,Spanish,Latn,es
+Uncharted,Uncharted,video games,False,Spanish,Latn,es
+Harry Potter,Harry Potter,books,False,Spanish,Latn,es
+La catedral del mar,The Cathedral of the Sea,books,True,Spanish,Latn,es
+The Witcher,The Witcher,tv shows,False,Spanish,Latn,es
+Cien años de soledad,One Hundred Years of Solitude,books,True,Spanish,Latn,es
+Resident Evil,Resident Evil,video games,False,Spanish,Latn,es
+Marina,Marina,books,True,Spanish,Latn,es
+Sons of Anarchy,Sons of Anarchy,tv shows,False,Spanish,Latn,es
+Assassin's Creed,Assassin's Creed,video games,False,Spanish,Latn,es
+El barco,The Ship,tv shows,True,Spanish,Latn,es
+La casa de papel,Money Heist,tv shows,True,Spanish,Latn,es
+Kontrola ya Vita vya Nyota,Star Wars: The Clone Wars,tv show,False,Swahili,Latn,sw
+Majesti ya Vifo,Red Dead Redemption,video game,False,Swahili,Latn,sw
+Mfalme wa Mapenzi,Kingdom Hearts,video game,False,Swahili,Latn,sw
+Kijana wa vituko,Harry Potter,book,False,Swahili,Latn,sw
+Sauti ya Mwambao,Moana,movie,False,Swahili,Latn,sw
+Mfalme Simba,The Lion King,movie,True,Swahili,Latn,sw
+Ndege wa Kunyakua,Angry Birds,video game,False,Swahili,Latn,sw
+Paka Mzee,Garfield,comic,False,Swahili,Latn,sw
+Ukungu,Mistborn,book,False,Swahili,Latn,sw
+Udhibiti wa Kuvunja,Breaking Bad,tv show,False,Swahili,Latn,sw
+Mpiganaji wa Mabavu,Street Fighter,video game,False,Swahili,Latn,sw
+Makutano ya Mauti,Game of Thrones,tv show,False,Swahili,Latn,sw
+Mwangamano wa Kifalme,King's Quest,video game,False,Swahili,Latn,sw
+Dunia ya Kioo,The Looking Glass Wars,book,False,Swahili,Latn,sw
+Bendi ya Majanga,Scooby-Doo,tv show,False,Swahili,Latn,sw
+Ujasusi Mkuu,James Bond,movie,False,Swahili,Latn,sw
+Mfululizo Watu wa Kiwinda,Hunger Games,book,False,Swahili,Latn,sw
+Ninjago,Ninjago,tv show,False,Swahili,Latn,sw
+Mwenge wa Simba,The Lion King,book,True,Swahili,Latn,sw
+Simba wa Yuda,Lion King,movie,False,Swahili,Latn,sw
+Star Wars,Star Wars,movies,False,Swedish,Latn,sv
+Pippi Långstrump,Pippi Longstocking,books,True,Swedish,Latn,sv
+The Witcher,The Witcher,books,False,Swedish,Latn,sv
+Färjan,The Ferry,films,True,Swedish,Latn,sv
+Assassin's Creed,Assassin's Creed,video game,False,Swedish,Latn,sv
+Bron,The Bridge,tv show,True,Swedish,Latn,sv
+Vampire: The Masquerade,Vampire: The Masquerade,tabletop role-playing games,False,Swedish,Latn,sv
+Män som hatar kvinnor,The Girl with the Dragon Tattoo,books,True,Swedish,Latn,sv
+DICE spel,DICE games,video games,True,Swedish,Latn,sv
+Game of Thrones,Game of Thrones,tv show,False,Swedish,Latn,sv
+PewDiePie,PewDiePie,YouTube channel,True,Swedish,Latn,sv
+Minecraft,Minecraft,video game,False,Swedish,Latn,sv
+Sagan om Ringen,The Lord of the Rings,books,False,Swedish,Latn,sv
+Broen,The Bridge,tv show,False,Swedish,Latn,sv
+The Sims,The Sims,video game,False,Swedish,Latn,sv
+Johan Falk,Johan Falk,films,True,Swedish,Latn,sv
+Mamma Mia!,Mamma Mia!,musical,False,Swedish,Latn,sv
+Fria Ligan,Free League,tabletop role-playing games,True,Swedish,Latn,sv
+Harry Potter,Harry Potter,books,False,Swedish,Latn,sv
+Viveca Sten böcker,Viveca Sten books,books,True,Swedish,Latn,sv
+Pokemon,Pokemon,tv show,False,Tagalog,Latn,tl
+Voltes V,Voltes V,tv show,True,Tagalog,Latn,tl
+Mulan,Mulan,movies,False,Tagalog,Latn,tl
+One Piece,One Piece,tv show,False,Tagalog,Latn,tl
+Crazy Rich Asians,Crazy Rich Asians,movies,False,Tagalog,Latn,tl
+AlDub,AlDub,tv show,True,Tagalog,Latn,tl
+The Witcher,The Witcher,tv show,False,Tagalog,Latn,tl
+The Hunger Games,The Hunger Games,movies,False,Tagalog,Latn,tl
+Uncharted,Uncharted,video game,False,Tagalog,Latn,tl
+Ang Probinsyano,Ang Probinsyano,tv show,True,Tagalog,Latn,tl
+Harry Potter,Harry Potter,books,False,Tagalog,Latn,tl
+Avengers,Avengers,movies,False,Tagalog,Latn,tl
+Doraemon,Doraemon,tv show,False,Tagalog,Latn,tl
+Encantadia,Encantadia,tv show,True,Tagalog,Latn,tl
+Naruto,Naruto,tv show,False,Tagalog,Latn,tl
+Minecraft,Minecraft,video game,False,Tagalog,Latn,tl
+Noli Me Tangere,Noli Me Tangere,books,True,Tagalog,Latn,tl
+La Luna Sangre,La Luna Sangre,tv show,True,Tagalog,Latn,tl
+Super Mario,Super Mario,video game,False,Tagalog,Latn,tl
+Star Wars,Star Wars,movies,False,Tagalog,Latn,tl
+Бону - Кисса,Bonu - Story,books,True,Tajik,Cyrl/Latn,tg
+Танҳо чор,Only Four,movies,True,Tajik,Cyrl/Latn,tg
+Иту Рамона,Itu Ramona,movies,True,Tajik,Cyrl/Latn,tg
+Ҳамсафар,Hamsafar,tv shows,True,Tajik,Cyrl/Latn,tg
+МИ-6,MI-6,video games,False,Tajik,Cyrl/Latn,tg
+Ман ҳафи гардидам,I Had Hidden,movies,True,Tajik,Cyrl/Latn,tg
+Ҷаҳонгир,Jahongir,music,True,Tajik,Cyrl/Latn,tg
+Рӯсия,Russia,countries,False,Tajik,Cyrl/Latn,tg
+Мамон,Mamon,tv shows,True,Tajik,Cyrl/Latn,tg
+Маҳаллий келин,Local Bride,tv shows,True,Tajik,Cyrl/Latn,tg
+Поп,Pop,music,True,Tajik,Cyrl/Latn,tg
+Миллиси Олимпӣ,Olympic Games,events,False,Tajik,Cyrl/Latn,tg
+Тоҷикистон дар гардӣ,Tajikistan in War,video games,True,Tajik,Cyrl/Latn,tg
+Ғазалиён,Assassin's Creed,video games,False,Tajik,Cyrl/Latn,tg
+Барфи ке дар пӯшт офтода мешавад,Frozen,movies,False,Tajik,Cyrl/Latn,tg
+Шумо зани обёриҳо мебошед,Game of Thrones,tv shows,False,Tajik,Cyrl/Latn,tg
+Тӯронҷ,Lord of the Rings,books,False,Tajik,Cyrl/Latn,tg
+Ӯҳанча,Harry Potter,books,False,Tajik,Cyrl/Latn,tg
+Муҳаррам,Muharram,festivals,True,Tajik,Cyrl/Latn,tg
+Шомбола-шомболаҳо,Shambolas,video games,True,Tajik,Cyrl/Latn,tg
+சிலேன்டர் தியர்ஸ் அண்ட் தி சலிரி ஃபார்ஸ்ட் ஸ்டோன்,The Silent Tears and the Philosopher's Stone,books,False,Tamil,Taml,ta
+ஹெர்மோய்னி குரோப்,Harry Potter,books,False,Tamil,Taml,ta
+கஃபி ஹவா,Koffee with Karan,tv shows,True,Tamil,Taml,ta
+டாக்டர் கோ,Doctor Who,tv shows,False,Tamil,Taml,ta
+அவதார்,Avatar,movies,False,Tamil,Taml,ta
+வனாப்ரஸ்தம்,Forest Gump,movies,False,Tamil,Taml,ta
+ஹொப்பிட்னங்,Hobbit,books,False,Tamil,Taml,ta
+தீ மார்க்க,The Mark,books,False,Tamil,Taml,ta
+தீ ஹொப்பர்,The Hobbit,movies,False,Tamil,Taml,ta
+குலேரி,Harry Potter,movies,False,Tamil,Taml,ta
+பான்டரேம்,Pandaram,books,True,Tamil,Taml,ta
+த லார்ட் ஆஃப் தி ரிங்ஸ்,The Lord of the Rings,books,False,Tamil,Taml,ta
+டி வாம்பைடர் டியர்: டி ஃபாலன்,The Vampire Diaries: The Fallen,books,False,Tamil,Taml,ta
+காமார்ஷி,Cambridge,books,False,Tamil,Taml,ta
+அடிப்படை,Game of Thrones,tv shows,False,Tamil,Taml,ta
+ஸ்டார் வார்ஸ்,Star Wars,movies,False,Tamil,Taml,ta
+தானி பட்மான்,Dhoni: The Untold Story,movies,True,Tamil,Taml,ta
+பாக்கம் கெப்,Percy Jackson,books,False,Tamil,Taml,ta
+கே ஗ேம் ஆஃப் லோன்ஸ்ட்ரோன்க்,The Game of Thrones,tv shows,False,Tamil,Taml,ta
+கிட்டர்,Qiddler,video games,True,Tamil,Taml,ta
+Иттербиум,Ytterbium,books,False,Tatar,Cyrl,tt
+Технашлы,Techie,tv shows,True,Tatar,Cyrl,tt
+Камень,Stone,movies,True,Tatar,Cyrl,tt
+Петролчылар,Oilmen,tv shows,True,Tatar,Cyrl,tt
+Sims,Sims,video games,True,Tatar,Cyrl,tt
+Рыл леяк урындытма юллары,Rogue One,movies,False,Tatar,Cyrl,tt
+Gazırından кантар болган үлгәннар,The Maze Runner,books,False,Tatar,Cyrl,tt
+Механик,Mechanic,movies,True,Tatar,Cyrl,tt
+Yazıçı,Writer,tv shows,True,Tatar,Cyrl,tt
+300 франк бомбасы,300,movies,False,Tatar,Cyrl,tt
+Төләтмә алмашып бəтлэр,Ready Player One,books,False,Tatar,Cyrl,tt
+Yandexile säläm,Hello from Yandex,tv shows,True,Tatar,Cyrl,tt
+Султан,Sultan,movies,True,Tatar,Cyrl,tt
+Альтын чараф,Golden Compass,books,False,Tatar,Cyrl,tt
+Интерстеллар,Interstellar,movies,False,Tatar,Cyrl,tt
+Капушон күьрәген,Assassin's Creed,video games,False,Tatar,Cyrl,tt
+Реддит вәнгә,The Lord of the Rings,books,False,Tatar,Cyrl,tt
+Шерлок,Sherlock,tv shows,False,Tatar,Cyrl,tt
+Гарри Поттер,Harry Potter,books,False,Tatar,Cyrl,tt
+Ескелимәгәнүлан,Divergent,books,False,Tatar,Cyrl,tt
+బతుకమ్మ,Bathukamma,festival,True,Telugu,Telu,te
+కళాభాయ్యా,Kalabhyamya,play,True,Telugu,Telu,te
+పోకేమాన్,Pokemon,anime,False,Telugu,Telu,te
+పంతులు రామయణం,Pandavas Ramayana,story,True,Telugu,Telu,te
+హానిమూన్,Hanimun,video game,False,Telugu,Telu,te
+జానపదం,Janapadam,folk music,True,Telugu,Telu,te
+సింహ సంహారం,Simha Sanharam,mythological drama,True,Telugu,Telu,te
+అలీబాబా,Alibaba,folk tale,False,Telugu,Telu,te
+హరీప్రియ,Haripriya,book,True,Telugu,Telu,te
+మహాభారతం,Mahabharatham,tv show,True,Telugu,Telu,te
+బాహుబలి,Baahubali,movie,True,Telugu,Telu,te
+కలపరిశ్రాము,Kalaparishramu,documentary,True,Telugu,Telu,te
+మైకీ మౌసు,Mickey Mouse,cartoon,False,Telugu,Telu,te
+గయాత్రి మంత్రం,Gayatri Mantra,spiritual text,True,Telugu,Telu,te
+డొనాల్డ్ డక్,Donald Duck,cartoon,False,Telugu,Telu,te
+ఆంధ్ర భారత,Andhra Bharat,regional history,True,Telugu,Telu,te
+యామగుణ,Yamaguna,short film,True,Telugu,Telu,te
+అధిభిధి,Adhibhidi,anthology,True,Telugu,Telu,te
+బజార రామాయణం,Bazaar Ramayana,play,True,Telugu,Telu,te
+ధ్రువతార,Dhruva Tara,comic book,True,Telugu,Telu,te
+มอนิกา,Monica,tv show,True,Thai,Thai,th
+อาเทอร์,Archer,tv show,False,Thai,Thai,th
+สงครามมหาเวสาล,The Great War,movie,True,Thai,Thai,th
+อู๋ฮว้าน,Wu-Tang: An American Saga,tv show,False,Thai,Thai,th
+บุปผามาร,Buppha Rahtree,movie,True,Thai,Thai,th
+ล็อร์ดเทรนดิ้ง,The Lord of the Rings,book,False,Thai,Thai,th
+ไอซ์เรส,Ice Road Truckers,tv show,False,Thai,Thai,th
+เล่นเพื่อชัยชนะ,Play to Win,movie,True,Thai,Thai,th
+จิ้นสวีท,Gossip Girls,tv show,False,Thai,Thai,th
+สามเส้าสายพันธุ์,The Fosters,tv show,False,Thai,Thai,th
+แดรกควีน,Dragon Quest,video game,True,Thai,Thai,th
+ซิมโปนี่การ์,The Simpsons,tv show,False,Thai,Thai,th
+อู๋เส้ออ,Wu-Tang: An American Saga,tv show,False,Thai,Thai,th
+เฮนรี่ พอตเตอร์,Harry Potter,book,False,Thai,Thai,th
+ขายตัวคุณถูกแล้ว,The Mistake,book,True,Thai,Thai,th
+นาคี 1,Nakee,movie,True,Thai,Thai,th
+รวมพลคนมหาสนุก,Community,tv show,False,Thai,Thai,th
+เรื่องย่อฝรั่งเศส,Les Misérables,book,False,Thai,Thai,th
+มนุษย์สมเด็จ,Avatar,movie,False,Thai,Thai,th
+พันธุ์เอิร์ธ,Earthsea,book,False,Thai,Thai,th
+The Witcher,The Witcher,books/tv shows,False,Turkish,Latn,tr
+Harry Potter,Harry Potter,books,False,Turkish,Latn,tr
+Kiralık Aşk,Love for Rent,tv shows,True,Turkish,Latn,tr
+Lord of the Rings,Lord of the Rings,books/movies,False,Turkish,Latn,tr
+Muhteşem Yüzyıl,Magnificent Century,tv shows,True,Turkish,Latn,tr
+Diriliş: Ertuğrul,Resurrection: Ertugrul,tv shows,True,Turkish,Latn,tr
+Game of Thrones,Game of Thrones,tv shows,False,Turkish,Latn,tr
+Assassin's Creed,Assassin's Creed,video games,False,Turkish,Latn,tr
+Yüzüklerin Efendisi,Lord of the Rings,movies,False,Turkish,Latn,tr
+Need for Speed,Need for Speed,video games,False,Turkish,Latn,tr
+Bir Aşk İki Hayat,"One Love, Two Lives",movies,True,Turkish,Latn,tr
+Star Wars,Star Wars,movies,False,Turkish,Latn,tr
+Karadayı,Karadayi,tv shows,True,Turkish,Latn,tr
+The Hunger Games,The Hunger Games,books/movies,False,Turkish,Latn,tr
+Kara Sevda,Endless Love,tv shows,True,Turkish,Latn,tr
+Call of Duty,Call of Duty,video games,False,Turkish,Latn,tr
+Pal Sokağı Sakinleri,The Residents of Pals Street,tv shows,True,Turkish,Latn,tr
+The Matrix,The Matrix,movies,False,Turkish,Latn,tr
+Aşk-ı Memnu,Forbidden Love,tv shows,True,Turkish,Latn,tr
+The Great Gatsby,The Great Gatsby,books/movies,False,Turkish,Latn,tr
+Спалах,Outbreak,movie,False,Ukrainian,Cyrl,uk
+Ангел Убивця,Angel Killer,book,True,Ukrainian,Cyrl,uk
+Кінець світу,The End of the World,tv show,True,Ukrainian,Cyrl,uk
+Мій Сусід Тоторо,My Neighbor Totoro,movie,False,Ukrainian,Cyrl,uk
+Песнь Льда і Пламені,A Song of Ice and Fire,book,True,Ukrainian,Cyrl,uk
+Містер Робот,Mr. Robot,tv show,False,Ukrainian,Cyrl,uk
+Матриця,The Matrix,movie,False,Ukrainian,Cyrl,uk
+"Лев, Король Джунглів",The Lion King,movie,False,Ukrainian,Cyrl,uk
+Крутенький,Cool Runnings,movie,False,Ukrainian,Cyrl,uk
+Відьмак,The Witcher,video game,False,Ukrainian,Cyrl,uk
+Пірати Карибського моря,Pirates of the Caribbean,movie,False,Ukrainian,Cyrl,uk
+Дракони та Вроджені,Dragons and the Born,book,True,Ukrainian,Cyrl,uk
+Трони Піску,Thrones of Sand,book,True,Ukrainian,Cyrl,uk
+Маленький Принц,The Little Prince,book,False,Ukrainian,Cyrl,uk
+Смертельна зброя,Lethal Weapon,movie,False,Ukrainian,Cyrl,uk
+Гаррі Поттер,Harry Potter,book,False,Ukrainian,Cyrl,uk
+Людина-павук,Spider-Man,movie,False,Ukrainian,Cyrl,uk
+Гра Престолів,Game of Thrones,tv show,False,Ukrainian,Cyrl,uk
+Вартові Галактики,Guardians of the Galaxy,movie,False,Ukrainian,Cyrl,uk
+Повернення до майбутнього,Back to the Future,movie,False,Ukrainian,Cyrl,uk
+گیم أوف ٹھرونز,Game of Thrones,tv shows,False,Urdu,Arab,ur
+جانی دوست,Johnny Depp,movies,False,Urdu,Arab,ur
+جنگل بوک,The Jungle Book,books,False,Urdu,Arab,ur
+تیتانک,Titanic,movies,False,Urdu,Arab,ur
+قصے میری زندگی کے,The Stories of My Life,books,True,Urdu,Arab,ur
+بے شمار,Baahubali,movies,True,Urdu,Arab,ur
+کھیل تیرا ہے جیت میری,"Your Game, My Victory",tv shows,True,Urdu,Arab,ur
+گوگل میپس,Google Maps,technology,False,Urdu,Arab,ur
+گرین ہاؤس,Grey's Anatomy,tv shows,False,Urdu,Arab,ur
+پرانگ نے دیں,The Lord of the Rings,books,False,Urdu,Arab,ur
+ہری پوٹر,Harry Potter,books,False,Urdu,Arab,ur
+مسلسل سیمپسنز,The Simpsons,tv shows,False,Urdu,Arab,ur
+گیتی,GOTY,video games,False,Urdu,Arab,ur
+ہاپکیڈ,Haptic,technology,False,Urdu,Arab,ur
+آنیمیشن موویز,Animated Movies,movies,False,Urdu,Arab,ur
+خوشبو اداس ہے دھب,The Scent of Rain,books,True,Urdu,Arab,ur
+بسادعارہ جاں کی بات,The Beauty of the Soul,books,True,Urdu,Arab,ur
+میرا دل,My Heart,tv shows,True,Urdu,Arab,ur
+قصے میں عجب سا ہے,Stranger Things,tv shows,False,Urdu,Arab,ur
+دربار کے ستھیا,The Chronicles of Narnia,books,False,Urdu,Arab,ur
+Муҳташамлик,Muhitashamlik,tv shows,True,Uzbek,Latn/Cyrl,uz
+Star Wars,Star Wars,movies,False,Uzbek,Latn/Cyrl,uz
+Театрдан кейинги тўлқин,The After Theater Silence,books,True,Uzbek,Latn/Cyrl,uz
+Ғибли,Ghibli,movies,False,Uzbek,Latn/Cyrl,uz
+Assassin's Creed,Assassin's Creed,video games,False,Uzbek,Latn/Cyrl,uz
+Йўғонишлик нарлар,Voices of Trees,movies,True,Uzbek,Latn/Cyrl,uz
+Call of Duty,Call of Duty,video games,False,Uzbek,Latn/Cyrl,uz
+Қуёшингга ошиқмайлик,Before You Fall in Love,books,True,Uzbek,Latn/Cyrl,uz
+Game of Thrones,Game of Thrones,tv shows,False,Uzbek,Latn/Cyrl,uz
+Қарон Окадорликлари,The Adventures of Qaron,books,True,Uzbek,Latn/Cyrl,uz
+300,300,movies,False,Uzbek,Latn/Cyrl,uz
+Bekzod haqibat,Bekzod's Success,movies,True,Uzbek,Latn/Cyrl,uz
+Пайтек оро камбагалар,Chronicles of the Last Fight,books,True,Uzbek,Latn/Cyrl,uz
+The Legend of Zelda,The Legend of Zelda,video games,False,Uzbek,Latn/Cyrl,uz
+Тостлар командаси,The Breadwinner,movies,True,Uzbek,Latn/Cyrl,uz
+Муҳташамларнинг янги қисмлари,The New Adventures of Muhitasham,tv shows,True,Uzbek,Latn/Cyrl,uz
+Interstellar,Interstellar,movies,False,Uzbek,Latn/Cyrl,uz
+Sherlock Holmes,Sherlock Holmes,books,False,Uzbek,Latn/Cyrl,uz
+Harry Potter,Harry Potter,books,False,Uzbek,Latn/Cyrl,uz
+Fifa,Fifa,video games,False,Uzbek,Latn/Cyrl,uz
+Monkey Island,Monkey Island,video games,False,Vietnamese,Latn,vi
+The Avengers,The Avengers,movies,False,Vietnamese,Latn,vi
+Tam Quốc Chí,Romance of the Three Kingdoms,books,True,Vietnamese,Latn,vi
+Pokemon,Pokemon,tv shows,False,Vietnamese,Latn,vi
+Lọ Lem,Cinderella,movies,False,Vietnamese,Latn,vi
+Frozen,Frozen,movies,False,Vietnamese,Latn,vi
+One Piece,One Piece,tv shows,False,Vietnamese,Latn,vi
+Legend of Zelda: Breath of the Wild,Legend of Zelda: Breath of the Wild,video games,False,Vietnamese,Latn,vi
+Naruto,Naruto,tv shows,False,Vietnamese,Latn,vi
+Doraemon,Doraemon,tv shows,True,Vietnamese,Latn,vi
+Harry Potter,Harry Potter,books,False,Vietnamese,Latn,vi
+Mortal Kombat,Mortal Kombat,video games,False,Vietnamese,Latn,vi
+Tây Du Ký,Journey to the West,tv shows,True,Vietnamese,Latn,vi
+Tấm Cám: Chuyện Chưa Kể,Tấm Cám: The Untold Story,movies,True,Vietnamese,Latn,vi
+Detective Conan,Case Closed,tv shows,False,Vietnamese,Latn,vi
+The Lord of the Rings,The Lord of the Rings,books,False,Vietnamese,Latn,vi
+Sonic the Hedgehog,Sonic the Hedgehog,video games,False,Vietnamese,Latn,vi
+Thủy Hử,Water Margin,books,True,Vietnamese,Latn,vi
+Finding Nemo,Finding Nemo,movies,False,Vietnamese,Latn,vi
+50 Sắc Thái,Fifty Shades of Grey,books,True,Vietnamese,Latn,vi
+Y Gwyllt (The Wild),The Hobbit,books,True,Welsh,Latn,cy
+Pirates of the Caribbean,Pirates of the Caribbean,movie,False,Welsh,Latn,cy
+Doctor Mario,Dr. Mario,video game,False,Welsh,Latn,cy
+Alice's Adventures in Wonderland,Alice's Adventures in Wonderland,books,False,Welsh,Latn,cy
+Call of Duty,Call of Duty,video game,False,Welsh,Latn,cy
+Y Dref Wen,Downtown Abbey,tv show,True,Welsh,Latn,cy
+Sherlock Holmes,Sherlock Holmes,book,False,Welsh,Latn,cy
+Game of Thrones,Game of Thrones,tv show,False,Welsh,Latn,cy
+Doctor Dreigiau,Doctor Who,tv show,True,Welsh,Latn,cy
+Harry Potter,Harry Potter,books,False,Welsh,Latn,cy
+Torchwood,Torchwood,tv show,False,Welsh,Latn,cy
+Minecraft,Minecraft,video game,False,Welsh,Latn,cy
+Pobol y Cwm,People of the Valley,tv show,True,Welsh,Latn,cy
+Overwatch,Overwatch,video game,False,Welsh,Latn,cy
+Y Mabinogi,The Mabinogion,books,True,Welsh,Latn,cy
+Star Wars,Star Wars,movie,False,Welsh,Latn,cy
+Y Gwyll (Hinterland),Hinterland,tv show,True,Welsh,Latn,cy
+Doctor Who,Doctor Who,tv show,False,Welsh,Latn,cy
+Y Cyrff,The Corrs,music,True,Welsh,Latn,cy
+Y Llyfrgell,The Library Suicides,movie,True,Welsh,Latn,cy
+Àlùgbàdì,Àlùgbàdì,video games,True,Yoruba,Latn,yo
+Harry Potter,Harry Potter,books,False,Yoruba,Latn,yo
+The Hunger Games,The Hunger Games,books,False,Yoruba,Latn,yo
+Sense8,Sense8,tv shows,False,Yoruba,Latn,yo
+Olóri,Olóri,movies,True,Yoruba,Latn,yo
+Dragon Age,Dragon Age,video games,False,Yoruba,Latn,yo
+Supernatural,Supernatural,tv shows,False,Yoruba,Latn,yo
+Súlẹ̀ Àláfíà,Súlẹ̀ Àláfíà,movies,True,Yoruba,Latn,yo
+The Walking Dead,The Walking Dead,tv shows,False,Yoruba,Latn,yo
+Star Wars,Star Wars,movies,False,Yoruba,Latn,yo
+Mortal Kombat,Mortal Kombat,video games,False,Yoruba,Latn,yo
+Money Heist,Money Heist,tv shows,False,Yoruba,Latn,yo
+Májẹ́,Májẹ́,video games,True,Yoruba,Latn,yo
+The Lion King,The Lion King,movies,False,Yoruba,Latn,yo
+Àdùkẹ,Àdùkẹ,movies,True,Yoruba,Latn,yo
+Assassin's Creed,Assassin's Creed,video games,False,Yoruba,Latn,yo
+Black Panther,Black Panther,movies,True,Yoruba,Latn,yo
+Game of Thrones,Game of Thrones,tv shows,False,Yoruba,Latn,yo
+The Alchemist,The Alchemist,books,False,Yoruba,Latn,yo
+To Kill a Mockingbird,To Kill a Mockingbird,books,False,Yoruba,Latn,yo
