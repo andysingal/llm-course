@@ -1,0 +1,1 @@
+- [fine tuning bert-base-ner](https://www.kaggle.com/code/rene4315563/ner-2-0-fine-tuning-bert-base-ner)
