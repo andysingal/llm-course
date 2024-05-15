@@ -126,4 +126,5 @@ Resources:
 - https://mer.vin/2024/02/crewai-rag-using-tools/
 - https://mer.vin/
 - https://blog.lancedb.com/track-ai-trends-crewai-agents-rag/
-- https://github.com/tirth-hihoriya/Langchain-agents/tree/master 
+- https://github.com/tirth-hihoriya/Langchain-agents/tree/master
+- https://github.com/aday913/crewai-langchain-testing/blob/main/scholar_crew.py 
