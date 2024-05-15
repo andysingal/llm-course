@@ -127,4 +127,7 @@ Resources:
 - https://mer.vin/
 - https://blog.lancedb.com/track-ai-trends-crewai-agents-rag/
 - https://github.com/tirth-hihoriya/Langchain-agents/tree/master
-- https://github.com/aday913/crewai-langchain-testing/blob/main/scholar_crew.py 
+
+Crew Examples 
+- https://github.com/aday913/crewai-langchain-testing/blob/main/scholar_crew.py
+- https://github.com/zemskymax/cpp_ai_programmer/blob/main/main.py 
