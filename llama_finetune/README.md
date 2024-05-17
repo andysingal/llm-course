@@ -72,4 +72,6 @@ Resources:
 [AutoBitnet](https://github.com/andysingal/llm-course/blob/main/llama_finetune/%F0%9F%8C%8A_AutoBitnet.ipynb)
 
 
+Merge models
+[LM-Cocktail: Resilient Tuning of Language Models via Model Merging](https://pypi.org/project/LM-Cocktail/) 
 
