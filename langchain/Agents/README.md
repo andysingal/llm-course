@@ -137,4 +137,5 @@ Tool Examples
 - https://mer.vin/2024/05/praison-ai-langchain-wrapper/
 - https://note.com/npaka/n/n5956ef3a0a09
 
-- https://www.53ai.com/news/qianyanjishu/2309.html 
+- https://www.53ai.com/news/qianyanjishu/2309.html
+- https://note.com/npaka/n/ne892b713bd45 
