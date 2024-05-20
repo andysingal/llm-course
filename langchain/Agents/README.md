@@ -133,4 +133,5 @@ Crew Examples
 - https://github.com/zemskymax/cpp_ai_programmer/blob/main/main.py
 
 Tool Examples
-- https://mer.vin/2024/05/praison-ai-langchain-tavily-wrapper/ 
+- https://mer.vin/2024/05/praison-ai-langchain-tavily-wrapper/
+- https://mer.vin/2024/05/praison-ai-langchain-wrapper/ 
