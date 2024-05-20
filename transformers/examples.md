@@ -1,4 +1,4 @@
-```
+```py
 import torch
 from transformers import pipeline
 
@@ -11,3 +11,24 @@ prompt = pipe.tokenizer.apply_chat_template(messages, tokenize=False, add_genera
 outputs = pipe(prompt, max_new_tokens=256, do_sample=False)
 print(outputs[0]["generated_text"])
 ```
+
+
+```py
+from transformers import AutoModelForCausalLM, BitsAndBytesConfig, AutoTokenizer
+
+model_id = "facebook/opt-125m"
+
+model = AutoModelForCausalLM.from_pretrained(model_id, quantization_config=BitsAndBytesConfig(load_in_4bit=True))
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+
+model.dequantize()
+
+text = tokenizer("Hello my name is", return_tensors="pt").to(0)
+
+out = model.generate(**text)
+print(tokenizer.decode(out[0]))
+```
+
+
+Resources:
+- https://github.com/huggingface/transformers/releases/tag/v4.41.0 
