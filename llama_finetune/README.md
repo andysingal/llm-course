@@ -36,6 +36,8 @@ Fine Tune Examples
 
 [layered_inference_with_airllm_70B_LLM_Inference_on_a_Single_4GB_GPU](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/layered_inference_with_airllm_70B_LLM_Inference_on_a_Single_4GB_GPU.ipynb) 
 
+[Refusal-Demo](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/refusal_demo.ipynb)
+
 
 
 
