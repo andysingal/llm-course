@@ -77,3 +77,5 @@ Resources:
 Merge models
 [LM-Cocktail: Resilient Tuning of Language Models via Model Merging](https://pypi.org/project/LM-Cocktail/) 
 
+[Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/sample_finetune.py)
+
