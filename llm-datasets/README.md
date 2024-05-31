@@ -142,3 +142,7 @@ Start by aggregating available data from various sources (open-source or not) an
 - Lifan Yuan et al, "Advancing LLM Reasoning Generalists with Preference Trees," 2024.
 - Wei Liu et al, "What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning," 2024.
 - Xingyao Wang et al, "MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback," 2024.
+
+Notebook
+[Fine-tune a model on your own documentation](https://ubiops.com/fine-tune-a-model-on-your-own-documentation/)
+  
