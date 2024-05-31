@@ -1,0 +1,5 @@
+Flask==3.0.3
+Flask_Cors==4.0.0
+llama_index==0.10.33
+llama_parse==0.4.2
+python-dotenv==1.0.1
