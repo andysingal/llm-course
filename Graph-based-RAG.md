@@ -9,3 +9,4 @@
 Resources
 [The RAG Stack: Featuring Knowledge Graphs](https://akashbajwa.substack.com/p/the-rag-stack-featuring-knowledge) 
 
+[Code to Visualize the Knowledge Graph](https://www.quantacosmos.com/2024/06/rag-retrieval-augmented-generation-llm.html) 
