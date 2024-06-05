@@ -2,5 +2,7 @@
 
 [Semantic Indexing](https://www.datamanagementblog.com/querying-minds-want-to-know-can-a-data-fabric-and-rag-clean-up-llms-part-3-semantic-indexing-of-enterprise-data/) 
 
+[Step-by-Step Guide to Choosing the Best Embedding Model for Your Application](https://weaviate.io/blog/how-to-choose-an-embedding-model) 
+
 
 
