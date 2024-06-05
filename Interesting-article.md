@@ -4,5 +4,5 @@
 
 [Step-by-Step Guide to Choosing the Best Embedding Model for Your Application](https://weaviate.io/blog/how-to-choose-an-embedding-model) 
 
-
+[10 Ways to Be Data Illiterate (and How to Avoid Them](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/)
 
