@@ -1,1 +1,2 @@
-- https://mer.vin/2024/03/ai-research-rag-using-chromadb-ollama/ 
+- https://mer.vin/2024/03/ai-research-rag-using-chromadb-ollama/
+- https://github.com/tyrell/llm-ollama-llamaindex-bootstrap/tree/main 
