@@ -1,0 +1,11 @@
+jupyterlab
+python-dotenv
+python-weather
+wikipedia
+pydantic
+mdutils
+openai
+fandom-py
+llama-index
+llama-index-llms-openai
+streamlit
