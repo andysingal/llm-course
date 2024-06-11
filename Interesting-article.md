@@ -6,3 +6,5 @@
 
 [10 Ways to Be Data Illiterate (and How to Avoid Them](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/)
 
+[Introducing Structured Output on Friendli Engine for Building LLM Agents](https://friendli.ai/blog/structured-output-llm-agents/)
+
