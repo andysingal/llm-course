@@ -79,3 +79,6 @@ Merge models
 
 [Phi-3-mini-128k-instruct](https://huggingface.co/microsoft/Phi-3-mini-128k-instruct/blob/main/sample_finetune.py)
 
+Notebooks:
+[smol-vision](https://github.com/merveenoyan/smol-vision)
+
