@@ -38,6 +38,10 @@ Fine Tune Examples
 
 [Refusal-Demo](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/refusal_demo.ipynb)
 
+spectrum: [Fine-tune with Spectrum](https://github.com/cognitivecomputations/spectrum)
+
+Dolphin models use this technique to target the most important layers to fine-tune, like in their recent Qwen2-72B version  
+
 
 
 
