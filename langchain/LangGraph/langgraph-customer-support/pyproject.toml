@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "langgraph-customer-support"
+version = "0.1.0"
+description = ""
+authors = ["Eden Marco <emarco177@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.2.5"
+langgraph = "^0.0.69"
+langchain-openai = "^0.1.8"
+langchain-community = "^0.2.4"
+black = "^24.4.2"
+python-dotenv = "^1.0.1"
+fastapi = "^0.111.0"
+langserve = "^0.2.2"
+sse-starlette = "^2.1.0"
+pydantic = "1.10.13"
+aiosqlite = "^0.20.0"
+langchain-mistralai = "^0.1.8"
+isort = "^5.13.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
