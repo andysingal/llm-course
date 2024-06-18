@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "src"
+version = "0.1.0"
+description = ""
+authors = ["Paulescu <plabartabajo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.1.17"
+langchain-cohere = "^0.1.4"
+langchain-experimental = "^0.0.57"
+fire = "^0.6.0"
+matplotlib = "^3.8.4"
+python-dotenv = "^1.0.1"
+langchainhub = "^0.1.15"
+pandas = "^2.2.2"
+langchain-openai = "^0.1.6"
+
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.4.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+docstring-code-format = true
+
+[tool.ruff.lint]
+extend-select = ["I"]
