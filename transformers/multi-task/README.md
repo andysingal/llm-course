@@ -6,3 +6,5 @@
 ## Tutorial
 
 [Methods and tools for efficient training on a single GPU](https://huggingface.co/docs/transformers/en/perf_train_gpu_one) 
+
+[[However, if the preferred batch size fits into memory, there’s no reason to apply memory-optimizing techniques because they can slow down the training. Just because one can use a large batch size, does not necessarily mean they should. As part of hyperparameter tuning, you should determine which batch size yields the best results and then optimize resources accordingly.]]
