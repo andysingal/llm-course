@@ -34,4 +34,12 @@ DeepSpeed is an open-source deep learning optimization library that is integrate
 
 - For an in-depth guide on DeepSpeed integration with Trainer, review the corresponding documentation, specifically the section for a single GPU. Some adjustments are required to use DeepSpeed in a notebook; please take a look at the corresponding guide.
 
+[DeepSpeed Zero With the HuggingFace Trainer](https://wandb.ai/byyoung3/ml-news/reports/A-Guide-to-DeepSpeed-Zero-With-the-HuggingFace-Trainer--Vmlldzo2ODkwMDc4)
+
+[DEEPSPEED](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel/deepspeed.html)
+
+[Fine-tune Falcon 180B with DeepSpeed ZeRO, LoRA & Flash Attention](https://www.philschmid.de/deepspeed-lora-flash-attention) 
+
+
+
 
