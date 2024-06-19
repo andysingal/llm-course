@@ -40,6 +40,9 @@ DeepSpeed is an open-source deep learning optimization library that is integrate
 
 [Fine-tune Falcon 180B with DeepSpeed ZeRO, LoRA & Flash Attention](https://www.philschmid.de/deepspeed-lora-flash-attention) 
 
+5. Using 🤗 PEFT
+Parameter-Efficient Fine Tuning (PEFT) methods freeze the pretrained model parameters during fine-tuning and add a small number of trainable parameters (the adapters) on top of it. 
+
 
 
 
