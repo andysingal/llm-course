@@ -24,4 +24,14 @@
 ```training_args = TrainingArguments(per_device_train_batch_size=4, optim="adafactor", **default_args)```
 Combined with other approaches (gradient accumulation, gradient checkpointing, and mixed precision training) you can notice up to 3x improvement while maintaining the throughput
 
-- <strong>multi_tensor</strong>pytorch-nightly introduced torch.optim._multi_tensor which should significantly speed up the optimizers for situations with lots of small feature tensors 
+- <strong>multi_tensor</strong>pytorch-nightly introduced torch.optim._multi_tensor which should significantly speed up the optimizers for situations with lots of small feature tensors
+
+
+4. <strong> DeepSpeed ZeRO </strong>
+DeepSpeed is an open-source deep learning optimization library that is integrated with 🤗 Transformers and 🤗 Accelerate. It provides a wide range of features and optimizations designed to improve the efficiency and scalability of large-scale deep learning training.
+
+- If your model fits onto a single GPU and you have enough space to fit a small batch size, you don’t need to use DeepSpeed as it’ll only slow things down. However, if the model doesn’t fit onto a single GPU or you can’t fit a small batch, you can leverage DeepSpeed ZeRO + CPU Offload, or NVMe Offload for much larger models. In this case, you need to separately install the library, then follow one of the guides to create a configuration file and launch DeepSpeed:
+
+- For an in-depth guide on DeepSpeed integration with Trainer, review the corresponding documentation, specifically the section for a single GPU. Some adjustments are required to use DeepSpeed in a notebook; please take a look at the corresponding guide.
+
+
