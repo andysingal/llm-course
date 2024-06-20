@@ -8,3 +8,4 @@
 
 [Introducing Structured Output on Friendli Engine for Building LLM Agents](https://friendli.ai/blog/structured-output-llm-agents/)
 
+[Building a RAG system with Gemini Pro for healthcare queries](https://wandb.ai/mostafaibrahim17/ml-articles/reports/Building-a-RAG-system-with-Gemini-Pro-for-healthcare-queries--Vmlldzo4MTc3NTc4) 
