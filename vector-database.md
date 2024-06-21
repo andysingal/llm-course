@@ -3,3 +3,5 @@
 [How to Choose the Right Chunking Strategy for Your LLM Application](https://www.mongodb.com/developer/products/atlas/choosing-chunking-strategy-rag/#rag---a-very-quick-refresher) 
 
 [S3 bucket-weaviate](https://github.com/weaviate/recipes/blob/main/integrations/data-pipeline/unstructured/unstructured_weaviate.ipynb)
+
+[OpenAI's Matryoshka Embeddings in Weaviate](https://weaviate.io/blog/openais-matryoshka-embeddings-in-weaviate) 
