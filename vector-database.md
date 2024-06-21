@@ -5,3 +5,8 @@
 [S3 bucket-weaviate](https://github.com/weaviate/recipes/blob/main/integrations/data-pipeline/unstructured/unstructured_weaviate.ipynb)
 
 [OpenAI's Matryoshka Embeddings in Weaviate](https://weaviate.io/blog/openais-matryoshka-embeddings-in-weaviate) 
+
+Weaviate Examples:
+<img width="1562" alt="Screenshot 2024-06-21 at 9 00 16 PM" src="https://github.com/andysingal/llm-course/assets/20493493/210bf94d-84ab-4e6e-9d4a-415137d4e493">
+
+<img width="938" alt="Screenshot 2024-06-21 at 9 01 52 PM" src="https://github.com/andysingal/llm-course/assets/20493493/2e2f3738-faf1-4bbd-bb05-5eb90f23e4e1">
