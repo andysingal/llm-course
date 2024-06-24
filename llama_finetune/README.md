@@ -40,7 +40,7 @@ Fine Tune Examples
 
 spectrum: [Fine-tune with Spectrum](https://github.com/cognitivecomputations/spectrum)
 
-[Combining ORPO and Representation Fine-Tuning for Efficient LLAMA3 Alignment](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/Combined_ORPO_REFT_FineTuning_LLAMA3.ipynb) 
+[Combined DPO + ReFT Finetuning Tutorial](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/Combined_ORPO_REFT_FineTuning_LLAMA3.ipynb) 
 
 Dolphin models use this technique to target the most important layers to fine-tune, like in their recent Qwen2-72B version  
 
