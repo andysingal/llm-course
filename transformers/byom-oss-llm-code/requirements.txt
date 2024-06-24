@@ -1,0 +1,4 @@
+ai-core-sdk
+generative-ai-hub-sdk
+jupyterlab
+boto3

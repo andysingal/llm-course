@@ -1,0 +1,278 @@
+{
+  "comment": "name will be used as git repository name and application name. the value of ai_core_service_key section should be copied from service key of your AI Core instance",
+  "name": "byom-open-source-llms",
+  "resource_group": "oss-llm",
+  "ai_core_service_key": {
+    "clientid": "<REPLACE_WITH_YOUR_AI_CORE_CLIENT_ID>",
+    "clientsecret": "<REPLACE_WITH_YOUR_AI_CORE_CLIENT_SECRET>",
+    "url": "<REPLACE_WITH_YOUR_AI_CORE_URL> something like https://xxxxxx.authentication.eu10.hana.ondemand.com",
+    "identityzone": "<REPLACE_WITH_YOUR_AI_CORE_ID_ZONE>",
+    "identityzoneid": "<REPLACE_WITH_YOUR_AI_CORE_ID_ZONE_ID>",
+    "appname": "<REPLACE_WITH_YOUR_AI_CORE_ID_ZONE_APPNAME>",
+    "serviceurls": {
+      "AI_API_URL": "<REPLACE_WITH_YOUR_AI_CORE_AI_API_URL> Something like https://api.ai.prod.eu-central-1.aws.ml.hana.ondemand.com"
+    }
+  },
+  "docker_secret": {
+    "name": "docker-secret",
+    "data": {
+      ".dockerconfigjson": "{\"auths\": {\"docker.io\": {\"username\": \"<REPLACE_WITH_YOUR_DOCKER_USERNAME>\", \"password\": \"<REPLACE_WITH_YOUR_DOCKER_ACCESS_TOKEN>\"}}}"
+    }
+  },
+  "object_store_secret": {
+    "name": "object-store-secret",
+    "type": "S3",
+    "bucket": "<S3 bucket name. e.g. open-llm-repo>",
+    "endpoint": "<S3 end point. e.g. s3.amazonaws.com>",
+    "pathPrefix": "<Optional: A path prefix that follows the bucket name. If not specified, just leave it blank>",
+    "region": "<Optional: S3 region. If not specified, just leave it blank>",
+    "data": {
+      "AWS_ACCESS_KEY_ID": "<AWS access key ID>",
+      "AWS_SECRET_ACCESS_KEY": "<AWS secret access key>"
+    }
+  },
+  "model_placeholder": {
+    "model_file_name": "dummy.txt",
+    "path": "/Dummy",
+    "url": "ai://object-store-secret/Dummy"
+  },
+  "git_repo": {
+    "repo_url": "https://github.com/<YOUR_GIT_HUB_USER>/btp-generative-ai-hub-use-cases",
+    "user": "<REPLACE_WITH_YOUR_GITHUB_USER>",
+    "access_token": "<REPLACE_WITH_YOUR_GITHUB_USER_ACCESS_TOKEN>"
+  },
+  "application": {
+    "path_in_repo": "10-byom-oss-llm-ai-core/byom-oss-llm-templates",
+    "revision": "HEAD"
+  },
+  "comment_scenario": "Scenarios are defined in serving templates under byom-oss-llm-templates.DO NOT change anything in scenarios section!",
+  "scenarios": [
+    {
+      "name": "ollama",
+      "id": "ollama"
+    },
+    {
+      "name": "local-ai",
+      "id": "local-ai"
+    },
+    {
+      "name": "llama.cpp",
+      "id": "llama.cpp"
+    },
+    {
+      "name": "vllm",
+      "id": "vllm"
+    },
+    {
+      "name": "transformer",
+      "id": "transformer"
+    },
+    {
+      "name": "infinity",
+      "id": "infinity"
+    }
+  ],
+  "comment_configurations": "DO NOT change scenario_id and executable_id in configurations section! You may change the name and parameters of each configuration",
+  "configurations": [
+    {
+      "comment": "Pull the model dynamically in ollama/ollama.ipynb. the model specified in modelName can be used to inference with SAP Generative AI Hub SDK",
+      "name": "ollama-phi3-14b",
+      "scenario_id": "ollama",
+      "executable_id": "ollama",
+      "input_artifacts": [],
+      "parameters": [
+        {
+          "key": "modelName",
+          "value": "phi3:14b"
+        },
+        {
+          "key": "resourcePlan",
+          "value": "infer.s"
+        }
+      ]
+    },
+    {
+      "comment": "Configuration below is to preload model Mistral-7B-OpenOrca-GGUF(https://github.com/go-skynet/model-gallery/blob/main/mistral.yaml) with local-ai on resource plan 'infer s' defined in local-ai-template.yaml. In its model config file, GPU acceleration isn't enabled, hence it is quite slow. To have GPU acceleration for a model, you may set f16: true, mmap:true and gpu_layers: xx as example https://github.com/go-skynet/model-gallery/blob/main/mixtral-Q6.yaml. You can install more models with end point /model/apply in local-ai/local-ai.ipynb. Please refer to https://localai.io/advanced/#preloading-models-during-startup",
+      "name": "local-ai-mistral",
+      "scenario_id": "local-ai",
+      "executable_id": "local-ai",
+      "input_artifacts": [],
+      "parameters": [
+        {
+          "key": "model_name",
+          "value": "mistral"
+        },
+        {
+          "key": "preloaded_models",
+          "value": "[{\"id\": \"model-gallery@mistral\"}]"
+        },
+        {
+          "key": "debug",
+          "value": "true"
+        },
+        {
+          "key": "resource_plan",
+          "value": "infer.s"
+        }
+      ]
+    },
+    {
+      "comment": "Configuration is to run model mistral-7b-instruct-v0.2.Q5_K_M with llama.cpp on resource plan 'infer s' defined in llama.cpp-template.yaml. You may modify it with your target model. ngl stands for the number of layers to offload to GPU. Please refer to https://github.com/ggerganov/llama.cpp/tree/c47cf414efafb8f60596edc7edb5a2d68065e992/examples/server about arguments of llama.cpp server",
+      "name": "llama.cpp-mistral",
+      "scenario_id": "llama.cpp",
+      "executable_id": "llama.cpp",
+      "input_artifacts": [
+        {
+          "name": "mistral",
+          "key": "customModel",
+          "artifact_id": "",
+          "kind": "model",
+          "url": "ai://object-store-secret/Dummy",
+          "description": "Model placeholder registry of mistral for SAP Generative AI Hub SDK"
+        }
+      ],
+      "parameters": [
+        {
+          "key": "modelName",
+          "value": "mistral"
+        },
+        {
+          "key": "resourcePlan",
+          "value": "infer.s"
+        },
+        {
+          "key": "modelDownloadUrl",
+          "value": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf"
+        },
+        {
+          "key": "modelFileName",
+          "value": "mistral-7b-instruct-v0.2.Q5_K_M.gguf"
+        },
+        {
+          "key": "alias",
+          "value": "mistral"
+        },
+        {
+          "key": "threads",
+          "value": "3"
+        },
+        {
+          "key": "ctxSize",
+          "value": "4098"
+        },
+        {
+          "key": "ngl",
+          "value": "33"
+        },
+        {
+          "key": "enableEmbeddings",
+          "value": "false"
+        }
+      ]
+    },
+    {
+      "comment": "Configuration is to run model Mistral-7B-Instruct-v0.2-AWQ with vllm on resource plan 'infer s' defined in vllm-template.yaml. You may modify it with your target model. Please refer to https://docs.vllm.ai/en/latest/models/engine_args.html for engine arguments detail",
+      "name": "vllm-mistral",
+      "scenario_id": "vllm",
+      "executable_id": "vllm",
+      "input_artifacts": [
+        {
+          "name": "TheBloke/Mistral-7B-Instruct-v0.2-AWQ",
+          "key": "customModel",
+          "artifact_id": "",
+          "kind": "model",
+          "url": "ai://object-store-secret/Dummy",
+          "description": "Model placeholder registry of mistral for SAP Generative AI Hub SDK"
+        }
+      ],
+      "parameters": [
+        {
+          "key": "modelName",
+          "value": "TheBloke/Mistral-7B-Instruct-v0.2-AWQ"
+        },
+        {
+          "key": "dataType",
+          "value": "half"
+        },
+        {
+          "key": "gpuMemoryUtilization",
+          "value": "0.95"
+        },
+        {
+          "key": "maxTokenLen",
+          "value": "2048"
+        },
+        {
+          "key": "maxNumBatchedTokens",
+          "value": "2048"
+        },
+        {
+          "key": "maxNumSeqs",
+          "value": "2048"
+        },
+        {
+          "key": "quantization",
+          "value": "awq"
+        },
+        {
+          "key": "resourcePlan",
+          "value": "infer.s"
+        }
+      ]
+    },
+    {
+      "comment": "Configuration for serving phi3-vision with a custom transformer server. The model specified in modelName can be used to inference with SAP Generative AI Hub SDK",
+      "name": "transformer-phi3-vision",
+      "scenario_id": "transformer",
+      "executable_id": "transformer",
+      "input_artifacts": [],
+      "parameters": [
+        {
+          "key": "modelName",
+          "value": "microsoft/Phi-3-vision-128k-instruct"
+        },
+        {
+          "key": "resourcePlan",
+          "value": "infer.s"
+        }
+      ]
+    },
+    {
+      "comment": "Configuration is to run embedding model nreimers/MiniLM-L6-H384-uncased (or any MTEB/Sentence Transformer) with infinity on resource plan 'infer l' defined in infinity-template.yaml. You may modify it with your target model. Please refer to https://github.com/UKPLab/sentence-transformers/ for the list of models you may use to deploy.",
+      "name": "infinity-minilm-small",
+      "scenario_id": "infinity",
+      "executable_id": "infinity",
+      "input_artifacts": [],
+      "parameters": [
+        {
+          "key": "image",
+          "value": "docker.io/jacobtan89/infinity:ai-core"
+        },
+        {
+          "key": "modelName",
+          "value": "nreimers/MiniLM-L6-H384-uncased"
+        },
+        {
+          "key": "urlPrefix",
+          "value": "/v1"
+        },
+        {
+          "key": "portNumber",
+          "value": "7997"
+        },
+        {
+          "key": "resourcePlan",
+          "value": "infer.s"
+        },
+        {
+          "key": "minReplicas",
+          "value": "1"
+        },
+        {
+          "key": "maxReplicas",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

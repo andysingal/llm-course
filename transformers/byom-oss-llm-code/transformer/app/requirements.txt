@@ -1,0 +1,14 @@
+transformers
+tokenizers
+fastapi
+uvicorn
+huggingface_hub
+#packaging
+#ninja
+#flash-attn
+Pillow
+requests
+pydantic
+accelerate
+-i https://pypi.org/simple/
+bitsandbytes
