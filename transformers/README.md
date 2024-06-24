@@ -76,4 +76,5 @@ Resource:
 - https://github.com/jpsam07/sentiment-analysis-on-amazon-fine-food-reviews/blob/main/notebook.ipynb
 - https://github.com/markyanjunch/si699-poetry-sentiment-analysis/tree/main
 - https://blog.csdn.net/Attitude93/article/details/136155796
-- https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-llms-in-2024-with-trl.ipynb 
+- https://github.com/philschmid/deep-learning-pytorch-huggingface/blob/main/training/fine-tune-llms-in-2024-with-trl.ipynb
+- [Building an RAG Application with Cohere and Hugging Face](https://myscale.com/blog/build-rag-application-cohere-hugging-face/)
