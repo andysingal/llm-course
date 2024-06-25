@@ -40,8 +40,11 @@ DeepSpeed is an open-source deep learning optimization library that is integrate
 
 [Fine-tune Falcon 180B with DeepSpeed ZeRO, LoRA & Flash Attention](https://www.philschmid.de/deepspeed-lora-flash-attention) 
 
-5. Using 🤗 PEFT
-Parameter-Efficient Fine Tuning (PEFT) methods freeze the pretrained model parameters during fine-tuning and add a small number of trainable parameters (the adapters) on top of it. 
+5. Distributed Data Parallel: DistributedDataParallel (DDP) implements data parallelism at the module level which can run across multiple machines. Applications using DDP should spawn multiple processes and create a single DDP instance per process. DDP uses collective communications in the torch.distributed package to synchronize gradients and buffers. More specifically, DDP registers an autograd hook for each parameter given by model.parameters() and the hook will fire when the corresponding gradient is computed in the backward pass. Then DDP uses that signal to trigger gradient synchronization across processes. Please refer to DDP design note for more details.
+
+[1-reference](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
+
+[2-reference](https://yangkky.github.io/2019/07/08/distributed-pytorch-tutorial.html)
 
 
 
