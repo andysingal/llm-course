@@ -12,3 +12,6 @@ Resources
 [The RAG Stack: Featuring Knowledge Graphs](https://akashbajwa.substack.com/p/the-rag-stack-featuring-knowledge) 
 
 [Code to Visualize the Knowledge Graph](https://www.quantacosmos.com/2024/06/rag-retrieval-augmented-generation-llm.html) 
+
+Web scrap : 
+[LlamaFactory-Ollama-Langchain large model training-deployment one-stop service](https://www.skycaiji.com/aigc/ai19325.html) 
