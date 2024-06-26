@@ -1,0 +1,65 @@
+InstructorFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "gpt-3.5-turbo-0125"
+      llm_model_family: "openai"
+      retries: 2
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
+
+MirascopeFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "gpt-3.5-turbo-0125"
+      llm_model_family: "openai"
+      retries: 2
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
+
+FructoseFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "gpt-3.5-turbo-0125"
+      llm_model_family: "openai"
+      retries: 0 # Fructose has no retry parameter
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
+
+MarvinFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "gpt-3.5-turbo-0125"
+      llm_model_family: "openai"
+      retries: 0 # Marvin has no retry parameter
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
+
+LlamaIndexFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "gpt-3.5-turbo-0125"
+      llm_model_family: "openai"
+      retries: 0 # LlamaIndex has no retry parameter
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
+
+OutlinesFramework:
+  - name: "multilabel_classification"
+    n_runs: 10
+    init_kwargs:
+      prompt: "Classify the following text: {text}"
+      llm_model: "unsloth/llama-3-8b-Instruct-bnb-4bit"
+      llm_model_family: "transformers"
+      retries: 0 # Oulines transformers has no retry parameter
+      source_data_pickle_path: "data/multilabel_classification.pkl"
+#      sample_rows: 2
