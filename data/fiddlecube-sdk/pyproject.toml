@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fiddlecube"
+version = "0.1.6"
+description = "Generate ideal question-answer dataset for testing your LLM."
+authors = ["Kaushik Srinivasan <kaushik@fiddlecube.ai>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.13"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
