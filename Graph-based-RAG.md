@@ -17,3 +17,5 @@ Web scrap :
 [LlamaFactory-Ollama-Langchain large model training-deployment one-stop service](https://www.skycaiji.com/aigc/ai19325.html) 
 
 https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main 
+
+[Groq API + LangChain & LangGraph + Tavily](https://zenn.dev/mizunny/articles/dacdd21384a16b)
