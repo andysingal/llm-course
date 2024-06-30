@@ -18,6 +18,8 @@
 
 **** [Building Intelligent RAG Applications with LangServe, LangGraph, and Milvus](https://zilliz.com/blog/build-intelligent-rag-with-langserve-langgraph-and-milvus)
 
+[Building a RAG Chatbot Using LangChain and Streamlit: Engage with Your PDFs](https://sabber.dev/blogs/building_a_RAG_chatbot_usinglangChain_and_Streamlit)
+
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
 
