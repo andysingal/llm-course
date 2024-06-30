@@ -19,3 +19,6 @@ Web scrap :
 https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main 
 
 [Groq API + LangChain & LangGraph + Tavily](https://zenn.dev/mizunny/articles/dacdd21384a16b)
+
+
+[Crawl4AI](https://mer.vin/2024/06/crawl4ai-and-praisonai/) 
