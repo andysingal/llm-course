@@ -82,6 +82,8 @@ Notebooks
 - [LLM Fine-Tuning Workshop: Improve Question-Answering Skills](https://dev.to/admantium/llm-fine-tuning-workshop-improve-question-answering-skills-1h18)
 - [RAG on structured data with PostgreSQL](https://techcommunity.microsoft.com/t5/microsoft-developer-community/rag-on-structured-data-with-postgresql/ba-p/4164456)
 - [https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/](https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/)
+- [RAG in 85 lines of code](https://docs.zenml.io/user-guide/llmops-guide/rag-with-zenml/rag-85-loc)
+
 
 New Resources
 [RAG using LLMSmith and FastAPI](https://dev.to/dheerajgopi/rag-using-llmsmith-and-fastapi-1e6i) 
