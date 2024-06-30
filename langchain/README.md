@@ -20,6 +20,8 @@
 
 [Building a RAG Chatbot Using LangChain and Streamlit: Engage with Your PDFs](https://sabber.dev/blogs/building_a_RAG_chatbot_usinglangChain_and_Streamlit)
 
+[Chat-with-your-document](https://github.com/Sumit-Pluto/Chat-with-your-document/blob/main/app.py)
+
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
 
