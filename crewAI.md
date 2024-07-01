@@ -4,3 +4,5 @@
 
 [CrewAI-LangGraph](https://github.com/joaomdmoura/crewAI-examples/tree/main/CrewAI-LangGraph)
 
+[Financial Analysis with Langchain and CrewAI Agents](https://huggingface.co/blog/herooooooooo/financial-analysis-with-langchain-and-crewai)
+
