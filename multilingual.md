@@ -1,0 +1,1 @@
+[Indian language RAG with Cohere multilingual embeddings and Anthropic Claude 3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/indian-language-rag-with-cohere-multilingual-embeddings-and-anthropic-claude-3-on-amazon-bedrock/)
