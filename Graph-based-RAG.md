@@ -10,6 +10,10 @@
 
 [GraphRAG vs VectorRAG](https://ai.plainenglish.io/graphrag-vs-rag-the-ultimate-use-case-3413fb48bbd4)
 
+[Knowledge Graph Creation and Hybrid Search by LLM + RAG](https://zenn.dev/yumefuku/articles/llm-neo4j-hybrid) 
+
+
+
 Resources
 [The RAG Stack: Featuring Knowledge Graphs](https://akashbajwa.substack.com/p/the-rag-stack-featuring-knowledge) 
 
