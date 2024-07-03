@@ -8,6 +8,8 @@
 
 [Knowledge-Graph](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/blob/main/KnowledgeGraph-Q%26A-and-RAG-with-Text/explore/construct_kg_from_text.ipynb)
 
+[GraphRAG vs VectorRAG](https://ai.plainenglish.io/graphrag-vs-rag-the-ultimate-use-case-3413fb48bbd4)
+
 Resources
 [The RAG Stack: Featuring Knowledge Graphs](https://akashbajwa.substack.com/p/the-rag-stack-featuring-knowledge) 
 
