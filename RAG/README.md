@@ -83,6 +83,7 @@ Notebooks
 - [RAG on structured data with PostgreSQL](https://techcommunity.microsoft.com/t5/microsoft-developer-community/rag-on-structured-data-with-postgresql/ba-p/4164456)
 - [https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/](https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/)
 - [RAG in 85 lines of code](https://docs.zenml.io/user-guide/llmops-guide/rag-with-zenml/rag-85-loc)
+- [Unlocking RAG’s Potential: Mastering Advanced Techniques](https://procogia.com/unlocking-rags-potential-mastering-advanced-techniques-part-1/)
 
 
 New Resources
