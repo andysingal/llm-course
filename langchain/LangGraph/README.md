@@ -28,3 +28,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 [SQL Database agent](https://github.com/langchain-ai/langsmith-cookbook/blob/main/testing-examples/agent-evals-with-langgraph/langgraph_sql_agent_eval.ipynb)
 
 [Cognitive Agentic Swarm with LangGraph](https://medium.com/@abolcas/cognitive-agentic-swarm-with-langgraph-c34eba78f872)
+
+[Agentic Approach with Databricks and LangGraph: Managing Conversation History](https://qiita.com/isanakamishiro2/items/b24cf0e199be652399f9) 
