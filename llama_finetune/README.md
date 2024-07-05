@@ -42,6 +42,8 @@ spectrum: [Fine-tune with Spectrum](https://github.com/cognitivecomputations/spe
 
 [Combined DPO + ReFT Finetuning Tutorial](https://github.com/andysingal/llm-course/blob/main/llama_finetune/notebooks/Combined_ORPO_REFT_FineTuning_LLAMA3.ipynb) 
 
+[Build a memory-efficient MoE model from anything, in seconds](https://github.com/EricLBuehler/mistral.rs/blob/master/docs/ANYMOE.md)
+
 Dolphin models use this technique to target the most important layers to fine-tune, like in their recent Qwen2-72B version  
 
 
