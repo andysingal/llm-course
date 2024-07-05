@@ -88,6 +88,7 @@ Notebooks
 - [Vector Search & RAG Landscape: A review with txtai](https://medium.com/neuml/vector-search-rag-landscape-a-review-with-txtai-a7f37ad0e187)
 
 
+
 New Resources
 [RAG using LLMSmith and FastAPI](https://dev.to/dheerajgopi/rag-using-llmsmith-and-fastapi-1e6i) 
 [Exploring RAG Applications Across Languages: Conversing with the Mishnah](https://towardsdatascience.com/exploring-rag-applications-across-languages-conversing-with-the-mishnah-16615c30f780) 
