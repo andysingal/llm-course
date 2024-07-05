@@ -84,6 +84,7 @@ Notebooks
 - [https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/](https://www.analyticsvidhya.com/blog/2024/06/llm-observability-and-evaluations/)
 - [RAG in 85 lines of code](https://docs.zenml.io/user-guide/llmops-guide/rag-with-zenml/rag-85-loc)
 - [Unlocking RAG’s Potential: Mastering Advanced Techniques](https://procogia.com/unlocking-rags-potential-mastering-advanced-techniques-part-1/)
+- [Fine-Tune Embeddings from HuggingFace for RAG](https://huggingface.co/blog/lucifertrj/finetune-embeddings) - Beyond LLM
 
 
 New Resources
