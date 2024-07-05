@@ -85,6 +85,7 @@ Notebooks
 - [RAG in 85 lines of code](https://docs.zenml.io/user-guide/llmops-guide/rag-with-zenml/rag-85-loc)
 - [Unlocking RAG’s Potential: Mastering Advanced Techniques](https://procogia.com/unlocking-rags-potential-mastering-advanced-techniques-part-1/)
 - [Fine-Tune Embeddings from HuggingFace for RAG](https://huggingface.co/blog/lucifertrj/finetune-embeddings) - Beyond LLM
+- [Vector Search & RAG Landscape: A review with txtai](https://medium.com/neuml/vector-search-rag-landscape-a-review-with-txtai-a7f37ad0e187)
 
 
 New Resources
