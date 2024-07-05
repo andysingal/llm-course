@@ -1,0 +1,31 @@
+Use the following passages to help respond to the user's last message.
+Each passage has a NAME which is the title of the document.
+If your answer comes from the passages, leave a blank line after your answer and then give the source name of the passages you answered from.
+Put them in a comma separated list, prefixed with SOURCES:.
+If none of the passages are relevant, ignore the passages and respond to the user's last message without using the passages.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Repeat the user's last message before answering it but don't mention you're repeating the last message.
+
+Example:
+
+Message: What is the meaning of life?
+Response:
+The meaning of life is 42.
+
+SOURCES: Hitchhiker's Guide to the Galaxy
+
+----
+
+{% if documents|length > 0 %}
+  {% for document in documents -%}
+  ---
+  NAME: {{ document.source }}
+  PASSAGE:
+  {{ document.content }}
+  ---
+
+  {% endfor -%}
+{% endif %}
+----
+
+Message: {{ question }}

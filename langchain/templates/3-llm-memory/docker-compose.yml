@@ -1,0 +1,123 @@
+services:
+  web:
+    container_name: chat_web
+    build: app
+    command: "python app.py"
+    restart: unless-stopped
+    env_file:
+      - ./.env
+    ports:
+      - "${APP_PORT_HOST}:${APP_PORT}"
+    volumes:
+      - ./app:/app
+      - ./volumes/app/pip:/root/.cache/pip
+      - ./volumes/app/pip3:/usr/local/lib/python3.12/site-packages
+      - ./volumes/app/nltk_data:/root/nltk_data
+    depends_on:
+      db:
+        condition: service_healthy
+      infinity:
+        condition: service_healthy
+      opensearch-node1:
+        condition: service_started
+      # ollama:
+      #   condition: service_started
+
+  db:
+    container_name: chat_db
+    image: postgres:16.2-alpine
+    restart: unless-stopped
+    environment:
+      - POSTGRES_DB
+      - POSTGRES_USER
+      - POSTGRES_PASSWORD
+    volumes:
+      - ./volumes/postgres/data:/var/lib/postgresql/data
+    ports:
+      - "${DB_PORT_HOST}:${DB_PORT}"
+    healthcheck:
+      test: ["CMD-SHELL", "sh -c 'pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}'"]
+      interval: 15s
+      retries: 5
+      timeout: 10s
+
+  infinity:
+    container_name: chat_infinity
+    image: michaelf34/infinity:0.0.48
+    environment:
+      - INFINITY_MODEL_ID=${EMBEDDING_MODEL_FULLNAME}
+      - INFINITY_PORT=${INFINITY_PORT}
+    command: "v2"
+    restart: unless-stopped
+    ports:
+      - "${INFINITY_PORT}:${INFINITY_PORT}"
+    healthcheck:
+      test: "curl -f localhost:${INFINITY_PORT} || exit 1"
+      interval: 60s
+      retries: 5
+      timeout: 10s
+
+  # ollama:
+  #   container_name: chat_ollama
+  #   image: ollama/ollama:0.1.42
+  #   restart: unless-stopped
+  #   volumes:
+  #     - ./volumes/ollama:/root/.ollama
+  #   ports:
+  #     - "${OLLAMA_PORT_HOST}:${OLLAMA_PORT}"
+
+  opensearch-node1:
+    container_name: chat_opensearch_opensearch_node1
+    image: opensearchproject/opensearch:${OPENSEARCH_STACK_VERSION}
+    restart: unless-stopped
+    environment:
+      - cluster.name=opensearch-cluster
+      - node.name=opensearch-node1
+      - discovery.seed_hosts=opensearch-node1
+      - cluster.initial_cluster_manager_nodes=opensearch-node1
+      - bootstrap.memory_lock=true
+      - "OPENSEARCH_JAVA_OPTS=-Xms512m -Xmx512m"
+      - OPENSEARCH_INITIAL_ADMIN_PASSWORD=${OPENSEARCH_PASSWORD}
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    volumes:
+      - ./volumes/opensearch/search_node_1:/usr/share/opensearch/data
+    ports:
+      - ${OPENSEARCH_REST_API_PORT_HOST}:9200
+      - ${OPENSEARCH_PERF_ANALYZER_PORT_HOST}:9600
+    # healthcheck:
+    #   test:
+    #     [
+    #       "CMD-SHELL",
+    #       "curl -s -I http://localhost:9200 | grep -q 'HTTP/1.1 302 Found'",
+    #     ]
+    #   interval: 10s
+    #   timeout: 10s
+    #   retries: 120
+
+  opensearch-dashboards:
+    container_name: chat_opensearch_dashboards
+    image: opensearchproject/opensearch-dashboards:${OPENSEARCH_STACK_VERSION}
+    restart: unless-stopped
+    environment:
+      OPENSEARCH_HOSTS: '["https://opensearch-node1:9200"]'
+    volumes:
+      - ./volumes/opensearch/dashboards:/usr/share/opensearch-dashboards/data
+    ports:
+      - ${OPENSEARCH_DASHBOARD_PORT_HOST}:5601
+    # depends_on:
+    #   opensearch-node1:
+    #     condition: service_healthy
+    depends_on:
+      - opensearch-node1
+    healthcheck:
+      test:
+        ["CMD-SHELL", "curl -s -I http://localhost:5601 | grep -q 'HTTP/1.1 302 Found'"]
+      interval: 10s
+      timeout: 10s
+      retries: 120

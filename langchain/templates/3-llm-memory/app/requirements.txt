@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask-Migrate==4.0.7
+Flask-SQLAlchemy==3.1.1
+langchain==0.1.14
+langchain-community==0.0.31
+ollama==0.1.8
+opensearch-py==2.5.0
+pyright==1.1.361
+psycopg[binary]==3.1.19
+SQLAlchemy-serializer===1.4.12
+unstructured==0.11.8
