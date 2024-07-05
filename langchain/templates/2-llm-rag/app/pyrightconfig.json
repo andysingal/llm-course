@@ -1,0 +1,20 @@
+{
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/components",
+    "**/content",
+    "**/static",
+    "**/templates"
+  ],
+
+  "defineConstant": {
+    "DEBUG": true
+  },
+
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Linux"
+}

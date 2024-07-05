@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+
+<head>
+  {% block head %}
+  <meta charset="utf-8">
+
+  <title>{% block title %}{% endblock %}</title>
+
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="icon" href="{{ url_for('static', filename='favicon.png') }}" type="image/png">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='bootstrap.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='components/chat/index.css') }}">
+  {% endblock %}
+</head>
+
+<body>
+  <nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand mb-0 h1" href="/">{{ title }}</a>
+
+      <span class="navbar-text">
+        <small>Powered by {{ model }}</small>
+      </span>
+    </div>
+  </nav>
+
+  <div class="container mt-5 mb-0">
+    <div class="row">
+      <div class="col">
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class="alert alert-info" role="alert">
+          <ul class="flashes list-unstyled mb-0">
+            {% for message in messages %}
+            <li>{{ message }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        {% endwith %}
+
+        <div id="content">
+          {% block content %}
+          {% endblock %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='components/chat/index.js') }}"></script>
+</body>
+
+</html>

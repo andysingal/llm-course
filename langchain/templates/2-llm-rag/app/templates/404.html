@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ title }} | Not Found{% endblock %}
+
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block content %}
+<h2>Not Found</h2>
+
+<p>The requested URL was not found.</p>
+
+<p>
+  {{message}}
+</p>
+{% endblock %}

@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block content %}
+{% if message %}
+<div class="alert alert-light" role="alert">
+  <p>
+    {{ message }}
+  </p>
+</div>
+{% endif %}
+
+<div id="app"></div>
+{% endblock %}

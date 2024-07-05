@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block head %}
+{{ super() }}
+{% endblock %}
+
+{% block content %}
+{% if message %}
+<p>
+  {{ message }}
+</p>
+{% endif %}
+
+{% endblock %}
