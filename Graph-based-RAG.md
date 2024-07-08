@@ -2,6 +2,10 @@
 
 [GraphRAG](https://www.graphlit.com/blog/graphrag-using-knowledge-in-unstructured-data-to-build-apps-with-llms) 
 
+[Microsoft GraphRAG with Ollama Locally](https://www.fahdmirza.com/2024/07/install-microsoft-graphrag-with-ollama.html)
+
+
+
 [custom_websearch_agent](https://github.com/john-adeojo/custom_websearch_agent/blob/main/agent.py)
 
 [LLMScrape](https://github.com/z-008/LLMScrape/blob/main/WebScrape.ipynb) 
