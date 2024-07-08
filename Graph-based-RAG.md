@@ -28,3 +28,5 @@ https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main
 
 
 [Crawl4AI](https://mer.vin/2024/06/crawl4ai-and-praisonai/) 
+
+[Agentic RAG with Llama 3](https://www.kaggle.com/code/redpen12/agentic-rag-with-llama-3)
