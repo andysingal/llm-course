@@ -48,6 +48,8 @@ DeepSpeed is an open-source deep learning optimization library that is integrate
 
 [Gradient Accumulation and Checkpointing](https://aman.ai/primers/ai/grad-accum-checkpoint/#:~:text=Gradient%20accumulation%20is%20a%20technique,after%20each%20batch%20of%20data.)
 
+[Getting Started with DeepSpeed for Inferencing Transformer based Models](https://www.deepspeed.ai/tutorials/inference-tutorial/) 
+
 
 
 
