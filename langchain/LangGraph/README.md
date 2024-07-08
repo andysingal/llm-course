@@ -30,3 +30,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 [Cognitive Agentic Swarm with LangGraph](https://medium.com/@abolcas/cognitive-agentic-swarm-with-langgraph-c34eba78f872)
 
 [Agentic Approach with Databricks and LangGraph: Managing Conversation History](https://qiita.com/isanakamishiro2/items/b24cf0e199be652399f9) 
+
+[tui_langgraph_agent_tavily](https://github.com/rokbenko/ai-playground/blob/main/langchain-tutorials/1-TUI_LangGraph_agent_Tavily/python/tui_langgraph_agent_tavily.py)
