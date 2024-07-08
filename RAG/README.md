@@ -86,6 +86,7 @@ Notebooks
 - [Unlocking RAG’s Potential: Mastering Advanced Techniques](https://procogia.com/unlocking-rags-potential-mastering-advanced-techniques-part-1/)
 - [Fine-Tune Embeddings from HuggingFace for RAG](https://huggingface.co/blog/lucifertrj/finetune-embeddings) - Beyond LLM
 - [Vector Search & RAG Landscape: A review with txtai](https://medium.com/neuml/vector-search-rag-landscape-a-review-with-txtai-a7f37ad0e187)
+- [LLM + RAG Projects on Finance Domain](https://github.com/simranjeet97/LLM-RAG_Finance_UseCases/blob/main/LLM_%2B_RAG_for_Finance.ipynb) 
 
 
 
