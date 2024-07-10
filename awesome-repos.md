@@ -122,6 +122,8 @@ DistiLlama : https://github.com/shreyaskarnik/DistiLlama
 
 [agenta](https://github.com/Agenta-AI/agenta)
 
+[Pretzel 🥨, Modern, open-source Jupyter alternative](https://github.com/pretzelai/pretzelai)
+
 
 Definitions
 
