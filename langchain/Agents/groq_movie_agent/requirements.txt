@@ -1,0 +1,6 @@
+langchain
+langchain-community
+wikipedia
+omdb
+langchain-groq
+python-dotenv
