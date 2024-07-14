@@ -4,6 +4,8 @@
 
 [Microsoft GraphRAG with Ollama Locally](https://www.fahdmirza.com/2024/07/install-microsoft-graphrag-with-ollama.html)
 
+[knowledge_graph_agent](https://github.com/camel-ai/camel/blob/master/examples/knowledge_graph/knowledge_graph_agent.py) 
+
 
 
 [custom_websearch_agent](https://github.com/john-adeojo/custom_websearch_agent/blob/main/agent.py)
