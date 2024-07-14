@@ -6,17 +6,22 @@
 
 [knowledge_graph_agent](https://github.com/camel-ai/camel/blob/master/examples/knowledge_graph/knowledge_graph_agent.py) 
 
-
-
-[custom_websearch_agent](https://github.com/john-adeojo/custom_websearch_agent/blob/main/agent.py)
-
-[LLMScrape](https://github.com/z-008/LLMScrape/blob/main/WebScrape.ipynb) 
+[llamaindex-KG-notebooks](https://github.com/rajib76/llamaindex/tree/main/examples)
 
 [Knowledge-Graph](https://github.com/Farzad-R/Advanced-QA-and-RAG-Series/blob/main/KnowledgeGraph-Q%26A-and-RAG-with-Text/explore/construct_kg_from_text.ipynb)
 
 [GraphRAG vs VectorRAG](https://ai.plainenglish.io/graphrag-vs-rag-the-ultimate-use-case-3413fb48bbd4)
 
 [Knowledge Graph Creation and Hybrid Search by LLM + RAG](https://zenn.dev/yumefuku/articles/llm-neo4j-hybrid) 
+
+
+
+
+
+[custom_websearch_agent](https://github.com/john-adeojo/custom_websearch_agent/blob/main/agent.py)
+
+[LLMScrape](https://github.com/z-008/LLMScrape/blob/main/WebScrape.ipynb) 
+
 
 
 
