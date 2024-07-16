@@ -16,6 +16,7 @@
 
 [Graph-RAG-LLM-Research-Consultant](https://github.com/jameshopham/Graph-RAG-LLM-Research-Consultant.github.io/blob/main/Graph_Rag_Research_Consultation.ipynb) 
 
+[Knowledge Graph-Langchain](https://qiita.com/FukuharaYohei/items/6f1d094dc33688711221)
 
 
 
