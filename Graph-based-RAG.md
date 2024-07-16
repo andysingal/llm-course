@@ -14,6 +14,8 @@
 
 [Knowledge Graph Creation and Hybrid Search by LLM + RAG](https://zenn.dev/yumefuku/articles/llm-neo4j-hybrid) 
 
+[Graph-RAG-LLM-Research-Consultant](https://github.com/jameshopham/Graph-RAG-LLM-Research-Consultant.github.io/blob/main/Graph_Rag_Research_Consultation.ipynb) 
+
 
 
 
