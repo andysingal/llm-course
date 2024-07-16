@@ -1,0 +1,7 @@
+{
+    "dataset_name": "IlyaGusev/saiga_preferences",
+    "dataset_revision": "9a45ab3de222fe6bd41b648310180bf845b987f9",
+    "sonnet_approved_only": true,
+    "max_length_ratio": 1.5,
+    "max_length_ratio_prob": 0.2
+}

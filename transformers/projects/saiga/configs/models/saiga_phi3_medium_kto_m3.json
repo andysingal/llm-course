@@ -1,0 +1,49 @@
+{
+    "trainer": {
+        "evaluation_strategy": "steps",
+        "per_device_train_batch_size": 1,
+        "per_device_eval_batch_size": 1,
+        "gradient_accumulation_steps": 64,
+        "eval_steps": 16,
+        "save_steps": 16,
+        "logging_steps": 1,
+        "learning_rate": 0.00006,
+        "num_train_epochs": 3,
+        "lr_scheduler_type": "cosine",
+        "warmup_steps": 16,
+        "bf16": true,
+        "fp16": false,
+        "optim": "paged_adamw_8bit",
+        "load_best_model_at_end": true,
+        "save_total_limit": 2,
+        "seed": 1337,
+        "remove_unused_columns": false,
+        "max_grad_norm": 2,
+        "weight_decay": 0.01
+    },
+    "lora": {
+        "r": 64,
+        "lora_alpha": 16,
+        "lora_dropout": 0.0,
+        "bias": "none",
+        "target_modules": ["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        "use_gradient_checkpointing": "unsloth",
+        "use_rslora": true
+    },
+    "kto": {
+        "beta": 0.15,
+        "desirable_weight": 1.0,
+        "undesirable_weight": 1.0,
+        "max_prompt_length": 3072,
+        "max_completion_length": 3072,
+        "max_length": 4000
+    },
+    "load_in_8bit": false,
+    "load_in_4bit": true,
+    "model_name": "models/saiga_phi3_medium_sft_m1_d2_hf",
+    "max_seq_length": 4090,
+    "max_tokens_count": 4090,
+    "bos_token": "<s>",
+    "eos_token": "<|end|>",
+    "pad_token": "<s>"
+}

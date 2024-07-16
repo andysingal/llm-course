@@ -1,0 +1,40 @@
+{
+    "trainer": {
+        "evaluation_strategy": "steps",
+        "per_device_train_batch_size": 1,
+        "per_device_eval_batch_size": 1,
+        "gradient_accumulation_steps": 128,
+        "eval_steps": 8,
+        "save_steps": 8,
+        "logging_steps": 1,
+        "learning_rate": 0.0003,
+        "num_train_epochs": 1,
+        "lr_scheduler_type": "cosine",
+        "warmup_steps": 8,
+        "bf16": true,
+        "fp16": false,
+        "optim": "adamw_8bit",
+        "load_best_model_at_end": true,
+        "save_total_limit": 1,
+        "seed": 1337,
+        "max_grad_norm": 1,
+        "weight_decay": 0.02
+    },
+    "lora": {
+        "r": 32,
+        "lora_alpha": 16,
+        "lora_dropout": 0.0,
+        "bias": "none",
+        "target_modules": ["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        "use_gradient_checkpointing": "unsloth"
+    },
+    "load_in_8bit": false,
+    "load_in_4bit": true,
+    "only_target_loss": true,
+    "model_name": "models/phi3_medium",
+    "max_tokens_count": 4096,
+    "max_seq_length": 4096,
+    "bos_token": "<s>",
+    "eos_token": "<|end|>",
+    "pad_token": "<s>"
+}

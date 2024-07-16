@@ -1,0 +1,8 @@
+{
+    "dataset_name": "IlyaGusev/saiga_scored",
+    "dataset_revision": "8814a5a0a4eaadcab9b7d6bc78af4476e2c534e3",
+    "exclude_languages": ["Mixed"],
+    "exclude_sources": ["wildchat"],
+    "min_score": 8,
+    "exclude_regex": true
+}

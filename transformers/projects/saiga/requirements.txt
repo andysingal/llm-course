@@ -1,0 +1,14 @@
+torch >= 2.3.0
+transformers == 4.42.4
+peft == 0.11.1
+accelerate == 0.32.1
+bitsandbytes == 0.43.1
+wandb >= 0.17.0
+fire >= 0.6.0
+flake8 >= 7.0.0
+mmh3 == 4.1.0
+xformers == 0.0.26.post1
+flash-attn == 2.5.9.post1
+vllm == 0.5.1
+trl == 0.9.6
+git+https://github.com/unslothai/unsloth@92dce38e8b3c1db209cef860d90b60188e95f0f9

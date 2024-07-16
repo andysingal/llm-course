@@ -1,0 +1,6 @@
+{
+    "dataset_name": "IlyaGusev/saiga_scored",
+    "dataset_revision": "8814a5a0a4eaadcab9b7d6bc78af4476e2c534e3",
+    "min_score": 9,
+    "exclude_regex": true
+}

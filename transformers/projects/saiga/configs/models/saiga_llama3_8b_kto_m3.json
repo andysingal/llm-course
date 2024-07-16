@@ -1,0 +1,48 @@
+{
+    "trainer": {
+        "evaluation_strategy": "steps",
+        "per_device_train_batch_size": 1,
+        "per_device_eval_batch_size": 1,
+        "gradient_accumulation_steps": 64,
+        "eval_steps": 16,
+        "save_steps": 16,
+        "logging_steps": 1,
+        "learning_rate": 0.00006,
+        "num_train_epochs": 2,
+        "lr_scheduler_type": "cosine",
+        "warmup_steps": 16,
+        "bf16": true,
+        "fp16": false,
+        "optim": "paged_adamw_8bit",
+        "load_best_model_at_end": true,
+        "save_total_limit": 2,
+        "seed": 1337,
+        "remove_unused_columns": false,
+        "max_grad_norm": 0.5,
+        "weight_decay": 0.02
+    },
+    "lora": {
+        "r": 64,
+        "lora_alpha": 16,
+        "lora_dropout": 0.0,
+        "bias": "none",
+        "target_modules": ["q_proj", "v_proj", "k_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        "use_gradient_checkpointing": "unsloth"
+    },
+    "kto": {
+        "beta": 0.15,
+        "desirable_weight": 1.0,
+        "undesirable_weight": 1.0,
+        "max_prompt_length": 8192,
+        "max_completion_length": 8192,
+        "max_length": 8192
+    },
+    "load_in_8bit": false,
+    "load_in_4bit": true,
+    "model_name": "models/saiga_llama3_8b_sft_m11_d5_abliterated",
+    "max_seq_length": 8192,
+    "max_tokens_count": 6160,
+    "bos_token": "<|begin_of_text|>",
+    "eos_token": "<|eot_id|>",
+    "pad_token": "<|begin_of_text|>"
+}
