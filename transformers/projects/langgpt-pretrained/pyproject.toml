@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "langgpt streamlit"
+version = "0.1.0"
+description = ""
+authors = ["Srikar V <srikarvuchiha@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.36.0"
+transformers = "^4.42.4"
+sentencepiece = "^0.2.0"
+tensorflow = "2.16.1"
+tf-keras = "^2.16.0"
+sacremoses = "^0.1.1"
+huggingface-hub = "^0.23.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
