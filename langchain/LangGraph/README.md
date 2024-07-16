@@ -32,3 +32,7 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 [Agentic Approach with Databricks and LangGraph: Managing Conversation History](https://qiita.com/isanakamishiro2/items/b24cf0e199be652399f9) 
 
 [tui_langgraph_agent_tavily](https://github.com/rokbenko/ai-playground/blob/main/langchain-tutorials/1-TUI_LangGraph_agent_Tavily/python/tui_langgraph_agent_tavily.py)
+
+[Summary of Langchain and Langgraph streaming](https://note.com/rrrrrrrrrr_666/n/n3934dfc242b2) 
+
+
