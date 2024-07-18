@@ -8,3 +8,7 @@
 
 [A Comprehensive Guide to Collaborative AI Agents in Practice](https://towardsdatascience.com/a-comprehensive-guide-to-collaborative-ai-agents-in-practice-1f4048947d9c)
 
+[exa-crewai](https://github.com/alejandro-ao/exa-crewai/tree/master)
+
+
+
