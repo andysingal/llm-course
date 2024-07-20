@@ -43,3 +43,5 @@ The difference between the GLUE and the SuperGLUE benchmark is that the SuperGLU
 Definition
 
 The concept of zero-shot evaluation is a method of evaluating a language model without any labeled data or fine-tuning. It measures how well the language model can perform a new task by using natural language instructions or examples as prompts, and computing the likelihood of the correct output given the input. It the probability that a trained model will produce a particular set of tokens without needing any labeled training data.
+
+<img width="623" alt="Screenshot 2024-07-20 at 11 14 00 PM" src="https://github.com/user-attachments/assets/fedc8455-8131-484b-ac1b-f0fb7657ceaf">
