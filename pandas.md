@@ -3,3 +3,5 @@
 [Pandas-RAG](https://github.com/alexeygrigorev/build-your-own-search-engine/blob/main/notebook.ipynb) 
 
 [Using RAG-Enabled LLMs to Automate Data Analysis](https://semaphoreci.com/blog/rag-enabled-llms-data-analysis) 
+
+[pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
