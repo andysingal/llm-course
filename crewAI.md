@@ -10,5 +10,7 @@
 
 [exa-crewai](https://github.com/alejandro-ao/exa-crewai/tree/master)
 
+[Building a Hotel Recommender: Multi-Agent Framework with CrewAI, Ollama, and Gradio](https://levelup.gitconnected.com/building-a-hotel-recommender-multi-agent-framework-with-crewai-ollama-and-gradio-c81645776183)
+
 
 
