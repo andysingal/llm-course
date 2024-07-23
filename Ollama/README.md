@@ -1,5 +1,6 @@
 - https://mer.vin/2024/03/ai-research-rag-using-chromadb-ollama/
 - https://github.com/tyrell/llm-ollama-llamaindex-bootstrap/tree/main
+- [Ollama-FastAPI-LlamaIndex](https://github.com/iSiddharth20/Ollama-FastAPI-LlamaIndex/tree/main)
 
 ```py
 conda create -n agentic python=3.11 -y && conda activate agentic
