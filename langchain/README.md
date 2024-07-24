@@ -28,6 +28,7 @@ Use Cases:
 
 Notebook:
 [Multi Query Retriever](https://www.53ai.com/news-frame?id=1027.html)
+<img width="1072" alt="Screenshot 2024-07-24 at 12 36 14 PM" src="https://github.com/user-attachments/assets/23be9702-32f5-47c6-96b8-38906d87eb55">
 
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
