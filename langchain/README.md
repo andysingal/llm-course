@@ -26,6 +26,9 @@ Use Cases:
 
 [phi-3-weather-chatbot-langchain](https://huggingface.co/spaces/VatsalPatel18/phi-3-weather-chatbot-langchain/blob/main/app.py)
 
+Notebook:
+[Multi Query Retriever](https://www.53ai.com/news-frame?id=1027.html)
+
 
 <img width="854" alt="Screenshot 2024-02-18 at 8 05 57 PM" src="https://github.com/andysingal/llm-course/assets/20493493/e30d3882-e117-4925-9989-5aba387978b5">
 
