@@ -32,5 +32,8 @@ FlashAttention has been proposed, which optimizes IO and use online softmax  to 
 
 [autotrain-advanced](https://github.com/huggingface/autotrain-advanced)
 
+***[huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes/tree/main)
+
+
 Notebook:
 [CommonLit RoBERTa](https://www.kaggle.com/code/tealgreen0503/commonlit-roberta-huggingface-trainer)
