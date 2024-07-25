@@ -30,5 +30,7 @@ FlashAttention has been proposed, which optimizes IO and use online softmax  to 
 
 [How to Run Your Own Local LLM](https://hackernoon.com/how-to-run-your-own-local-llm-updated-for-2024) 
 
+[autotrain-advanced](https://github.com/huggingface/autotrain-advanced)
+
 Notebook:
 [CommonLit RoBERTa](https://www.kaggle.com/code/tealgreen0503/commonlit-roberta-huggingface-trainer)
