@@ -22,6 +22,8 @@
 
 [Chat-with-your-document](https://github.com/Sumit-Pluto/Chat-with-your-document/blob/main/app.py)
 
+[Optimizing Search Precision With Self-Querying Retrieval (SQR) and Langchain](https://dzone.com/articles/optimizing-search-precision-with-sqr-and-langchain)
+
 Use Cases:
 
 [phi-3-weather-chatbot-langchain](https://huggingface.co/spaces/VatsalPatel18/phi-3-weather-chatbot-langchain/blob/main/app.py)
