@@ -28,6 +28,7 @@
 [LLMScrape](https://github.com/z-008/LLMScrape/blob/main/WebScrape.ipynb) 
 
 [Create a LangChain RAG system for web data in Python using Llama 3.1-405b in watsonx.ai](https://developer.ibm.com/tutorials/awb-create-langchain-rag-system-web-data-llama405b-watsonx/)
+[Building Smart AI Agents with LangChain](https://www.analyticsvidhya.com/blog/2024/07/building-smart-ai-agents-with-langchain/)
 
 
 
