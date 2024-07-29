@@ -2,6 +2,7 @@
 - https://github.com/tyrell/llm-ollama-llamaindex-bootstrap/tree/main
 - [Ollama-FastAPI-LlamaIndex](https://github.com/iSiddharth20/Ollama-FastAPI-LlamaIndex/tree/main)
 - [Building a Local Full-Stack Application with Llama 3.1 and Aider: A Step-by-Step Guide](https://www.dataedgehub.com/2024/07/building-local-full-stack-application.html)
+- [Running a RAG Chatbot with Ollama on Fly.io](https://upstash.com/blog/ollama-rag)
 
 ```py
 conda create -n agentic python=3.11 -y && conda activate agentic
