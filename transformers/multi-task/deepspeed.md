@@ -35,4 +35,5 @@ Resources:
 - [Deepspeed-Pytorch](https://lightning.ai/docs/pytorch/1.9.4/_modules/pytorch_lightning/strategies/deepspeed.html)
 - [DeepSpeed bbe0afbb-b](https://www.kaggle.com/code/kerneler/starter-deepspeed-bbe0afbb-b/data)
 - [DeepSpeed Mixture-of-Quantization (MoQ)](https://www.deepspeed.ai/tutorials/MoQ-tutorial/)
+- [DeepSpeed-Llama 2 7B-Chat](https://qiita.com/taka_yayoi/items/432182027f86fd104dcc)
 
