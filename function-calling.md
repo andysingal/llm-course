@@ -6,3 +6,5 @@
 <img width="1071" alt="Screenshot 2024-08-05 at 12 24 52 PM" src="https://github.com/user-attachments/assets/b4a14b2d-0c95-472d-ba35-dc035b86855e">
 
 
+Examples:
+1. [example-1](https://github.com/curiousily/AI-Bootcamp/blob/master/16.llm-function-calling.ipynb)
