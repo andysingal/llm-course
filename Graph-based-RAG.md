@@ -18,6 +18,10 @@
 
 [Knowledge Graph-Langchain](https://qiita.com/FukuharaYohei/items/6f1d094dc33688711221)
 
+[ GraphRAG from scratch](https://medium.com/@premchotepanit/%E0%B8%97%E0%B8%B3-graphrag-from-scatch-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-no-langchain-llamaindex-etc-81b13e499fe9)
+
+
+
 [webify](https://github.com/ChrisShin11/webify)
 
 
