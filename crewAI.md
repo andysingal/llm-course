@@ -13,4 +13,4 @@
 [Building a Hotel Recommender: Multi-Agent Framework with CrewAI, Ollama, and Gradio](https://levelup.gitconnected.com/building-a-hotel-recommender-multi-agent-framework-with-crewai-ollama-and-gradio-c81645776183)
 
 
-
+[crew-agentic](https://github.com/pavanbelagatti/Agentic-RAG-LangChain-CrewAI/blob/main/crew-agentic-pav.ipynb)
