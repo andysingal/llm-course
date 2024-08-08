@@ -23,6 +23,7 @@
 
 
 [webify](https://github.com/ChrisShin11/webify)
+[MindSearch](https://github.com/InternLM/MindSearch)
 
 
 
