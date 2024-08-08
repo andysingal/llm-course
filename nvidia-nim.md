@@ -6,3 +6,5 @@
 
 
 [Synthetic Dataset Creation Llama and Nemotron](https://mer.vin/2024/07/synthetic-dataset-creation-llama-and-nemotron/)
+
+[agentic_rag_with_nemo_retriever_nims](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/notebooks/agentic_rag_with_nemo_retriever_nims.ipynb)
