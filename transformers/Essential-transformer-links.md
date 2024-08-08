@@ -37,3 +37,5 @@ FlashAttention has been proposed, which optimizes IO and use online softmax  to 
 
 Notebook:
 [CommonLit RoBERTa](https://www.kaggle.com/code/tealgreen0503/commonlit-roberta-huggingface-trainer)
+
+[Gemma2 2B fine-tuned (QLoRA) to create characters](https://zenn.dev/yumefuku/articles/llm-finetuning-qlora)
