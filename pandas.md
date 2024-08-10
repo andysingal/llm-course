@@ -5,3 +5,8 @@
 [Using RAG-Enabled LLMs to Automate Data Analysis](https://semaphoreci.com/blog/rag-enabled-llms-data-analysis) 
 
 [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+
+
+Notebooks
+
+[Notebook1](https://colab.research.google.com/drive/1cx4OvdWKNjI1RpowmPYeqtyP1LF_rk9d?usp=sharing)
