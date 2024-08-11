@@ -65,3 +65,81 @@ agent_executor = AgentExecutor(
 question = "What is '(4876 * 1032 / 85) ^ 3'?"
 output = agent_executor.invoke({'input': prompt_template.format(question=question)})
 ```
+
+
+
+Example2
+```py
+from langchain.chains import LLMMathChain  # Need to pip install numexpr
+
+from langchain.agents import Tool
+from langchain.agents import initialize_agent, AgentType
+from langchain_experimental.utilities import PythonREPL
+
+from langchain.retrievers.tavily_search_api import TavilySearchAPIRetriever
+
+from langchain_openai import AzureChatOpenAI
+from dotenv import load_dotenv
+import os
+
+# Set OpenAI API key
+dotenv_path = ".env"
+load_dotenv(dotenv_path)
+
+OPENAI_API_BASE = os.getenv('OPENAI_API_BASE')
+OPENAI_API_VERSION = os.getenv('OPENAI_API_VERSION')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+
+TAVILY_API_KEY = os.getenv('TAVILY_API_KEY')
+
+os.environ["AZURE_OPENAI_API_KEY"] = OPENAI_API_KEY
+os.environ["AZURE_OPENAI_ENDPOINT"] = OPENAI_API_BASE
+
+llm = AzureChatOpenAI(
+    api_version=OPENAI_API_VERSION,
+    azure_deployment="gpt4o"  # azure_deployment = "deployment_name"
+)
+
+llm_math_chain = LLMMathChain(llm=llm, verbose=True)
+
+# Prepare and verify TavilySearchAPIRetriever
+retriever = TavilySearchAPIRetriever(k=3)
+
+python_repl = PythonREPL()
+# You can create the tool to pass to an agent
+
+tools = [
+    Tool(
+        name="python_repl",
+        description="A Python shell. Use this to execute Python commands. Input should be a valid Python command. If you want to see the output of a value, you should print it out with `print(...)`.",
+        func=python_repl.run,
+    ),
+    Tool(
+        name="Search",
+        func=retriever.invoke,
+        description="Useful for when you need to answer questions about current events"
+    ),
+    Tool(
+        name="Calculator",
+        func=llm_math_chain.run,
+        description="Useful for when you need to answer questions about math"
+    )
+]
+
+print(f"length of tools: {len(tools)}")
+for i in range(len(tools)):
+    print(f"description of tool: {tools[i].description}")
+
+# Initialize the agent
+agent_chain = initialize_agent(
+    tools,
+    llm,
+    agent=AgentType.STRUCTURED_CHAT_ZERO_SHOT_REACT_DESCRIPTION,
+    verbose=True,
+)
+
+# Run the agent
+agent_chain.invoke(
+    "Search for how many gold medals Japan has won in the 2024 Paris Olympics, and then provide the square of that number."
+)
+```
