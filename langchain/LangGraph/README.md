@@ -35,4 +35,6 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [Summary of Langchain and Langgraph streaming](https://note.com/rrrrrrrrrr_666/n/n3934dfc242b2) 
 
+[LangChain版とLangGraph](https://qiita.com/YutaroOgawa2/items/cb5b1db9f07a1c4f3f54)
+
 
