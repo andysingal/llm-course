@@ -60,3 +60,6 @@ some text
 Intelligent design tools: Architects and designers could leverage multi-modal RAGs to generate 3D models or sketches based on their textual descriptions.
 Interactive educational experiences: Imagine educational platforms that utilize multi-modal RAGs to create personalized learning journeys, using a combination of text, visuals, and even code snippets to cater to different learning styles.
 Revolutionizing customer service: Multi-modal RAGs could power intelligent chatbots capable of understanding and responding to complex inquiries, potentially using visuals or diagrams to enhance communication.
+
+Resources:
+[RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
