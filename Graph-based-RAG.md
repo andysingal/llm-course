@@ -21,6 +21,8 @@
 
 [ GraphRAG from scratch](https://medium.com/@premchotepanit/%E0%B8%97%E0%B8%B3-graphrag-from-scatch-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A-no-langchain-llamaindex-etc-81b13e499fe9)
 
+[Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://neo4j.com/developer-blog/entity-linking-relationship-extraction-relik-llamaindex/)
+
 
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
 
