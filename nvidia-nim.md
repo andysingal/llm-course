@@ -8,3 +8,6 @@
 [Synthetic Dataset Creation Llama and Nemotron](https://mer.vin/2024/07/synthetic-dataset-creation-llama-and-nemotron/)
 
 [agentic_rag_with_nemo_retriever_nims](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/notebooks/agentic_rag_with_nemo_retriever_nims.ipynb)
+
+
+[How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/)
