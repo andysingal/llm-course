@@ -63,4 +63,8 @@ https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main
 
 
 Graph RAG:
-- https://github.com/architecturebytes/graphrag/tree/main/tools/GraphQueryTool 
+- https://github.com/architecturebytes/graphrag/tree/main/tools/GraphQueryTool
+
+Notebook:
+- [CAMEL's Role-Playing Scraper](https://colab.research.google.com/drive/1XN18zb5ay97ju8LvL7WikEDqQBws-t0U?usp=sharing#scrollTo=Tq_wssFTYaKH)
+
