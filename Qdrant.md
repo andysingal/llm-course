@@ -4,4 +4,4 @@
 
 4. [LlamaIndex Agents and Qdrant’s Hybrid Search](https://blog.gopenai.com/building-smarter-agents-using-llamaindex-agents-and-qdrants-hybrid-search-50c0ecbbfb0d)
 
-[Building a Traceable RAG System with Qdrant and Langtrace: A Step-by-Step Guide](https://dev.to/yemi_adejumobi/building-a-traceable-rag-system-with-qdrant-and-langtrace-a-step-by-step-guide-47ki)
+5. [Building a Traceable RAG System with Qdrant and Langtrace: A Step-by-Step Guide](https://dev.to/yemi_adejumobi/building-a-traceable-rag-system-with-qdrant-and-langtrace-a-step-by-step-guide-47ki)
