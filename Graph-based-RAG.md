@@ -30,6 +30,7 @@
 [webify](https://github.com/ChrisShin11/webify)
 [MindSearch](https://github.com/InternLM/MindSearch)
 [QuerywithWebArticle](https://github.com/mdmahmudun/QuerywithWebArticle/blob/main/app.py)
+[camel_roleplaying_scraper](https://github.com/mistralai/cookbook/blob/main/third_party/CAMEL_AI/camel_roleplaying_scraper.ipynb)
 
 
 
