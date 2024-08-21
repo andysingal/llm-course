@@ -94,6 +94,30 @@ print(text)
 python_code = re.findall(r"```python(.*?)```", text, re.DOTALL)[0]
 exec(python_code)
 ```
+### HuggingFace Transformers library (multi-turn dialogue)
+```py
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers.generation.utils import GenerationConfig
+tokenizer = AutoTokenizer.from_pretrained("FarReelAILab/Machine_Mindset_en_ENTJ", use_fast=False, trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained("FarReelAILab/Machine_Mindset_en_ENTJ", device_map="auto", torch_dtype=torch.float16, trust_remote_code=True)
+model.generation_config = GenerationConfig.from_pretrained("FarReelAILab/Machine_Mindset_en_ENTJ")
+messages = []
+print("####Enter 'exit' to exit.")
+print("####Enter 'clear' to clear the chat history.")
+while True:
+    user=str(input("User:"))
+    if user.strip()=="exit":
+        break
+    elif user.strip()=="clear":
+        messages=[]
+        continue
+    messages.append({"role": "user", "content": user})
+    response = model.chat(tokenizer, messages)
+    print("Assistant:", response)
+    messages.append({"role": "assistant", "content": str(response)})
+```
 
 Resources:
-- https://github.com/huggingface/transformers/releases/tag/v4.41.0 
+- https://github.com/huggingface/transformers/releases/tag/v4.41.0
+- https://huggingface.co/PandaVT/MBTIGPT_en_ENTJ
