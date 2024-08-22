@@ -24,6 +24,8 @@
 [Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://neo4j.com/developer-blog/entity-linking-relationship-extraction-relik-llamaindex/)
 
 
+
+
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
 
 
@@ -33,7 +35,7 @@
 [camel_roleplaying_scraper](https://github.com/mistralai/cookbook/blob/main/third_party/CAMEL_AI/camel_roleplaying_scraper.ipynb)
 
 
-
+[WEB SCRAPING]
 
 [custom_websearch_agent](https://github.com/john-adeojo/custom_websearch_agent/blob/main/agent.py)
 
@@ -42,6 +44,7 @@
 [Create a LangChain RAG system for web data in Python using Llama 3.1-405b in watsonx.ai](https://developer.ibm.com/tutorials/awb-create-langchain-rag-system-web-data-llama405b-watsonx/)
 [Building Smart AI Agents with LangChain](https://www.analyticsvidhya.com/blog/2024/07/building-smart-ai-agents-with-langchain/)
 
+[How to Ask Questions to Any Website by Building a RAG App with LangChain](https://medium.com/@pedro.aquino.se/how-to-ask-questions-to-any-website-by-building-a-rag-app-with-langchain-7e964764b983)
 
 
 
