@@ -1,0 +1,1 @@
+[How To Build An AI Agent With Claude 3.5 Sonnet, LlamaIndex and MongoDB](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/notebooks/agents/how_to_build_ai_agent_claude_3_5_sonnet_llamaindex_mongodb.ipynb)
