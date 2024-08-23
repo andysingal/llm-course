@@ -14,3 +14,6 @@
 
 [Build a RAG App With Nvidia NIM APIs and a Vector Database](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)
 
+
+Nemo GuardRails
+- [NeMo Guardrails + Giskard scan](https://docs.giskard.ai/en/stable/integrations/nemoguardrails/nemoguardrails-integration.html)
