@@ -1,6 +1,18 @@
 [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai?tab=readme-ov-file) is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites, documents and XML files. Just say which information you want to extract and the library will do it for you!
 - [Building LLM-Powered Coding Assitant for GitHub: RAG with Gemini and Redis](https://towardsdatascience.com/building-llm-powered-coding-assitant-for-github-rag-with-gemini-and-redis-b88beeb42f2d)
 
+<img width="726" alt="Screenshot 2024-08-23 at 3 32 01 PM" src="https://github.com/user-attachments/assets/9fb1e7bb-d34f-438f-a763-a4e46fd75d80">
+
+## Description:
+1. G-Indexing (graph-based indexing): This is the initial stage of the GraphRAG process, which aims to identify or build a graph database G that is aligned with downstream tasks and build an index on it. The graph database can be derived from a public knowledge graph, graph data, or built based on proprietary data sources such as text or other forms of data. The indexing process includes mapping the properties of nodes and edges, establishing pointers between connected nodes, and organizing data to support fast traversal and retrieval operations.
+
+2. G-Retrieval: Following graph indexing, the graph retrieval phase focuses on extracting relevant information from the graph database based on user queries or inputs. Given a user query expressed in natural language, the goal of the retrieval phase is to extract the most relevant elements (e.g., entities, triples, paths, subgraphs) from the knowledge graph.
+
+3. G-Generation (Graph Augmentation Generation): The generation phase of graph augmentation involves synthesizing meaningful output or responses based on the retrieved graph data. This may include answering user queries, generating reports, etc. In this phase, the generator takes the query, retrieved graph elements, and an optional prompt as input to generate a response.
+
+
+
+
 [GraphRAG](https://www.graphlit.com/blog/graphrag-using-knowledge-in-unstructured-data-to-build-apps-with-llms) 
 
 [Microsoft GraphRAG with Ollama Locally](https://www.fahdmirza.com/2024/07/install-microsoft-graphrag-with-ollama.html)
