@@ -11,7 +11,7 @@
 3. G-Generation (Graph Augmentation Generation): The generation phase of graph augmentation involves synthesizing meaningful output or responses based on the retrieved graph data. This may include answering user queries, generating reports, etc. In this phase, the generator takes the query, retrieved graph elements, and an optional prompt as input to generate a response.
 
 
-
+## EXAMPLES
 
 [GraphRAG](https://www.graphlit.com/blog/graphrag-using-knowledge-in-unstructured-data-to-build-apps-with-llms) 
 
