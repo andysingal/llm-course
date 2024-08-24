@@ -2,3 +2,5 @@
 
 
 [llama-extract-metadata-extraction](https://github.com/rsrohan99/tutorial-notebooks/blob/main/llama-index/llama-extract-metadata-extraction-tutorial.ipynb)
+
+[metata-filtering-llamaindex](https://docs.llamaindex.ai/en/stable/examples/vector_stores/TiDBVector/)
