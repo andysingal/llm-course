@@ -6,4 +6,4 @@
 
 [ Using Danswer with Unstructured for Production RAG Chat With Your Docs](https://unstructured.io/blog/using-danswer-with-unstructured)
 
-
+[unstructured-table-extraction-from-scanned-pdf](https://github.com/sudarshan-koirala/youtube-stuffs/blob/main/data-cleaning/unstructured-table-extraction-from-scanned-pdf.ipynb)
