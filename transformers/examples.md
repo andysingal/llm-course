@@ -118,6 +118,45 @@ while True:
     messages.append({"role": "assistant", "content": str(response)})
 ```
 
+### QuantFactory/BabyMistral-GGUF 
+```py
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+model = AutoModelForCausalLM.from_pretrained("OEvortex/BabyMistral")
+tokenizer = AutoTokenizer.from_pretrained("OEvortex/BabyMistral")
+
+# Define the chat input
+chat = [
+#     { "role": "system", "content": "You are BabyMistral" },
+    { "role": "user", "content": "Hey there! How are you? 😊" }
+]
+
+inputs = tokenizer.apply_chat_template(
+    chat,
+    add_generation_prompt=True,
+    return_tensors="pt"
+).to(model.device)
+
+
+# Generate text
+outputs = model.generate(
+    inputs,
+    max_new_tokens=256,
+    do_sample=True,
+    temperature=0.6,
+    top_p=0.9,
+    eos_token_id=tokenizer.eos_token_id,
+
+    
+)
+
+response = outputs[0][inputs.shape[-1]:]
+print(tokenizer.decode(response, skip_special_tokens=True))
+
+#I am doing well! How can I assist you today? 😊
+
+```
 Resources:
 - https://github.com/huggingface/transformers/releases/tag/v4.41.0
 - https://huggingface.co/PandaVT/MBTIGPT_en_ENTJ
