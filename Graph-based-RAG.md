@@ -35,6 +35,8 @@
 
 [Entity Linking and Relationship Extraction With Relik in LlamaIndex](https://neo4j.com/developer-blog/entity-linking-relationship-extraction-relik-llamaindex/)
 
+[LlamaIndex-GraphRAG-Neo4J](https://qiita.com/moritalous/items/d76bb199b865b746309b)
+
 
 
 
