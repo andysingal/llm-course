@@ -9,3 +9,4 @@
 Examples:
 1. [example-1](https://github.com/curiousily/AI-Bootcamp/blob/master/16.llm-function-calling.ipynb)
 2. [example-2](https://github.com/pavanbelagatti/Function-Calling-Tutorial/blob/main/Function-Calling-Tutorial-Pavan.ipynb)
+3. [example-3](https://www.analyticsvidhya.com/blog/2024/08/tool-calling-in-llms/)
