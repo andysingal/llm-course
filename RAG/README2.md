@@ -6,4 +6,5 @@ code: https://github.com/naimkatiman/RAG-using-Llama-3.1-WebUi-on-Streamlit
 Resource:
 1. [NotDiamond Code](https://mer.vin/2024/08/notdiamond-code/)
 <img width="749" alt="Screenshot 2024-08-20 at 6 30 35 PM" src="https://github.com/user-attachments/assets/68fd1971-febf-4770-948f-bc5179812efa">
+
 2. [dsRAG](https://github.com/D-Star-AI/dsRAG)
