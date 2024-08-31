@@ -16,4 +16,5 @@ image = pipeline("ghibli style, a fantasy landscape with castles").images[0]
 
 
 Resource: 
+
 -[Quanto-Transformers](https://www.cnblogs.com/huggingface/p/18388714)
