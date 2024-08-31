@@ -60,6 +60,7 @@
 
 [How to Ask Questions to Any Website by Building a RAG App with LangChain](https://medium.com/@pedro.aquino.se/how-to-ask-questions-to-any-website-by-building-a-rag-app-with-langchain-7e964764b983)
 
+[AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper)
 
 
 Resources
