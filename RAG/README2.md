@@ -10,3 +10,5 @@ Resource:
 2. [dsRAG](https://github.com/D-Star-AI/dsRAG)
 
 3. [Using time-based RAG in LLM apps](https://blog.streamlit.io/using-time-based-rag-llm-apps-with-timescale-vector/)
+
+4. [RankGPT](https://www.datacamp.com/tutorial/rankgpt-rag-reranking-agent)
