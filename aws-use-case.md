@@ -1,0 +1,1 @@
+[Best practices for prompt engineering with Meta Llama 3 for Text-to-SQL use cases](https://aws.amazon.com/blogs/machine-learning/best-practices-for-prompt-engineering-with-meta-llama-3-for-text-to-sql-use-cases/)
