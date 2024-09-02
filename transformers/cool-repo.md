@@ -3,3 +3,10 @@
 [hf-waitress](https://github.com/abgulati/hf-waitress)
 
 [Lancedb Huggingface Integration](https://www.restack.io/p/lancedb-knowledge-huggingface-integration-cat-ai)
+
+## translation
+
+[polyglot](https://github.com/calmstate/polyglot)
+
+
+
