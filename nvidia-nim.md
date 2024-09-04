@@ -24,3 +24,7 @@ Nemo GuardRails
 
 Deploy:
 [Domino to deploy custom LLMs across any infrastructure using NVIDIA NIM](https://domino.ai/blogs/domino-data-lab-deploys-custom-llms-nvidia-nim)
+
+
+Notebooks:
+[Multimodal-RAG](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/community/multimodal-rag/app.py)
