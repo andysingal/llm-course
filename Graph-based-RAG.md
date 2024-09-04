@@ -41,7 +41,6 @@
 
 
 
-
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
 
 
@@ -86,6 +85,7 @@ https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main
 
 Graph RAG:
 - https://github.com/architecturebytes/graphrag/tree/main/tools/GraphQueryTool
+- [GraphRAG Analysis, Part 2: Graph Creation and Retrieval vs Vector Database Retrieval](https://home.mlops.community/public/blogs/graphrag-analysis-part-2-graph-creation-and-retrieval-vs-vector-database-retrieval)
 
 Notebook:
 - [CAMEL's Role-Playing Scraper](https://colab.research.google.com/drive/1XN18zb5ay97ju8LvL7WikEDqQBws-t0U?usp=sharing#scrollTo=Tq_wssFTYaKH)
