@@ -27,4 +27,5 @@ Deploy:
 
 
 Notebooks:
+
 [Multimodal-RAG](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/community/multimodal-rag/app.py)
