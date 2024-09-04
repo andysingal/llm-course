@@ -45,3 +45,4 @@ model.invoke("what is the weather in Boston?")
 Resources:
 - [Ollama-docker](https://highreso.jp/edgehub/machinelearning/ollamapython.html)
 - [kotaemon-Ollama](https://github.com/Cinnamon/kotaemon)
+- [ollama-python-playground](https://github.com/pamelafox/ollama-python-playground)
