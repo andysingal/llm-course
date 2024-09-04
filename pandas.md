@@ -10,3 +10,5 @@
 Notebooks
 
 [Notebook1](https://colab.research.google.com/drive/1cx4OvdWKNjI1RpowmPYeqtyP1LF_rk9d?usp=sharing)
+
+[cudf_pandas](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/accelerated_data_processing_examples/cudf_pandas_large_string.ipynb)
