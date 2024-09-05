@@ -12,3 +12,6 @@ Resource:
 3. [Using time-based RAG in LLM apps](https://blog.streamlit.io/using-time-based-rag-llm-apps-with-timescale-vector/)
 
 4. [RankGPT](https://www.datacamp.com/tutorial/rankgpt-rag-reranking-agent)
+
+## Notebook: 
+6. [The Ultimate Guide on RAG [w/ Gemma & llama_index]](https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index)
