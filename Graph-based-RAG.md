@@ -39,6 +39,7 @@
 
 [graphfleet](https://pypi.org/project/graphfleet/0.5.40/)
 
+[graphiti](https://github.com/getzep/graphiti)
 
 
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
