@@ -41,3 +41,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [langgraph_agent_memory](https://github.com/rokbenko/ai-playground/blob/main/langchain-tutorials/2-TUI_LangGraph_agent_memory/python/tui_langgraph_agent_memory.py)
 
+[agent_tutorials](https://github.com/samwit/agent_tutorials/tree/main)
+
