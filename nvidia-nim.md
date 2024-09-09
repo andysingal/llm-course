@@ -25,6 +25,9 @@ Nemo GuardRails
 Deploy:
 [Domino to deploy custom LLMs across any infrastructure using NVIDIA NIM](https://domino.ai/blogs/domino-data-lab-deploys-custom-llms-nvidia-nim)
 
+Articles:
+- [In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org/html/2409.01666v1)
+
 
 Notebooks:
 
