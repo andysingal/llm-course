@@ -4,4 +4,4 @@
 [Build powerful RAG pipelines with LlamaIndex and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-powerful-rag-pipelines-with-llamaindex-and-amazon-bedrock/)
 
 
-
+[Integrate sparse and dense vectors to enhance knowledge retrieval in RAG using Amazon OpenSearch Service](https://aws.amazon.com/blogs/big-data/integrate-sparse-and-dense-vectors-to-enhance-knowledge-retrieval-in-rag-using-amazon-opensearch-service/)
