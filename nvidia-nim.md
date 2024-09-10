@@ -27,6 +27,7 @@ Deploy:
 
 Articles:
 - [In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org/html/2409.01666v1)
+- [Llama and CodeLlama](https://docs.nvidia.com/nemo-framework/user-guide/latest/llms/llama/index.html)
 
 
 Notebooks:
