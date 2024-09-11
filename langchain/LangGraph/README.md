@@ -43,3 +43,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [agent_tutorials](https://github.com/samwit/agent_tutorials/tree/main)
 
+[LangGraph-Tutorial](https://colab.research.google.com/drive/1nc0GzEHFW-xdqZzOiergQvSvvcJ4UVbl?usp=sharing)
+
