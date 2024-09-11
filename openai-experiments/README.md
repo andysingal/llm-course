@@ -3,3 +3,5 @@
 [openai-interpreter](https://colab.research.google.com/drive/1WKmRXZgsErej2xUriKzxrEAXdxMSgWbb?usp=sharing)
 
 [Query SQL with Natural Language Using Azure OpenAI (NL2SQL)](https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models)
+
+[Langchain and OpenAI Vector Embedding Q/A System](https://dev.to/admantium/advanced-langchain-memory-tools-agents-4gki)
