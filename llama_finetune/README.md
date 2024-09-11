@@ -46,8 +46,10 @@ spectrum: [Fine-tune with Spectrum](https://github.com/cognitivecomputations/spe
 
 [sentence_transformer_fine_tuning](https://huggingface.co/spaces/DoctorSlimm/sentence_transformer_fine_tuning/blob/main/app.py)
 
+
 Dolphin models use this technique to target the most important layers to fine-tune, like in their recent Qwen2-72B version  
 
+[Qwen2-VL-Fine-Tuning](https://github.com/AIAnytime/Qwen2-VL-Fine-Tuning/blob/main/Qwen_2_VL_2B.ipynb)
 
 
 
