@@ -4,6 +4,8 @@
 
 [Lancedb Huggingface Integration](https://www.restack.io/p/lancedb-knowledge-huggingface-integration-cat-ai)
 
+[extended-mind-transformers](https://github.com/normal-computing/extended-mind-transformers)
+
 ## translation
 
 [polyglot](https://github.com/calmstate/polyglot)
