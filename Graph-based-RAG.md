@@ -41,6 +41,8 @@
 
 [graphiti](https://github.com/getzep/graphiti)
 
+[How Knowledge Graph RAG Boosts LLM Results](https://www.datastax.com/blog/how-knowledge-graph-rag-boosts-llm-results)
+
 
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
 
