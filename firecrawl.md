@@ -2,6 +2,8 @@
 
 [devdocs_to_llm_firecrawl](https://github.com/alexfazio/devdocs-to-llm/blob/main/devdocs_to_llm_firecrawl.ipynb)
 
+[o1_web_crawler](https://github.com/mendableai/firecrawl/blob/main/examples/o1_web_crawler%20/o1_web_crawler.py)
+
 
 CAMEL:
 
