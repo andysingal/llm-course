@@ -15,6 +15,10 @@
 [Build a RAG App With Nvidia NIM APIs and a Vector Database](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)
 
 
+## Cyber Security
+[leondz/garak](https://developer.nvidia.com/blog/nvidia-presents-ai-security-expertise-at-leading-cybersecurity-conferences/)
+
+
 Azure Nvidia
 - [azure-ai-search-nvidia](https://github.com/farzad528/azure-ai-search-python-playground/blob/main/azure-ai-search-nvidia-rag.ipynb)
 
