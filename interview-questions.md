@@ -23,3 +23,7 @@ They are long strings we pass in the header or as a query parameter in the API r
 You use API keys when access does not involve user context. For example, accessing a public API or service-to-service communication.
 
 They are long-lived and created through the API provider's platform or admin console.
+
+
+## Links:
+- [Start Building These Projects to Become an LLM Engineer](https://dswharshit.medium.com/start-building-these-projects-to-become-an-llm-engineer-0064e9e68d9d)
