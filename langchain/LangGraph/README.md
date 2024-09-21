@@ -45,3 +45,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [LangGraph-Tutorial](https://colab.research.google.com/drive/1nc0GzEHFW-xdqZzOiergQvSvvcJ4UVbl?usp=sharing)
 
+[Write Social Media Content with Agents](https://www.mlexpert.io/bootcamp/write-social-media-content-with-agents)
+
