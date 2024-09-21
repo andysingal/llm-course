@@ -10,6 +10,8 @@
 
 7. [Data-Driven RAG Evaluation: Testing Qdrant Apps with Relari AI](https://qdrant.tech/blog/qdrant-relari/)
 
+[Relari](https://www.relari.ai/blog/generate-synthetic-data-to-test-llm-applications)
+
 <img width="693" alt="Screenshot 2024-08-22 at 10 50 14 AM" src="https://github.com/user-attachments/assets/4a0e1222-f444-4f26-a7cd-bc1a41fe473f">
 
 Use Case:
