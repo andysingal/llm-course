@@ -4,6 +4,10 @@
 
 [o1_web_crawler](https://github.com/mendableai/firecrawl/blob/main/examples/o1_web_crawler%20/o1_web_crawler.py)
 
+## Firecrawl-Action
+
+![Screenshot 2024-09-24 140731](https://github.com/user-attachments/assets/3384bb03-dd35-46ba-832c-35ccb89a5bc6)
+
 
 CAMEL:
 
