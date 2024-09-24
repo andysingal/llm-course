@@ -5,3 +5,6 @@
 
 
 [Integrate sparse and dense vectors to enhance knowledge retrieval in RAG using Amazon OpenSearch Service](https://aws.amazon.com/blogs/big-data/integrate-sparse-and-dense-vectors-to-enhance-knowledge-retrieval-in-rag-using-amazon-opensearch-service/)
+
+
+[Generate synthetic data for evaluating RAG systems using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/generate-synthetic-data-for-evaluating-rag-systems-using-amazon-bedrock/)
