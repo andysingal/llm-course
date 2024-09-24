@@ -14,6 +14,8 @@
 
 [Build a RAG App With Nvidia NIM APIs and a Vector Database](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)
 
+[How To Build a RAG Agent With Nvidia NIM and LangChain](https://thenewstack.io/how-to-build-a-rag-agent-with-nvidia-nim-and-langchain/)
+
 
 ## Cyber Security
 [leondz/garak](https://developer.nvidia.com/blog/nvidia-presents-ai-security-expertise-at-leading-cybersecurity-conferences/)
