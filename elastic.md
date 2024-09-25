@@ -5,3 +5,5 @@
 [Semantic reranking in Elasticsearch with retrievers](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers)
 
 [Building a Custom Documents Agent with Elasticsearch, Ollama, Llama 3.1, and LangChain](https://levelup.gitconnected.com/building-a-custom-documents-agent-with-elasticsearch-ollama-llama-3-1-and-langchain-926b28047e1d)
+
+![Screenshot 2024-09-25 121021](https://github.com/user-attachments/assets/6b1ff62a-343d-47b8-85df-99fcb7489abf)
