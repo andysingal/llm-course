@@ -54,3 +54,4 @@ agent.run("Draw me a picture of rivers and lakes.")
 
 Resource:
 [LlamaIndex and Transformers Agents](https://www.llamaindex.ai/blog/llamaindex-and-transformers-agents-67042ee1d8d6)
+- [Agentic RAG](https://github.com/huggingface/cookbook/blob/main/notebooks/en/agent_rag.ipynb)
