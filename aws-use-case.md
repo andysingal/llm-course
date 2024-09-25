@@ -8,3 +8,6 @@
 
 
 ****** [Generate synthetic data for evaluating RAG systems using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/generate-synthetic-data-for-evaluating-rag-systems-using-amazon-bedrock/)...........[git repo](https://github.com/aws-samples/generating-synthetic-datasets-for-evaluating-retrieval-augmented-generation-systems/tree/main)
+
+
+[Advanced Chatbot Architecture with Langchain and Pinecone on AWS](https://bhavikjikadara.medium.com/advanced-chatbot-architecture-with-langchain-and-pinecone-on-aws-c48ae00e4f5c)
