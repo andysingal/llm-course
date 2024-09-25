@@ -3,3 +3,5 @@
 [Build RAG quickly with minimal code in Elastic 8.15](https://www.elastic.co/search-labs/blog/rag-minimal-code-in-815)
 
 [Semantic reranking in Elasticsearch with retrievers](https://www.elastic.co/search-labs/blog/semantic-reranking-with-retrievers)
+
+[Building a Custom Documents Agent with Elasticsearch, Ollama, Llama 3.1, and LangChain](https://levelup.gitconnected.com/building-a-custom-documents-agent-with-elasticsearch-ollama-llama-3-1-and-langchain-926b28047e1d)
