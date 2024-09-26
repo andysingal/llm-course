@@ -15,4 +15,4 @@ Resource:
 
 ## Notebook: 
 6. [The Ultimate Guide on RAG [w/ Gemma & llama_index]](https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index)
-7. [QueryG{T-Uber](
+7. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
