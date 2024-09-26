@@ -11,3 +11,5 @@
 
 
 [Advanced Chatbot Architecture with Langchain and Pinecone on AWS](https://bhavikjikadara.medium.com/advanced-chatbot-architecture-with-langchain-and-pinecone-on-aws-c48ae00e4f5c)
+
+[Elevate RAG for numerical analysis using Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/elevate-rag-for-numerical-analysis-using-amazon-bedrock-knowledge-bases/)
