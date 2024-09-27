@@ -47,3 +47,5 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [Write Social Media Content with Agents](https://www.mlexpert.io/bootcamp/write-social-media-content-with-agents)
 
+[Adaptive-RAG-local-LLMs](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_adaptive_rag_local/)
+
