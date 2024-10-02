@@ -16,6 +16,12 @@
 
 [How To Build a RAG Agent With Nvidia NIM and LangChain](https://thenewstack.io/how-to-build-a-rag-agent-with-nvidia-nim-and-langchain/)
 
+Integrations:
+[VAST](https://blocksandfiles.com/2024/10/01/vast-insightengine/)
+
+![Screenshot 2024-10-02 084711](https://github.com/user-attachments/assets/615e5cd7-507c-431d-9626-4ea2971b4fea)
+
+
 
 ## Cyber Security
 [leondz/garak](https://developer.nvidia.com/blog/nvidia-presents-ai-security-expertise-at-leading-cybersecurity-conferences/)
