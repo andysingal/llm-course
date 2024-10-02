@@ -6,6 +6,8 @@
 
 [extended-mind-transformers](https://github.com/normal-computing/extended-mind-transformers)
 
+[transformers_debug](https://github.com/huggingface/transformers_debug)
+
 ## translation
 
 [polyglot](https://github.com/calmstate/polyglot)
