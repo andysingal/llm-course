@@ -4,3 +4,4 @@ Notebook:
 
 - [reader-lm](https://colab.research.google.com/drive/1wXWyj5hOxEHY6WeHbOwEzYAC0WB1I5uA#scrollTo=w4mZouvODKBI)
 - [Access Jina AI embeddings via their API](https://github.com/simonw/llm-jina-api)
+- [JinaAi-late-chunking](https://github.com/jlonge4/gen_ai_utils/blob/main/jinaai_late_chunking.ipynb)
