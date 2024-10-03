@@ -21,6 +21,8 @@ Integrations:
 
 ![Screenshot 2024-10-02 084711](https://github.com/user-attachments/assets/615e5cd7-507c-431d-9626-4ea2971b4fea)
 
+[Building LLM-Powered Production Systems with NVIDIA NIM and Outerbounds](https://developer.nvidia.com/blog/building-llm-powered-production-systems-with-nvidia-nim-and-outerbounds/)
+
 
 
 ## Cyber Security
