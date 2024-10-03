@@ -66,6 +66,8 @@
 
 [AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper)
 
+[crew4AI-webscraping](https://x.com/akshay_pachaar/status/1841463917060735224)
+
 
 Resources
 [The RAG Stack: Featuring Knowledge Graphs](https://akashbajwa.substack.com/p/the-rag-stack-featuring-knowledge) 
