@@ -52,3 +52,8 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 [langgraph-graphrag](https://github.com/milvus-io/bootcamp/blob/master/bootcamp/RAG/advanced_rag/langgraph-graphrag-agent-local.ipynb)
 
 [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
+
+
+[Copilot-Langgraph](https://docs.copilotkit.ai/coagents)
+
+![Screenshot 2024-10-03 085217](https://github.com/user-attachments/assets/5e1bdf1b-98b2-4ea1-8438-1a3ec29915d0)
