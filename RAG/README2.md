@@ -13,6 +13,15 @@ Resource:
 
 4. [RankGPT](https://www.datacamp.com/tutorial/rankgpt-rag-reranking-agent)
 
+5. Altera’s new AI agents, powered by OpenAI’s o1 model, mimic the human brain with many modules operating in parallel - simulating cognitive functions like attention, memory, and social cognition. Here are some key insights…
+
+> LLMs that predict next best token/thought/action will likely only be one part of an AGI / intelligent multi-agent system
+> Environmental grounding, long term memory, planning and decision-making are critical component that require additional “modules” - a lot like the human brain
+> Agents likely need more than just model alignment to be taught how or how not to think, talk, feel, and define intent
+>
+> <img width="783" alt="Screenshot 2024-10-06 at 8 02 55 AM" src="https://github.com/user-attachments/assets/65f9cbda-7202-46d0-b29b-0cbb1afba42a">
+
+
 ## Notebook: 
 6. [The Ultimate Guide on RAG [w/ Gemma & llama_index]](https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index)
 7. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
