@@ -25,3 +25,4 @@ Overview of VPTQ:
 Resource:
 
 - https://github.com/microsoft/VPTQ
+- [Demo](https://huggingface.co/spaces/VPTQ-community/VPTQ-Demo)
