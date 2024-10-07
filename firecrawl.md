@@ -14,3 +14,9 @@
 CAMEL:
 
 <img width="524" alt="Screenshot 2024-09-06 at 2 18 19 PM" src="https://github.com/user-attachments/assets/405c5fe9-9f07-4e9a-b4a4-ff9a9e2a1b7d">
+
+
+## Crawl entire website with Claude 3.5 or GPT4
+
+<img width="527" alt="Screenshot 2024-10-06 at 8 20 24 PM" src="https://github.com/user-attachments/assets/399736e5-b9ab-4215-bef5-bb19665c6a01">
+
