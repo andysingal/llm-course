@@ -6,6 +6,8 @@
 
 [o1_job_recommender](https://github.com/mendableai/firecrawl/blob/main/examples/o1_job_recommender/o1_job_recommender.py)
 
+[Realtime API with website search](https://x.com/nickscamara_/status/1843369585514324456)
+
 ## Firecrawl-Action
 
 ![Screenshot 2024-09-24 140731](https://github.com/user-attachments/assets/3384bb03-dd35-46ba-832c-35ccb89a5bc6)
