@@ -46,6 +46,10 @@ if __name__ == "__main__":
     server.run(port=8000)
 ```
 
+
+<img width="689" alt="Screenshot 2024-10-07 at 9 23 12 PM" src="https://github.com/user-attachments/assets/b38ee3df-c846-440d-85f8-b116f9e6da1e">
+
+
 ## Examples
 [Deploy and chat with Qwen2-VL using LitServe](https://lightning.ai/bhimrajyadav/studios/deploy-and-chat-with-qwen2-vl-using-litserve?section=recent&tab=files&layout=column&path=cloudspaces%2F01j6jammncv5bf6048h7fnr8pe&y=7&x=0)
 
