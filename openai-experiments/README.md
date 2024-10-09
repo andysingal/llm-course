@@ -8,3 +8,27 @@
 
 
 [Introducing vision to the fine-tuning API](https://openai.com/index/introducing-vision-to-the-fine-tuning-api/)
+
+```py
+import requests
+import json
+
+def chat(content):
+  url = "https://api.openai.com/v1/chat/completions"
+  headers = {
+      "Content-Type": "application/json",
+      "Authorization": "Bearer " + os.environ["OPENAI_API_KEY"]
+  }
+  data = {
+      "model": "gpt-3.5-turbo",
+      "messages": [
+          {"role": "user", "content": content}
+      ],
+      "temperature": 0,
+  }
+
+  response = requests.post(url=url, headers=headers, json=data)
+  print(json.dumps(response.json(), indent=2))
+
+  chat("Hi! I'm Kubota!")
+```
