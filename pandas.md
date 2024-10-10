@@ -6,6 +6,8 @@
 
 [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
 
+[Scaling AI-Based Data Processing with Hugging Face + Dask](https://huggingface.co/blog/dask-scaling)
+
 
 Notebooks
 
