@@ -53,7 +53,7 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [Build a Chatbot](https://python.langchain.com/docs/tutorials/chatbot/)
 
-[Create a Langchain app with multiple vector store the easy way](https://www.metadocs.co/2024/04/05/create-a-langchain-app-with-multiple-vector-store-the-easy-way/)
+[Simple domain specific Corrective RAG with LangChain and LangGraph](https://www.metadocs.co/2024/08/29/simple-domain-specific-corrective-rag-with-langchain-and-langgraph/)
 
 
 [Copilot-Langgraph](https://docs.copilotkit.ai/coagents)
