@@ -36,6 +36,11 @@ Nemo GuardRails
 - [NeMo Guardrails + Giskard scan](https://docs.giskard.ai/en/stable/integrations/nemoguardrails/nemoguardrails-integration.html)
 
 
+# Data Loading
+
+[NVIDIA AI: Nvidia DALI](https://www.youtube.com/watch?v=PTWER9HIVHM)
+
+
 Deploy:
 [Domino to deploy custom LLMs across any infrastructure using NVIDIA NIM](https://domino.ai/blogs/domino-data-lab-deploys-custom-llms-nvidia-nim)
 
