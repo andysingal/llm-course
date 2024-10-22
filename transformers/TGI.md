@@ -62,5 +62,23 @@ for message in chat_completion:
 ```
 endpoint.delete()
 
+```py
+import requests
+
+API_URL = "https://api-inference.huggingface.co/models/jonathandinu/face-parsing"
+headers = {"Authorization": "Bearer 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"}
+
+def query(filename):
+    with open(filename, "rb") as f:
+        data = f.read()
+    response = requests.post(API_URL, headers=headers, data=data)
+    return response.json()
+
+output = query("/content/IMG_20221108_073555.jpg")
+```
+
+
+
 Resource:
-- https://gitlab.com/juliensimon/huggingface-demos/-/blob/main/inference-endpoints/llama3-8b-openai-inf2.ipynb 
+- https://gitlab.com/juliensimon/huggingface-demos/-/blob/main/inference-endpoints/llama3-8b-openai-inf2.ipynb
+- [face-parsing](https://www.analyticsvidhya.com/blog/2024/10/understanding-face-parsing/)
