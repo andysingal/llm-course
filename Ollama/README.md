@@ -5,6 +5,9 @@
 - [Running a RAG Chatbot with Ollama on Fly.io](https://upstash.com/blog/ollama-rag)
 - [Reduce hallucinations with Bespoke-Minicheck](https://ollama.com/blog/reduce-hallucinations-with-bespoke-minicheck)
 
+
+<img width="929" alt="Screenshot 2024-10-26 at 6 27 31 AM" src="https://github.com/user-attachments/assets/85b58208-3c14-4ed8-bb63-3e42c1ccdae9">
+
 ```py
 conda create -n agentic python=3.11 -y && conda activate agentic
 
