@@ -3,3 +3,5 @@
 [vid](https://www.youtube.com/watch?v=C2dT2fPZuQE)
 
 [open-canvas](https://x.com/MisbahSy/status/1847130230592299376)
+
+[Continue](https://github.com/continuedev/continue)
