@@ -53,3 +53,5 @@ if __name__ == "__main__":
 ## Examples
 [Deploy and chat with Qwen2-VL using LitServe](https://lightning.ai/bhimrajyadav/studios/deploy-and-chat-with-qwen2-vl-using-litserve?section=recent&tab=files&layout=column&path=cloudspaces%2F01j6jammncv5bf6048h7fnr8pe&y=7&x=0)
 
+[Deploy an OpenAI RAG Server](https://lightning.ai/lightning-ai/studios/deploy-an-openai-rag-server)
+
