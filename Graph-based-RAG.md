@@ -10,6 +10,8 @@
 
 3. G-Generation (Graph Augmentation Generation): The generation phase of graph augmentation involves synthesizing meaningful output or responses based on the retrieved graph data. This may include answering user queries, generating reports, etc. In this phase, the generator takes the query, retrieved graph elements, and an optional prompt as input to generate a response.
 
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+
 
 ## EXAMPLES
 
@@ -52,6 +54,7 @@
 [QuerywithWebArticle](https://github.com/mdmahmudun/QuerywithWebArticle/blob/main/app.py)
 [camel_roleplaying_scraper](https://github.com/mistralai/cookbook/blob/main/third_party/CAMEL_AI/camel_roleplaying_scraper.ipynb)
 
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
 [WEB SCRAPING]
 
@@ -67,6 +70,11 @@
 [AI-Web-Scraper](https://github.com/techwithtim/AI-Web-Scraper)
 
 [crew4AI-webscraping](https://x.com/akshay_pachaar/status/1841463917060735224)
+
+[pipet](https://github.com/bjesus/pipet)
+
+
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
 
 Resources
@@ -87,6 +95,7 @@ https://github.com/Aseer-Ahmad/RAG-with-Ray-Langchain/tree/main
 [Agentic RAG with Llama 3](https://www.kaggle.com/code/redpen12/agentic-rag-with-llama-3)
 
 
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 
 Graph RAG:
 - https://github.com/architecturebytes/graphrag/tree/main/tools/GraphQueryTool
