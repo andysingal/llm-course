@@ -21,6 +21,8 @@ Resource:
 >
 > <img width="783" alt="Screenshot 2024-10-06 at 8 02 55 AM" src="https://github.com/user-attachments/assets/65f9cbda-7202-46d0-b29b-0cbb1afba42a">
 
+6. [LmDeploy](https://aicarrier.feishu.cn/wiki/IXmswHdXciZMwMkKTWYcIRDWnDe)
+
 
 ## Notebook: 
 6. [The Ultimate Guide on RAG [w/ Gemma & llama_index]](https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index)
