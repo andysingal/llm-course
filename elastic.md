@@ -16,3 +16,8 @@
 [Page-Rank in LLMs](https://www.linkedin.com/pulse/building-ranking-system-enhance-prompt-results-new-ragllm-granville-dyhre/)
 
 [Elasticsearch Open Inference API Adds Support for Alibaba Cloud AI Search](https://www.alibabacloud.com/blog/elasticsearch-open-inference-api-adds-support-for-alibaba-cloud-ai-search_601634)
+
+
+[Elastic-AI-Assistant](https://www.elastic.co/blog/elastic-ai-assistant-custom-knowledge-sources)
+
+![Screenshot 2024-11-14 095536](https://github.com/user-attachments/assets/523a7c60-c6e8-4592-8b24-b4ef802af7cd)
