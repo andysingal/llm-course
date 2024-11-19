@@ -14,3 +14,7 @@ TL;DR:
 - 🖼️ MoE isn't limited to language models - it's also being adapted for vision models
 - 🔢 Mixtral 8x7B demonstrates the power of MoE, loading 46.7B parameters but only using 12.8B during inference
 ![Screenshot 2024-10-07 145408](https://github.com/user-attachments/assets/4f894179-4504-40cd-a34f-1c5d4540b385)
+
+
+Resoures:
+- [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts)
