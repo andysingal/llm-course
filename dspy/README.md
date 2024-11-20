@@ -4,6 +4,10 @@ To make this more systematic and much more powerful, DSPy does two things. First
 
 DSPy can routinely teach powerful models like GPT-3.5 or GPT-4 and local models like T5-base or Llama2-13b to be much more reliable at tasks, i.e. having higher quality and/or avoiding specific failure patterns. DSPy optimizers will "compile" the same program into different instructions, few-shot prompts, and/or weight updates (finetunes) for each LM. This is a new paradigm in which LMs and their prompts fade into the background as optimizable pieces of a larger system that can learn from data. tldr; less prompting, higher scores, and a more systematic approach to solving hard tasks with LMs.
 
+<img width="570" alt="Screenshot 2024-11-19 at 8 06 32 PM" src="https://github.com/user-attachments/assets/de2d46ae-f189-4dfb-82e1-6dc1e2007a0b">
+
+
+
 
 Resources:
 - https://gist.github.com/jrknox1977
