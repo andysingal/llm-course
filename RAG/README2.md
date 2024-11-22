@@ -22,6 +22,10 @@ Resource:
 > <img width="783" alt="Screenshot 2024-10-06 at 8 02 55 AM" src="https://github.com/user-attachments/assets/65f9cbda-7202-46d0-b29b-0cbb1afba42a">
 
 6. [LmDeploy](https://aicarrier.feishu.cn/wiki/IXmswHdXciZMwMkKTWYcIRDWnDe)
+7. [Enhancing RAG Context Recall with a Custom Embedding Model: Step-by-Step Guide](https://blog.spheron.network/enhancing-rag-context-recall-with-a-custom-embedding-model-step-by-step-guide)
+![Screenshot 2024-11-22 073610](https://github.com/user-attachments/assets/3b37e712-5a4f-4e6b-9736-b8389b1b5a17)
+
+
 
 
 ## Notebook: 
