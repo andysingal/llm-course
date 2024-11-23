@@ -49,9 +49,13 @@ if __name__ == "__main__":
 
 <img width="689" alt="Screenshot 2024-10-07 at 9 23 12 PM" src="https://github.com/user-attachments/assets/b38ee3df-c846-440d-85f8-b116f9e6da1e">
 
+<img width="616" alt="Screenshot 2024-11-22 at 9 06 01 PM" src="https://github.com/user-attachments/assets/14f2c9d5-055d-4207-aa89-44e513683b5d">
+
 
 ## Examples
 [Deploy and chat with Qwen2-VL using LitServe](https://lightning.ai/bhimrajyadav/studios/deploy-and-chat-with-qwen2-vl-using-litserve?section=recent&tab=files&layout=column&path=cloudspaces%2F01j6jammncv5bf6048h7fnr8pe&y=7&x=0)
 
 [Deploy an OpenAI RAG Server](https://lightning.ai/lightning-ai/studios/deploy-an-openai-rag-server)
+
+
 
