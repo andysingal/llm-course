@@ -21,3 +21,8 @@
 [Elastic-AI-Assistant](https://www.elastic.co/blog/elastic-ai-assistant-custom-knowledge-sources)
 
 ![Screenshot 2024-11-14 095536](https://github.com/user-attachments/assets/523a7c60-c6e8-4592-8b24-b4ef802af7cd)
+
+
+<img width="1179" alt="Screenshot 2024-11-22 at 9 12 36 PM" src="https://github.com/user-attachments/assets/25b3b316-2375-4366-8675-82f9608d0f64">
+
+[Dell AI Factory](https://www.elastic.co/blog/agentic-rag-dell-ai-factory-nvidia-elasticsearch-vector-database?utm_source=organic-social&utm_medium=twitter&utm_campaign=product_marketing&utm_content=15333517306&linkId=664688852)
