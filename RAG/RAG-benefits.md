@@ -115,6 +115,9 @@ For examples.. when analyzing a lengthy document about a particular company or i
 
 <img width="1021" alt="Screenshot 2024-11-24 at 10 36 09 AM" src="https://github.com/user-attachments/assets/a197dd92-17bf-4a35-b139-4e48ce0d8118">
 
+## Longnet
+It represents a transformative advancement in the field of transformer advancement in the field of transfortm optimization. The approach is set to extend the context window to an unprecedented 1 billion tokens, significantly enhancing their ability to process and analyze large volumes of data.
+
 
 
 
