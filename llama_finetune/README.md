@@ -1,3 +1,17 @@
+Instruction Fine Tuning: Making General Purpose Assistants:
+- Transforms the model into a general purpose assistant by adding control over its behavior
+- It aims to create an LLM that understands cues as instructions rather than text
+- It would likely interpret the prompt as an instruction and expands the capabilities of models
+- This enables LLMs to learn to perform new tasks introduced through additional instructions and does not require large amount of task-specific data
+
+
+Different Fine Tunings:
+
+1. Low Rank Adaptation (LoRA): It adopts low-rank approximations on the downstream layers of LLMs. It optimizes computational resources and expenses by fine-tuning LLMs to certain tasks and datasets
+2. SFT: It is a standard method where a trained LLM undergoes supervised fine-tuning with limited sample data. The model learns from this data and generates responses that align with expected outputs. It can be used for Instruction fine-tuning.
+3. Reinforcement Learning from Human Feedback 
+
+
 Fine Tune Examples
 
 [Fine Tune LLM with Axolotl](https://github.com/andysingal/llm-course/blob/main/llama_finetune/Fine_tune_LLMs_with_Axolotl.ipynb)
