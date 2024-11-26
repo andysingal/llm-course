@@ -10,6 +10,7 @@
 
 ![Screenshot 2024-09-25 121021](https://github.com/user-attachments/assets/6b1ff62a-343d-47b8-85df-99fcb7489abf)
 
+[Crafting a hybrid geospatial RAG application with Elastic and Amazon Bedrock](https://www.elastic.co/blog/hybrid-geospatial-rag-application-elastic-amazon-bedrock)
 
 
 
