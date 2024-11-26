@@ -19,6 +19,8 @@ Constitutional AI is a framework developed by Anthropic researchers to align Ai 
 - Intrinsic metrics which are directly related to the training objective--perplexity... first step... measure perplexity is calculating the probability of a sentence. This is done by multiplying the probabilities assigned to each word
 
 
+
+
 <img width="767" alt="Screenshot 2024-10-06 at 9 55 16 PM" src="https://github.com/user-attachments/assets/4ca9510c-d83d-475a-ab37-5257e4b9853f">
 
 Resource:
