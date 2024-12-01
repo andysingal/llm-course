@@ -14,3 +14,5 @@
 
 
 [crew-agentic](https://github.com/pavanbelagatti/Agentic-RAG-LangChain-CrewAI/blob/main/crew-agentic-pav.ipynb)
+
+[CrewAI Based DSA Tutor: Personalized Learning with Multi-Agent Systems](https://www.analyticsvidhya.com/blog/2024/12/crewai-based-dsa-tutor/)
