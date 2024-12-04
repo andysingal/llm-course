@@ -22,4 +22,7 @@
 [Better RAG accuracy and consistency with Amazon Textract](https://community.aws/content/2njwVmseGl0sxomMvrq65PzHo9x/better-rag-accuracy-and-consistency-with-amazon-textract)
 
 [Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents](https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/)
+
+[Building RAG systems with Amazon Nova](https://docs.aws.amazon.com/nova/latest/userguide/rag-systems.html)
+
 <img width="782" alt="Screenshot 2024-11-01 at 9 18 44 PM" src="https://github.com/user-attachments/assets/0a10f057-d617-4a7f-8162-76d38ea8ed75">
