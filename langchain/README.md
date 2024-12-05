@@ -1,3 +1,18 @@
+
+<img width="1394" alt="Screenshot 2024-12-04 at 7 17 47 PM" src="https://github.com/user-attachments/assets/71f55db3-9e37-4faf-97b8-cc570bda3e9b">
+
+## Agent Types:
+
+1. Zero-shot ReAct: This agent use the ReAct framework to decide tool usage based on the descriptions . It is called zero-shot because it relies only on the tool descriptions without the need for specific usage examples
+
+2. Structured Input ReAct: This agent manages tools that necessitate multiple inputs
+
+3. ReAct Document Store Agent: This agent combines the "Search" and "Lookup" tools to provide a continuos thought process
+
+4. Plan and Execute Agents: This type formulates a plan consisting of multiple actions, which are the carried out sequentially . Thes agents are particularly effective for complex or long-running tasks.
+
+
+
 [Sequential Chain](https://github.com/mahesh15698/MCQ_generator_Using_Langchain_and_OpenAI/blob/main/streamlitApp.py)
 
 [CrewAI](https://medium.com/analytics-vidhya/want-to-generate-social-media-content-automatically-d8ac88922368)
