@@ -18,6 +18,7 @@ Constitutional AI is a framework developed by Anthropic researchers to align Ai 
 - Evaluation metrics are tools to measure the model's performance in terms that are understandable to humans.
 - Intrinsic metrics which are directly related to the training objective--perplexity... first step... measure perplexity is calculating the probability of a sentence. This is done by multiplying the probabilities assigned to each word
 
+![Screenshot 2024-12-05 090547](https://github.com/user-attachments/assets/3f277db8-f59e-4d73-ac22-5fca54da5744)
 
 
 
