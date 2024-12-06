@@ -25,4 +25,6 @@
 
 [Building RAG systems with Amazon Nova](https://docs.aws.amazon.com/nova/latest/userguide/rag-systems.html)
 
+[Deploy RAG applications on Amazon SageMaker JumpStart using FAISS](https://aws.amazon.com/blogs/machine-learning/deploy-rag-applications-on-amazon-sagemaker-jumpstart-using-faiss/)
+
 <img width="782" alt="Screenshot 2024-11-01 at 9 18 44 PM" src="https://github.com/user-attachments/assets/0a10f057-d617-4a7f-8162-76d38ea8ed75">
