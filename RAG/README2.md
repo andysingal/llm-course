@@ -32,3 +32,4 @@ Resource:
 6. [The Ultimate Guide on RAG [w/ Gemma & llama_index]](https://www.kaggle.com/code/bachngoh/the-ultimate-guide-on-rag-w-gemma-llama-index)
 7. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 8. [RAG-LLM-Development-Guidebook-from-PDFs](https://github.com/GPT-Laboratory/RAG-LLM-Development-Guidebook-from-PDFs/tree/main)
+9. [Advanced-RAG-Notebooks](https://github.com/athina-ai/rag-cookbooks)
