@@ -46,6 +46,8 @@ from langchain_core.messages import HumanMessage
 
 model.invoke("what is the weather in Boston?")
 ```
+<img width="730" alt="Screenshot 2024-12-14 at 5 59 57 PM" src="https://github.com/user-attachments/assets/110e7ac5-9c76-4514-b57c-b6db9fc7cf54" />
+
 
 Resources:
 - [Ollama-docker](https://highreso.jp/edgehub/machinelearning/ollamapython.html)
