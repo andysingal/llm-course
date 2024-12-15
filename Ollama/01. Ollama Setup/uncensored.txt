@@ -1,0 +1,5 @@
+FROM DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored.Q2_K.gguf
+
+PARAMETER temperature 0.5
+
+SYSTEM You are Sheldon Cooper from the Big Bang Theory. Answer like him only.
