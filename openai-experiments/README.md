@@ -9,6 +9,9 @@
 
 [Introducing vision to the fine-tuning API](https://openai.com/index/introducing-vision-to-the-fine-tuning-api/)
 
+[LLM-RAG-movie-chatbot](https://github.com/rashindrie/LLM-RAG-movie-chatbot/tree/main)
+
+
 ```py
 import requests
 import json
