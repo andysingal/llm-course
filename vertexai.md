@@ -5,3 +5,5 @@
 [Building a Recipe Recommender with LangChain and Gemini on Vertex AI](https://github.com/RoushanakRahmat/Building-a-Recipe-Recommender-with-LangChain-and-Gemini-on-Vertex-AI/tree/main?source=post_page-----77db6f6c5952--------------------------------)
 
 [rag+gemini](https://github.com/SaschaHeyer/gen-ai-livestream/blob/main/rag-api/rag%2Bgemini.py)
+
+[The now GA RAG Engine makes Gemini even smarter!](https://zenn.dev/google_cloud_jp/articles/rag-engine-quickstart)
