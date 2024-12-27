@@ -10,6 +10,10 @@
 
 [firecrawl-zapier](https://x.com/ericciarla/status/1846598355373134025)
 
+[researcher_agent](https://github.com/lgesuellip/researcher_agent/tree/main)
+![Screenshot 2024-12-27 100423](https://github.com/user-attachments/assets/9eb4617f-f849-47a5-9f06-772f2ca680ac)
+
+
 ## Firecrawl-Action
 
 ![Screenshot 2024-09-24 140731](https://github.com/user-attachments/assets/3384bb03-dd35-46ba-832c-35ccb89a5bc6)
