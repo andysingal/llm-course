@@ -65,6 +65,8 @@ Dolphin models use this technique to target the most important layers to fine-tu
 
 [Qwen2-VL-Fine-Tuning-LLaMA-Factory](https://github.com/AIAnytime/Qwen2-VL-Fine-Tuning/blob/main/Qwen_2_VL_2B.ipynb)
 
+[Fine-Tuning ModernBERT](https://drchrislevy.github.io/posts/modern_bert/modern_bert.html)
+
 
 
 Resources:
