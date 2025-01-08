@@ -28,3 +28,4 @@ Use Case:
 - [A Real-life Use-case With Codes: Build an AI-powered Research Assistant With Llama3, LlamaIndex, Qdrant, and FastAPI](https://pub.towardsai.net/a-real-life-use-case-with-codes-build-an-ai-powered-research-assistant-with-llama3-llamaindex-ad105a3eda77)
 - [Qdrant-memory-langchain](https://ithelp.ithome.com.tw/articles/10346202?sc=rss.qu)
 - [Better Search Results Through Intelligent Chunking and Metadata Integration](https://dzone.com/articles/better-search-results-through-intelligent-chunking)
+- [RAG Stack using SambaNova](https://blog.dailydoseofds.com/p/building-the-fastest-rag-stack-using)
