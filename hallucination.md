@@ -20,6 +20,8 @@ Constitutional AI is a framework developed by Anthropic researchers to align Ai 
 
 ![Screenshot 2024-12-05 090547](https://github.com/user-attachments/assets/3f277db8-f59e-4d73-ac22-5fca54da5744)
 
+[RAG Hallucination Detection Techniques](https://machinelearningmastery.com/rag-hallucination-detection-techniques/)
+
 
 
 <img width="767" alt="Screenshot 2024-10-06 at 9 55 16 PM" src="https://github.com/user-attachments/assets/4ca9510c-d83d-475a-ab37-5257e4b9853f">
