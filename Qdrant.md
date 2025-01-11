@@ -9,6 +9,7 @@
 6. [Qdrant Internals: Immutable Data Structures](https://qdrant.tech/articles/immutable-data-structures/)
 
 7. [Data-Driven RAG Evaluation: Testing Qdrant Apps with Relari AI](https://qdrant.tech/blog/qdrant-relari/)
+8. [Agentic RAG With LangGraph and Qdrant](https://qdrant.tech/documentation/agentic-rag-langgraph/)
 
 [Relari](https://www.relari.ai/blog/generate-synthetic-data-to-test-llm-applications)
 
