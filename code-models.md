@@ -2,6 +2,7 @@
 
 [CodeAct](https://docs.all-hands.dev/modules/usage/agents)
 
+[code2prompt](https://github.com/mufeedvh/code2prompt/)
 
 
 Examples
