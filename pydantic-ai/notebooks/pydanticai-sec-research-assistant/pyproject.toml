@@ -1,0 +1,11 @@
+[project]
+name = "sec-research-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-ai>=0.0.18",
+    "python-dotenv>=1.0.1",
+    "tavily-python>=0.5.0",
+]
