@@ -11,6 +11,7 @@ Basic Examples
 - [LangGraph - Agent Executor](https://normalstory.tistory.com/m/entry/LangGraph-2-%EC%9C%A0%ED%98%95%EB%B3%84-%EC%8B%A4%EC%8A%B5)
 - [Mastering Stateful AI Agents with Langgraph](https://div.beehiiv.com/p/mastering-stateful-ai-agents-langgraph) 
 <img width="670" alt="Screenshot 2024-06-28 at 7 14 19 PM" src="https://github.com/andysingal/llm-course/assets/20493493/5cb2e8c1-ab21-4563-9a81-15faf7e88de6">
+- [Building an AI Fitness Agent with LangGraph: A Complete Guide](https://blog.gopenai.com/building-an-ai-fitness-agent-with-langgraph-a-complete-guide-5b6e35a25f24)
 
 
 Advanced Examples: 
