@@ -56,6 +56,8 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [Simple domain specific Corrective RAG with LangChain and LangGraph](https://www.metadocs.co/2024/08/29/simple-domain-specific-corrective-rag-with-langchain-and-langgraph/)
 
+[local-rag-researcher-deepseek](https://github.com/kaymen99/local-rag-researcher-deepseek)
+
 
 [Copilot-Langgraph](https://docs.copilotkit.ai/coagents)
 
