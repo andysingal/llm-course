@@ -4,6 +4,8 @@
 
 [code2prompt](https://github.com/mufeedvh/code2prompt/)
 
+[Fine-Tuning of Llama-2 7B Chat for Python Code Generation](https://www.marktechpost.com/2025/02/08/fine-tuning-of-llama-2-7b-chat-for-python-code-generation-using-qlora-sfttrainer-and-gradient-checkpointing-on-the-alpaca-14k-dataset/)
+
 
 Examples
 ```py
