@@ -1,3 +1,6 @@
+[Langchain (Upgraded) + DeepSeek-R1 + RAG Just Revolutionized AI Forever](https://gaodalie.substack.com/p/langchain-upgraded-deepseek-r1-rag)
+
+
 ```py
 from langchain import hub
 from langchain.agents import Tool, AgentExecutor, create_react_agent
