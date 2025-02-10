@@ -7,6 +7,10 @@
 
 [Gemini 2.0](https://note.com/npaka/n/n36ac85db4114)
 
+<img width="995" alt="Screenshot 2025-02-10 at 7 01 48 PM" src="https://github.com/user-attachments/assets/36870e99-ef12-4ffd-8c03-b8a85f0e3631" />
+
+
+### EXAMPLE 2: 
 ```py
 
 from typing import List
