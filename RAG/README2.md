@@ -33,3 +33,4 @@ Resource:
 7. [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)
 8. [RAG-LLM-Development-Guidebook-from-PDFs](https://github.com/GPT-Laboratory/RAG-LLM-Development-Guidebook-from-PDFs/tree/main)
 9. [Advanced-RAG-Notebooks](https://github.com/athina-ai/rag-cookbooks)
+10. [RAG Assistant for Hiring Managers](https://github.com/alysawyer/resume-rag-nv)
