@@ -8,4 +8,7 @@
 
 [CodeElo](https://arxiv.org/abs/2501.01257)
 
+[micro-agent](https://github.com/BuilderIO/micro-agent)
+
+
 CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings
