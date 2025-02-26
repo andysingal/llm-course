@@ -12,3 +12,8 @@
 
 
 CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings
+
+
+### NEWSLETTER
+
+[Bind AIBind AI: Write Code with AI. Compare best AI models.](https://blog.getbind.co/category/llm-code-generation/)
