@@ -5,6 +5,7 @@
 - [Running a RAG Chatbot with Ollama on Fly.io](https://upstash.com/blog/ollama-rag)
 - [Reduce hallucinations with Bespoke-Minicheck](https://ollama.com/blog/reduce-hallucinations-with-bespoke-minicheck)
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
+- [AI Agent Chat sử dụng Ollama, LangChain, FletUI Python](http://github.com/8syncdev/ai-agent-fletui)
 
 
 <img width="929" alt="Screenshot 2024-10-26 at 6 27 31 AM" src="https://github.com/user-attachments/assets/85b58208-3c14-4ed8-bb63-3e42c1ccdae9">
