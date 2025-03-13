@@ -11,6 +11,7 @@
 
 [LLM-RAG-movie-chatbot](https://github.com/rashindrie/LLM-RAG-movie-chatbot/tree/main)
 
+[openai_BI_agen](https://github.com/XinyueZ/chat-your-doc/blob/master/advanced/openai_BI_agent.py?source=post_page-----b0cd46ca106c---------------------------------------)
 
 ```py
 import requests
