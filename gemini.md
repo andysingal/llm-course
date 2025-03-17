@@ -7,6 +7,9 @@
 
 [Gemini 2.0](https://note.com/npaka/n/n36ac85db4114)
 
+<img width="465" alt="Screenshot 2025-03-16 at 9 02 26 PM" src="https://github.com/user-attachments/assets/8133b2ed-e138-49a3-b06b-ae99c35e8476" />
+
+
 <img width="995" alt="Screenshot 2025-02-10 at 7 01 48 PM" src="https://github.com/user-attachments/assets/36870e99-ef12-4ffd-8c03-b8a85f0e3631" />
 
 https://x.com/patloeber/status/1894034706879926617/photo/1
