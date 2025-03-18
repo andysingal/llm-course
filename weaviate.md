@@ -4,5 +4,6 @@
 
 [What is Agentic RAG](https://weaviate.io/blog/what-is-agentic-rag)
 
+[Game-recommender](https://github.com/weaviate/recipes/blob/main/weaviate-features/generative-search/generative_search_ollama/deepseek-ollama-epic-games-rag.ipynb)
 
 <img width="494" alt="Screenshot 2024-08-22 at 10 39 01 PM" src="https://github.com/user-attachments/assets/b9063e75-1224-4126-a087-11bc7f725110">
