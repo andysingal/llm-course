@@ -7,6 +7,8 @@
 
 [Gemini 2.0](https://note.com/npaka/n/n36ac85db4114)
 
+[query-agent-as-a-tool](https://github.com/google-gemini/cookbook/blob/main/examples/weaviate/query-agent-as-a-tool.ipynb)
+
 <img width="465" alt="Screenshot 2025-03-16 at 9 02 26 PM" src="https://github.com/user-attachments/assets/8133b2ed-e138-49a3-b06b-ae99c35e8476" />
 
 
