@@ -11,6 +11,9 @@
 7. [Data-Driven RAG Evaluation: Testing Qdrant Apps with Relari AI](https://qdrant.tech/blog/qdrant-relari/)
 8. [Agentic RAG With LangGraph and Qdrant](https://qdrant.tech/documentation/agentic-rag-langgraph/)
 *** 9. [Multimodal RAG with ColPali, crewAIInc & Qdrant](https://github.com/debnsuma/fcc-ai-engineering-aws/blob/main/06-agents-with-rag/02-multimodal-retrival-with-colpali-retreve-gen-agents-crewAI.ipynb)
+
+   9. [Vibe Coding RAG with our MCP server](https://qdrant.tech/blog/webinar-vibe-coding-rag/)
+   10. 
     
 
 [Relari](https://www.relari.ai/blog/generate-synthetic-data-to-test-llm-applications)
