@@ -45,6 +45,8 @@
 
 [How Knowledge Graph RAG Boosts LLM Results](https://www.datastax.com/blog/how-knowledge-graph-rag-boosts-llm-results)
 
+[Building AI agents with Gen AI Toolbox for Databases and Dgraph](https://cloud.google.com/blog/topics/partners/expanding-gen-ai-toolbox-for-databases-with-hypermode)
+
 
 <img width="774" alt="Screenshot 2024-08-12 at 12 26 21 PM" src="https://github.com/user-attachments/assets/376bccad-3791-4409-870d-f287dcc9305b">
 
