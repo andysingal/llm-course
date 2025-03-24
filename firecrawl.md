@@ -16,6 +16,7 @@
 
 [Gemin-2.0-Crawler](https://www.firecrawl.dev/p/gemini-2.0-crawler)
 
+[AI Real Estate Agent with Firecrawl](https://github.com/mendableai/firecrawl/tree/main/examples/deep-research-apartment-finder)
 
 ## Firecrawl-Action
 
