@@ -6,3 +6,5 @@
 
 [Claude + MCP + Deep Research](https://note.com/hatti8/n/n07055f64f210)
 
+[Bitcoin-MCP](https://github.com/financial-datasets/mcp-server/blob/main/server.py)
+
