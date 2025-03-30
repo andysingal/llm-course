@@ -2,3 +2,4 @@
 
 [Hugging Face Model Importer for Ollama](https://github.com/inzi/olguff)
 
+[voice-agent](https://github.com/NarimanN2/ollama-playground/blob/main/voice-rag/voice_rag.py)
