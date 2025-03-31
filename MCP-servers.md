@@ -10,7 +10,7 @@
 
 [LangGraph Agent with MCP](https://github.com/teddynote-lab/langgraph-mcp-agents)
 
-
+[GPT Researcher MCP Server](https://github.com/assafelovic/gptr-mcp)
 
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
