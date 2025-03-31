@@ -8,6 +8,8 @@
 
 [Bitcoin-MCP](https://github.com/financial-datasets/mcp-server/blob/main/server.py)
 
+[LangGraph Agent with MCP](https://github.com/teddynote-lab/langgraph-mcp-agents)
+
 
 
 ### SDK
