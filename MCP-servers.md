@@ -14,3 +14,9 @@
 
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+
+
+[MCP Config](https://github.com/marcusschiesser/mcp-config)
+
+A CLI tool for managing MCP servers configurations for MCP clients (currently Codeium Windsurf).
+
