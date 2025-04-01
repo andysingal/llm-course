@@ -20,6 +20,10 @@
 
 [MCP Config](https://github.com/marcusschiesser/mcp-config)
 
+
+Examples:
+[MCP-examp-1](https://github.com/parthshr370/MCP-Servers/tree/main)
+
 A CLI tool for managing MCP servers configurations for MCP clients (currently Codeium Windsurf).
 
 <img width="448" alt="Screenshot 2025-03-31 at 7 50 02 PM" src="https://github.com/user-attachments/assets/7bf68013-dcba-4cc2-b37c-52f8a80af6d5" />
