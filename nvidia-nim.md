@@ -52,3 +52,7 @@ Articles:
 Notebooks:
 
 [Multimodal-RAG](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/community/multimodal-rag/app.py)
+
+
+Issues:
+[1](https://forums.developer.nvidia.com/t/dli-building-rag-agents-with-llms-unable-to-configure-fast-api/328811)
