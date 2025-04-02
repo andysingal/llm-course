@@ -35,3 +35,4 @@ Use Case:
 - [Qdrant-memory-langchain](https://ithelp.ithome.com.tw/articles/10346202?sc=rss.qu)
 - [Better Search Results Through Intelligent Chunking and Metadata Integration](https://dzone.com/articles/better-search-results-through-intelligent-chunking)
 - [RAG Stack using SambaNova](https://blog.dailydoseofds.com/p/building-the-fastest-rag-stack-using)
+- [Visualizing Chunking Impacts in Agentic RAG with Agno, Qdrant, RAGAS and LlamaIndex](https://skillenai.com/competition-post/visualizing-chunking-impacts-in-agentic-rag-with-agno-qdrant-ragas-and-llamaindex/)
