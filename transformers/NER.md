@@ -2,4 +2,5 @@
 - [GLiNER](https://towardsdatascience.com/extract-any-entity-from-text-with-gliner-32b413cea787)
 - [Explosion](https://explosion.ai/_/task/ner)
 - [Social Bias NER](https://huggingface.co/maximuspowers/bias-detection-ner)
+- [Named Entity Recognition (NER) with a BERT Model](https://machinelearningmastery.com/how-to-do-named-entity-recognition-ner-with-a-bert-model/?fbclid=IwY2xjawJaHAtleHRuA2FlbQIxMQABHVDGTR5NJYN2yTCQ_aSXeuPe7EhlDxwQl_ZjceCZrOE0hXci1ITH13oDqQ_aem_83cNZj4SC6sLCgMhB26BfQ)
   
