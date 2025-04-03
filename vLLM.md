@@ -6,3 +6,5 @@
 
 
 [FP8 KV Cache](https://docs.vllm.ai/en/latest/getting_started/examples/fp8.html)
+
+[Huggingface-VLLM](https://github.com/sergiopaniego/samples)
