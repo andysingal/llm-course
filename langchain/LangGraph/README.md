@@ -58,7 +58,7 @@ https://pinsystem.co.uk/building-reliable-llm-agent-using-advanced-rag-technique
 
 [local-rag-researcher-deepseek](https://github.com/kaymen99/local-rag-researcher-deepseek)
 
-[egal-tech-chat](https://github.com/tomasonjo-labs/legal-tech-chat)
+[legal-tech-chat](https://github.com/tomasonjo-labs/legal-tech-chat)
 
 
 [Copilot-Langgraph](https://docs.copilotkit.ai/coagents)
