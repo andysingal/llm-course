@@ -14,6 +14,8 @@
 
 [LangGraph + MCP + Ollama](https://gaodalie.substack.com/p/langgraph-mcp-ollama-the-key-to-powerful)
 
+[AWS MCP Servers](https://github.com/awslabs/mcp)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
