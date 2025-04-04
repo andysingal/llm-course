@@ -30,6 +30,9 @@ output = pipe('Input String')
 ```
 [source](https://www.deepspeed.ai/tutorials/automatic-tensor-parallelism/)
 
+### Examples:
+- [nano-aha-moment](https://github.com/McGill-NLP/nano-aha-moment/blob/main/nano_r1.ipynb)
+
 
 Resources:
 - [Deepspeed-Pytorch](https://lightning.ai/docs/pytorch/1.9.4/_modules/pytorch_lightning/strategies/deepspeed.html)
