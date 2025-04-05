@@ -35,3 +35,8 @@ A CLI tool for managing MCP servers configurations for MCP clients (currently Co
 - [MCP-List](https://glama.ai/mcp/servers/@heltonteixeira/ragdocs/related-servers)
 - [sanderkooger/mcp-server-ragdocs](https://glama.ai/mcp/servers/@sanderkooger/mcp-server-ragdocs/blob/main/.mocharc.json)
 - [scrapeless-mcp-server](https://github.com/scrapeless-ai/scrapeless-mcp-server)
+
+
+### How to build MCP Servers
+
+- [Example-twitter](https://x.com/akshay_pachaar/status/1908136640737882369)
