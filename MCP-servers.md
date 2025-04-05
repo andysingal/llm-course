@@ -33,3 +33,4 @@ A CLI tool for managing MCP servers configurations for MCP clients (currently Co
 ### Related Servers 
 
 - [MCP-List](https://glama.ai/mcp/servers/@heltonteixeira/ragdocs/related-servers)
+- [sanderkooger/mcp-server-ragdocs](https://glama.ai/mcp/servers/@sanderkooger/mcp-server-ragdocs/blob/main/.mocharc.json)
