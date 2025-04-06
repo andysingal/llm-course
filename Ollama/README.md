@@ -7,6 +7,9 @@
 - [Bringing K/V Context Quantisation to Ollama](https://smcleod.net/2024/12/bringing-k/v-context-quantisation-to-ollama/)
 - [AI Agent Chat sử dụng Ollama, LangChain, FletUI Python](http://github.com/8syncdev/ai-agent-fletui)
 
+### OLLAMA EXAMPLES
+[ollama-example](https://github.com/NarimanN2/ollama-playground)
+
 
 <img width="929" alt="Screenshot 2024-10-26 at 6 27 31 AM" src="https://github.com/user-attachments/assets/85b58208-3c14-4ed8-bb63-3e42c1ccdae9">
 
