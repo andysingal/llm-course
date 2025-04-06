@@ -4,6 +4,10 @@
 
 [repo2txt](https://github.com/abinthomasonline/repo2txt)
 
+***[Deepgit](https://github.com/zamalali/DeepGit/tree/main)
+
+DeepGit is an advanced, Langgraph-based agentic workflow designed to perform deep research across GitHub repositories. It intelligently searches, analyzes, and ranks repositories based on user intent—even uncovering less-known but highly relevant tools. DeepGit infuses hybrid dense retrieval with advanced cross-encoder re-ranking and comprehensive activity analysis into a unified, open-source platform for intelligent repository discovery
+
 [goose](https://github.com/block/goose)
 goose is your on-machine AI agent, capable of automating complex development tasks from start to finish. More than just code suggestions, goose can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows, and interact with external APIs - autonomously.
 
