@@ -10,6 +10,12 @@
 
 [micro-agent](https://github.com/BuilderIO/micro-agent)
 
+[Claude Squad](https://github.com/smtg-ai/Claude-squad)
+
+Claude Squad is a terminal app that manages multiple Claude Code (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
+
+
+
 
 CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings
 
