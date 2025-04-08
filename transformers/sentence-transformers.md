@@ -20,3 +20,7 @@ document_embeddings = model.encode(documents)
 scores = (query_embeddings @ document_embeddings.T) * 100
 print(scores.tolist())
 ```
+
+-- EXAMPLES
+[recommendation systems using text embeddings](https://machinelearningmastery.com/example-applications-of-text-embedding/)
+
