@@ -14,3 +14,4 @@ Resources:
 - https://www.lycee.ai/blog/getting-started-with-dspy
 - https://github.com/PhiBrandon/resume_extraction_dspy/blob/main/start.py 
 - [Mental-Health-Conversations-Using-DSPy-and-Qdrant](https://github.com/manas95826/Mental-Health-Conversations-Using-DSPy-and-Qdrant/blob/main/app.py)
+- [Multi-Hop Retrieval](https://dspy.ai/tutorials/multihop_search/)
