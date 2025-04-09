@@ -50,7 +50,10 @@ replace github with  gitmcp.io
 https://x.com/Saboo_Shubham_/status/1909795196990374022
 
 
+
 ###REsources
 
 [RFC: Automatic Resource Registration and Resource-Aware Prompt Templates](https://gist.github.com/jxnl/1ddbdd7cce46f26a2a09c9f1460b6fd6)
+
+[Trying out MCP (Model Context Protocol) with LangChain MCP Adapters and Ollama](https://kazuhira-r.hatenablog.com/)
 
