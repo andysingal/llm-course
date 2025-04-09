@@ -16,6 +16,8 @@
 
 [AWS MCP Servers](https://github.com/awslabs/mcp)
 
+[fastapi_mcp](https://github.com/tadata-org/fastapi_mcp/?tab=readme-ov-file)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
