@@ -40,3 +40,11 @@ A CLI tool for managing MCP servers configurations for MCP clients (currently Co
 ### How to build MCP Servers
 
 - [Example-twitter](https://x.com/akshay_pachaar/status/1908136640737882369)
+
+
+### Cursor-MCP
+
+```py
+replace github with  gitmcp.io
+```
+https://x.com/Saboo_Shubham_/status/1909795196990374022
