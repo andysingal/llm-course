@@ -13,7 +13,7 @@
 *** 9. [Multimodal RAG with ColPali, crewAIInc & Qdrant](https://github.com/debnsuma/fcc-ai-engineering-aws/blob/main/06-agents-with-rag/02-multimodal-retrival-with-colpali-retreve-gen-agents-crewAI.ipynb)
 
    9. [Vibe Coding RAG with our MCP server](https://qdrant.tech/blog/webinar-vibe-coding-rag/)
-   10. 
+   10. [Qdrant RAG with HoneyHive Tracing](https://docs.honeyhive.ai/integrations/qdrant)
     
 
 [Relari](https://www.relari.ai/blog/generate-synthetic-data-to-test-llm-applications)
