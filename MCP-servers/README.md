@@ -61,3 +61,5 @@ https://x.com/Saboo_Shubham_/status/1909795196990374022
 
 [Trying out MCP (Model Context Protocol) with LangChain MCP Adapters and Ollama](https://kazuhira-r.hatenablog.com/)
 
+**[mcp-ollama](https://medium.com/ai-cloud-lab/model-context-protocol-mcp-with-ollama-and-llama-3-a-step-by-step-guide-part-2-2a5917c8c745)
+
