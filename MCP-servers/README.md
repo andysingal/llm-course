@@ -22,6 +22,8 @@
 
 [Agents-Anthropic](https://github.com/anthropics/anthropic-quickstarts/tree/main/agents)
 
+[quillopy-mcp](https://github.com/quillopy/quillopy-mcp)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
