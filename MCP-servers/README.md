@@ -24,6 +24,8 @@
 
 [quillopy-mcp](https://github.com/quillopy/quillopy-mcp)
 
+[wikidata-mcp](https://glama.ai/mcp/servers/@zzaebok/mcp-wikidata?locale=ja-JP)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
