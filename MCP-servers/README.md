@@ -26,6 +26,8 @@
 
 [wikidata-mcp](https://glama.ai/mcp/servers/@zzaebok/mcp-wikidata?locale=ja-JP)
 
+[databricks-msp](https://qiita.com/isanakamishiro2/items/272d99886425520ea681)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
