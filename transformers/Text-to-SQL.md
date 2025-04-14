@@ -1,5 +1,7 @@
 [QuantFactory/prem-1B-SQL-GGUF](https://huggingface.co/QuantFactory/prem-1B-SQL-GGUF)
 
+[Vanna](https://github.com/vanna-ai/vanna)
+
 ```py
 from premsql.pipelines import SimpleText2SQLAgent
 from premsql.generators import Text2SQLGeneratorHF
