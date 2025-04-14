@@ -28,6 +28,8 @@
 
 [databricks-msp](https://qiita.com/isanakamishiro2/items/272d99886425520ea681)
 
+[hf-trending-mcp](https://glama.ai/mcp/servers/@kukapay/hf-trending-mcp?locale=en-US)
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
