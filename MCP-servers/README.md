@@ -34,6 +34,18 @@
 
 [docret-mcp-server](https://github.com/Sreedeep-SS/docret-mcp-server)
 
+What is DOCRET?
+DOCRET is a Documentation Retrieval MCP Server that enables AI assistants to access up-to-date documentation for various Python libraries, ensuring that AI applications always have access to the latest official documentation.
+
+How to use DOCRET?
+To use DOCRET, clone the repository, set up a virtual environment, install dependencies, configure environment variables, and run the server. You can then use the provided API to fetch documentation content from supported libraries.
+
+Key features of DOCRET?
+Dynamic documentation retrieval for specified Python libraries.
+Asynchronous web searches using the SERPER API.
+HTML parsing to extract readable text from documentation.
+Extensible design to easily add support for additional libraries.
+
 
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
