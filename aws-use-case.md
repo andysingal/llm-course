@@ -31,3 +31,9 @@
 [Custom MCP Server-AWS](https://dev.to/aws/create-a-custom-mcp-server-for-working-with-aws-services-adding-a-rag-knowledge-base-and-utilities-39ea)
 
 <img width="782" alt="Screenshot 2024-11-01 at 9 18 44 PM" src="https://github.com/user-attachments/assets/0a10f057-d617-4a7f-8162-76d38ea8ed75">
+
+
+[Host concurrent LLMs with LoRAX](https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/)
+
+
+<img width="666" alt="Screenshot 2025-04-17 at 11 30 47 AM" src="https://github.com/user-attachments/assets/1adb9f3f-5b23-4a82-9069-04eb3250d7b6" />
