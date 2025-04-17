@@ -18,6 +18,8 @@
 
 [AI Real Estate Agent with Firecrawl](https://github.com/mendableai/firecrawl/tree/main/examples/deep-research-apartment-finder)
 
+[FIRE-1](https://www.firecrawl.dev/blog/launch-week-iii-day-2-announcing-fire-1)
+
 ## Firecrawl-Action
 
 ![Screenshot 2024-09-24 140731](https://github.com/user-attachments/assets/3384bb03-dd35-46ba-832c-35ccb89a5bc6)
