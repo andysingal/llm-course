@@ -32,6 +32,9 @@
 
 [Multi LLM Cross-Check MCP Server](https://glama.ai/mcp/servers/@lior-ps/multi-llm-cross-check-mcp-server)
 
+[docret-mcp-server](https://github.com/Sreedeep-SS/docret-mcp-server)
+
+
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 
