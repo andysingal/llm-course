@@ -6,3 +6,10 @@ Automates browser-based workflows using LLMs and computer vision. It provides a 
 [WebChat](https://github.com/molvqingtai/WebChat)
 
 This is an anonymous chat browser extension that is decentralized and serverless, utilizing WebRTC for end-to-end encrypted communication. It prioritizes privacy, with all data stored locally.
+
+
+[Gemini Browser Agent](https://github.com/philschmid/gemini-samples/blob/main/scripts/gemini-browser-use.py)
+
+Gemini 2.5 Flash can control a browser!
+
+
