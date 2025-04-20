@@ -10,6 +10,8 @@
 ### OLLAMA EXAMPLES
 [ollama-example](https://github.com/NarimanN2/ollama-playground)
 
+[Chatlama](https://github.com/codersbranch/Chatlama)
+
 
 <img width="929" alt="Screenshot 2024-10-26 at 6 27 31 AM" src="https://github.com/user-attachments/assets/85b58208-3c14-4ed8-bb63-3e42c1ccdae9">
 
