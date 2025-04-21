@@ -34,6 +34,12 @@ result = retriever.invoke("your query")
 ```
 Source: https://stackoverflow.com/questions/79165072/getting-document-similarity-scores-with-selfqueryretriever-langchain
 
+## Hashtag generator
+
+<img width="537" alt="Screenshot 2025-04-21 at 8 07 12 AM" src="https://github.com/user-attachments/assets/4bc5ca6f-2e64-417a-82ac-b01de5efff9b" />
+
+<img width="503" alt="Screenshot 2025-04-21 at 8 07 38 AM" src="https://github.com/user-attachments/assets/21889739-3032-4ac7-9ce3-272969546164" />
+
 
 ### EXAMPLES
 - [Building a Writing Assistant with LangChain and Qwen-2.5-32B](https://www.analyticsvidhya.com/blog/2025/03/writing-assistant/)
