@@ -16,3 +16,8 @@ Notebooks
 [cudf_pandas](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/accelerated_data_processing_examples/cudf_pandas_large_string.ipynb)
 
 [langchain_csv_dataviz](https://github.com/pedrolustosab/langchain_csv_dataviz/blob/main/chat.ipynb)
+
+
+## Articles
+
+[Building a Simple Yet Powerful RAG Pipeline with LlamaIndex: A Christmas Carol Example](https://medium.com/@tuhinsharma121/building-a-simple-yet-powerful-rag-pipeline-with-llamaindex-a-christmas-carol-example-077f01062de1)
