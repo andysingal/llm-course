@@ -19,16 +19,16 @@
 [Relari](https://www.relari.ai/blog/generate-synthetic-data-to-test-llm-applications)
 
 <img width="1127" alt="Screenshot 2024-09-20 at 10 23 25 PM" src="https://github.com/user-attachments/assets/353dfb11-4423-4668-9a09-4499f557d470">
-
-11. [LLM Tracing Implementation to Analyze and Visualize LLM at Scale](https://www.codementor.io/@krutichapaneri40/llm-tracing-implementation-to-analyze-and-visualize-llm-at-scale-2qtqflg9uh)
-
-
-
-
 <img width="693" alt="Screenshot 2024-08-22 at 10 50 14 AM" src="https://github.com/user-attachments/assets/4a0e1222-f444-4f26-a7cd-bc1a41fe473f">
+
 
 8. [Qdrant-Pulumi](https://qdrant.tech/documentation/infrastructure/pulumi/)
 9. [Revolutionizing RAG by Integrating Vision Models for Enhanced Document Processing](https://medium.com/@manthapavankumar11/revolutionizing-rag-by-integrating-vision-models-for-enhanced-document-processing-b3aaa7ab386a)
+
+10.  [LLM Tracing Implementation to Analyze and Visualize LLM at Scale](https://www.codementor.io/@krutichapaneri40/llm-tracing-implementation-to-analyze-and-visualize-llm-at-scale-2qtqflg9uh)
+11.  [Build a GraphRAG Agent with Neo4j and Qdrant](https://qdrant.tech/documentation/examples/graphrag-qdrant-neo4j/)
+
+
 
 
 
