@@ -4,6 +4,8 @@
 
 [Mem0 with Ollama Locally](https://www.fahdmirza.com/2024/08/mem0-with-ollama-locally-memory-layer.html)
 
+[Build low-latency voice agents powered by memory via mem0](https://docs.mem0.ai/integrations/pipecat)
+
 
 [Memary](https://github.com/kingjulio8238/Memary)
 
