@@ -3,3 +3,8 @@
 [Web Search + LLM](https://www.kaggle.com/code/codingloading/anime-rag-chatbot-project-web-search-llm/notebook)
 
 [WebcrawlerAPI LangChain Integration](https://webcrawlerapi.com/docs/sdk/langchain)
+
+
+##article
+
+[Web Data Extraction Using Crawl4AI](https://www.marktechpost.com/2025/04/23/a-coding-guide-to-asynchronous-web-data-extraction-using-crawl4ai-an-open-source-web-crawling-and-scraping-toolkit-designed-for-llm-workflows/)
