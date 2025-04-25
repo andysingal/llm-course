@@ -34,6 +34,8 @@
 
 [docret-mcp-server](https://github.com/Sreedeep-SS/docret-mcp-server)
 
+[exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
+
 What is DOCRET?
 DOCRET is a Documentation Retrieval MCP Server that enables AI assistants to access up-to-date documentation for various Python libraries, ensuring that AI applications always have access to the latest official documentation.
 
