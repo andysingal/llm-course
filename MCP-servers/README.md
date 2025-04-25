@@ -46,6 +46,8 @@ Asynchronous web searches using the SERPER API.
 HTML parsing to extract readable text from documentation.
 Extensible design to easily add support for additional libraries.
 
+[dolphin-mcp](https://github.com/cognitivecomputations/dolphin-mcp/tree/main)
+
 
 ### SDK
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
