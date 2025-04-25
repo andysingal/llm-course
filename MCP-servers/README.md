@@ -91,6 +91,8 @@ https://x.com/Saboo_Shubham_/status/1909795196990374022
 
 [Trying out MCP (Model Context Protocol) with LangChain MCP Adapters and Ollama](https://kazuhira-r.hatenablog.com/)
 
+[langgraph-mcp-dataanalysis](https://github.com/gongwon-nayeon/langgraph-mcp-dataanalysis/blob/main/data_server.py)
+
 **[mcp-ollama](https://medium.com/ai-cloud-lab/model-context-protocol-mcp-with-ollama-and-llama-3-a-step-by-step-guide-part-2-2a5917c8c745)
 
 [Build an AI-Powered Stock Market Research Assistant using OpenAPI Tools + MCP ](https://mcp.so/server/Stock%20Market%20Research%20Assistant/kvssankar)
