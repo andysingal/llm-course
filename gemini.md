@@ -9,6 +9,8 @@
 
 [query-agent-as-a-tool](https://github.com/google-gemini/cookbook/blob/main/examples/weaviate/query-agent-as-a-tool.ipynb)
 
+[gemini-Langgraph](https://www.marktechpost.com/2025/04/26/a-coding-implementation-with-arcad-integrating-gemini-developer-api-tools-into-langgraph-agents-for-autonomous-ai-workflows/)
+
 <img width="465" alt="Screenshot 2025-03-16 at 9 02 26 PM" src="https://github.com/user-attachments/assets/8133b2ed-e138-49a3-b06b-ae99c35e8476" />
 
 
