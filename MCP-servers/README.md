@@ -36,6 +36,7 @@
 
 [exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
 
+
 What is DOCRET?
 DOCRET is a Documentation Retrieval MCP Server that enables AI assistants to access up-to-date documentation for various Python libraries, ensuring that AI applications always have access to the latest official documentation.
 
@@ -49,6 +50,8 @@ HTML parsing to extract readable text from documentation.
 Extensible design to easily add support for additional libraries.
 
 [dolphin-mcp](https://github.com/cognitivecomputations/dolphin-mcp/tree/main)
+
+[Multi-Agent-deep-researcher-mcp-windows-linux](https://github.com/patchy631/ai-engineering-hub/tree/main/Multi-Agent-deep-researcher-mcp-windows-linux/mcp-linux)
 
 
 ### SDK
