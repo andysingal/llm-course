@@ -51,7 +51,6 @@ Extensible design to easily add support for additional libraries.
 
 [dolphin-mcp](https://github.com/cognitivecomputations/dolphin-mcp/tree/main)
 
-[Multi-Agent-deep-researcher-mcp-windows-linux](https://github.com/patchy631/ai-engineering-hub/tree/main/Multi-Agent-deep-researcher-mcp-windows-linux/mcp-linux)
 
 
 ### SDK
