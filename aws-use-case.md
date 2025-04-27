@@ -36,9 +36,12 @@
 [Host concurrent LLMs with LoRAX](https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/)
 
 
+
 <img width="666" alt="Screenshot 2025-04-17 at 11 30 47 AM" src="https://github.com/user-attachments/assets/1adb9f3f-5b23-4a82-9069-04eb3250d7b6" />
 
 
 ## AWS Tools
 
 [aws-tools](https://github.com/towardsthecloud/aws-toolbox)
+
+[24 AWS Hands-On Labs: Elevate Your Expertise Now](https://techyoutube.com/index.php/2023/12/26/24-aws-hands-on-labs-elevate-your-expertise-now/)
