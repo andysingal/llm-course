@@ -15,5 +15,12 @@ goose is your on-machine AI agent, capable of automating complex development tas
 
 Welcome to AutoAgent! AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone.
 
+[What is llm.pdf?](https://github.com/EvanZhouDev/llm.pdf)
+
+This is a proof-of-concept project, showing that it's possible to run an entire Large Language Model in nothing but a PDF file.
+
+It uses Emscripten to compile llama.cpp into asm.js, which can then be run in the PDF using an old PDF JS injection.
+
+Combined with embedding the entire LLM file into the PDF with base64, we are able to run LLM inference in nothing but a PDF.
 
 <img width="772" alt="Screenshot 2024-09-04 at 10 17 34 PM" src="https://github.com/user-attachments/assets/e6aa4606-feb3-4521-9409-5322749535ac">
