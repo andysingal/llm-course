@@ -13,3 +13,4 @@ This method is stateful, meaning the model will follow the most recent instructi
 ### Resources:
 
 - [Res1](https://github.com/deansaco/r1-reasoning-rag.git)
+- [res2-qwen](https://note.com/npaka/n/n43abd5843fe7)
