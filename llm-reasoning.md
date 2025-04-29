@@ -15,3 +15,4 @@ This method is stateful, meaning the model will follow the most recent instructi
 - [Res1](https://github.com/deansaco/r1-reasoning-rag.git)
 - [res2-qwen](https://note.com/npaka/n/n43abd5843fe7)
 - [res3-qwen3-CRAG](https://github.com/jacoblee93/corrective-local-rag-qwen?tab=readme-ov-file)
+- [res4-qwen-llamacpp](https://qwen.readthedocs.io/en/latest/run_locally/llama.cpp.html)
