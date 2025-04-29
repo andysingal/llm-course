@@ -8,6 +8,7 @@
 
 [Scaling AI-Based Data Processing with Hugging Face + Dask](https://huggingface.co/blog/dask-scaling)
 
+[pandas_langgraph](https://www.cnblogs.com/lightsong/p/18852652)
 
 Notebooks
 
@@ -25,3 +26,5 @@ Notebooks
 ## Articles
 
 [Building a Simple Yet Powerful RAG Pipeline with LlamaIndex: A Christmas Carol Example](https://medium.com/@tuhinsharma121/building-a-simple-yet-powerful-rag-pipeline-with-llamaindex-a-christmas-carol-example-077f01062de1)
+
+- [pandas-res-lang](https://github.com/vbarda/pandas-rag-langgraph/blob/main/pandas_rag_langgraph/agent.py)
