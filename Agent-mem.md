@@ -10,3 +10,10 @@
 [Memary](https://github.com/kingjulio8238/Memary)
 
 <img width="930" alt="Screenshot 2024-08-06 at 12 52 04 PM" src="https://github.com/user-attachments/assets/d8f4dc02-54c2-4395-8864-49fb23522d51">
+
+
+## Resources
+
+[Agentic-LongTerm-Memory](https://github.com/Farzad-R/Agentic-LongTerm-Memory)
+
+![default_behavior](https://github.com/user-attachments/assets/86f06134-2c47-467c-8109-65dd95e90c94)
