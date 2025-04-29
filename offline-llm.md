@@ -1,0 +1,1 @@
+[How We Compressed Llama 3 by 87% to Build a Private AI That Runs Anywhere…](https://medium.datadriveninvestor.com/how-we-compressed-llama-3-by-87-to-build-a-private-ai-that-runs-anywhere-dd99a3f922f0)
