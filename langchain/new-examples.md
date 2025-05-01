@@ -52,6 +52,8 @@ Source: https://stackoverflow.com/questions/79165072/getting-document-similarity
 
 <img width="451" alt="Screenshot 2025-04-27 at 10 00 01 AM" src="https://github.com/user-attachments/assets/f89f7e6e-6aad-43ed-98ab-7e5d9163399e" />
 
+
+
 ### EXAMPLES
 - [Building a Writing Assistant with LangChain and Qwen-2.5-32B](https://www.analyticsvidhya.com/blog/2025/03/writing-assistant/)
 - [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant)
