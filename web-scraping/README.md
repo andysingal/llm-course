@@ -5,6 +5,11 @@
 [WebcrawlerAPI LangChain Integration](https://webcrawlerapi.com/docs/sdk/langchain)
 
 
+## git repos
+
+[Pydantic AI Documentation Crawler & RAG Agent](https://github.com/coleam00/ottomator-agents/tree/main/crawl4AI-agent-v2)
+
+
 ##article
 
 [Web Data Extraction Using Crawl4AI](https://www.marktechpost.com/2025/04/23/a-coding-guide-to-asynchronous-web-data-extraction-using-crawl4ai-an-open-source-web-crawling-and-scraping-toolkit-designed-for-llm-workflows/)
