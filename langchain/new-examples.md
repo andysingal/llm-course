@@ -32,6 +32,14 @@ retriever = CustomSelfQueryRetriever.from_llm(
 
 result = retriever.invoke("your query")
 ```
+
+### Build a Resume Parser with LangChain & Pydantic
+
+<img width="416" alt="Screenshot 2025-05-01 at 7 39 02 AM" src="https://github.com/user-attachments/assets/a887ac6a-bc46-4dab-a6ec-e205ef6d4603" />
+
+<img width="327" alt="Screenshot 2025-05-01 at 7 40 09 AM" src="https://github.com/user-attachments/assets/79e26f80-8b89-472b-b342-3016c11f1870" />
+
+
 Source: https://stackoverflow.com/questions/79165072/getting-document-similarity-scores-with-selfqueryretriever-langchain
 
 ## Hashtag generator
