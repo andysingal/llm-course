@@ -15,3 +15,8 @@
 [pgstream](https://github.com/xataio/pgstream)
 
 pgstream is an open source CDC command-line tool and library that offers Postgres replication support with DDL changes to any provided output.
+
+[Data Analyzer](https://github.com/SaranshPandya/data-analyzer)
+
+Data Analyzer is a Python-based tool that leverages AI agents to analyze data from PostgreSQL databases. It provides an interactive command-line interface for querying and exploring database data, using powerful libraries LangChain for AI-driven insights.
+This tool is ideal for developers, data analysts, and researchers who need to extract meaningful information from databases using natural language queries.
