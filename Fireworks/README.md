@@ -1,0 +1,1 @@
+[Building a REACT-Style Agent Using Fireworks AI with LangChain that Fetches Data, Generates BigQuery SQL, and Maintains Conversational Memory](https://www.marktechpost.com/2025/05/01/building-a-react-style-agent-using-fireworks-ai-with-langchain-that-fetches-data-generates-bigquery-sql-and-maintains-conversational-memory/)
