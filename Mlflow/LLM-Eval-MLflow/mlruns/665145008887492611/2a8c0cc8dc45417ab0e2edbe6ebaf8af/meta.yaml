@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Bappy/Research/LLMOps%20Masters/LLM-Eval-MLflow/mlruns/665145008887492611/2a8c0cc8dc45417ab0e2edbe6ebaf8af/artifacts
+end_time: 1745211975501
+entry_point_name: ''
+experiment_id: '665145008887492611'
+lifecycle_stage: active
+run_id: 2a8c0cc8dc45417ab0e2edbe6ebaf8af
+run_name: sincere-doe-197
+run_uuid: 2a8c0cc8dc45417ab0e2edbe6ebaf8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745211955429
+status: 3
+tags: []
+user_id: AC
