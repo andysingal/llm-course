@@ -395,3 +395,5 @@ if __name__ == "__main__":
 
 ## Further examples
 [ollama-playground](https://github.com/NarimanN2/ollama-playground)
+
+[text-to-sql](https://github.com/NarimanN2/ollama-playground/tree/main/text-to-sql)
