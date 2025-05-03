@@ -10,4 +10,10 @@
 
 The Prisma MCP server is available via the Prisma CLI command prisma platform mcp --early-access and is currently available in Early Access. See below for how to integrate it in your favorite AI tool. It uses the stdio transport mechanism.
 
+[google-mcp](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/mcp)
+
+Welcome to an exciting exploration of how we can harness the power of Google's cutting-edge Gemini language models using the Model Context Protocol (MCP) framework. In this cookbook, we'll take a look under the hood at a project designed to facilitate intelligent interactions by exposing Gemini's capabilities as accessible tools within an MCP environment.
+
+This cost-effective AI solution uses an MCP server-client architecture where affordable Gemini models act as clients and specialized models as servers, offering developers powerful yet affordable options for specific use cases.
+
 <img width="853" alt="Screenshot 2025-04-29 at 1 01 54 PM" src="https://github.com/user-attachments/assets/4707f02f-3f14-4cac-990f-d087df19874f" />
