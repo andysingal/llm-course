@@ -18,4 +18,9 @@
 
 [Building a MCP-Powered Task Manager Agent with Agno and Supabase: A Step-by-Step Guide](https://codingthesmartway.com/building-a-mcp-powered-task-manager-agent-with-agno-and-supabase-a-step-by-step-guide/)
 
+## projects
+
+[GenAI_AgenticRAG_PDF_WebSearch](https://github.com/simranjeet97/AgenticAI_AIAgents_Course/blob/main/GenAI_AgenticRAG_PDF_WebSearch/agentic_rag.py)
+
+
 
