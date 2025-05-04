@@ -67,7 +67,15 @@ Examples:
 
 A CLI tool for managing MCP servers configurations for MCP clients (currently Codeium Windsurf).
 
+
 <img width="448" alt="Screenshot 2025-03-31 at 7 50 02 PM" src="https://github.com/user-attachments/assets/7bf68013-dcba-4cc2-b37c-52f8a80af6d5" />
+
+
+
+
+<img width="385" alt="Screenshot 2025-05-04 at 11 19 58 AM" src="https://github.com/user-attachments/assets/82b46f93-c1fd-49fd-af76-af6a8020199a" />
+
+
 
 ### Related Servers 
 
