@@ -11,6 +11,12 @@
 
 <img width="930" alt="Screenshot 2024-08-06 at 12 52 04 PM" src="https://github.com/user-attachments/assets/d8f4dc02-54c2-4395-8864-49fb23522d51">
 
+## Code Repos
+[memobase](https://github.com/memodb-io/memobase)
+Memobase is a user profile-based memory system designed to bring long-term user memory to your Generative AI (GenAI) applications. Whether you're building virtual companions, educational tools, or personalized assistants, Memobase empowers your AI to remember, understand, and evolve with your users.
+
+
+
 
 ## Resources
 
