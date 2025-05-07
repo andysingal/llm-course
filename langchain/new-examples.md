@@ -52,6 +52,13 @@ Source: https://stackoverflow.com/questions/79165072/getting-document-similarity
 
 <img width="451" alt="Screenshot 2025-04-27 at 10 00 01 AM" src="https://github.com/user-attachments/assets/f89f7e6e-6aad-43ed-98ab-7e5d9163399e" />
 
+## Automate SEO Keyword Extraction with LangChain!
+
+<img width="522" alt="Screenshot 2025-05-07 at 12 35 33 PM" src="https://github.com/user-attachments/assets/b952a875-9827-46d5-96ac-47ab961a8a93" />
+
+<img width="532" alt="Screenshot 2025-05-07 at 12 36 33 PM" src="https://github.com/user-attachments/assets/0f08e242-42e9-4a0c-81c3-9ff5a4b39760" />
+
+
 
 
 ### EXAMPLES
