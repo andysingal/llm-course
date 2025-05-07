@@ -17,3 +17,8 @@ Welcome to an exciting exploration of how we can harness the power of Google's c
 This cost-effective AI solution uses an MCP server-client architecture where affordable Gemini models act as clients and specialized models as servers, offering developers powerful yet affordable options for specific use cases.
 
 <img width="853" alt="Screenshot 2025-04-29 at 1 01 54 PM" src="https://github.com/user-attachments/assets/4707f02f-3f14-4cac-990f-d087df19874f" />
+
+[News Agents](https://github.com/eugeneyan/news-agents)
+
+A little experiment with Amazon Q, Model Context Protocol (MCP), and tmux to create a news aggregation system that runs entirely in your terminal. It fetches and summarizes articles from various news sources using multiple agents working in parallel.
+
