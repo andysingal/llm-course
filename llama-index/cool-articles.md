@@ -6,3 +6,4 @@
 
 [How to Create Automated X Threads Using LangChain and Llama 3.1](https://medium.com/@matteo28/how-to-create-automated-x-threads-using-langchain-and-llama-3-1-eb08da33132a)
 
+[Get Citations and Reasoning for Extracted Data in LlamaExtract](https://www.llamaindex.ai/blog/get-citations-and-reasoning-for-extracted-data-in-llamaextract)
