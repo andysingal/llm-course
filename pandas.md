@@ -18,6 +18,8 @@ Notebooks
 
 [langchain_csv_dataviz](https://github.com/pedrolustosab/langchain_csv_dataviz/blob/main/chat.ipynb)
 
+[pandas_data_analyst](https://github.com/business-science/ai-data-science-team/blob/master/examples/multiagents/pandas_data_analyst.ipynb)
+
 
 ##repo
 
