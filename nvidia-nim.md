@@ -47,6 +47,9 @@ Deploy:
 Articles:
 - [In Defense of RAG in the Era of Long-Context Language Models](https://arxiv.org/html/2409.01666v1)
 - [Llama and CodeLlama](https://docs.nvidia.com/nemo-framework/user-guide/latest/llms/llama/index.html)
+- [NVIDIA Agent Intelligence Toolkit](https://github.com/NVIDIA/AIQToolkit)
+
+Agent Intelligence Toolkit (AIQ Toolkit) is a flexible library designed to seamlessly integrate your enterprise agents—regardless of framework—with various data sources and tools. By treating agents, tools, and agentic workflows as simple function calls, AIQ Toolkit enables true composability: build once and reuse anywhere.
 
 
 Notebooks:
