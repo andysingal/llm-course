@@ -5,3 +5,5 @@
 
 ### EXAMPLES
 -[langgraph-agent](https://www.cnblogs.com/lightsong/p/18817580)
+
+-[Integrating OpenAI Web Search API in LangGraph](https://www.daniweb.com/programming/computer-science/tutorials/543349/integrating-openai-web-search-api-in-langgraph)
