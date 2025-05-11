@@ -14,6 +14,10 @@
 
 Claude Squad is a terminal app that manages multiple Claude Code (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
 
+[code_explainer](https://github.com/ArchAI-Labs/code_explainer)
+
+The ArchAI - CodeExplainer project is designed to automatically analyze, document, and visualize codebases. It serves as a comprehensive tool for developers, architects, and stakeholders seeking to understand the structure, quality, and functionality of software projects.
+
 
 
 
