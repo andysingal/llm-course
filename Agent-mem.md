@@ -38,3 +38,7 @@ Memobase is a user profile-based memory system designed to bring long-term user 
 [Agentic-LongTerm-Memory](https://github.com/Farzad-R/Agentic-LongTerm-Memory)
 
 ![default_behavior](https://github.com/user-attachments/assets/86f06134-2c47-467c-8109-65dd95e90c94)
+
+
+## Articles
+[Memory: The secret sauce of AI agents](https://decodingml.substack.com/p/memory-the-secret-sauce-of-ai-agents)
