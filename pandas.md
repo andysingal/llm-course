@@ -25,6 +25,8 @@ Notebooks
 
 [Open Pandas AI Data Analyst App](https://github.com/business-science/ai-data-science-team/tree/master/apps/pandas-data-analyst-app)
 
+[marimo](https://github.com/marimo-team/marimo)
+
 ## Articles
 
 [Building a Simple Yet Powerful RAG Pipeline with LlamaIndex: A Christmas Carol Example](https://medium.com/@tuhinsharma121/building-a-simple-yet-powerful-rag-pipeline-with-llamaindex-a-christmas-carol-example-077f01062de1)
