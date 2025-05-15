@@ -2,6 +2,10 @@
 
 [How to manage conversation history in a ReAct Agent](https://langchain-ai.github.io/langgraph/how-tos/create-react-agent-manage-message-history/)
 
+[langchain-swarm](https://github.com/langchain-ai/langgraph-swarm-py)
+
+A Python library for creating swarm-style multi-agent systems using LangGraph. A swarm is a type of multi-agent architecture where agents dynamically hand off control to one another based on their specializations. The system remembers which agent was last active, ensuring that on subsequent interactions, the conversation resumes with that agent.
+
 
 ### EXAMPLES
 -[langgraph-agent](https://www.cnblogs.com/lightsong/p/18817580)
