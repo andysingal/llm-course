@@ -12,7 +12,8 @@
 
 [Crafting a hybrid geospatial RAG application with Elastic and Amazon Bedrock](https://www.elastic.co/blog/hybrid-geospatial-rag-application-elastic-amazon-bedrock)
 
-
+[manticoresearch](https://github.com/manticoresoftware/manticoresearch)
+Manticore Search is an easy-to-use, open-source, and fast database designed for search. It is a great alternative to Elasticsearch.
 
 [Page-Rank in LLMs](https://www.linkedin.com/pulse/building-ranking-system-enhance-prompt-results-new-ragllm-granville-dyhre/)
 
