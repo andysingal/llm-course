@@ -28,6 +28,13 @@
 10.  [LLM Tracing Implementation to Analyze and Visualize LLM at Scale](https://www.codementor.io/@krutichapaneri40/llm-tracing-implementation-to-analyze-and-visualize-llm-at-scale-2qtqflg9uh)
 11.  [Build a GraphRAG Agent with Neo4j and Qdrant](https://qdrant.tech/documentation/examples/graphrag-qdrant-neo4j/)
 
+12.  [Creating and Deploying Memory-Efficient Medical Agents Using Agno, Qdrant, MongoDB & LiteLLM](https://medium.com/@manthapavankumar11/creating-and-deploying-memory-efficient-medical-agents-using-agno-qdrant-mongodb-litellm-947524de945b)
+
+This project implements two domain‐specific agents — medical and legal — that split short-term conversational state (stored in MongoDB) from long-term semantic knowledge (indexed in Qdrant) under Agno’s orchestration. The intention is to validate a lightweight, memory-efficient architecture — powered by LiteLLM across multiple model providers — that can deliver real-time, context-aware support without the overhead of reloading large history embeddings, while maintaining full auditability and compliance in clinical and legal workflows.
+
+
+
+
 
 
 
