@@ -4,3 +4,10 @@
 - [Social Bias NER](https://huggingface.co/maximuspowers/bias-detection-ner)
 - [Named Entity Recognition (NER) with a BERT Model](https://machinelearningmastery.com/how-to-do-named-entity-recognition-ner-with-a-bert-model/?fbclid=IwY2xjawJaHAtleHRuA2FlbQIxMQABHVDGTR5NJYN2yTCQ_aSXeuPe7EhlDxwQl_ZjceCZrOE0hXci1ITH13oDqQ_aem_83cNZj4SC6sLCgMhB26BfQ)
   
+## Article
+[Capturing User Feedback with Annotations](https://docs.agenta.ai/tutorials/cookbooks/capture-user-feedback)
+In this tutorial, we'll build a simple LLM application and learn how to capture user feedback using Agenta's annotation system. By the end, you'll be able to:
+
+- Create a simple LLM application with proper instrumentation
+- Capture structured feedback about LLM responses
+- View this feedback in the Agenta UI
