@@ -24,3 +24,7 @@ This cost-effective AI solution uses an MCP server-client architecture where aff
 
 A little experiment with Amazon Q, Model Context Protocol (MCP), and tmux to create a news aggregation system that runs entirely in your terminal. It fetches and summarizes articles from various news sources using multiple agents working in parallel.
 
+
+[mindsDB-MCP](https://github.com/mindsdb/mindsdb)
+
+MindsDB is an AI data solution that enables humans, AI, agents, and applications to query data in natural language and SQL, and get highly accurate answers across disparate data sources and types.
