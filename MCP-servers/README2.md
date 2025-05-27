@@ -28,3 +28,5 @@ A little experiment with Amazon Q, Model Context Protocol (MCP), and tmux to cre
 [mindsDB-MCP](https://github.com/mindsdb/mindsdb)
 
 MindsDB is an AI data solution that enables humans, AI, agents, and applications to query data in natural language and SQL, and get highly accurate answers across disparate data sources and types.
+
+[Job Search Agent with Bright Data and Nebius AI Studio](https://github.com/Arindam200/awesome-ai-apps/tree/main/advance_ai_agents/job_finder_agent)
