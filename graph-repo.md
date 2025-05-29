@@ -6,7 +6,9 @@ Graphiti is a framework for building and querying temporally-aware knowledge gra
 
 Source code for the YouTube video using yFiles Jupyter Graphs' Kuzu integration to visualize your Kuzu graphs in Jupyter notebooks (or, via ipykernel, in VS Code and Cursor).
 
+[Tubegraph](https://github.com/sieve-data/tubegraph)
 
+Introducing TubeGraph, a tool for visualizing connections across a YT channel! 
 
 
 
