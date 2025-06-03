@@ -24,6 +24,20 @@ This cost-effective AI solution uses an MCP server-client architecture where aff
 
 A little experiment with Amazon Q, Model Context Protocol (MCP), and tmux to create a news aggregation system that runs entirely in your terminal. It fetches and summarizes articles from various news sources using multiple agents working in parallel.
 
+[MCP-driven voice Agent](https://x.com/_avichawla/status/1929787639261286705)
+we are building an MCP-driven voice Agent that queries a database and falls back to web search if needed using:
+
+- @AssemblyAI
+ for Speech‐to‐Text.
+- @firecrawl_dev
+ for web search.
+- @supabase
+ for a database.
+- @livekit
+ for orchestration.
+- Qwen3 as the LLM.
+
+
 
 [mindsDB-MCP](https://github.com/mindsdb/mindsdb)
 
