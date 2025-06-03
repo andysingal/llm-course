@@ -18,7 +18,8 @@ Claude Squad is a terminal app that manages multiple Claude Code (and other loca
 
 The ArchAI - CodeExplainer project is designed to automatically analyze, document, and visualize codebases. It serves as a comprehensive tool for developers, architects, and stakeholders seeking to understand the structure, quality, and functionality of software projects.
 
-
+[PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
+Ever stared at a new codebase written by others feeling completely lost? This tutorial shows you how to build an AI agent that analyzes GitHub repositories and creates beginner-friendly tutorials explaining exactly how the code works.
 
 
 CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings
