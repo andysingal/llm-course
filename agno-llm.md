@@ -5,6 +5,7 @@
 [memo-agno](https://github.com/mem0ai/mem0/blob/main/examples/misc/fitness_checker.py)
 
 
+
 - Initialize using session_state
 - Modify using tools
 - Reference in instructions
@@ -86,6 +87,8 @@ pprint(result.content)
 ## ARTICLE
 
 [Building a MCP-Powered Task Manager Agent with Agno and Supabase: A Step-by-Step Guide](https://codingthesmartway.com/building-a-mcp-powered-task-manager-agent-with-agno-and-supabase-a-step-by-step-guide/)
+
+[Building a Research Agent using Agno](https://github.com/rajshah4/LLM-Evaluation/blob/main/ResearchAgent_Agno_LangFuse.ipynb)
 
 ## projects
 
