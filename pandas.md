@@ -10,6 +10,8 @@
 
 [pandas_langgraph](https://www.cnblogs.com/lightsong/p/18852652)
 
+[PandaAGI SDK - An SDK for AGI (Agentic General Intelligence)](https://github.com/sinaptik-ai/panda-agi/)
+
 Notebooks
 
 [Notebook1](https://colab.research.google.com/drive/1cx4OvdWKNjI1RpowmPYeqtyP1LF_rk9d?usp=sharing)
