@@ -46,3 +46,4 @@ Use Case:
 - [RAG Stack using SambaNova](https://blog.dailydoseofds.com/p/building-the-fastest-rag-stack-using)
 - [Visualizing Chunking Impacts in Agentic RAG with Agno, Qdrant, RAGAS and LlamaIndex](https://skillenai.com/competition-post/visualizing-chunking-impacts-in-agentic-rag-with-agno-qdrant-ragas-and-llamaindex/)
 - [Twelve-Labs-Content-Recommendation-.git](https://github.com/Hrishikesh332/Twelve-Labs-Content-Recommendation)
+- [A Multi-Agent System on GCP Integrated with Slack and Trello](https://blog.gopenai.com/a-multi-agent-system-on-gcp-integrated-with-slack-and-trello-d23816ae56c3)
