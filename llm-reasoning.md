@@ -16,3 +16,25 @@ This method is stateful, meaning the model will follow the most recent instructi
 - [res2-qwen](https://note.com/npaka/n/n43abd5843fe7)
 - [res3-qwen3-CRAG](https://github.com/jacoblee93/corrective-local-rag-qwen?tab=readme-ov-file)
 - [res4-qwen-llamacpp](https://qwen.readthedocs.io/en/latest/run_locally/llama.cpp.html)
+
+
+## Tips
+One of the most underutilized ways to get far better results from reasoning models like Claude 4, o3, etc:
+
+Add constraints.
+
+Make it super clear to the model what it can and cannot do. By explicitly defining boundaries (things it must avoid, or criteria it must satisfy), you eliminate ambiguity and guide the reasoning process more directly toward your intended outcome.
+
+Constraints act as guardrails, reducing 'laziness' and goal drift.
+
+For example, instead of saying:
+
+"Come up with ideas to grow my app."
+
+You might say:
+
+"Come up with exactly three growth strategies that cost under $100 each, take less than two hours per week to execute, and can reliably generate at least 1,000 new users within 30 days. Avoid strategies involving paid ads or influencer sponsorships."
+
+Notice the immediate clarity? You've removed guesswork and set crystal-clear expectations. This pushes the reasoning model to do exactly what you want, instead of just getting somewhat close to your goals.
+
+Constraints are leverage. Use them.
