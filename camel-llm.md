@@ -13,3 +13,5 @@
 This project demonstrates how to use the CAMEL-AI OWL framework with Qwen3 large language model through MCP (Model Context Protocol). The example showcases improved terminal output formatting, markdown log generation, and seamless integration with MCP servers.
 
 [Camel-MCP](https://medium.com/@parthshr370/pairing-your-ai-agent-with-600-mcp-servers-seamlessly-0d249008d5d6)
+
+[Project_planner](https://github.com/Harsh1tSh/AI-Project-Planner/blob/main/Project_manager/Project_planner.py)
