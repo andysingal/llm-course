@@ -16,7 +16,7 @@ This method is stateful, meaning the model will follow the most recent instructi
 - [res2-qwen](https://note.com/npaka/n/n43abd5843fe7)
 - [res3-qwen3-CRAG](https://github.com/jacoblee93/corrective-local-rag-qwen?tab=readme-ov-file)
 - [res4-qwen-llamacpp](https://qwen.readthedocs.io/en/latest/run_locally/llama.cpp.html)
-
+- [Magistral-Reasoning](https://chat.mistral.ai/chat)
 
 ## Tips
 One of the most underutilized ways to get far better results from reasoning models like Claude 4, o3, etc:
