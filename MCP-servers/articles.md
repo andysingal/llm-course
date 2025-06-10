@@ -9,3 +9,8 @@
 [Pipedream](https://mcp.pipedream.com/developers)
 
 Run your own MCP server for over 2,500 apps and APIs. You can run the servers locally with npx @pipedream/mcp or host the servers yourself to use them within your app or company.
+
+
+[Specify MCP Servers in LLM Calls](https://blog.dailydoseofds.com/p/specify-mcp-servers-in-llm-calls)
+
+<img width="698" alt="Screenshot 2025-06-09 at 8 49 04 PM" src="https://github.com/user-attachments/assets/62b56ce1-a97b-40f1-b86c-9b9dccd11748" />
