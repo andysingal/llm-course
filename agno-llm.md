@@ -4,6 +4,8 @@
 
 [memo-agno](https://github.com/mem0ai/mem0/blob/main/examples/misc/fitness_checker.py)
 
+[sutra_with_agno_agent](https://github.com/sutra-dev/sutra-cookbook/blob/main/agents/sutra_with_agno_agent.ipynb)
+SUTRA is a family of large multi-lingual language (LMLMs) models pioneered by Two Platforms. SUTRA’s dual-transformer approach extends the power of both MoE and Dense AI language model architectures, delivering cost-efficient multilingual capabilities for over 50+ languages
 
 
 - Initialize using session_state
