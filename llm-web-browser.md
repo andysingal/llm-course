@@ -13,3 +13,5 @@ This is an anonymous chat browser extension that is decentralized and serverless
 Gemini 2.5 Flash can control a browser!
 
 
+## Article
+[Building a Browser Use Agent From Scratch and with Magentic-UI](https://husseinmozannar.github.io/#/blog/web_agent_tutorial)
