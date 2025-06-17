@@ -83,6 +83,7 @@ pprint(result.content)
 
 <img width="729" alt="Screenshot 2025-05-11 at 9 57 28 PM" src="https://github.com/user-attachments/assets/3e4955e4-e474-4989-bde7-504ad56047a4" />
 
+[tweet-example-1](https://x.com/codingsmartway/status/1934933314533458152)
 
 
 
