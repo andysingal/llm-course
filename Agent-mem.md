@@ -8,6 +8,8 @@
 
 [LlamaIndex ReAct Agent](https://docs.mem0.ai/examples/llama-index-mem0)
 
+[diet_assistant_voice_cartesia](https://github.com/mem0ai/mem0/blob/main/examples/misc/diet_assistant_voice_cartesia.py)
+
 ```py
 os.environ["MEM0_API_KEY"] = "<your-mem0-api-key>"
 
