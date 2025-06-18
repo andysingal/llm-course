@@ -8,6 +8,9 @@
 
 [personalization-agent](https://colab.research.google.com/github/weaviate/recipes/blob/main/weaviate-services/agents/personalization-agent-get-started-recipes.ipynb#scrollTo=QUe7QF2nQJoL)
 
+[reason_moderncolbert](https://github.com/weaviate/recipes/blob/main/weaviate-features/multi-vector/reason_moderncolbert.ipynb)
+Multi-vector embeddings with Reasoning-ModernColBERT
+
 <img width="494" alt="Screenshot 2024-08-22 at 10 39 01 PM" src="https://github.com/user-attachments/assets/b9063e75-1224-4126-a087-11bc7f725110">
 
 Research paper:
