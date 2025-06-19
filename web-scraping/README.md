@@ -4,6 +4,8 @@
 
 [WebcrawlerAPI LangChain Integration](https://webcrawlerapi.com/docs/sdk/langchain)
 
+[BrightData Web Scraper](https://www.marktechpost.com/2025/06/18/how-to-build-an-advanced-brightdata-web-scraper-with-google-gemini-for-ai-powered-data-extraction/)
+
 
 ## git repos
 
