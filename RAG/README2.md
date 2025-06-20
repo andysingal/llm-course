@@ -25,6 +25,9 @@ Resource:
 7. [Enhancing RAG Context Recall with a Custom Embedding Model: Step-by-Step Guide](https://blog.spheron.network/enhancing-rag-context-recall-with-a-custom-embedding-model-step-by-step-guide)
 ![Screenshot 2024-11-22 073610](https://github.com/user-attachments/assets/3b37e712-5a4f-4e6b-9736-b8389b1b5a17)
 
+8. MLflow-RAG
+<img width="713" alt="Screenshot 2025-06-20 at 12 22 43 PM" src="https://github.com/user-attachments/assets/c711cc57-b966-4b28-bba1-7392c8ec964c" />
+https://zenn.dev/kiitosu/articles/916687dbe3b9ab
 
 
 
