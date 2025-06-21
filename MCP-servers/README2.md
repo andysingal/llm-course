@@ -4,6 +4,8 @@
 
 [Scira MCP Chat](https://github.com/zaidmukaddam/scira-mcp-chat/tree/desktop)
 
+[Claude MCP](https://www.claudemcp.com/blog/langchain-mcp-adapters#google_vignette)
+
 [mcp-prisma](https://www.prisma.io/docs/postgres/mcp-server)
 
 [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk/blob/main/README.md)
