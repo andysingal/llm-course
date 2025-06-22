@@ -13,7 +13,8 @@ Introducing TubeGraph, a tool for visualizing connections across a YT channel!
 [kotaemon](https://github.com/Cinnamon/kotaemon)
 An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
 
-
+[graph-code](https://github.com/vitali87/code-graph-rag)
+A sophisticated Retrieval-Augmented Generation (RAG) system that analyzes Python repositories, builds knowledge graphs, and enables natural language querying of codebase structure and relationships.
 
 
 ## Articles
