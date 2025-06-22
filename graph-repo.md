@@ -10,6 +10,9 @@ Source code for the YouTube video using yFiles Jupyter Graphs' Kuzu integration 
 
 Introducing TubeGraph, a tool for visualizing connections across a YT channel! 
 
+[kotaemon](https://github.com/Cinnamon/kotaemon)
+An open-source clean & customizable RAG UI for chatting with your documents. Built with both end users and developers in mind.
+
 
 
 
