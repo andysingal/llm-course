@@ -12,3 +12,5 @@
 <img width="452" alt="Screenshot 2025-04-23 at 2 08 27 PM" src="https://github.com/user-attachments/assets/09193fe8-c126-410c-9008-e2d5983440ed" />
 
 [a](https://x.com/kregenrek/status/1914762195784884528)
+
+*** [cursor-mcp](https://x.com/_avichawla/status/1936673005826195841)
