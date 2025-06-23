@@ -8,6 +8,8 @@
 
 [Building a Custom Documents Agent with Elasticsearch, Ollama, Llama 3.1, and LangChain](https://levelup.gitconnected.com/building-a-custom-documents-agent-with-elasticsearch-ollama-llama-3-1-and-langchain-926b28047e1d)
 
+[Elasticsearch + LangGraph RAG](https://www.elastic.co/search-labs/blog/build-rag-workflow-langgraph-elasticsearch)
+
 ![Screenshot 2024-09-25 121021](https://github.com/user-attachments/assets/6b1ff62a-343d-47b8-85df-99fcb7489abf)
 
 [Crafting a hybrid geospatial RAG application with Elastic and Amazon Bedrock](https://www.elastic.co/blog/hybrid-geospatial-rag-application-elastic-amazon-bedrock)
