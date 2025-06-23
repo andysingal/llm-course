@@ -15,6 +15,13 @@ goose is your on-machine AI agent, capable of automating complex development tas
 
 Welcome to AutoAgent! AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone.
 
+[ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist)
+This project is my own AI agent powered by LangChain. It's built to help with:
+
+🧠 Classifying text and routing it to the right logic
+📚 Adding files to a searchable knowledge base
+🤖 Asking questions and getting answers from what I’ve uploaded
+
 [What is llm.pdf?](https://github.com/EvanZhouDev/llm.pdf)
 
 This is a proof-of-concept project, showing that it's possible to run an entire Large Language Model in nothing but a PDF file.
