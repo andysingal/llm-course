@@ -43,6 +43,10 @@ we are building an MCP-driven voice Agent that queries a database and falls back
 
 [mindsDB-MCP](https://github.com/mindsdb/mindsdb)
 
+[MCP Servers over Streamable HTTP](https://github.com/alejandro-ao/mcp-streamable-http?tab=readme-ov-file)
+
+In summary, with MCP, your assistant will use the tools in the MCP server as if they were part of its own codebase, but they are actually hosted elsewhere. Kind of like a microrservice architecture for AI assistants. And once your AI assistant is set up to use MCP, it can interact with any tool or resource that supports the protocol. That's why you ofen hear agent developers announce that their agent is "MCP-compatible" or "MCP-ready". It means that the agent can now use any tool or resource that supports the MCP protocol, which makes it more flexible and powerful.
+
 MindsDB is an AI data solution that enables humans, AI, agents, and applications to query data in natural language and SQL, and get highly accurate answers across disparate data sources and types.
 
 [Job Search Agent with Bright Data and Nebius AI Studio](https://github.com/Arindam200/awesome-ai-apps/tree/main/advance_ai_agents/job_finder_agent)
