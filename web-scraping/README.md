@@ -15,3 +15,5 @@
 ##article
 
 [Web Data Extraction Using Crawl4AI](https://www.marktechpost.com/2025/04/23/a-coding-guide-to-asynchronous-web-data-extraction-using-crawl4ai-an-open-source-web-crawling-and-scraping-toolkit-designed-for-llm-workflows/)
+
+[Building Image Datasets via Web Scraping: Best Practices for Machine Learning using ScrapeGraphAI](https://scrapegraphai.com/blog/dataset-ml)
