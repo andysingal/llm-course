@@ -44,3 +44,10 @@ Memobase is a user profile-based memory system designed to bring long-term user 
 
 ## Articles
 [Memory: The secret sauce of AI agents](https://decodingml.substack.com/p/memory-the-secret-sauce-of-ai-agents)
+
+[PdfToMem](https://github.com/alinvdu/PdfToMem)
+
+Turn PDFs into structured, queryable memory—built for LLMs.
+
+Large Language Models struggle with memory. PdfToMem makes it effortless.
+By combining reasoning-powered ingestion, structured retrieval, and a multi-agent architecture, it transforms unstructured PDFs into rich memory representations.
