@@ -48,3 +48,5 @@ Use Case:
 - [Twelve-Labs-Content-Recommendation-.git](https://github.com/Hrishikesh332/Twelve-Labs-Content-Recommendation)
 - [A Multi-Agent System on GCP Integrated with Slack and Trello](https://blog.gopenai.com/a-multi-agent-system-on-gcp-integrated-with-slack-and-trello-d23816ae56c3)
 - [GraphRAG-Qdrant](https://qdrant.tech/blog/case-study-lettria-v2/)
+- [ColiPali-Qdrant](https://github.com/andysingal/llm-course/blob/main/MCP-servers/cool-repo.md)
+The King of Multi-Modal RAG: ColPali
