@@ -1,4 +1,7 @@
 [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai?tab=readme-ov-file) is a web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites, documents and XML files. Just say which information you want to extract and the library will do it for you!
+
+[Building Intelligent Agents with ScrapeGraph](https://dev.to/mohammad_ehsanansari_671/building-intelligent-agents-with-scrapegraph-the-complete-guide-4ldf)
+
 - [Building LLM-Powered Coding Assitant for GitHub: RAG with Gemini and Redis](https://towardsdatascience.com/building-llm-powered-coding-assitant-for-github-rag-with-gemini-and-redis-b88beeb42f2d)
 
 <img width="726" alt="Screenshot 2024-08-23 at 3 32 01 PM" src="https://github.com/user-attachments/assets/9fb1e7bb-d34f-438f-a763-a4e46fd75d80">
