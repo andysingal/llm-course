@@ -4,6 +4,8 @@
 
 [CAMEL-AI-mcp](https://www.camel-ai.org/blogs/camel-ai-agent-mcp-integration)
 
+[Desktop Extensions: One-click MCP server installation for Claude Desktop](https://www.anthropic.com/engineering/desktop-extensions)
+
 
 ##Integrating MCPs
 [Pipedream](https://mcp.pipedream.com/developers)
