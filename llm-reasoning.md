@@ -9,6 +9,7 @@
 Add to the user (or the system) message, `/no_think` to disable thinking and `/think` to enable thinking.
 This method is stateful, meaning the model will follow the most recent instruction in multi-turn conversations.
 
+<img width="581" alt="Screenshot 2025-06-29 at 10 19 31 AM" src="https://github.com/user-attachments/assets/302f0626-3e1a-44fd-a6f3-34e3288ecf64" />
 
 ### Resources:
 
