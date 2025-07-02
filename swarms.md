@@ -42,3 +42,5 @@ managing_director = Agent(
     saved_state_path="managing-director.json",
 )
 ```
+
+- [Interactive GroupChat](https://docs.swarms.world/en/latest/swarms/examples/igc_example/)
