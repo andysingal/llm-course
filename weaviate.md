@@ -16,3 +16,5 @@ Multi-vector embeddings with Reasoning-ModernColBERT
 Research paper:
 
 [Late Interaction Retrieval Models: ColBERT, ColPali, and ColQwen](https://weaviate.io/blog/late-interaction-overview?utm_source=linkedin&utm_medium=dw_social&utm_campaign=dev_education&utm_content=diagram_post_680658140)
+
+[37 Things I Learned About Information Retrieval in Two Years at a Vector Database Company](https://www.leoniemonigatti.com/blog/what_i_learned.html)
