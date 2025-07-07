@@ -6,6 +6,12 @@
 
 A Python library for creating swarm-style multi-agent systems using LangGraph. A swarm is a type of multi-agent architecture where agents dynamically hand off control to one another based on their specializations. The system remembers which agent was last active, ensuring that on subsequent interactions, the conversation resumes with that agent.
 
+[LangGraph FastAPI Integration](https://github.com/PradipNichite/Youtube-Tutorials/tree/main/LangGraph%20FastAPI%20Integration)
+
+• ✅ Session Management
+• ✅ Chat History Logging in DB
+• ✅ API Endpoints to Add/List/Delete Documents in Vector DB
+• ✅ Fully modular & scalable backend ready for real use cases
 
 ### EXAMPLES
 -[langgraph-agent](https://www.cnblogs.com/lightsong/p/18817580)
