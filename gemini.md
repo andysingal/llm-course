@@ -13,6 +13,12 @@
 
 [gemini-Langgraph](https://www.marktechpost.com/2025/04/26/a-coding-implementation-with-arcad-integrating-gemini-developer-api-tools-into-langgraph-agents-for-autonomous-ai-workflows/)
 
+
+[Workshop: Build with Gemini](https://github.com/patrickloeber/workshop-build-with-gemini)
+
+This workshop teaches how to build with Gemini using the Gemini API and Python SDK.
+
+
 <img width="465" alt="Screenshot 2025-03-16 at 9 02 26 PM" src="https://github.com/user-attachments/assets/8133b2ed-e138-49a3-b06b-ae99c35e8476" />
 
 
