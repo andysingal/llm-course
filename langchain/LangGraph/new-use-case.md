@@ -6,3 +6,6 @@
 
 [NewsAgent](https://www.kaggle.com/code/suvroo/newsagent)
 
+[langgraph-rarallel-execution](https://github.com/SauravP97/agentic-workflows/tree/main/parallel-execution)
+
+[video-1](https://www.youtube.com/watch?v=mMzAbhnOgXQ)
