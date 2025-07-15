@@ -12,6 +12,8 @@
 
 [How to Prune and Distill Llama-3.1 8B to an NVIDIA Llama-3.1-Minitron 4B Model](https://developer.nvidia.com/blog/how-to-prune-and-distill-llama-3-1-8b-to-an-nvidia-llama-3-1-minitron-4b-model/)
 
+[Llama 3.1 Pruning and Distillation with NeMo 2.0 Framework](https://github.com/NVIDIA/NeMo/tree/main/tutorials/llm/llama/pruning-distillation)
+
 [Build a RAG App With Nvidia NIM APIs and a Vector Database](https://thenewstack.io/build-a-rag-app-with-nvidia-nim-apis-and-a-vector-database/)
 
 [How To Build a RAG Agent With Nvidia NIM and LangChain](https://thenewstack.io/how-to-build-a-rag-agent-with-nvidia-nim-and-langchain/)
