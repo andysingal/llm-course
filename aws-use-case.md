@@ -45,3 +45,5 @@
 [aws-tools](https://github.com/towardsthecloud/aws-toolbox)
 
 [24 AWS Hands-On Labs: Elevate Your Expertise Now](https://techyoutube.com/index.php/2023/12/26/24-aws-hands-on-labs-elevate-your-expertise-now/)
+
+[Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
