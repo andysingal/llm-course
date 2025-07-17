@@ -8,6 +8,12 @@ Convert any agent into an A2A-compatible server
 
 AutoA2A is a CLI tool that scaffolds the boilerplate required to run AI agents as servers compatible with Google's A2A protocol. It supports various agent frameworks — requiring minimal changes to your code.
 
+
+[AgentsNet: Coordination and Collaborative Reasoning in Multi-Agent LLMs](https://agentsnet.graphben.ch/)
+
+[dataset-agentnet](https://huggingface.co/datasets/disco-eth/AgentsNet)
+
+
 ## Articles
 [The Ultimate Guide for Building a Multilingual-Multimodal RAG with LlamaIndex and Qdrant](https://towardsdev.com/the-ultimate-guide-for-building-a-multilingual-multimodal-rag-with-llamaindex-and-qdrant-b6ecc2bd37c9)
 
