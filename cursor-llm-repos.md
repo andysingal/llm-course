@@ -9,6 +9,15 @@
 
 [cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank)
 
+
+### Cursor Rules
+
+A Rule That Writes the Rules
+
+[different-examples](https://github.com/elie222/inbox-zero/tree/main/.cursor/rules)
+
+
+
 <img width="452" alt="Screenshot 2025-04-23 at 2 08 27 PM" src="https://github.com/user-attachments/assets/09193fe8-c126-410c-9008-e2d5983440ed" />
 
 [a](https://x.com/kregenrek/status/1914762195784884528)
