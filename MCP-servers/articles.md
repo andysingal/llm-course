@@ -6,6 +6,8 @@
 
 [Desktop Extensions: One-click MCP server installation for Claude Desktop](https://www.anthropic.com/engineering/desktop-extensions)
 
+[Create a Local MCP Stack to Investigate Apache Spark Job Failures Privately](https://medium.com/@fatikir15/create-a-local-mcp-stack-to-investigate-apache-spark-job-failures-privately-9b5ece62ffad)
+
 
 ##Integrating MCPs
 [Pipedream](https://mcp.pipedream.com/developers)
