@@ -7,6 +7,10 @@
 
 
 
+### Videos
+
+[Genkit + NodeJS + Gemini](https://www.youtube.com/watch?v=AY6HY6Wofnc)
+
 Articles
 
 [Think Inside the JSON: A Reinforcement Strategy for Strict LLM Schema Adherence](https://www.mastercontrol.com/gxp-lifeline/thinkjson-ai-solution-for-life-science-manufacturing/)
