@@ -15,6 +15,15 @@ goose is your on-machine AI agent, capable of automating complex development tas
 
 Welcome to AutoAgent! AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone.
 
+[agentic-doc](https://github.com/landing-ai/agentic-doc)
+The LandingAI Agentic Document Extraction API pulls structured data out of visually complex documents—think tables, pictures, and charts—and returns a hierarchical JSON with exact element locations.
+
+This Python library wraps that API to provide:
+
+- Long‑document support – process 100+ page PDFs in a single call
+- Auto‑retry / paging – handles concurrency, time‑outs, and rate limits
+- Helper utilities – bounding‑box snippets, visual debuggers, and more
+
 [ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist)
 This project is my own AI agent powered by LangChain. It's built to help with:
 
