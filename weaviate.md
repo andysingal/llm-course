@@ -8,6 +8,8 @@
 
 [personalization-agent](https://colab.research.google.com/github/weaviate/recipes/blob/main/weaviate-services/agents/personalization-agent-get-started-recipes.ipynb#scrollTo=QUe7QF2nQJoL)
 
+[Rotaional-quantization](https://weaviate.io/blog/weaviate-1-32-release?utm_source=blogs&utm_medium=w_social&utm_campaign=1.32_release&utm_content=diagram_post_268085932)
+
 [reason_moderncolbert](https://github.com/weaviate/recipes/blob/main/weaviate-features/multi-vector/reason_moderncolbert.ipynb)
 Multi-vector embeddings with Reasoning-ModernColBERT
 
