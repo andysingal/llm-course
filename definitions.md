@@ -16,3 +16,6 @@
 - With the KV cache, the model now can calculate attention efficiently by aligning the cached keys and values with the new query (Q) to compute the new token.
 
 - The model appends the newly generated token to the existing sequence and repeats the process from step 2 until it is finished generating.
+
+
+- A model runtime is a specialized software framework designed to execute ML models efficiently on different hardware platforms. It serves as the intermediary layer between the trained model and the device’s hardware, optimizing the inference process to maximize speed, efficiency, and resource utilization.
