@@ -6,4 +6,13 @@
 - Model architecture: Architecture refers to the structure and design of an ML model. It defines how the model is organized, including the types and number of layers, the connections between layers, and the operations the model performs. The architecture determines how the model processes input data to produce output predictions or decisions.
 - Model execution code: A model’s execution code is what the model runs. It generally initializes the architecture in the model serving framework, loads weights, and runs predictions (or other outputs).
 - Model serving: Deploying an ML model in a production environment, where it can process new data and generate predictions
+- Key-value caching is a technique that helps speed up the model inference process by remembering important information (such as attention) from previous steps. Instead of recomputing everything from scratch, the model reuses what it has already calculated, making text generation much faster and more efficient.
 
+
+- When the model sees the input prompt, it calculates and stores it as key-value pairs in the cache.
+
+- When generating new tokens, instead of starting over to recalculate KV cache from the very beginning, the model retrieves the stored KV cache instead.
+
+- With the KV cache, the model now can calculate attention efficiently by aligning the cached keys and values with the new query (Q) to compute the new token.
+
+- The model appends the newly generated token to the existing sequence and repeats the process from step 2 until it is finished generating.
