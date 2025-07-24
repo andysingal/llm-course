@@ -20,3 +20,7 @@
 
 - A model runtime is a specialized software framework designed to execute ML models efficiently on different hardware platforms. It serves as the intermediary layer between the trained model and the device’s hardware, optimizing the inference process to maximize speed, efficiency, and resource utilization.
 - Ambient Agents: Ambient agents are AI systems designed to operate continuously in the background, monitoring data streams and automatically taking actions based on predefined rules and user intent, without requiring direct human prompts.
+
+
+## Resources
+[Demystifying essential AI buzzwords](https://blogs.oracle.com/fusioninsider/post/demystifying-essential-ai-buzzwords)
