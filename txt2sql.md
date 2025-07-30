@@ -6,3 +6,6 @@ In this post, we share early results on enabling multi-turn reinforcement learni
 
 How to deal with Large databases when doing SQL Q & A Langchain vs MCP Approach
 
+[anyquery](https://github.com/julien040/anyquery)
+
+Anyquery is a SQL query engine that allows you to run SQL queries on pretty much anything. It supports querying files, databases, and apps (e.g. Apple Notes, Notion, Chrome, Todoist, etc.). It's built on top of SQLite and uses plugins to extend its functionality.
