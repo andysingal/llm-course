@@ -32,6 +32,7 @@ memory_from_client = Mem0Memory.from_client(
 [memobase](https://github.com/memodb-io/memobase)
 Memobase is a user profile-based memory system designed to bring long-term user memory to your Generative AI (GenAI) applications. Whether you're building virtual companions, educational tools, or personalized assistants, Memobase empowers your AI to remember, understand, and evolve with your users.
 
+[memo-aws](https://docs.mem0.ai/examples/aws_example)
 
 
 
