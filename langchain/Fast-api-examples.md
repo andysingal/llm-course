@@ -8,3 +8,6 @@ Welcome to the FastAPI LangGraph Agent Production-Ready Template! This repositor
 
 [langgraph-hitl-fastapi-demo](https://github.com/esurovtsev/langgraph-hitl-fastapi-demo/tree/advanced-streaming-sse)
 This project demonstrates a realistic Human-in-the-Loop (HITL) workflow using LangGraph, embedded inside a Python FastAPI backend, with a React frontend. It is designed as a learning resource for developers interested in building interactive AI agent flows that pause for human input and then resume execution.
+
+[Building AI Workflows with FastAPI and LangGraph (Step-by-Step Guide)](https://pub.towardsai.net/building-ai-workflows-with-fastapi-and-langgraph-step-by-step-guide-599937ab84f3)
+
