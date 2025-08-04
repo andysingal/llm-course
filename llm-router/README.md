@@ -4,3 +4,6 @@
 
 
 <img width="658" alt="Screenshot 2025-05-06 at 2 24 33 PM" src="https://github.com/user-attachments/assets/1f635584-49c0-4f80-ab60-cc250cba1f75" />
+
+Resources:
+- [Routing the Right Way: Directing Queries to the Best Components](https://levelup.gitconnected.com/routing-the-right-way-directing-queries-to-the-best-components-a01adc71d56b)
