@@ -54,3 +54,29 @@ if question:
     st.session_state["messages"].append({"role": "assistant", "content": response})
     st.chat_message("assistant").write(response)
 ```
+
+Pre-requisites
+Install Ollama on your local machine from the official website. And then pull the Deepseek model:
+```
+ollama pull deepseek-r1:8b
+```
+Install the dependencies using pip:
+```
+pip install -r requirements.txt
+```
+Run
+Run the Streamlit app:
+```
+streamlit run agent_with_memory.py
+```
+Bonus tip
+If you want to change the short-term memory with the long-term memory, you can change the MemorySaver with InMemoryStore:
+```
+from langgraph.store.memory import InMemoryStore
+
+store = InMemoryStore()
+
+# Example usage - Learn more about it by checking the LangGraph documentation
+# store.put()
+# store.get()
+```
