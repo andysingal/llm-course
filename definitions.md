@@ -1,3 +1,4 @@
+- Cognitive scaffolding: Cognitive scaffolding is a teaching method where an expert provides temporary support to help a learner develop a new skill or concept. This support is gradually reduced as the learner becomes more competent, ultimately enabling them to perform the task independently.
 - Inference: It is the process of generating tokens in response to a particular input.
 
 - Model: A machine-learning (ML) model is a mathematical representation or algorithm that learns patterns from data to make predictions, decisions, or inferences without being explicitly programmed for the task.
