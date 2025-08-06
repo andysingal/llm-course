@@ -24,3 +24,5 @@ This tool is ideal for developers, data analysts, and researchers who need to ex
 
 ## Articles
 [Build a Local RAG Using Ollama, PostgreSQL and BladePipe](https://doc.bladepipe.com/blog/ai/ragapi_ollama)
+
+[From embeddings to answers](https://www.postgresql.fastware.com/blog/from-embeddings-to-answers)
