@@ -15,3 +15,4 @@ Articles
 
 [Think Inside the JSON: A Reinforcement Strategy for Strict LLM Schema Adherence](https://www.mastercontrol.com/gxp-lifeline/thinkjson-ai-solution-for-life-science-manufacturing/)
 
+[Synthetic Data in the Era of LLMs](https://synth-data-acl.github.io/)
