@@ -4,6 +4,8 @@
 
 [LLMAgentCrypto](https://github.com/nicknochnack/LLMAgentCrypto)
 
+[QF-Lib](https://quarkfin.github.io/qf-lib-info/)
+
 ## Article
 
 [Freqtrade Strategies 101: A Quick Start for Strategy Development](https://www.freqtrade.io/en/stable/strategy-101/)
