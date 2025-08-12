@@ -22,6 +22,7 @@ Notebooks
 
 [pandas_data_analyst](https://github.com/business-science/ai-data-science-team/blob/master/examples/multiagents/pandas_data_analyst.ipynb)
 
+[Production Fixed Horizon](https://github.com/samirsaci/production-planning/blob/main/Production%20Fixed%20Horizon.ipynb)
 
 ##repo
 
