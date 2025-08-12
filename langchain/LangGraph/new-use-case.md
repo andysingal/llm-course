@@ -9,3 +9,8 @@
 [langgraph-rarallel-execution](https://github.com/SauravP97/agentic-workflows/tree/main/parallel-execution)
 
 [video-1](https://www.youtube.com/watch?v=mMzAbhnOgXQ)
+
+
+## Article
+
+[LangGraph + SciPy: Building an AI That Reads Documentation and Makes Decisions](https://towardsdatascience.com/langgraph-scipy-building-an-ai-that-reads-documentation-and-makes-decisions/)
