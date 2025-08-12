@@ -10,10 +10,16 @@
 
 [Rotaional-quantization](https://weaviate.io/blog/weaviate-1-32-release?utm_source=blogs&utm_medium=w_social&utm_campaign=1.32_release&utm_content=diagram_post_268085932)
 
+***[Elysia](https://weaviate.io/blog/elysia-agentic-rag?utm_source=channels&utm_medium=w_social&utm_campaign=elysia&utm_content=blog_annoucement_680931809)
+ Elysia – our open-source, agentic RAG framework that represents a fundamental rethink of how we interact with our data through AI.
+
 [reason_moderncolbert](https://github.com/weaviate/recipes/blob/main/weaviate-features/multi-vector/reason_moderncolbert.ipynb)
 Multi-vector embeddings with Reasoning-ModernColBERT
 
 <img width="494" alt="Screenshot 2024-08-22 at 10 39 01 PM" src="https://github.com/user-attachments/assets/b9063e75-1224-4126-a087-11bc7f725110">
+
+
+
 
 Research paper:
 
