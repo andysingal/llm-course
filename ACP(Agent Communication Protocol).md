@@ -55,8 +55,9 @@ def answer_question(query):
 
 st.title("Local ChatGPT")
 query = st.text_input("Enter your query:")
-```
 
 if query:
     answer = answer_question(query)
     st.markdown(answer)
+
+```
