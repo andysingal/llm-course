@@ -6,6 +6,10 @@
 
 [QF-Lib](https://quarkfin.github.io/qf-lib-info/)
 
+[Prebuilt ReAct Agent - Human-In-The-Loop](https://github.com/esurovtsev/langgraph-advanced/blob/main/04_prebuilt_hitl_dynamic_interrupt.ipynb)
+
+LangGraph Advanced – Use Dynamic Human in the Loop Interruption in Prebuilt AI Agents to make sure risky tool calls pause for human approval before running
+
 ## Article
 
 [Freqtrade Strategies 101: A Quick Start for Strategy Development](https://www.freqtrade.io/en/stable/strategy-101/)
