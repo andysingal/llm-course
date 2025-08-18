@@ -16,6 +16,9 @@
 
 [Workshop: Build with Gemini](https://github.com/patrickloeber/workshop-build-with-gemini)
 
+[gemini-context-url](https://github.com/philschmid/gemini-samples/blob/main/examples/gemini-context-url.ipynb)
+When url_context is enabled the model will use all provided URLs (up to 20) to inform its response. This can be combined with google_search to provide a broader context before using the URLs.
+
 This workshop teaches how to build with Gemini using the Gemini API and Python SDK.
 
 
