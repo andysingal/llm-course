@@ -5,6 +5,8 @@
 
 [Synthetic Data Generation sdv](https://github.com/Zhenna/synthetic_data_generation_tabular_experiments/blob/main/sdv_notebook.ipynb)
 
+[Synthetic-sdv](https://colab.research.google.com/drive/1L6i-JhJK9ROG-KFcyzT9G-8FC3L8y8Lc#scrollTo=eO3bqE0dOf6a)
+
 
 
 ### Videos
