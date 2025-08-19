@@ -10,6 +10,12 @@
 
 LangGraph Advanced – Use Dynamic Human in the Loop Interruption in Prebuilt AI Agents to make sure risky tool calls pause for human approval before running
 
+
+## Git Repo
+[DeepAgent Stock Research Assistant](https://github.com/leonardogrig/deepagents)
+
+A sophisticated AI-powered stock research agent built with LangChain DeepAgents that provides comprehensive financial analysis comparable to professional analysts.
+
 ## Article
 
 [Freqtrade Strategies 101: A Quick Start for Strategy Development](https://www.freqtrade.io/en/stable/strategy-101/)
