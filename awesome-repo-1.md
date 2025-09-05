@@ -11,6 +11,11 @@ DeepGit is an advanced, Langgraph-based agentic workflow designed to perform dee
 [goose](https://github.com/block/goose)
 goose is your on-machine AI agent, capable of automating complex development tasks from start to finish. More than just code suggestions, goose can build entire projects from scratch, write and execute code, debug failures, orchestrate workflows, and interact with external APIs - autonomously.
 
+
+[10 Awesome GitHub Repositories for AI Engineers](https://dev.to/kamrul_arafin/10-awesome-github-repositories-for-ai-engineers-bb6)
+
+Here are 10 handpicked GitHub repositories every AI Engineer should bookmark.
+
 [AutoAgent](https://github.com/HKUDS/AutoAgent)
 
 Welcome to AutoAgent! AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone.
