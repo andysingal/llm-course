@@ -13,6 +13,8 @@ AutoA2A is a CLI tool that scaffolds the boilerplate required to run AI agents a
 
 [dataset-agentnet](https://huggingface.co/datasets/disco-eth/AgentsNet)
 
+[A2A endpoint in LangGraph Server](https://docs.langchain.com/langgraph-platform/server-a2a)
+
 
 ## Articles
 [The Ultimate Guide for Building a Multilingual-Multimodal RAG with LlamaIndex and Qdrant](https://towardsdev.com/the-ultimate-guide-for-building-a-multilingual-multimodal-rag-with-llamaindex-and-qdrant-b6ecc2bd37c9)
