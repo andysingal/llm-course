@@ -6,6 +6,8 @@
 
 [BrightData Web Scraper](https://www.marktechpost.com/2025/06/18/how-to-build-an-advanced-brightdata-web-scraper-with-google-gemini-for-ai-powered-data-extraction/)
 
+[parserGPT](https://www.c-sharpcorner.com/article/parsergpt-turn-messy-websites-into-clean-csvs/)
+
 
 ## git repos
 
