@@ -97,5 +97,7 @@ pprint(result.content)
 
 [GenAI_AgenticRAG_PDF_WebSearch](https://github.com/simranjeet97/AgenticAI_AIAgents_Course/blob/main/GenAI_AgenticRAG_PDF_WebSearch/agentic_rag.py)
 
+[structured_input_output_with_parser_model](https://github.com/agno-agi/agno/blob/main/cookbook/agents/input_and_output/structured_input_output_with_parser_model.py)
+
 
 
