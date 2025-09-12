@@ -52,3 +52,5 @@ Turn PDFs into structured, queryable memory—built for LLMs.
 
 Large Language Models struggle with memory. PdfToMem makes it effortless.
 By combining reasoning-powered ingestion, structured retrieval, and a multi-agent architecture, it transforms unstructured PDFs into rich memory representations.
+
+[Integrating Long-Term Memory with Gemini 2.5](https://www.philschmid.de/gemini-with-memory)
