@@ -1,5 +1,7 @@
 [StrandsAgents + Claude](https://acro-engineer.hatenablog.com/entry/2025/08/28/120000)
 
+[Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
+
 ```py
 import asyncio
 import os
