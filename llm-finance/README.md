@@ -10,6 +10,8 @@
 
 LangGraph Advanced – Use Dynamic Human in the Loop Interruption in Prebuilt AI Agents to make sure risky tool calls pause for human approval before running
 
+[09_supervisor_hierarchy_and_swarm](https://github.com/esurovtsev/langgraph-advanced/blob/main/09_supervisor_hierarchy_and_swarm.ipynb)
+
 
 ## Git Repo
 [DeepAgent Stock Research Assistant](https://github.com/leonardogrig/deepagents)
