@@ -35,6 +35,9 @@
 
 [Host concurrent LLMs with LoRAX](https://aws.amazon.com/blogs/machine-learning/host-concurrent-llms-with-lorax/)
 
+### Deep Agent
+[Running deep research AI agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/running-deep-research-ai-agents-on-amazon-bedrock-agentcore/)
+
 
 
 <img width="666" alt="Screenshot 2025-04-17 at 11 30 47 AM" src="https://github.com/user-attachments/assets/1adb9f3f-5b23-4a82-9069-04eb3250d7b6" />
