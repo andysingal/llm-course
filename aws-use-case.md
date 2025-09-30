@@ -54,3 +54,10 @@
 [AI judging AI: Scaling unstructured text analysis with Amazon Nova](https://aws.amazon.com/blogs/machine-learning/ai-judging-ai-scaling-unstructured-text-analysis-with-amazon-nova/)
 
 [Serverless-generative-AI-Architecture](https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/)
+
+
+
+#### Application
+[Strands Agents](https://dev.to/aws-builders/tying-it-all-together-how-strands-agents-weave-together-retail-performance-analysis-50p4)
+
+Strands Agents is a simple-to-use, code-first framework for building agents. It is an open-source SDK by Amazon Web Services [AWS]. Strands comprise three key components: a language model, a system prompt, and a set of tools. Strands supports multiple agent architecture patterns, scaling from a single agent up to complex networks of agents.
