@@ -1,4 +1,7 @@
 [pdf-ocr-docling](https://zhuanlan.zhihu.com/p/1905017707214144504)
+
+[Granite Docling WebGPU](https://huggingface.co/spaces/ibm-granite/granite-docling-258M-WebGPU)
+
 ```py
 from crewai import LLM, Agent, Crew, Process, Task
 from crewai.knowledge.source.crew_docling_source import CrewDoclingSource
