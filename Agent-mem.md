@@ -10,6 +10,8 @@
 
 [diet_assistant_voice_cartesia](https://github.com/mem0ai/mem0/blob/main/examples/misc/diet_assistant_voice_cartesia.py)
 
+[How to integrate Long-Term Memory for AI Agents with Mem0 and Weaviate](https://github.com/weaviate/recipes/blob/main/integrations/llm-agent-frameworks/mem0/quickstart_mem0_with_weaviate.ipynb)
+
 ```py
 os.environ["MEM0_API_KEY"] = "<your-mem0-api-key>"
 
