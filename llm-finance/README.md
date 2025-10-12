@@ -18,6 +18,10 @@ LangGraph Advanced – Use Dynamic Human in the Loop Interruption in Prebuilt AI
 
 A sophisticated AI-powered stock research agent built with LangChain DeepAgents that provides comprehensive financial analysis comparable to professional analysts.
 
-## Article
+[deepagents](https://github.com/sagar-n/deepagents)
+Stock Research Agent built with Gradio, LangChain DeepAgents, and optional Brave/Tavily integration. It improves significantly over the first version by applying context engineering, simplifying configuration, and optimizing tool usage.
 
+<img width="988" height="659" alt="Screenshot 2025-10-12 at 12 22 31 PM" src="https://github.com/user-attachments/assets/5d485826-efec-4852-825b-563b0e00895f" />
+
+## Article
 [Freqtrade Strategies 101: A Quick Start for Strategy Development](https://www.freqtrade.io/en/stable/strategy-101/)
