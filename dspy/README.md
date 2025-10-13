@@ -10,6 +10,9 @@ DSPy can routinely teach powerful models like GPT-3.5 or GPT-4 and local models 
 Courses:
 [Coursera-dspy](https://learn.deeplearning.ai/courses/dspy-build-optimize-agentic-apps/lesson/wwje4/debug-your-dspy-agent-with-mlflow-tracing)
 
+### Article
+
+- [Learning DSPy (3): Working with optimizers](https://thedataquarry.com/blog/learning-dspy-3-working-with-optimizers/)
 
 Resources:
 - https://gist.github.com/jrknox1977
