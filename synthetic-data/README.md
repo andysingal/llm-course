@@ -18,3 +18,21 @@ Articles
 [Think Inside the JSON: A Reinforcement Strategy for Strict LLM Schema Adherence](https://www.mastercontrol.com/gxp-lifeline/thinkjson-ai-solution-for-life-science-manufacturing/)
 
 [Synthetic Data in the Era of LLMs](https://synth-data-acl.github.io/)
+
+[How to Evaluate Your RAG Pipeline with Synthetic Data?](https://www.marktechpost.com/2025/10/13/how-to-evaluate-your-rag-pipeline-with-synthetic-data/)
+
+```py
+from deepeval.synthesizer import Synthesizer
+
+synthesizer = Synthesizer(model="gpt-4.1-nano")
+
+# Generate synthetic goldens from your document
+synthesizer.generate_goldens_from_docs(
+    document_paths=["example.txt"],
+    include_expected_output=True
+)
+
+# Print generated results
+for golden in synthesizer.synthetic_goldens[:3]:  
+    print(golden, "\n")
+```
