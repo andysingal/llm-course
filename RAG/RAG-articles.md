@@ -4,3 +4,5 @@
 
 [Fixed-Size Chunking](https://www.53ai.com/news/RAG/2025061073941.html)
 
+[The Self-RAG Shortcut Every AI Expert Wishes They Knew](https://www.projectpro.io/article/self-rag/1176)
+
