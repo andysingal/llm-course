@@ -13,6 +13,10 @@
 
 [Pydantic AI Documentation Crawler & RAG Agent](https://github.com/coleam00/ottomator-agents/tree/main/crawl4AI-agent-v2)
 
+[hikugen](https://github.com/goncharom/hikugen)
+
+AI-powered web scraping library that generates Python code to extract structured data into Pydantic-compliant objects.
+
 
 ##article
 
