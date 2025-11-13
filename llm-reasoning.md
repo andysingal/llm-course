@@ -11,6 +11,10 @@ This method is stateful, meaning the model will follow the most recent instructi
 
 <img width="581" alt="Screenshot 2025-06-29 at 10 19 31 AM" src="https://github.com/user-attachments/assets/302f0626-3e1a-44fd-a6f3-34e3288ecf64" />
 
+[VibeThinker](https://github.com/WeiboAI/VibeThinker)
+
+VibeThinker-1.5B is a 1.5B-parameter dense model that challenges the prevailing notion that small models inherently lack robust reasoning capabilities.
+
 ### Resources:
 
 - [Res1](https://github.com/deansaco/r1-reasoning-rag.git)
