@@ -2,3 +2,5 @@
 
 
 <img width="1306" alt="Screenshot 2024-12-09 at 8 02 43 PM" src="https://github.com/user-attachments/assets/1fde8e1d-b086-49b1-99c7-ee024ee2ec78">
+
+[Deploying DeepSeek-OCR and WebUI using Docker](https://blog.csdn.net/weimeilayer/article/details/154795511)
