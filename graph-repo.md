@@ -16,6 +16,11 @@ An open-source clean & customizable RAG UI for chatting with your documents. Bui
 [graph-code](https://github.com/vitali87/code-graph-rag)
 A sophisticated Retrieval-Augmented Generation (RAG) system that analyzes Python repositories, builds knowledge graphs, and enables natural language querying of codebase structure and relationships.
 
+[flexible-graphrag](https://github.com/stevereiner/flexible-graphrag)
+Flexible GraphRAG is a platform supporting document processing, knowledge graph auto-building, RAG and GraphRAG setup, hybrid search (fulltext, vector, graph) and AI Q&A query capabilities.
+
+
+
 
 ## Articles
 [Government Funding Graph RAG](https://towardsdatascience.com/government-funding-graph-rag/)
