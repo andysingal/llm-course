@@ -4,3 +4,18 @@
 
 
 [Fine-tuning with gpt-oss and Hugging Face Transformers](https://cookbook.openai.com/articles/gpt-oss/fine-tune-transfomers)
+
+
+[AI Coding Assistant Training Data Extraction Toolkit](https://github.com/0xSero/ai-data-extraction/)
+Complete toolkit to extract ALL chat, agent, and code context data from AI coding assistants for machine learning training.
+
+🎯 What This Does
+Automatically discovers and extracts complete conversation history including:
+
+✅ User messages & AI responses
+✅ Code context (file paths, line numbers, snippets)
+✅ Code diffs and suggested edits
+✅ Multi-file contexts
+✅ Tool use and execution results
+✅ Timestamps and metadata
+
