@@ -6,3 +6,6 @@ A sophisticated callback handler that automatically optimizes Anthropic Claude's
 [Coursera-Course](https://s172-29-94-111p8888.lab-aws-production.deeplearning.ai/tree/L2)
 
 <img width="460" height="493" alt="Screenshot 2025-11-23 at 9 25 43 AM" src="https://github.com/user-attachments/assets/e7b78226-e5db-4c85-8d5c-83da09d0e215" />
+
+
+[cache-effectiveness](https://learn.deeplearning.ai/courses/semantic-caching-for-ai-agents/lesson/puufb0/measuring-cache-effectiveness)
