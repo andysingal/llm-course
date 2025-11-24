@@ -5,3 +5,9 @@
 [Speculative-Decoding](https://huggingface.co/blog/layerskip)
 
 [Implementing semantic caching to improve RAG systems](https://www.cnblogs.com/bonelee/p/18574470)
+
+
+[Lightweight RAG System: Overcoming 12-Hour Runtime Constraints in Google Colab](https://huggingface.co/blog/tugrulkaya/lightweight-rag-system)
+
+build efficient RAG systems under resource constraints
+
