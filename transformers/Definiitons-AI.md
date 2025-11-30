@@ -14,6 +14,17 @@ A representation is an encoded, typically intermediate form of an input. For ins
 
 The key idea is that the representation captures some essential features or characteristics of the original data to make it useful for further analysis or processing.
 
+- Attention sink: An "attention sink" is a phenomenon in large language models where initial tokens, especially the very first one, consistently receive a disproportionate amount of attention across transformer layers. This happens because the softmax function allocates unused attention to a few tokens, and in auto-regressive models, the initial tokens are seen most frequently, leading to a concentration of attention
+- Rotary Position Embedding: Most LLMs adopt Rotary Position Embedding
+as their default positional encoding mechanism, which has become
+the de facto standard in contemporary architectures.
+RoPE encodes token positions by rotating each
+query/key vector on a sequence of two-dimensional
+planes. This formulation allows attention scores to
+depend on relative positional offsets while preserving the simple dot-product structure.
+
+
+
 
 ## SELF-SUPERVISED LEARNING 
 Self-supervised learning is a pretraining procedure that lets neural networks leverage large, unlabeled datasets in a supervised fashion.
