@@ -50,3 +50,4 @@ Use Case:
 - [GraphRAG-Qdrant](https://qdrant.tech/blog/case-study-lettria-v2/)
 - [ColiPali-Qdrant](https://github.com/andysingal/llm-course/blob/main/MCP-servers/cool-repo.md)
 The King of Multi-Modal RAG: ColPali
+- [UV + vLLM + Python-Rust Robyn API + Qdrant: Ultimate AI Engineering Rig](https://niranjanakella.medium.com/uv-vllm-python-rust-robyn-api-qdrant-ultimate-ai-engineering-rig-55571bdd829c)
