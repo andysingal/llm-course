@@ -4,3 +4,9 @@
 
 
 ** [Supercharging AI Code Reviews: Our Journey with Mistral-Large-2411](https://medium.com/@Voldemort.xu/supercharging-ai-code-reviews-our-journey-with-mistral-large-2411-ff0a50df79fe)
+
+
+
+
+### Article
+[Mistral Large 3: An Open-Source MoE LLM](https://intuitionlabs.ai/pdfs/mistral-large-3-an-open-source-moe-llm-explained.pdf)
