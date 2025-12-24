@@ -22,8 +22,11 @@
 
 - A model runtime is a specialized software framework designed to execute ML models efficiently on different hardware platforms. It serves as the intermediary layer between the trained model and the device’s hardware, optimizing the inference process to maximize speed, efficiency, and resource utilization.
 - Ambient Agents: Ambient agents are AI systems designed to operate continuously in the background, monitoring data streams and automatically taking actions based on predefined rules and user intent, without requiring direct human prompts.
-- 
 
+### Multimodal Machine Learning
+
+- [Modality-Wise Retrieval](https://arxiv.org/html/2512.20136v1)("Modality-wise retrieval" is a term used in multimodal machine learning (specifically in Retrieval-Augmented Generation, or RAG) that refers to the process of retrieving information based on specific data types (modalities like text, images, or audio) and using those specific signals to guide the search) gather candidates aligned with the input modalities, GRASP to keep only knowledge that is relevant to the multimodal query and useful for answering the question.
+- 
 
 ## Resources
 [Demystifying essential AI buzzwords](https://blogs.oracle.com/fusioninsider/post/demystifying-essential-ai-buzzwords)
