@@ -23,6 +23,7 @@
 - A model runtime is a specialized software framework designed to execute ML models efficiently on different hardware platforms. It serves as the intermediary layer between the trained model and the device’s hardware, optimizing the inference process to maximize speed, efficiency, and resource utilization.
 - Ambient Agents: Ambient agents are AI systems designed to operate continuously in the background, monitoring data streams and automatically taking actions based on predefined rules and user intent, without requiring direct human prompts.
 - Parameter Sweeps - A parameter sweep (or parametric sweep) is an automated simulation technique that runs the same model multiple times, systematically changing one or more input settings (parameters) to see how they affect the output, helping find optimal designs, understand sensitivity, or calibrate models
+- Patch similarity is a computer vision technique that measures how closely small, local regions (patches) of an image resemble each other or another image's patches
 
 ### Multimodal Machine Learning
 
