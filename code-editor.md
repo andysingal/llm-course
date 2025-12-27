@@ -24,6 +24,10 @@ Ever stared at a new codebase written by others feeling completely lost? This tu
 
 CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-comparable Elo Ratings
 
+[Sketch-Programming: A Minimalist Paradigm for Code Design (LLM transpiler)](https://github.com/DmitryOlkhovoi/Sketch-programming)
+
+Sketch-programming (or simply "Sketch") is a revolutionary approach to writing software that prioritizes simplicity, readability, and expressiveness. Unlike traditional programming languages or frameworks, Sketch is not a specific language but a meta-programming paradigm—a set of principles, conventions, and syntax patterns designed to abstract away boilerplate code, reduce cognitive overhead, and allow developers to focus on the core logic of their applications.
+
 
 ### NEWSLETTER
 
