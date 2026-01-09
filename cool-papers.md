@@ -15,3 +15,7 @@ MemR3 can be easily integrated into memory systems, improving retrieval quality
 
  3) Transparency and explainability. Since MemR3 maintains an explicit evidence-gap state over the course of an interaction, it can expose which memories support a given answer
 and which pieces of information were still missing at each step, providing a human-readable trace of the agent’s decision process
+
+
+[How to Set the Batch Size for Large-Scale Pre-training?](https://arxiv.org/pdf/2601.05034)
+
