@@ -6,3 +6,14 @@ This repository blends concise Python scripts, richly commented Jupyter notebook
 
 [text-to-lora](https://github.com/SakanaAI/text-to-lora)
 
+
+[Tinker Cookbook - Complete Training Patterns](https://github.com/sundial-org/skills/blob/main/skills/tinker/SKILL.md)
+
+Tinker Cookbook provides two levels of abstraction for fine-tuning language models:
+
+- High-Level Cookbook API: Declarative configuration with chz, structured dataset builders, automatic training loops
+- Low-Level Tinker API: Manual control over training steps, direct ServiceClient usage, custom training loops
+Choose based on your needs:
+
+Use Cookbook for standard SFT workflows with built-in datasets and patterns
+Use Low-Level API for custom training logic, research experiments, or fine-grained control
