@@ -6,3 +6,5 @@
 
 [airbnb_agent_openai_llamaindex_mongodb](https://github.com/mongodb-developer/GenAI-Showcase/blob/main/notebooks/agents/airbnb_agent_openai_llamaindex_mongodb.ipynb)
 
+[Better RAG Results With Reciprocal Rank Fusion (RRF) and Hybrid Search](https://www.mongodb.com/resources/basics/reciprocal-rank-fusion)
+
