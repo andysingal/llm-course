@@ -4,3 +4,4 @@
 
 This guide provides detailed steps to create a Domain Deep Research Agent that leverages Composio, agentic frameworks such as Langgraph and Qwen3 to create a research agent. Ensure you have Python 3.8 or higher installed.
 
+[How to integrate Epic games MCP with LangChain](https://composio.dev/toolkits/epic_games/framework/langchain)
