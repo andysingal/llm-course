@@ -13,6 +13,9 @@ Courses:
 ### Article
 
 - [Learning DSPy (3): Working with optimizers](https://thedataquarry.com/blog/learning-dspy-3-working-with-optimizers/)
+- [Classification Fine-tuning](https://dspy.ai/tutorials/classification_finetuning/)
+
+
 
 Resources:
 - https://gist.github.com/jrknox1977
