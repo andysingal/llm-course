@@ -66,3 +66,6 @@ class DeepResearch:
                 if isinstance(content, dict) and (tool_use := content.get('toolUse', '')):
                     print(tool_use)
 ```
+
+![image-2012487322726748160](https://github.com/user-attachments/assets/af65ef5c-6f97-4143-9a7f-1f8843f4e4a2)
+
