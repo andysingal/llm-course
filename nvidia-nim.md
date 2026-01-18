@@ -27,6 +27,22 @@ Integrations:
 
 
 
+### Github Repo
+
+[batmobile](https://github.com/Infatoshi/batmobile)
+
+Introducing Batmobile.
+10-20x faster CUDA kernels for equivarant GNNs. The bottleneck in MACE, NequIP, Allegro? Spherical harmonics and tensor products. e3nn computes them with Python overhead and global memory round-trips.
+
+Batmobile keeps everything in registers. 
+> Spherical Harmonics: 11.8x
+> Tensor Product: 20.8x
+> TP Backward: 20.6x
+
+All CG coefficients baked in at compile time. No loops, no branches, no intermediate tensors.
+
+
+
 ## Cyber Security
 [leondz/garak](https://developer.nvidia.com/blog/nvidia-presents-ai-security-expertise-at-leading-cybersecurity-conferences/)
 
