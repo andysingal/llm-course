@@ -23,6 +23,11 @@ VibeThinker-1.5B is a 1.5B-parameter dense model that challenges the prevailing 
 - [res4-qwen-llamacpp](https://qwen.readthedocs.io/en/latest/run_locally/llama.cpp.html)
 - [Magistral-Reasoning](https://chat.mistral.ai/chat)
 
+
+## Article
+[Add Reasoning Skills to Your LLM Apps](https://amanxai.com/2026/01/20/add-reasoning-skills-to-your-llm-apps/)
+
+
 ## Tips
 One of the most underutilized ways to get far better results from reasoning models like Claude 4, o3, etc:
 
