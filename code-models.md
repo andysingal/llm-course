@@ -52,3 +52,8 @@ sample_outputs  =  model . generate ( input_ids , max_length = 50 , num_return_s
 generated_code  =  tokenizer . decode ( sample_outputs [ 0 ] , skip_special_tokens = True ) 
 print ( generated_code )
 ```
+
+
+## Articles
+[Codelab: Building an AI Agent With Couchbase AI Services & Agent Catalog](https://www.couchbase.com/blog/codelab-building-an-ai-agent-with-couchbase-ai-services-agent-catalog/)
+In this CodeLab, you will learn how to build a Hotel Search Agent using LangChain, Couchbase AI Services, and Agent Catalog. We will also incorporate Arize Phoenix for observability and evaluation to ensure our agent performs reliably.
