@@ -6,7 +6,10 @@
 Claude-Flow is a comprehensive AI agent orchestration framework that transforms Claude Code into a powerful multi-agent development platform. It enables teams to deploy, coordinate, and optimize specialized AI agents working together on complex software engineering tasks.
 <img width="646" height="671" alt="Screenshot 2026-01-16 at 2 54 40 PM" src="https://github.com/user-attachments/assets/5269c081-dbbc-487d-8cac-c2580a78d632" />
 
+[everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+The complete collection of Claude Code configs from an Anthropic hackathon winner.
 
+Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products.
 
 ```py
 import asyncio
