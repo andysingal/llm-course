@@ -9,6 +9,8 @@
 - Model serving: Deploying an ML model in a production environment, where it can process new data and generate predictions
 - Observability in this context means the ability to monitor these models to detect anomalies, errors, or malicious behavior early on.
 - Key-value caching is a technique that helps speed up the model inference process by remembering important information (such as attention) from previous steps. Instead of recomputing everything from scratch, the model reuses what it has already calculated, making text generation much faster and more efficient.
+- [Context compression](https://x.com/masondrxy/status/2016548078346736014) refers to techniques that reduce the volume of information in an agent's working memory while preserving the details relevant to completing the task. This might involve summarizing previous interactions, filtering out stale information, or strategically deciding what to retain and what to discard.
+- 
 
 
 - When the model sees the input prompt, it calculates and stores it as key-value pairs in the cache.
