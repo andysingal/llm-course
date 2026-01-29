@@ -180,4 +180,25 @@ D --> F([END])
 ```
 ### Reference
 -- [Claude1](https://github.com/anthropics/skills?tab=readme-ov-file)
--- 
+
+## Article
+[We got Claude to teach open models how to write CUDA kernels!](https://huggingface.co/blog/upskill)
+```
+install upskill
+pip install upskill
+
+or use uvx 
+uvx upskill --help
+
+generate a skill based on an agent trace
+upskill generate "write nvidia kernels" --from ./trace.md
+evaluate models on a skill
+upskill eval ./skills/my-skill/ --model haiku --model sonnet
+
+generate skills for local models
+upskill generate "parse YAML" 
+    --model opus 
+    --eval-model "unsloth/GLM-4.7-Flash-GGUF:Q4_0" 
+    --eval-base-url http://localhost:8080/v1
+
+```
