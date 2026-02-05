@@ -202,3 +202,5 @@ upskill generate "parse YAML"
     --eval-base-url http://localhost:8080/v1
 
 ```
+<img width="507" height="633" alt="Screenshot 2026-02-04 at 6 49 09 PM" src="https://github.com/user-attachments/assets/be218305-1029-4e2c-9780-459c72d9d8d2" />
+
