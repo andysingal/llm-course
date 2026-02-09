@@ -17,6 +17,14 @@
 
 AI-powered web scraping library that generates Python code to extract structured data into Pydantic-compliant objects.
 
+[docrawl](https://github.com/neur0map/docrawl)
+Key Features
+- Documentation-optimized extraction - Built-in selectors for Docusaurus, MkDocs, Sphinx, Next.js docs
+- Clean Markdown output - Preserves code blocks, tables, and formatting with YAML frontmatter metadata
+- Path-mirroring structure - Maintains original URL hierarchy as folders with index.md files
+- Polite crawling - Respects robots.txt, rate limits, and sitemap hints
+- Security-first - Sanitizes content, detects prompt injections, quarantines suspicious pages
+- Self-updating - Built-in update mechanism via docrawl --update
 
 ##article
 
