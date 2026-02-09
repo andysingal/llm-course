@@ -2,6 +2,19 @@
 
 [Writing effective tools for agents — with agents](https://www.anthropic.com/engineering/writing-tools-for-agents)
 
+[ragmail](https://github.com/0xfe/ragmail)
+RAGmail lets you search and analyze your email with your favourite agent (OpenCode, Claude, Codex, etc.)
+
+It consists of a comprehensive ingestion pipeline to build a semantically-indexed local database of your email, along with an agent skill (ragmail) that you can use to ask questions.
+
+Typical questions you can answer:
+
+- "What did we decide about the school trip budget?"
+- "Tell me how my communication style has changed over time, with examples."
+- "Where all did I travel to in 2006?"
+- "Explore my relationship with Alice and write me a doc on how it progressed, start to finish."
+- "How many times did Bob email me in February 2026?"
+
 [claude-flow](https://github.com/ruvnet/claude-flow)
 Claude-Flow is a comprehensive AI agent orchestration framework that transforms Claude Code into a powerful multi-agent development platform. It enables teams to deploy, coordinate, and optimize specialized AI agents working together on complex software engineering tasks.
 <img width="646" height="671" alt="Screenshot 2026-01-16 at 2 54 40 PM" src="https://github.com/user-attachments/assets/5269c081-dbbc-487d-8cac-c2580a78d632" />
