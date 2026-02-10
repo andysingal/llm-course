@@ -55,3 +55,33 @@ Built-in commands also guide you through setup:
 - ```/agents``` helps you configure custom subagents
 - ```/doctor``` diagnoses common issues with your installation
 
+### Automate and scale
+Once you’re effective with one Claude, multiply your output with parallel sessions, headless mode, and fan-out patterns.
+Everything so far assumes one human, one Claude, and one conversation. But Claude Code scales horizontally. The techniques in this section show how you can get more done.
+​
+Run headless mode
+Use ```claude -p "prompt"``` in CI, pre-commit hooks, or scripts. Add --output-format stream-json for streaming JSON output.
+With ```claude -p "your prompt"```, you can run Claude headlessly, without an interactive session. Headless mode is how you integrate Claude into CI pipelines, pre-commit hooks, or any automated workflow. The output formats (plain text, JSON, streaming JSON) let you parse results programmatically.
+
+```
+# One-off queries
+claude -p "Explain what this project does"
+
+# Structured output for scripts
+claude -p "List all API endpoints" --output-format json
+
+# Streaming for real-time processing
+claude -p "Analyze this log file" --output-format stream-json
+```
+
+### Fan out across files
+For large migrations or analyses, you can distribute work across many parallel Claude invocations:
+1. <strong>Generate a task list</strong>: Have Claude list all files that need migrating (e.g., list all 2,000 Python files that need migrating)
+2.Write a script to loop through the list
+```
+for file in $(cat files.txt); do
+  claude -p "Migrate $file from React to Vue. Return OK or FAIL." \
+    --allowedTools "Edit,Bash(git commit *)"
+done
+```
+3. <strong>Test on a few files, then run at scale</strong>: Refine your prompt based on what goes wrong with the first 2-3 files, then run on the full set. The ```--allowedTools``` flag restricts what Claude can do, which matters when you’re running unattended.
