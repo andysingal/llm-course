@@ -85,3 +85,33 @@ for file in $(cat files.txt); do
 done
 ```
 3. <strong>Test on a few files, then run at scale</strong>: Refine your prompt based on what goes wrong with the first 2-3 files, then run on the full set. The ```--allowedTools``` flag restricts what Claude can do, which matters when you’re running unattended.
+
+### I find it helpful to have claude ring the terminal bell when something needs my attention.
+ 
+Here is a prompt that sets that up.
+
+```
+  Please set up a bell notification system for our session. When long operations complete (builds, tests, large file operations) or when major milestones are achieved, ring my terminal
+   bell to notify me.
+
+  Technical requirements:
+  1. In SSH sessions, write directly to $SSH_TTY device file (not stdout)
+  2. Use this pattern that works from non-TTY contexts:
+     python3 -c "import os; f=open(os.getenv('SSH_TTY'), 'w'); f.write('\a'*3); f.flush(); f.close()"
+  3. Create a helper script at ~/.local/bin/bell for easy reuse
+
+  Please:
+  1. Create the bell helper script
+  2. Test it to confirm it works in my terminal
+  3. Remember to use it throughout our session for notifications
+
+  Ring the bell when:
+  - Long operations complete (builds, tests, deployments, large syncs)
+  - Major milestones achieved (phase completions, significant checkpoints)
+  - Errors need my attention
+  - Tasks I'm waiting on finish
+
+  After setup, ring the bell 3 times to confirm it's working.
+```
+
+
