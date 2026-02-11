@@ -42,3 +42,6 @@ D --> F([END])
 -- [Claude1](https://github.com/anthropics/skills?tab=readme-ov-file)
 
 [Claude Skills: definition, use cases, and limitations](https://portkey.ai/blog/claude-skills-definition-use-cases-and-limitations/)
+
+[Testing Agent Skills Systematically with Evals](https://developers.openai.com/blog/eval-skills)
+A practical guide to turning agent skills into something you can test, score, and improve over time.
