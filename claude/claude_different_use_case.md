@@ -114,4 +114,13 @@ Here is a prompt that sets that up.
   After setup, ring the bell 3 times to confirm it's working.
 ```
 
+PRO Tips with Claude Code:
+
+The "deny" list overrides `bypassPermissions`
+
+So you can basically enable bypassPermissions and then deny every command you're afraid AI can do
+
+Simple and safe
+
+<img width="379" height="321" alt="Screenshot 2026-02-11 at 6 22 52 PM" src="https://github.com/user-attachments/assets/0c3cdbe5-55c4-4c5c-8b2a-56142335a789" />
 
