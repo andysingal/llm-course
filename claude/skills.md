@@ -48,3 +48,6 @@ A practical guide to turning agent skills into something you can test, score, an
 
 [claude-skills](https://github.com/dmccreary/claude-skills)
 Claude Skills for Intelligent Textbooks is a comprehensive collection of AI-powered skills and workflows designed to revolutionize educational content creation. Built with Claude AI and optimized for intelligent textbook development, this repository provides educators and content creators with powerful tools to generate interactive, standards-based educational materials at scale.
+
+[Langchain-skills](https://playbooks.com/skills/hoodini/ai-agents-skills/langchain)
+This skill helps you build production-grade LLM applications using LangChain and LangGraph. It provides patterns for composing chains, RAG pipelines, agent graphs, memory, streaming, and structured outputs so you can orchestrate complex LLM workflows reliably. The examples cover LCEL composition, retriever-augmented generation, tool-using agents, and tracing with LangSmith.
