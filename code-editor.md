@@ -10,6 +10,12 @@
 
 [micro-agent](https://github.com/BuilderIO/micro-agent)
 
+[ScreenCoder](https://github.com/leigest519/ScreenCoder)
+
+ScreenCoder is an intelligent UI-to-code generation system that transforms any screenshot or design mockup into clean, production-ready HTML/CSS code. Built with a modular multi-agent architecture, it combines visual understanding, layout planning, and adaptive code synthesis to produce accurate and editable front-end code.
+
+
+
 [Claude Squad](https://github.com/smtg-ai/Claude-squad)
 
 Claude Squad is a terminal app that manages multiple Claude Code (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
