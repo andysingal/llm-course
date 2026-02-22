@@ -51,3 +51,5 @@ Claude Skills for Intelligent Textbooks is a comprehensive collection of AI-powe
 
 [Langchain-skills](https://playbooks.com/skills/hoodini/ai-agents-skills/langchain)
 This skill helps you build production-grade LLM applications using LangChain and LangGraph. It provides patterns for composing chains, RAG pipelines, agent graphs, memory, streaming, and structured outputs so you can orchestrate complex LLM workflows reliably. The examples cover LCEL composition, retriever-augmented generation, tool-using agents, and tracing with LangSmith.
+
+[langchain-kill-1](https://playbooks.com/skills/omer-metin/skills-for-antigravity/langgraph)
