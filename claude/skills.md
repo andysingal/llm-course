@@ -53,3 +53,12 @@ Claude Skills for Intelligent Textbooks is a comprehensive collection of AI-powe
 This skill helps you build production-grade LLM applications using LangChain and LangGraph. It provides patterns for composing chains, RAG pipelines, agent graphs, memory, streaming, and structured outputs so you can orchestrate complex LLM workflows reliably. The examples cover LCEL composition, retriever-augmented generation, tool-using agents, and tracing with LangSmith.
 
 [langchain-kill-1](https://playbooks.com/skills/omer-metin/skills-for-antigravity/langgraph)
+
+[digital-brain-skill](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/examples/digital-brain-skill)
+Digital Brain is a structured knowledge management system designed for AI-assisted personal productivity. It provides a complete folder-based architecture for managing:
+
+- Personal Brand - Voice, positioning, values
+- Content Creation - Ideas, drafts, publishing pipeline
+- Knowledge Base - Bookmarks, research, learning
+- Network - Contacts, relationships, introductions
+- Operations - Goals, tasks, meetings, metrics
