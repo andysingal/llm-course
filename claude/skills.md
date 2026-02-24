@@ -62,3 +62,6 @@ Digital Brain is a structured knowledge management system designed for AI-assist
 - Knowledge Base - Bookmarks, research, learning
 - Network - Contacts, relationships, introductions
 - Operations - Goals, tasks, meetings, metrics
+
+[design-taste-frontend](https://github.com/Leonxlnx/taste-skill/blob/main/SKILL.md)
+This project gives your AI (like in Antigravity, Cursor, Codex, Claude Code) good taste. It stops the AI from generating boring, generic, "slop" code and forces it to build modern, high-end interfaces.
