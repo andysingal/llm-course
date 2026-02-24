@@ -31,4 +31,20 @@ Press Shift+Tab to cycle through permission modes:
 - Default: Claude asks before file edits and shell commands
 - Auto-accept edits: Claude edits files without asking, still asks for commands
 - Plan mode: Claude uses read-only tools only, creating a plan you can approve before execution
-- You can also allow specific commands in ```.claude/settings.json``` so Claude doesn’t ask each time. This is useful for trusted commands like ```npm test``` or ```git status```. Settings can be scoped from organization-wide policies down to personal preferences. 
+- You can also allow specific commands in ```.claude/settings.json``` so Claude doesn’t ask each time. This is useful for trusted commands like ```npm test``` or ```git status```. Settings can be scoped from organization-wide policies down to personal preferences.
+
+Built-in commands also guide you through setup:
+- ```/init``` walks you through creating a CLAUDE.md for your project
+- ```/agents``` helps you configure custom subagents
+- ```/doctor``` diagnoses common issues with your installation
+
+#### Extensions
+Extensions plug into different parts of the agentic loop:
+- CLAUDE.md adds persistent context Claude sees every session
+- Skills add reusable knowledge and invocable workflows
+- MCP connects Claude to external services and tools
+- Subagents run their own loops in isolated context, returning summaries
+- Agent teams coordinate multiple independent sessions with shared tasks and peer-to-peer messaging
+- Hooks run outside the loop entirely as deterministic scripts
+- Plugins and marketplaces package and distribute these features
+
