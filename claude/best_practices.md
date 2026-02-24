@@ -48,3 +48,6 @@ Extensions plug into different parts of the agentic loop:
 - Hooks run outside the loop entirely as deterministic scripts
 - Plugins and marketplaces package and distribute these features
 
+##### Common workflows
+
+Step-by-step guides for exploring codebases, fixing bugs, refactoring, testing, and other everyday tasks with Claude Code.
