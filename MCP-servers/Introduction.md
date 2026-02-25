@@ -46,5 +46,64 @@ The MCP specification has been significantly enhanced over the past few months w
 - Every agent function will accept a structured MCP message as input and return another MCP message as output.
 - An agent’s specific role is shaped by its system prompt, which tells the LLM how to behave. 
 
+#### Building the Orchestrator
+We now have our specialized agents, but we need a way to manage them. That role belongs to the Orchestrator. Think of it as the project manager of our AI team. Its job is to take a high-level goal, break it into a sequence of tasks, and delegate those tasks to the right agent. It also manages the flow of information, taking the output from one agent and passing it as input to the next.
+
+The workflow in the preceding figure begins when an initial goal is sent to the Orchestrator. The Orchestrator acts as a central hub, first sending a task to the Researcher agent. Once the research is complete, the agent sends its findings back to the Orchestrator. The Orchestrator then processes this information and sends a new task to the Writer agent. After the Writer finishes, it sends the completed content back to the Orchestrator. Finally, the Orchestrator assembles everything to produce the final output, completing the entire process.
+
+```py
+def orchestrator(initial_goal):
+    """
+    Manages the multi-agent workflow to achieve a high-level goal.
+    """
+    print("="*50)
+    print(f"[Orchestrator] Goal Received: '{initial_goal}'")
+    print("="*50)
+
+    # --- Step 1: Orchestrator plans and calls the Researcher Agent ---
+    print("\n[Orchestrator] Task 1: Research. Delegating to Researcher Agent.")
+    research_topic = "Mediterranean Diet"
+    mcp_to_researcher = create_mcp_message(
+        sender="Orchestrator",
+        content=research_topic
+    )
+    mcp_from_researcher = researcher_agent(mcp_to_researcher)
+    print("\n[Orchestrator] Research complete. Received summary:")
+    print("-" * 20)
+    print(mcp_from_researcher['content'])
+    print("-" * 20)
+
+    # --- Step 2: Orchestrator calls the Writer Agent ---
+    print("\n[Orchestrator] Task 2: Write Content. Delegating to Writer Agent.")
+    mcp_to_writer = create_mcp_message(
+        sender="Orchestrator",
+        content=mcp_from_researcher['content']
+    )
+    mcp_from_writer = writer_agent(mcp_to_writer)
+    print("\n[Orchestrator] Writing complete.")
+
+    # --- Step 3: Orchestrator presents the final result ---
+    final_output = mcp_from_writer['content']
+    print("\n" + "="*50)
+    print("[Orchestrator] Workflow Complete. Final Output:")
+    print("="*50)
+    print(final_output)
+```
+
+#### Running the system
+
+The final step is to run the system and watch them work together.
+```py
+#@title 5. Run the System
+# ------------------------------------------------------------------------
+# Let's give our Orchestrator a high-level goal and watch the agent team work.
+# ------------------------------------------------------------------------
+user_goal = "Create a blog post about the benefits of the Mediterranean diet."
+orchestrator(user_goal)
+```
+
+
+### Error Handling, Validation and Safeguards
+To make the workflow more reliable and move closer to production-ready, we need to strengthen it with error handling, validation, and safeguards.
 
 
