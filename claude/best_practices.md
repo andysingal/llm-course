@@ -51,3 +51,17 @@ Extensions plug into different parts of the agentic loop:
 ##### Common workflows
 
 Step-by-step guides for exploring codebases, fixing bugs, refactoring, testing, and other everyday tasks with Claude Code.
+
+
+
+```
+Claude Code: "npm add ..."
+
+You: "Use pnpm, you idiot!"
+
+*adds it to CLAUDE​.md*
+
+Claude: "npm add ..."
+
+There's a better way:
+```
