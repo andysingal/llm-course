@@ -80,3 +80,10 @@ Antigravity Awesome Skills is a curated, battle-tested library of 930 high-perfo
 - 🟠 Cursor (AI-native IDE)
 - ⚪ OpenCode (Open-source CLI)
 - 🌸 AdaL CLI (Self-evolving Coding Agent)
+
+[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)
+
+A curated collection of official and community-built Claude Skills.
+Anthropic Skills are modular tools that extend the capabilities of Claude AI—unlocking workflows for coding, document creation, design, data analysis, research, and more.
+
+This repository gathers and organizes all publicly available Claude Skills, including both built-in tools by Anthropic and creative contributions from the community. Browse by category, explore capabilities, and kickstart your own Skill creation.
