@@ -65,3 +65,7 @@ Claude: "npm add ..."
 
 There's a better way:
 ```
+
+Life hack, put empty strings for "commit" and "pr" in attribution settings for Claude Code and it will stop doing that growth hacker thing where it lists itself on all your commits
+<img width="1034" height="693" alt="Screenshot 2026-02-25 at 7 02 00 AM" src="https://github.com/user-attachments/assets/2271dd6b-6839-418d-8bf8-94b98ea8c8f0" />
+
