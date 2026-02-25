@@ -67,3 +67,16 @@ Digital Brain is a structured knowledge management system designed for AI-assist
 This project gives your AI (like in Antigravity, Cursor, Codex, Claude Code) good taste. It stops the AI from generating boring, generic, "slop" code and forces it to build modern, high-end interfaces.
 
 [Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main)
+
+Antigravity Awesome Skills is a curated, battle-tested library of 930 high-performance agentic skills designed to work seamlessly across all major AI coding assistants:
+
+- 🟣 Claude Code (Anthropic CLI)
+- 🔵 Gemini CLI (Google DeepMind)
+- 🟢 Codex CLI (OpenAI)
+- 🟠 Kiro CLI (AWS)
+- 🟠 Kiro IDE (AWS)
+- 🔴 Antigravity IDE (Google DeepMind)
+- 🩵 GitHub Copilot (VSCode Extension)
+- 🟠 Cursor (AI-native IDE)
+- ⚪ OpenCode (Open-source CLI)
+- 🌸 AdaL CLI (Self-evolving Coding Agent)
