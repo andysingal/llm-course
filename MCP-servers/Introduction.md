@@ -108,7 +108,7 @@ To make the workflow more reliable and move closer to production-ready, we need 
 - Reliability: Ensuring message integrity so that agents always exchange predictable, valid MCP messages
 
 ##### Making the Agent System More Robust
-```
+```py
 # --- Hardening the call_llm Function ---
 def call_llm_robust(system_prompt, user_content, retries=3, delay=5):
     """A more robust helper function to call the OpenAI API with retries."""
@@ -131,7 +131,7 @@ def call_llm_robust(system_prompt, user_content, retries=3, delay=5):
                 print("All retries failed.")
                 return None
 ```
-```
+```py
 def create_mcp_message(sender, content, metadata=None):
     """Creates a standardized MCP message."""
     return {
@@ -148,7 +148,7 @@ In this upgraded function, call_llm_robust, we wrap the API call in a try/except
 
 For agents to communicate reliably, they must be able to trust the messages they receive. If a malformed message slips through, the entire workflow could fail. To prevent this, we introduce an MCP validator, a simple guardrail that checks that every message conforms to our protocol.
 
-```
+```py
 # --- The MCP Validator ---
 def validate_mcp_message(message):
     """A simple validator to check the structure of an MCP message."""
@@ -167,7 +167,7 @@ def validate_mcp_message(message):
 This function is a crucial guardrail. The Orchestrator will call validate_mcp_message before passing any message along, ensuring the structure is complete and predictable. It first checks that the input is a dictionary, then verifies that all required keys (protocol_version, sender, content, and metadata) are present. This prevents errors caused by malformed context slipping into the workflow.
 
 #### Adding agent specialization controls and validation
-```
+```py
 
 #@title 4.Building the Agents: The Specialists
 
@@ -226,7 +226,7 @@ The workflow is no longer strictly sequential. After writer_agent produces a dra
 
 #### The final Orchestrator with a validation loop
 
-```
+```py
 #@title 5.The Final Orchestrator with Validation Loop
 def final_orchestrator(initial_goal):
     """Manages the full multi-agent workflow, including validation and revision."""
@@ -294,7 +294,7 @@ def final_orchestrator(initial_goal):
     print(final_output)
 ```
 #### Running the final robust system
-```
+```py
 #@title 6.Run the Final, Robust System
 user_goal = "Create a blog post about the benefits of the Mediterranean diet."
 final_orchestrator(user_goal)
