@@ -101,9 +101,207 @@ The final step is to run the system and watch them work together.
 user_goal = "Create a blog post about the benefits of the Mediterranean diet."
 orchestrator(user_goal)
 ```
-
-
-### Error Handling, Validation and Safeguards
+#### Error handling and validation
 To make the workflow more reliable and move closer to production-ready, we need to strengthen it with error handling, validation, and safeguards.
+
+- Resilience: Hardening the connection to the LLM so temporary issues (such as API timeouts or rate limits) don’t crash the system
+- Reliability: Ensuring message integrity so that agents always exchange predictable, valid MCP messages
+
+##### Making the Agent System More Robust
+```
+# --- Hardening the call_llm Function ---
+def call_llm_robust(system_prompt, user_content, retries=3, delay=5):
+    """A more robust helper function to call the OpenAI API with retries."""
+    for i in range(retries):
+        try:
+            response = client.chat.completions.create(
+                model="gpt-5.2",
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content}
+                ]
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            print(f"API call failed on attempt {i+1}/{retries}. Error: {e}")
+            if i < retries - 1:
+                print(f"Retrying in {delay} seconds...")
+                time.sleep(delay)
+            else:
+                print("All retries failed.")
+                return None
+```
+```
+def create_mcp_message(sender, content, metadata=None):
+    """Creates a standardized MCP message."""
+    return {
+        "protocol_version": "1.0",
+        "sender": sender,
+        "content": content,
+        "metadata": metadata or {}
+    }
+```
+
+In this upgraded function, call_llm_robust, we wrap the API call in a try/except block inside a loop. If an error occurs, the system waits a few seconds before trying again, with time.sleep pausing execution between attempts. This retry mechanism makes the system more resilient to temporary network issues.
+
+#### Validating MCP messages
+
+For agents to communicate reliably, they must be able to trust the messages they receive. If a malformed message slips through, the entire workflow could fail. To prevent this, we introduce an MCP validator, a simple guardrail that checks that every message conforms to our protocol.
+
+```
+# --- The MCP Validator ---
+def validate_mcp_message(message):
+    """A simple validator to check the structure of an MCP message."""
+    required_keys = ["protocol_version", "sender", "content", "metadata"]
+    if not isinstance(message, dict):
+        print(f"MCP Validation Failed: Message is not a dictionary.")
+        return False
+    for key in required_keys:
+        if key not in message:
+            print(f"MCP Validation Failed: Missing key '{key}'")
+            return False
+    print(f"MCP message from {message['sender']} validated successfully.")
+    return True
+```
+
+This function is a crucial guardrail. The Orchestrator will call validate_mcp_message before passing any message along, ensuring the structure is complete and predictable. It first checks that the input is a dictionary, then verifies that all required keys (protocol_version, sender, content, and metadata) are present. This prevents errors caused by malformed context slipping into the workflow.
+
+#### Adding agent specialization controls and validation
+```
+
+#@title 4.Building the Agents: The Specialists
+
+# --- Agent 1: The Researcher ---
+def researcher_agent(mcp_input):
+    """This agent takes a research topic, finds information, and returns a summary."""
+    print("\n[Researcher Agent Activated]")
+    simulated_database = {
+        "mediterranean diet": "The Mediterranean diet is rich in fruits, vegetables, whole grains, olive oil, and fish. Studies show it is associated with a lower risk of heart disease, improved brain health, and a longer lifespan."
+    }
+    research_topic = mcp_input['content']
+    research_result = simulated_database.get(research_topic.lower(), "No information found.")
+    system_prompt = "You are a research analyst. Synthesize the provided information into 3-4 concise bullet points."
+    summary = call_llm_robust(system_prompt, research_result)
+    print(f"Research summary created for: '{research_topic}'")
+    return create_mcp_message(
+        sender="ResearcherAgent",
+        content=summary,
+        metadata={"source": "Simulated Internal DB"}
+    )
+
+# --- Agent 2: The Writer ---
+def writer_agent(mcp_input):
+    """This agent takes research findings and writes a short blog post."""
+    print("\n[Writer Agent Activated]")
+    research_summary = mcp_input['content']
+    system_prompt = "You are a content writer. Take the following research points and write a short, appealing blog post (approx. 150 words) with a catchy title."
+    blog_post = call_llm_robust(system_prompt, research_summary)
+    print("Blog post drafted.")
+    return create_mcp_message(
+        sender="WriterAgent",
+        content=blog_post,
+        metadata={"word_count": len(blog_post.split())}
+    )
+
+# --- Agent 3: The Validator ---
+def validator_agent(mcp_input):
+    """This agent fact-checks a draft against a source summary."""
+    print("\n[Validator Agent Activated]")
+    source_summary = mcp_input['content']['summary']
+    draft_post = mcp_input['content']['draft']
+    system_prompt = """
+    You are a meticulous fact-checker. Determine if the 'DRAFT' is factually consistent with the 'SOURCE SUMMARY'.
+    - If all claims in the DRAFT are supported by the SOURCE, respond with only the word \"pass\".
+    - If the DRAFT contains any information not in the SOURCE, respond with \"fail\" and a one-sentence explanation.
+    """
+    validation_context = f"SOURCE SUMMARY:\n{source_summary}\n\nDRAFT:\n{draft_post}"
+    validation_result = call_llm_robust(system_prompt, validation_context)
+    print(f"Validation complete. Result: {validation_result}")
+    return create_mcp_message(
+        sender="ValidatorAgent",
+        content=validation_result
+    )
+```
+The workflow is no longer strictly sequential. After writer_agent produces a draft, the Orchestrator delegates to validator_agent. If the validation fails, the Orchestrator sends the draft back to the Writer and includes the validator’s feedback. This creates a powerful self-correcting system that mimics a real-world editorial process.
+
+#### The final Orchestrator with a validation loop
+
+```
+#@title 5.The Final Orchestrator with Validation Loop
+def final_orchestrator(initial_goal):
+    """Manages the full multi-agent workflow, including validation and revision."""
+    print("="*50)
+    print(f"[Orchestrator] Goal Received: '{initial_goal}'")
+    print("="*50)
+
+    # --- Step 1: Research ---
+    print("\n[Orchestrator] Task 1: Research. Delegating to Researcher Agent.")
+    research_topic = "Mediterranean Diet"
+    mcp_to_researcher = create_mcp_message(sender="Orchestrator", content=research_topic)
+    mcp_from_researcher = researcher_agent(mcp_to_researcher)
+
+    if not validate_mcp_message(mcp_from_researcher) or not mcp_from_researcher['content']:
+        print("Workflow failed due to invalid or empty message from Researcher.")
+        return
+
+    research_summary = mcp_from_researcher['content']
+    print("\n[Orchestrator] Research complete.")
+
+    # --- Step 2 & 3: Iterative Writing and Validation Loop ---
+    final_output = "Could not produce a validated article."
+    max_revisions = 2
+    for i in range(max_revisions):
+        print(f"\n[Orchestrator] Writing Attempt {i+1}/{max_revisions}")
+
+        writer_context = research_summary
+        if i > 0:
+            writer_context += f"\n\nPlease revise the previous draft based on this feedback: {validation_result}"
+
+        mcp_to_writer = create_mcp_message(sender="Orchestrator", content=writer_context)
+        mcp_from_writer = writer_agent(mcp_to_writer)
+
+        if not validate_mcp_message(mcp_from_writer) or not mcp_from_writer['content']:
+            print("Aborting revision loop due to invalid message from Writer.")
+            break
+        draft_post = mcp_from_writer['content']
+
+        # --- Validation Step ---
+        print("\n[Orchestrator] Draft received. Delegating to Validator Agent.")
+        validation_content = {"summary": research_summary, "draft": draft_post}
+        mcp_to_validator = create_mcp_message(sender="Orchestrator", content=validation_content)
+        mcp_from_validator = validator_agent(mcp_to_validator)
+
+        if not validate_mcp_message(mcp_from_validator) or not mcp_from_validator['content']:
+            print("Aborting revision loop due to invalid message from Validator.")
+            break
+        validation_result = mcp_from_validator['content']
+
+        if "pass" in validation_result.lower():
+            print("\n[Orchestrator] Validation PASSED. Finalizing content.")
+            final_output = draft_post
+            break
+        else:
+            print(f"\n[Orchestrator] Validation FAILED. Feedback: {validation_result}")
+            if i < max_revisions - 1:
+                print("Requesting revision.")
+            else:
+                print("Max revisions reached. Workflow failed.")
+
+    # --- Step 4: Final Presentation ---
+    print("\n" + "="*50)
+    print("[Orchestrator] Workflow Complete. Final Output:")
+    print("="*50)
+    print(final_output)
+```
+#### Running the final robust system
+```
+#@title 6.Run the Final, Robust System
+user_goal = "Create a blog post about the benefits of the Mediterranean diet."
+final_orchestrator(user_goal)
+```
+
+
+
+     
 
 
