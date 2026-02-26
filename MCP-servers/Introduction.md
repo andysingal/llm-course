@@ -301,7 +301,12 @@ final_orchestrator(user_goal)
 ```
 
 
-
+### RESOURCE
+- The MCP specification: The official MCP specification is a must-read. It details the formal rules for how agents should communicate. We built a simplified version. The official site defines the standards for JSON RPC transport layers and security: modelcontextprotocol.io.
+- MAS frameworks: Several open source frameworks make it much easier to create MASs. They handle the hard parts, such as orchestration, communication, and agent management. These tools use concepts very similar to the ones we just built. Studying them is a great way to see how these ideas are used in production.
+- autogen: autogen is a framework from Microsoft. It lets you build applications where multiple agents talk to each other to solve problems. autogen agents are flexible. They can combine LLMs human input and other tools to get work done. You can find autogen on GitHub here: github.com/microsoft/autogen.
+- CrewAI: CrewAI is designed for building teams of role-based AI agents. It provides a structure for agents to work together on complex tasks. CrewAI is focused on collaboration and specialization. Its design is very similar to the Orchestrator model we created. Find more information here: https://www.crewai.com/.
+- LangGraph: LangGraph is part of the LangChain family of tools. It lets you build agent workflows as graphs. This is a powerful way to create systems that can iterate and correct themselves. LangGraph gives you very fine control over how information flows and how decisions are made. The LangGraph documentation can be found here: python.langchain.com/docs/langgraph.
      
 
 
