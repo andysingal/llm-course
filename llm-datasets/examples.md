@@ -3,3 +3,6 @@
 [easydataset](https://github.com/ConardLi/easy-dataset?tab=readme-ov-file)
 
 [Turn any website into LLM-ready data!](https://x.com/Sumanth_077/status/2003457785388728616)
+
+[markitdown](https://github.com/microsoft/markitdown)
+Turn ANY DOCUMENT into LLM-ready data!
