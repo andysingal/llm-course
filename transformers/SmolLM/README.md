@@ -4,3 +4,9 @@
 - Pretraining: The sections following the training compass cover everything you need to know to build a solid recipe for your own pretraining run: how to run ablations, select evaluations, mix data sources, make architecture choices, tune hyperparameters, and finally endure the training marathon. This section also applies if you’re not planning to pretrain from scratch but are interested in continued pretraining (aka mid-training).
 - Post-training: In this part of the blog you’ll learn all the tricks needed to get most out of your pretrained models. Learn the whole post-training alphabet starting with SFT, DPO and GRPO as well as the dark arts and alchemy of model merging. Most of the knowledge about making these algorithms work well is learned through painful lessons, and we’ll share our experience here to hopefully spare you some of them.
 - Infrastructure: If pretraining is the cake and post-training is the icing and cherry on top, then infrastructure is the industrial-grade oven. Without it, nothing happens, and if it’s broken, your happy Sunday baking session turns into a fire hazard. Knowledge about how to understand, analyse, and debug GPU clusters is scattered across the internet in various libraries, docs, and forums. This section walks through GPU layout, communication patterns between CPU/GPU/nodes/storage, and how to identify and overcome bottlenecks.
+
+
+## Articles:
+- [Agentic AI with multi-model framework using Hugging Face smolagents on AWS](https://aws.amazon.com/blogs/machine-learning/agentic-ai-with-multi-model-framework-using-hugging-face-smolagents-on-aws/)
+
+Agentic AI systems represent an evolution from conversational AI to autonomous agents capable of complex reasoning, tool usage, and code execution. 
