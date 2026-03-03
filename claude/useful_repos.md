@@ -7,3 +7,26 @@ A beautiful real-time terminal monitoring tool for Claude AI token usage with ad
 The complete collection of Claude Code configs from an Anthropic hackathon winner.
 
 Production-ready agents, skills, hooks, commands, rules, and MCP configurations evolved over 10+ months of intensive daily use building real products.
+
+[recall](https://github.com/arjunkmrm/recall)
+
+Ever lost a conversation session with Claude Code or Codex and wish you could resume it? This skill lets Claude and your agents search across all your past conversations with full-text search. Builds a SQLite FTS5 index over ~/.claude/projects/ and ~/.codex/sessions/ with BM25 ranking, Porter stemming, and incremental updates.
+
+```py
+npx skills add arjunkmrm/recall
+```
+
+```py
+ ~/.claude/projects/**/*.jsonl ──┐
+                                  ├─▶ Index ──▶ ~/.recall.db (SQLite FTS5)
+  ~/.codex/sessions/**/*.jsonl ──-┘      │
+                                         │  incremental (mtime-based)
+                                         │
+  Query ──▶ FTS5 Match ──▶ BM25 rank ──▶ Recency boost ──▶ Results
+                │                    [half-life: 30 days]
+                │  [Porter stemming
+                │   phrase/boolean/prefix]
+                ▼
+         snippet extraction
+         highlighted excerpts
+```
