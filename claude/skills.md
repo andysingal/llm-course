@@ -87,3 +87,6 @@ A curated collection of official and community-built Claude Skills.
 Anthropic Skills are modular tools that extend the capabilities of Claude AI—unlocking workflows for coding, document creation, design, data analysis, research, and more.
 
 This repository gathers and organizes all publicly available Claude Skills, including both built-in tools by Anthropic and creative contributions from the community. Browse by category, explore capabilities, and kickstart your own Skill creation.
+
+## Cool Articles
+[Intro_skills](https://x.com/debs_obrien/status/2029269909255966977)
