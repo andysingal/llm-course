@@ -2,6 +2,9 @@
 
 A beautiful real-time terminal monitoring tool for Claude AI token usage with advanced analytics, machine learning-based predictions, and Rich UI. Track your token consumption, burn rate, cost analysis, and get intelligent predictions about session limits.
 
+[claude-code-templates](https://github.com/davila7/claude-code-templates)
+A comprehensive collection of AI agents, custom commands, settings, hooks, external integrations (MCPs), and project templates to enhance your development workflow.
+
 [Everything Claude Code](https://github.com/affaan-m/everything-claude-code)
 
 The complete collection of Claude Code configs from an Anthropic hackathon winner.
