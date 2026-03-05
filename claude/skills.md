@@ -225,4 +225,10 @@ And search for skills:
 npx skills find
 ```
 
+#### References
+
+- [langchain-skills](https://github.com/langchain-ai/langchain-skills/tree/main)
+
+Agent skills for building agents with LangChain, LangGraph, and Deep Agents.
+
 
