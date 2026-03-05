@@ -90,3 +90,139 @@ This repository gathers and organizes all publicly available Claude Skills, incl
 
 ## Cool Articles
 [Intro_skills](https://x.com/debs_obrien/status/2029269909255966977)
+
+- Without a skill → the agent produces generic output
+- With a skill → the agent follows your instructions and produces exactly what you want, every time
+
+<img width="992" height="741" alt="Screenshot 2026-03-04 at 8 43 10 PM" src="https://github.com/user-attachments/assets/aa68c842-3e21-4e63-917e-c4930e02a8cc" />
+
+1. Create the folder structure
+
+```
+your-project/
+└── .github/
+    └── skills/
+        └── good-morning/
+```
+2. Create the SKILL.md file
+
+```
+your-project/
+└── .github/
+    └── skills/
+        └── good-morning/
+            └── SKILL.md
+```
+Step 3: Add the frontmatter(yaml)
+
+Open `SKILL.md` and add the YAML frontmatter at the top:
+
+```md
+---
+name: good-morning
+description: A skill that responds to good morning with a cheerful greeting
+---
+```
+
+Two important things here:
+
+1. The name must match the folder name.  If the folder is called `good-morning`, the name must be `good-morning`. If they don't match, your editor will flag it.
+
+2. The name and description are always in context. Every time you're working in this project, the agent sees the name and description so it knows what skills are available. Keep the description short and specific, this is how the agent knows when to use the skill.
+
+Step 4: Write the instructions
+
+Everything below the frontmatter is the skill body. This only gets added to context when the skill is called, not all the time. The agent only loads these instructions when it decides to use the skill.
+Add the body below the frontmatter:
+
+```md
+---
+name: good-morning
+description: A skill that responds to good morning with a cheerful greeting
+---
+
+# Good Morning Skill
+
+When the user says good morning, respond with:
+
+- "Hi Debbie, hope you have a great day!"
+- Ask if they have done any sport today
+- Include a funny joke about sports
+```
+
+```
+Example
+User: Good morning
+Agent: Hi Debbie, have you done any sport today? Here's a funny joke about sports: Why did the soccer player bring string to the game? Because he wanted to tie the score!
+That's the complete skill. One file. A few lines of instructions. Make it as personal as you like, put your own name in there, change the topic from sports to whatever you want.
+```
+
+### Test it
+```
+Start a new session from the same directory (skills are discovered at session start) and type:
+> Good morning
+The agent finds the skill, reads the `SKILL.md` file, and responds.
+In GitHub Copilot: "Hi Debbie, have you done any sport today? Here's a funny joke about sports: Why did the bicycle fall over? Because it was too tired from all that cycling!"
+In Claude Code: Open Claude Code from the same project directory, say "good morning", and you get the same thing: "Hi Debbie, have you done any sport today? Here's a funny joke for you: Why do basketball players love donuts? Because they can always dunk them!"
+Skills work across agents. The same `SKILL.md` file works in Copilot, Claude Code, and others. Each agent discovers the skill, reads the instructions, and follows them.
+That's a skill in action. Now imagine instead of "good morning", the instructions told the agent how to generate a polished README, write commit messages in your team's format, or review code against your standards. Same idea, bigger impact.
+
+```
+
+### How skills get loaded
+Skills are designed to be efficient with context windows. They use a three-level loading system. The agent only loads what it needs, when it needs it.
+
+<img width="1109" height="745" alt="Screenshot 2026-03-04 at 9 16 13 PM" src="https://github.com/user-attachments/assets/92d8cfc1-b8ec-4b67-b220-0c159e31c56c" />
+
+- Level 1 is always in the agent's context. It's just the name and description (~100 words). This is how the agent decides whether to use the skill. If someone says "improve my README", the agent scans its available skills and picks the one whose description matches.
+- Level 2 loads when the skill triggers. The full SKILL.md body with all the instructions, steps, and examples. This is ideally under 500 lines.
+- Level 3 loads on demand. Scripts, references, and assets that the agent pulls in only when it needs them. Scripts can even run without being loaded into context at all, saving tokens. And some resources might not load at all for certain projects. For example, a diagram template file only needs to be read if the project is complex enough to need an architecture diagram. Simple projects skip it entirely.
+
+###Where skills live
+Skills can be installed at two levels:
+
+- Project-level: in your project directory, available only when you're in that directory
+Global: in your home directory, available from anywhere
+```
+GitHub Copilot (VS Code):
+Project-level (any of these work)
+your-project/.github/skills/
+your-project/.claude/skills/
+your-project/.agents/skills/
+```
+Personal (works from any directory)
+```
+~/.copilot/skills/
+~/.claude/skills/
+~/.agents/skills/
+```
+Claude Code:
+Project-level
+```
+your-project/.claude/skills/
+```
+Personal (works from any directory)
+```
+~/.claude/skills/
+```
+The `.agents/skills/` path is part of the Agent Skills open standard which is a cross-tool standard, but Claude Code uses its own `.claude/` directory structure, not `.agents/`.
+
+### The skills ecosystem
+
+There's a whole directory of skills at skills.sh where you can browse and discover skills built by the community.
+To install a skill, use the skills CLI:
+
+```
+npx skills add anthropics/skills --skill skill-creator
+```
+This installs the `skill-creator` skill from Anthropic. A skill that helps you create other skills. One command and it's ready to use.
+You can see what you have installed:
+```
+npx skills list
+```
+And search for skills:
+```
+npx skills find
+```
+
+
