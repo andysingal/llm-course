@@ -232,3 +232,44 @@ npx skills find
 Agent skills for building agents with LangChain, LangGraph, and Deep Agents.
 
 
+
+#### Cool Articles
+
+[Practical Guide to Evaluating and Testing Agent Skills](https://www.philschmid.de/testing-skills)
+
+Agent Skills are folders of instructions, scripts, and resources that augment an agent's capabilities without retraining or fine-tuning the model. Skills follow a progressive disclosure pattern and require at minimum a SKILL.md file with:
+
+- Frontmatter (trigger): A name and description in YAML that the agent uses to decide whether to apply the skill. This is the most important piece — if it's vague, the skill won't trigger reliably.
+- Body (instructions): Markdown guidance for how to perform the task: what APIs to use, what patterns to follow, what to avoid.
+- Resources (optional): scripts/, examples/, references/ that the agent can consult during execution.
+
+```md
+---
+name: gemini-interactions-api
+description: Use this skill when writing code that calls the Gemini API
+  for text generation, multi-turn chat, image generation, streaming responses,
+  function calling, structured output, or migrating from generateContent SDK.
+---
+ 
+# Gemini Interactions API Skill
+ 
+The Interactions API is a unified interface for interacting with Gemini models
+and agents...
+```
+
+<img width="500" height="259" alt="Screenshot 2026-03-07 at 3 12 20 PM" src="https://github.com/user-attachments/assets/346dfd30-9b8f-4b88-b0d8-942743d59e13" />
+
+
+Skills fall into two categories that matter for testing:
+
+- Capability skills help the agent do something the base model can't do consistently. These may become unnecessary as models improve; evals will tell you when that's happened.
+- Preference skills document specific workflows. These are durable, but only as valuable as their fidelity to your actual workflow, and evals verify that fidelity.
+
+
+#### Define Success Before You Write the Skill
+Before writing a single eval, write down what "success" means in measurable terms. Grade outcomes, not paths. Agents find creative solutions, and you don't want to penalize an unexpected route to the right answer.
+
+- Outcome: Did the skill produce a usable result? Code compiles, the image rendered, the document got created, the API returned a valid response. This is the baseline. If the output doesn't work, nothing else matters.
+- Style & Instructions: Does the output follow your conventions and the skill's directives? Right SDK, correct model IDs, team's naming conventions, the formatting you specified.
+- Efficiency: How much time, tokens, and effort did it take? No unnecessary retries, reasonable token count, no command thrashing. This is the most undervalued dimension. Two runs can produce identical correct output, but one burned 3x the tokens. Regressions here are real costs that compound.
+
