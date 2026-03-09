@@ -47,6 +47,11 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 [claude_statusline](https://github.com/kamranahmedse/claude-statusline)
 Configure your Claude Code statusline to show limits, directory and git info
 
+
+[claude-code-settings](https://github.com/feiskyer/claude-code-settings)
+A curated collection of Claude Code settings, skills and sub-agents designed for enhanced development workflows. This setup includes specialized skills and subagents for feature development (spec-driven workflow), code analysis, GitHub integration, and knowledge management.
+
+
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
 
