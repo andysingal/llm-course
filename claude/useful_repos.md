@@ -44,7 +44,8 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 <img width="702" height="698" alt="Screenshot 2026-03-07 at 2 34 11 PM" src="https://github.com/user-attachments/assets/78b5fc8a-049e-4cee-9b3e-b0a162ab5267" />
 
 
-
+[claude_statusline](https://github.com/kamranahmedse/claude-statusline)
+Configure your Claude Code statusline to show limits, directory and git info
 
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
