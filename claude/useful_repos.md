@@ -51,6 +51,10 @@ Configure your Claude Code statusline to show limits, directory and git info
 [claude-code-settings](https://github.com/feiskyer/claude-code-settings)
 A curated collection of Claude Code settings, skills and sub-agents designed for enhanced development workflows. This setup includes specialized skills and subagents for feature development (spec-driven workflow), code analysis, GitHub integration, and knowledge management.
 
+[codex-skills](https://github.com/aniketpanjwani/skills/tree/main)
+A set of reusable skills for Codex and Claude Code.
+
+
 
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
