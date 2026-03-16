@@ -54,6 +54,9 @@ A curated collection of Claude Code settings, skills and sub-agents designed for
 [codex-skills](https://github.com/aniketpanjwani/skills/tree/main)
 A set of reusable skills for Codex and Claude Code.
 
+[claude-code-workflow](https://github.com/runesleo/claude-code-workflow)
+
+A battle-tested workflow template for Claude Code — memory management, context engineering, and task routing from 3 months of daily usage across multiple projects.
 
 
 #### Articles
