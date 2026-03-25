@@ -26,3 +26,5 @@ Expanding on these primitives, you probably want:
 [Build vs buy: how to deploy coding agents at scale](https://x.com/zachlloydtweets/status/2036509756404158559)
 
 [background_agents](https://github.com/ColeMurray/background-agents)
+
+[Ralph Orchestrator](https://github.com/mikeyobrien/ralph-orchestrator)
