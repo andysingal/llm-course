@@ -17,3 +17,8 @@ Get intermediate results in real time. View your thought process as it happens.
 - Time Travel:
 Rewinding a state to a specific step in the past.
 These features work together to give agents more control and reliability. Human-in-the-loop requires pausing. Persistence is essential for safe pausing. Persisted history makes time travel possible.
+
+
+[Securing LangGraph Multi-Agent Workflows: How to Enforce Tool-Level Permissions](https://dev.to/cogniwall/securing-langgraph-multi-agent-workflows-how-to-enforce-tool-level-permissions-13cm)
+
+LangGraph workflow that enforces strict, declarative tool-level permissions using CogniWall—an open-source Python library designed to act as a programmable firewall for autonomous AI agents.
