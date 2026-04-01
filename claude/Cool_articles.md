@@ -7,3 +7,5 @@
 [How to Run Local LLMs with Claude Code](https://unsloth.ai/docs/basics/claude-code)
 
 This step-by-step guide shows you how to connect open LLMs and APIs to Claude Code entirely locally, complete with screenshots. Run using any open model like Qwen3.5, DeepSeek and Gemma.
+
+[I read Claude Code’s memory source code. This one limit silently deletes your agent’s memory](https://x.com/mem0ai/status/2039041449854124229)
