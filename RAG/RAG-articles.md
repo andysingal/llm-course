@@ -10,3 +10,4 @@
 
 This guide explains how RAG works, why it is critical for secure innovation scouting, and how Traction AI delivers an enterprise-ready RAG pipeline out of the box.
 
+[I built a self-hosted RAG system that actually works — here's how to run it in one command](https://dev.to/primoco/i-built-a-self-hosted-rag-system-that-actually-works-heres-how-to-run-it-in-one-command-38p2)
