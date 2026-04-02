@@ -91,3 +91,6 @@ uv run langgraph-only
 ## Article
 
 [LangGraph + SciPy: Building an AI That Reads Documentation and Makes Decisions](https://towardsdatascience.com/langgraph-scipy-building-an-ai-that-reads-documentation-and-makes-decisions/)
+
+[RAG + Contextual Bandit + LangGraph demo](https://datafisher.tistory.com/entry/LangGraph-RAG-Contextual-Bandit-%EC%A0%95%EB%A6%AC-Retrieval%EC%9D%84-Decision%EC%9C%BC%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%BD%94%EB%93%9C-%ED%8F%AC%ED%95%A8)
+
