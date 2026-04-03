@@ -10,3 +10,10 @@
 [locomo](https://github.com/snap-research/locomo)
 
 
+[Five Agent Memory Types in LangGraph: A Deep Code Walkthrough](https://dev.to/sreeni5018/five-agent-memory-types-in-langgraph-a-deep-code-walkthrough-part-2-17kb)
+
+- Memory Type 1: Short Term Memory (STM) The Conversation Buffer
+- Memory Type 2: Long Term Memory(LTM) Cross Thread Persistence
+- Memory Type 3: Working Memory — The Reasoning Scratchpad
+- Memory Type 4: Episodic Memory — The Event Log
+- Memory Type 5: Semantic Memory RetrievalAugmented Generation (RAG)
