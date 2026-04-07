@@ -66,6 +66,9 @@ A battle-tested workflow template for Claude Code — memory management, context
 
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
+[code-review-graph](https://github.com/tirth8205/code-review-graph)
+
+AI coding tools re-read your entire codebase on every task. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter, tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters.
 
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
