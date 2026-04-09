@@ -9,3 +9,16 @@
 This step-by-step guide shows you how to connect open LLMs and APIs to Claude Code entirely locally, complete with screenshots. Run using any open model like Qwen3.5, DeepSeek and Gemma.
 
 [I read Claude Code’s memory source code. This one limit silently deletes your agent’s memory](https://x.com/mem0ai/status/2039041449854124229)
+
+[Anatomy of an AI Agent. Know your Score!](https://doneyli.substack.com/p/anatomy-of-an-ai-agent-know-your)
+
+In my system, memory operates on four levels:
+
+- Global memory (~/.claude/CLAUDE.md): Rules that apply everywhere. My communication style, port assignments, workflow conventions. Every agent inherits this.
+
+- Project memory (project/CLAUDE.md): Context specific to one codebase. The content system knows about newsletter formats. The advisory practice knows about pricing tiers.
+
+- Session memory (~/.claude/projects/*/memory/): What the agent learned during our last conversation. Corrections I made. Decisions we reached.
+
+- Conversation memory: Ephemeral context within a single interaction.
+
