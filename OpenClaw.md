@@ -24,4 +24,7 @@ As we navigate the rapidly evolving landscape of artificial intelligence, the sh
                    Plano sends each chunk through the output filter individually
                    so de-anonymization happens in real time
  
-   ```              
+   ```
+  - [ClawRouter](https://github.com/BlockRunAI/ClawRouter)
+
+  ClawRouter is an open-source smart LLM router that reduces AI API costs by up to 92%. It analyzes each request across 15 dimensions and routes to the cheapest capable model in under 1ms, entirely locally. ClawRouter is the only LLM router built for autonomous AI agents — it uses wallet signatures for authentication (no API keys) and USDC micropayments via the x402 protocol (no credit cards). 55+ models from OpenAI, Anthropic, Google, xAI, DeepSeek, and more. MIT licensed.
