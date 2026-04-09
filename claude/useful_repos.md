@@ -68,6 +68,13 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 [code-review-graph](https://github.com/tirth8205/code-review-graph)
 
+
+[rtk](https://github.com/rtk-ai/rtk)
+
+rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported commands, <10ms overhead.
+
+
+
 AI coding tools re-read your entire codebase on every task. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter, tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters.
 
 #### Articles
