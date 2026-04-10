@@ -4,3 +4,4 @@
 
 [MCP-registry](https://github.com/modelcontextprotocol/registry/)
 
+[paperclip-mcp](https://gxl.ai/blog/paperclip)
