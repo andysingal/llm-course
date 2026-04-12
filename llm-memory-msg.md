@@ -17,3 +17,6 @@
 - Memory Type 3: Working Memory — The Reasoning Scratchpad
 - Memory Type 4: Episodic Memory — The Event Log
 - Memory Type 5: Semantic Memory RetrievalAugmented Generation (RAG)
+
+[Efficient Memory Sharing for Multi-Agent Systems via KV Cache Compaction](https://x.com/RampLabs/status/2042660310851449223)
+
