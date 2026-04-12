@@ -15,9 +15,14 @@ Production-ready agents, skills, hooks, commands, rules, and MCP configurations 
 
 Go from typing claude to orchestrating agents, hooks, skills, and MCP servers — with visual tutorials, copy-paste templates, and a guided learning path.
 
+[claude-token-efficient](https://github.com/drona23/claude-token-efficient)
+
+One file. Drop it in your project. Keeps responses terse and can reduce total tokens on output-heavy workflows. Note: instruction files add input tokens on every turn. Keep this file short - if it grows too much, it can cost more than it saves. Model support: benchmarks were run on Claude only. The rules are model-agnostic and should work on any model that reads context - but results on local models like llama.cpp, Mistral, or others are untested. Community results welcome.
+
 [recall](https://github.com/arjunkmrm/recall)
 
 Ever lost a conversation session with Claude Code or Codex and wish you could resume it? This skill lets Claude and your agents search across all your past conversations with full-text search. Builds a SQLite FTS5 index over ~/.claude/projects/ and ~/.codex/sessions/ with BM25 ranking, Porter stemming, and incremental updates.
+
 
 ```py
 npx skills add arjunkmrm/recall
