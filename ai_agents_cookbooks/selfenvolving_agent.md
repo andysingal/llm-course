@@ -7,4 +7,9 @@
 
 - Hermes Agent Self-Evolution uses DSPy + GEPA (Genetic-Pareto Prompt Evolution) to automatically evolve and optimize Hermes Agent's skills, tool descriptions, system prompts, and code — producing measurably better versions through reflective evolutionary search.
 - No GPU training required. Everything operates via API calls — mutating text, evaluating results, and selecting the best variants. ~$2-10 per optimization run.
-- 
+
+[hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book?tab=readme-ov-file)
+
+A practical guide to Hermes Agent, the open-source AI Agent framework by Nous Research. The first Agent that ships with reins built in — and the reins keep growing.
+
+
