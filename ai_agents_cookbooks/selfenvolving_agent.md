@@ -13,3 +13,4 @@
 A practical guide to Hermes Agent, the open-source AI Agent framework by Nous Research. The first Agent that ships with reins built in — and the reins keep growing.
 
 
+[Self-Evolving Agents: A Developer's Guide](https://dev.to/chen115y/self-evolving-agents-a-developers-guide-40e7)
