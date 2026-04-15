@@ -6,3 +6,7 @@
 
 [markitdown](https://github.com/microsoft/markitdown)
 Turn ANY DOCUMENT into LLM-ready data!
+
+
+[How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries)](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
+
