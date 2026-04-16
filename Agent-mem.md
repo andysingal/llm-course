@@ -56,3 +56,19 @@ Large Language Models struggle with memory. PdfToMem makes it effortless.
 By combining reasoning-powered ingestion, structured retrieval, and a multi-agent architecture, it transforms unstructured PDFs into rich memory representations.
 
 [Integrating Long-Term Memory with Gemini 2.5](https://www.philschmid.de/gemini-with-memory)
+
+<img width="890" height="539" alt="Screenshot 2026-04-16 at 3 46 31 PM" src="https://github.com/user-attachments/assets/aa799a2a-6d0c-4e7b-8a73-78de7041ff7c" />
+
+Self-improving memory uses that signal:
+
+- → Track which paths retrieval actually uses
+- → Strengthen the edges that led to good answers
+- → Let unused nodes decay over time
+- → Infer new connections from recurring usage patterns
+
+This is what memify() does in Cognee. It runs an RL-inspired optimization pass over the graph, tuning edge weights based on real traffic rather than assuming every connection is equally important.
+
+Over time, the graph reshapes itself. The paths your agent actually needs get faster and more reliable, stale branches fade out of retrieval, and the memory develops its own sense of what matters for your specific use case.
+
+
+
