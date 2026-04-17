@@ -359,3 +359,178 @@ manage_files(action, file, destination, overwrite, format, permissions)
 Good Tool:
 
 ```
+read_file(path)
+write_file(path, content)
+delete_file(path)
+```
+
+###Step 5: Let the agent fail and fix it
+
+- You don’t need many tools
+- You can use AI to design them
+- Simpler tools = better agents
+- Tool instructions matter more than the tool itself
+
+
+### GIVE YOUR AGENT MEMORY
+<img width="557" height="313" alt="Screenshot 2026-04-17 at 1 14 59 PM" src="https://github.com/user-attachments/assets/f1efdb0f-b77a-4699-a4aa-7a339ed40b59" />
+
+- 1. Short-term memory (conversation)
+This is just:
+“What has been said so far”
+You already get this by default.
+- 2. Long-term memory (external knowledge)
+This is:
+“Stuff the agent can look up later”
+
+##### Step 1: Let AI help you decide if you need it
+
+```
+I am building an AI agent.
+
+My goal:
+[goal]
+
+Does this agent need:
+1. Conversation memory?
+2. External knowledge (RAG)?
+
+If yes, explain why.
+If no, explain why not.
+
+Keep it simple.
+```
+
+Step 2: You have three options...
+- Option A: No memory (start here)
+- Best for most beginners
+- Works for 70% of use cases
+Option B: Conversation memory
+- Already handled in most SDKs
+- Just don’t reset messages
+Option C: File-based memory (easy RAG)
+- Upload documents
+- Use file search tool
+
+#### Step 3: Don't go full retard (overdo it)
+
+Big mistake:
+- adding vector DB
+- embeddings
+- complex pipelines
+before you even know if you need them
+👉 Rule:
+- If your agent works without memory → don’t add it
+
+#### 6: MAKING YOUR AGENT WORK IRL
+
+<img width="1322" height="732" alt="Screenshot 2026-04-17 at 1 49 35 PM" src="https://github.com/user-attachments/assets/dbe971d6-4ab9-41ce-9891-cb8a0e4a58bd" />
+
+### Step 1: Use AI to create test cases
+```
+I built an AI agent with this goal:
+[goal]
+
+Create 15 realistic user inputs:
+- messy
+- vague
+- real-world style
+
+Also include:
+- edge cases
+- confusing inputs
+- bad inputs
+```
+
+#### Step 2: Test like a real user
+
+
+Don’t test:
+“Please classify this billing request”
+Test:
+- “why tf did i get charged again”
+Step 3: Fix one thing at a time
+When it fails, ask:
+- Is the prompt unclear?
+- Is the output format vague?
+- Is a tool missing?
+- Is a rule missing?
+
+#### Step 4: Use AI to debug your agent
+
+```
+Here is my agent:
+
+Here is what I asked:
+[input]
+
+Here is the output:
+[output]
+
+What went wrong?
+How do I fix it?
+Be specific.
+```
+
+#### Step 5: Don’t go crazy too early
+Do NOT add:
+- multiple agents
+- complex workflows
+- automation pipelines
+until:
+your simple version works consistently
+
+
+####  MULTIPLE AGENTS
+
+<img width="547" height="307" alt="Screenshot 2026-04-17 at 2 51 24 PM" src="https://github.com/user-attachments/assets/8760f2f3-e75f-42a1-a510-7443501c10e4" />
+
+Only add more when:
+- the task is clearly split
+- one agent is struggling
+- roles are very different
+
+- Step 1: Use AI to decide if you need multiple agents
+
+```
+I built an AI agent.
+
+Here is its job:
+[describe]
+
+Should this be:
+1. A single agent
+2. Multiple agents
+
+If multiple:
+- what roles?
+- why?
+
+Keep it simple.
+```
+
+The safest pattern to use:
+Supervisor model:
+- User → Main agent → (calls others if needed)
+Do NOT start with:
+- swarm
+- fully autonomous multi-agent systems
+They break easily.
+- Step 2: Keep roles simple stupid
+Bad:
+“AI strategist agent with dynamic cognitive layering”
+Good:
+- “Research agent”
+- “Writer agent”
+- Step 3: Add agents slowly
+Start:
+- 1 agent
+Then:
+- 2 agents max
+Only expand if:
+you see real benefit
+
+
+
+
+
