@@ -46,3 +46,8 @@ Because changing the prompt mid-session would break prefix caching and hurt perf
 This is the kind of design detail that tells you Hermes memory is not marketing language. It is an actual system with explicit constraints and performance-aware behavior.
 Takeaway: Hermes saves memory immediately, but only reloads it into the prompt on the next session. That keeps prompt caching stable.
 
+[How to integrate Ayrshare MCP with Hermes](https://composio.dev/toolkits/ayrshare/framework/hermes-agent)
+
+Hermes is a 24/7 autonomous agent that lives on your computer or server — it remembers what it learns and evolves as your usage grows.
+
+This guide explains the easiest and most robust way to connect your Ayrshare account to Hermes. You can do this through either Composio Connect CLI or Composio Connect MCP. For personal use we recommend the CLI, but you won't go wrong with MCP either.
