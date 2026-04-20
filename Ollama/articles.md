@@ -7,3 +7,6 @@
 
 [Running Local AI on Linux With GPU: Ollama + Open WebUI + Gemma](https://dev.to/lovestaco/running-local-ai-on-linux-with-gpu-ollama-open-webui-gemma-546h)
 
+[Hermes Agent](https://docs.ollama.com/integrations/hermes)
+
+<img width="558" height="546" alt="Screenshot 2026-04-19 at 9 16 22 PM" src="https://github.com/user-attachments/assets/e1611a4e-25e5-4667-b863-8170f2bc1bc0" />
