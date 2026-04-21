@@ -8,3 +8,15 @@
 [FP8 KV Cache](https://docs.vllm.ai/en/latest/getting_started/examples/fp8.html)
 
 [Huggingface-VLLM](https://github.com/sergiopaniego/samples)
+
+
+
+
+
+
+
+#### Useful repos
+
+[semantic-router](https://github.com/vllm-project/semantic-router)
+
+vLLM Semantic Router is a signal-driven intelligent router for that problem. It helps teams build model systems that are more efficient, safer, and more adaptive across cloud, data center, and edge environments.
