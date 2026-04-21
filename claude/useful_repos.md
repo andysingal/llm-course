@@ -74,6 +74,30 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 [code-review-graph](https://github.com/tirth8205/code-review-graph)
 
 
+- 1. [Supabase CLI](https://github.com/supabase/cli)
+
+- 2. [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md)
+
+- 3. [Get Sh*t Done](https://github.com/gsd-build/get-shit-done)
+
+- 4. [NotebookLM (Python)](https://github.com/teng-lin/notebooklm-py)
+
+- 5. [Obsidian](https://github.com/obsidianmd)
+
+- 6. [Continue](https://github.com/continuedev/continue)
+
+- 7. [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
+
+- 8. [Flowise](https://github.com/FlowiseAI/Flowise)
+
+- 9. [Boltdotnew (clone)](https://github.com/stackblitz/bolt.new) 
+
+- 10. [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
+
+- 11. [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)  
+
+
+
 [rtk](https://github.com/rtk-ai/rtk)
 
 rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported commands, <10ms overhead.
