@@ -100,11 +100,32 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 [rtk](https://github.com/rtk-ai/rtk)
 
-rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported commands, <10ms overhead.
+rtk filters and compresses command outputs before they reach your LLM context. Single Rust binary, 100+ supported commands, <10ms overhead
 
 
 
 AI coding tools re-read your entire codebase on every task. code-review-graph fixes that. It builds a structural map of your code with Tree-sitter, tracks changes incrementally, and gives your AI assistant precise context via MCP so it reads only what matters.
+
+[RAPTOR](https://github.com/gadievron/raptor)
+
+RAPTOR is an autonomous offensive/defensive security research framework, based on Claude Code. It empowers security research with agentic workflows and automation.
+
+RAPTOR stands for Recursive Autonomous Penetration Testing and Observation Robot. (We really wanted to name it RAPTOR)
+
+RAPTOR autonomously:
+
+- Code Understanding: Adversarial code comprehension — map attack surface, trace data flows, hunt for vulnerability variants
+- Scans your code with Semgrep and CodeQL and tries dataflow validation
+- Fuzzes your binaries with American Fuzzy Lop (AFL)
+- Analyses vulnerabilities using advanced LLM reasoning
+- Exploits by generating proof-of-concepts
+- Patches with code to fix vulnerabilities
+- FFmpeg-specific patching for Google's recent disclosure (https://news.ycombinator.com/item?id=45891016)
+- OSS Forensics for evidence-backed GitHub repository investigations
+- Agentic Skills Engine for security research & operations (SecOpsAgentKit)
+- Offensive Security Testing via autonomous specialist agent with SecOpsAgentKit
+- Cost Management with budget enforcement, real-time tracking, and quota detection
+- Reports everything in structured formats
 
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
