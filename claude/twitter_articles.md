@@ -51,3 +51,12 @@ If you're starting from scratch, here's a progression that works well.
 - Step 4. As your project grows and your CLAUDE.md gets crowded, start splitting instructions into .claude/rules/ files. Scope them by path where it makes sense.
 - Step 5. Add a ~/.claude/CLAUDE.md with your personal preferences. This might be something like "always write types before implementations" or "prefer functional patterns over class-based."
 That's genuinely all you need for 95% of projects. Skills and agents come in when you have recurring complex workflows worth packaging up.
+
+
+[How to install and use dspy-agent-skills ](https://x.com/intertwineai/status/2046645770590261641)
+
+```
+git clone https://github.com/intertwine/dspy-agent-skills
+cd dspy-agent-skills
+./scripts/install.sh
+```
