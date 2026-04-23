@@ -32,3 +32,10 @@ Manticore Search is an easy-to-use, open-source, and fast database designed for 
 <img width="1179" alt="Screenshot 2024-11-22 at 9 12 36 PM" src="https://github.com/user-attachments/assets/25b3b316-2375-4366-8675-82f9608d0f64">
 
 [Dell AI Factory](https://www.elastic.co/blog/agentic-rag-dell-ai-factory-nvidia-elasticsearch-vector-database?utm_source=organic-social&utm_medium=twitter&utm_campaign=product_marketing&utm_content=15333517306&linkId=664688852)
+
+
+
+###Articles
+[Agentic Search with Database Query Tool](https://github.com/iamleonie/workshop-agentic-search/blob/main/notebooks/02_agentic_search_with_db_query_tool.ipynb)
+
+<img width="749" height="423" alt="Screenshot 2026-04-23 at 6 24 52 PM" src="https://github.com/user-attachments/assets/49eeb978-de01-4663-bff0-98b13b05a42d" />
