@@ -34,6 +34,13 @@ CODEELO: Benchmarking Competition-level Code Generation of LLMs with Human-compa
 
 Sketch-programming (or simply "Sketch") is a revolutionary approach to writing software that prioritizes simplicity, readability, and expressiveness. Unlike traditional programming languages or frameworks, Sketch is not a specific language but a meta-programming paradigm—a set of principles, conventions, and syntax patterns designed to abstract away boilerplate code, reduce cognitive overhead, and allow developers to focus on the core logic of their applications.
 
+[self_evolving_code_editor](https://www.langchain.com/blog/our-docs-test-themselves)
+
+Making code samples testable solves this. That means running them in CI, asserting they execute correctly, and failing the build when they break. But setting up code samples to be testable is not trivial and requires some upfront investment. This setup cost can feel so daunting that the project never happens.
+
+<img width="870" height="460" alt="Screenshot 2026-04-24 at 12 05 47 PM" src="https://github.com/user-attachments/assets/6442ab7a-8daf-4caa-89e1-6a68d44d510b" />
+
+
 [TLDR: Code Analysis for AI Agents](https://github.com/parcadei/llm-tldr)
 <img width="668" height="732" alt="Screenshot 2026-01-10 at 10 35 03 AM" src="https://github.com/user-attachments/assets/46929f4a-62c7-42f9-9a1f-5d3806ce31b1" />
 
