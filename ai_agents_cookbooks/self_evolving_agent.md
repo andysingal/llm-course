@@ -21,3 +21,10 @@ Sirchmunk: Raw data to self-evolving intelligence, real-time.
 
 Intelligence pipelines built upon vector-based retrieval can be rigid and brittle. They rely on static vector embeddings that are expensive to compute, blind to real-time changes, and detached from the raw context. We introduce Sirchmunk to usher in a more agile paradigm, where data is no longer treated as a snapshot, and insights can evolve together with the data.
 
+[GenericAgent](https://github.com/lsdefine/GenericAgent)
+
+GenericAgent is a minimal, self-evolving autonomous agent framework. Its core is just ~3K lines of code. Through 9 atomic tools + a ~100-line Agent Loop, it grants any LLM system-level control over a local computer — covering browser, terminal, filesystem, keyboard/mouse input, screen vision, and mobile devices (ADB).
+
+<img width="1437" height="1242" alt="workflow" src="https://github.com/user-attachments/assets/46e4db7c-0f57-4cf2-a2d6-222f02d289fc" />
+
+
