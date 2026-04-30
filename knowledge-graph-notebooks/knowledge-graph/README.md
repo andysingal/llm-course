@@ -4,8 +4,6 @@
 
 [Semantica](https://github.com/Hawksight-AI/semantica)
 
-Transform Chaos into Intelligence. Build AI systems with context graphs, decision tracking, and advanced knowledge engineering that are explainable, traceable, and trustworthy — not black boxes.
-
 ```
 import semantica
 from semantica.context import AgentContext, ContextGraph
@@ -41,3 +39,19 @@ precedents = context.find_precedents("model selection reasoning", limit=5)
 # Analyze downstream influence of this decision
 influence = context.analyze_decision_influence(decision_id)
 ```
+
+[embabel-agent-rag-graph](https://github.com/embabel/embabel-agent-rag-graph)
+
+RAG (Retrieval-Augmented Generation) implementation for graph databases using Drivine, part of the Embabel Agent framework.
+
+Overview
+This module provides a graph-database-backed implementation of the RAG pattern using Drivine4j. It supports Neo4j, FalkorDB, and Memgraph through a dialect abstraction that handles the Cypher differences between engines.
+
+Key Components
+- DrivineStore: Content element repository for storing and retrieving documents, chunks, and embeddings
+- RagDialect: Strategy interface for database-specific operations (index creation, vector search, fulltext search, embedding storage)
+- CypherSearch / DrivineCypherSearch: Cypher query execution layer
+- LogicalQueryResolver: Resolves logical query names to Cypher query files
+- Mappers: Row mappers for converting query results to domain objects
+
+Transform Chaos into Intelligence. Build AI systems with context graphs, decision tracking, and advanced knowledge engineering that are explainable, traceable, and trustworthy — not black boxes.
