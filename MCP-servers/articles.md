@@ -25,3 +25,79 @@ Run your own MCP server for over 2,500 apps and APIs. You can run the servers lo
 [Specify MCP Servers in LLM Calls](https://blog.dailydoseofds.com/p/specify-mcp-servers-in-llm-calls)
 
 <img width="698" alt="Screenshot 2025-06-09 at 8 49 04 PM" src="https://github.com/user-attachments/assets/62b56ce1-a97b-40f1-b86c-9b9dccd11748" />
+
+
+[PM/EMでもClaude Code](https://qiita.com/iwa-set/items/4d22dc8b4b8078d3db91)
+
+```
+from mcp.server.fastmcp import FastMCP
+from sentence_transformers import SentenceTransformer
+import lancedb
+
+mcp = FastMCP("knowledge-search")
+
+# Lazy initialization（初回呼び出し時にロード）
+_model = None
+_table = None
+
+def _get_model():
+    global _model
+    if _model is None:
+        _model = SentenceTransformer("intfloat/multilingual-e5-base")
+    return _model
+
+@mcp.tool()
+def search_knowledge(query: str, limit: int = 10,
+                     source_type: str | None = None,
+                     project: str | None = None) -> dict:
+    """プロジェクト横断の意味検索"""
+    model = _get_model()
+    table = _get_table()
+    query_vec = model.encode(
+        [f"query: {query}"], normalize_embeddings=True, convert_to_numpy=True
+    )[0]
+    q = table.search(query_vec.tolist()).limit(limit)
+    # source_type / project でフィルタ
+    if source_type:
+        q = q.where(f"source_type = '{source_type}'")
+    if project:
+        q = q.where(f"project = '{project}'")
+    rows = q.to_list()
+    results = []
+    for r in rows:
+        similarity = max(0.0, 1.0 - r.get("_distance", 0.0) / 2)
+        results.append({
+            "score": round(similarity, 4),
+            "project": r.get("project", ""),
+            "source_file": r.get("source_file", ""),
+            "source_type": r.get("source_type", ""),
+            "date": r.get("date", ""),
+            "text": r.get("text", ""),
+        })
+    return {"query": query, "count": len(results), "results": results}
+
+@mcp.tool()
+def get_context(source_file: str, chunk_index: int, window: int = 3) -> dict:
+    """検索結果の前後チャンクを取得"""
+    table = _get_table()
+    rows = table.search().where(f"source_file = '{source_file}'") \
+                .select(["chunk_index", "header_path", "text"]).limit(10000).to_list()
+    rows.sort(key=lambda r: r["chunk_index"])
+    selected = [r for r in rows
+                if chunk_index - window <= r["chunk_index"] <= chunk_index + window]
+    return {"source_file": source_file, "chunks": selected}
+
+@mcp.tool()
+def reindex(projects: str | None = None, meetings: str | None = None) -> dict:
+    """インデックスを再構築（ingest.py を実行）"""
+    global _table
+    _table = None  # 再構築後にテーブルを再読み込みさせる
+    cmd = [sys.executable, str(INGEST_SCRIPT), "--rebuild"]
+    if projects:
+        cmd.extend(["--projects", projects])
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=21600)
+    return {"status": "ok" if result.returncode == 0 else "error"}
+
+if __name__ == "__main__":
+    mcp.run()
+```
