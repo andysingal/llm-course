@@ -70,5 +70,8 @@ This is what memify() does in Cognee. It runs an RL-inspired optimization pass o
 
 Over time, the graph reshapes itself. The paths your agent actually needs get faster and more reliable, stale branches fade out of retrieval, and the memory develops its own sense of what matters for your specific use case.
 
+[MemPalace Explained: Building Long-Term Memory for AI Agents Beyond RAG](https://www.analyticsvidhya.com/blog/2026/05/mempalace-explained/)
+
+MemPalace offers a different approach, enabling structured, persistent memory with higher precision and consistency. In this article, we explore how it improves AI memory systems and how you can implement it effectively.
 
 
