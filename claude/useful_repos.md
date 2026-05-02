@@ -67,6 +67,11 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 - Style presets (v1.3 new) — teach the skill your visual style from a .drawio file or image, save it by name, and apply it to future diagrams. See ## Style Presets in SKILL.md.
 - Custom output directory (v1.4 new) — ask for any output path (e.g. ./artifacts/, docs/images/) and the skill will mkdir -p and export there; ideal for CI/CD artifact pipelines.
 
+<img width="877" height="650" alt="Screenshot 2026-05-02 at 11 21 28 AM" src="https://github.com/user-attachments/assets/985a08b3-e191-4925-8ae5-4edebe97ac54" />
+
+
+
+
 
 [claude_statusline](https://github.com/kamranahmedse/claude-statusline)
 Configure your Claude Code statusline to show limits, directory and git info
