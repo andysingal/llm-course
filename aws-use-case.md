@@ -43,6 +43,12 @@
 <img width="666" alt="Screenshot 2025-04-17 at 11 30 47 AM" src="https://github.com/user-attachments/assets/1adb9f3f-5b23-4a82-9069-04eb3250d7b6" />
 
 
+[LLM on EKS: Serving with vLLM](https://dev.to/aws-builders/llm-on-eks-serving-with-vllm-2khg)
+
+<img width="764" height="395" alt="Screenshot 2026-05-02 at 7 16 07 AM" src="https://github.com/user-attachments/assets/9555868b-04c2-4199-8c73-8b033edd90fd" />
+
+
+
 ## AWS Tools
 
 [aws-tools](https://github.com/towardsthecloud/aws-toolbox)
