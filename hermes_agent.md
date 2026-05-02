@@ -15,3 +15,16 @@ Self-evolving agent engine
 → uses evolution-style optimization
 → continuously improves strategies
 → built for autonomous systems
+
+[How Hermes Agent Solves Skill Drift and Context Rot as a Self-Improving Agent](https://x.com/mem0ai/status/2050351798142288050)
+
+```
+hermes curator status              # last run, counts, pinned list, LRU top 5
+hermes curator run                 # trigger a review now (background by default)
+hermes curator run --sync          # same, but block until the LLM pass finishes
+hermes curator pause               # stop runs until resumed
+hermes curator resume
+hermes curator pin <skill>         # never auto-transition this skill
+hermes curator unpin <skill>
+hermes curator restore <skill>     # move an archived skill back to active
+```
