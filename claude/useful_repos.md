@@ -52,6 +52,21 @@ A complete AI agency at your fingertips - From frontend wizards to Reddit commun
 
 <img width="702" height="698" alt="Screenshot 2026-03-07 at 2 34 11 PM" src="https://github.com/user-attachments/assets/78b5fc8a-049e-4cee-9b3e-b0a162ab5267" />
 
+[drawio-skill](https://github.com/Agents365-ai/drawio-skill)
+
+- Generates .drawio XML files from natural language descriptions
+- Exports diagrams to PNG, SVG, PDF, or JPG using the native draw.io desktop CLI
+- 6 diagram type presets: ERD, UML Class, Sequence, Architecture, ML/Deep Learning, Flowchart — with preset shapes, styles, and layout conventions
+- Animated connectors (flowAnimation=1) for data-flow and pipeline diagrams (visible in SVG and draw.io desktop)
+- ML model diagram support with tensor shape annotations (B, C, H, W) — ideal for NeurIPS/ICML/ICLR papers
+- Grid-aligned layout — all coordinates snap to 10px multiples for clean alignment
+- Browser fallback — generates diagrams.net URLs when the desktop CLI is unavailable
+- Iterative design: preview, get feedback, and refine diagrams until they look right
+- Auto-launch draw.io desktop after export for manual fine-tuning
+- Triggers automatically when diagrams would help explain complex systems
+- Style presets (v1.3 new) — teach the skill your visual style from a .drawio file or image, save it by name, and apply it to future diagrams. See ## Style Presets in SKILL.md.
+- Custom output directory (v1.4 new) — ask for any output path (e.g. ./artifacts/, docs/images/) and the skill will mkdir -p and export there; ideal for CI/CD artifact pipelines.
+
 
 [claude_statusline](https://github.com/kamranahmedse/claude-statusline)
 Configure your Claude Code statusline to show limits, directory and git info
