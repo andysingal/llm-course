@@ -147,6 +147,27 @@ RAPTOR autonomously:
 - Cost Management with budget enforcement, real-time tracking, and quota detection
 - Reports everything in structured formats
 
+[Bright Data Plugin for Claude Code](https://github.com/brightdata/skills)
+
+Instead of raw HTML that the agent has to parse, Bright Data provides pre-built extractors for 40+ platforms (Amazon, LinkedIn, Instagram, TikTok, YouTube, Reddit) that return clean JSON with specific fields like product prices, review scores, profile data, and post content.
+
+<img width="634" height="684" alt="Screenshot 2026-05-04 at 10 28 51 AM" src="https://github.com/user-attachments/assets/496dcad1-8931-43ee-9750-c95699c228a6" />
+
+InsForge
+
+InsForge (open-source, Apache 2.0) acts as the backend context engineering layer for agents using Skills and CLI.
+<img width="547" height="276" alt="Screenshot 2026-05-04 at 10 56 40 AM" src="https://github.com/user-attachments/assets/2d5837d5-3e28-4105-a4d7-34389e541c4f" />
+
+```
+npx skills add insforge/insforge-skills
+```
+
+
+<img width="974" height="742" alt="Screenshot 2026-05-04 at 10 55 15 AM" src="https://github.com/user-attachments/assets/ae1d6168-2e39-43a1-95e6-c647e21d49a3" />
+
+[Claude Code Has Two Big Blind Spots. I Fixed Both](https://x.com/akshay_pachaar/status/2051291922409603238)
+
+
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
 
