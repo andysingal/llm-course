@@ -168,6 +168,16 @@ npx skills add insforge/insforge-skills
 [Claude Code Has Two Big Blind Spots. I Fixed Both](https://x.com/akshay_pachaar/status/2051291922409603238)
 
 
+[open-slide](https://github.com/1weiho/open-slide)
+
+The slide framework built for agents. Describe your deck in natural language — your coding agent writes the React. open-slide handles the canvas, scaling, navigation, hot reload, and present mode so the agent can focus on content.
+
+Every slide renders into a fixed 1920 × 1080 canvas. Pages are arbitrary React components, not a constrained DSL.
+
+<img width="627" height="319" alt="Screenshot 2026-05-04 at 12 22 18 PM" src="https://github.com/user-attachments/assets/3b961646-7927-4d82-9613-c0e1e1c11cc2" />
+
+
+
 #### Articles
 [How To Be A World-Class Agentic Engineer](https://x.com/systematicls/status/2028814227004395561)
 
