@@ -47,6 +47,9 @@
 
 <img width="764" height="395" alt="Screenshot 2026-05-02 at 7 16 07 AM" src="https://github.com/user-attachments/assets/9555868b-04c2-4199-8c73-8b033edd90fd" />
 
+[AWS DevOps Agent](https://aws.amazon.com/devops-agent/)
+
+<img width="948" height="519" alt="Screenshot 2026-05-04 at 12 52 13 PM" src="https://github.com/user-attachments/assets/bde9cfdc-3f32-4013-84aa-c414479dc33e" />
 
 
 ## AWS Tools
