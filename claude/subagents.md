@@ -87,3 +87,55 @@ You are a code reviewer. When invoked, analyze the code and provide
 specific, actionable feedback on quality, security, and best practices.
 ```
 
+### Control subagent capabilities
+
+You can control what subagents can do through tool access, permission modes, and conditional rules.
+
+Subagents can use any of Claude Code’s internal tools. By default, subagents inherit all tools from the main conversation, including MCP tools.
+
+```
+---
+name: safe-researcher
+description: Research agent with restricted capabilities
+tools: Read, Grep, Glob, Bash
+---
+```
+
+#### Restrict which subagents can be spawned
+
+When an agent runs as the main thread with claude --agent, it can spawn subagents using the Agent tool. To restrict which subagent types it can spawn, use Agent(agent_type) syntax in the tools field.
+
+```
+---
+name: coordinator
+description: Coordinates work across specialized agents
+tools: Agent(worker, researcher), Read, Bash
+---
+```
+
+If Agent is omitted from the tools list entirely, the agent cannot spawn any subagents. This restriction only applies to agents running as the main thread with claude --agent. Subagents cannot spawn other subagents, so Agent(agent_type) has no effect in subagent definitions.
+
+#### Scope MCP servers to a subagent
+
+Use the mcpServers field to give a subagent access to MCP servers that aren’t available in the main conversation. Inline servers defined here are connected when the subagent starts and disconnected when it finishes. String references share the parent session’s connection.
+
+```
+---
+name: browser-tester
+description: Tests features in a real browser using Playwright
+mcpServers:
+  # Inline definition: scoped to this subagent only
+  - playwright:
+      type: stdio
+      command: npx
+      args: ["-y", "@playwright/mcp@latest"]
+  # Reference by name: reuses an already-configured server
+  - github
+---
+
+Use the Playwright tools to navigate, screenshot, and interact with pages.
+```
+
+### Preload skills into subagents
+
+
