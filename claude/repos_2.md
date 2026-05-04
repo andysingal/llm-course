@@ -1,0 +1,9 @@
+[codegraph](https://github.com/colbymchenry/codegraph)
+
+Supercharge Claude Code with Semantic Code Intelligence
+
+When Claude Code explores a codebase, it spawns Explore agents that scan files with grep, glob, and Read — consuming tokens on every tool call.
+
+CodeGraph gives those agents a pre-indexed knowledge graph — symbol relationships, call graphs, and code structure. Agents query the graph instantly instead of scanning files.
+
+![source](https://private-user-images.githubusercontent.com/18431132/578288862-f168182f-4d9a-44e0-94d7-08d018cc8a3a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzc5MzAwNjYsIm5iZiI6MTc3NzkyOTc2NiwicGF0aCI6Ii8xODQzMTEzMi81NzgyODg4NjItZjE2ODE4MmYtNGQ5YS00NGUwLTk0ZDctMDhkMDE4Y2M4YTNhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA0VDIxMjI0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAxMjU5MWQ3MmFiYWI1OWZkZjc0NjRhYjBkZjA0NDBkMGI1Y2VlYmQ5Njg0MWU3YTI4MTc5YjliYmI4ODk1ZjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.Bv6P6_vCcxmtR59ZXdMZuBJQwoDvNMnBYpBYJtYF-4k)
