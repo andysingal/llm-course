@@ -11,3 +11,11 @@ Ingestion Process
 
 <img width="722" alt="Screenshot 2024-05-24 at 12 46 48 PM" src="https://github.com/andysingal/llm-course/assets/20493493/a006e197-bab1-46b7-acc3-a71cd6bd262e">
 
+[Build a Real-Time Codebase Index in 5 Minutes with CocoIndex](https://dev.to/badmonster0/build-a-real-time-codebase-index-in-5-minutes-with-cocoindex-rust-tree-sitter-eo3)
+
+<img width="837" height="311" alt="Screenshot 2026-05-04 at 1 58 54 PM" src="https://github.com/user-attachments/assets/d2f106c1-8681-4202-93e9-ef5e1c4efe52" />
+
+
+[Patient Intake_cocoindex](https://cocoindex.io/docs-v0/examples/patient_form_extraction_dspy/)
+
+<img width="644" height="338" alt="Screenshot 2026-05-04 at 2 03 02 PM" src="https://github.com/user-attachments/assets/f4f44480-c875-4f38-82bd-e2130d07de3c" />
