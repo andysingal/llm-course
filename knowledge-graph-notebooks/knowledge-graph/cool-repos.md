@@ -28,3 +28,7 @@ Installation in one command:
 ```
 uv tool install hyperextract
 ```
+[minne](https://github.com/perstarkse/minne)
+
+Minne (Swedish for "memory") is a personal knowledge management system and save-for-later application for capturing, organizing, and accessing your information. Inspired by the Zettelkasten method, it uses a graph database to automatically create connections between your notes without manual linking overhead.
+
