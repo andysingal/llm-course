@@ -13,3 +13,7 @@ Turn your general AI agents into state-of-the-art specialists with a benchmark a
 EvoSkill significantly extends the feedback-driven idea of GEPA from single-file optimization to complete agent evolution. Instead of only revising one prompt in place like GEPA, EvoSkill proposes multiple skill and prompt mutations jointly, evaluates new variants on held-out data, and has each iteration produce an entirely new agent program.
 
 <img width="4562" height="932" alt="evoskill_logo" src="https://github.com/user-attachments/assets/226982cd-a91b-4241-84df-0540461c9146" />
+
+[agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)
+
+<img width="1215" height="585" alt="Screenshot 2026-05-11 at 10 16 37 AM" src="https://github.com/user-attachments/assets/acd8ae2f-3bb0-40ed-b328-b0c285a11afd" />
