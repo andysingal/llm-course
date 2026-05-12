@@ -3,7 +3,8 @@
 As we navigate the rapidly evolving landscape of artificial intelligence, the shift from passive chatbots to proactive, autonomous systems is undeniable. At the forefront of this revolution is the OpenClaw Skills Hub
 
 
-
+[awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)
+Solving the bottleneck of OpenClaw adaptation: Not skills, but finding ways it can improve your life. This is a community collection of real-life use cases for OpenClaw.
 
 ### Articles
 - [Finally, a disaster-free way to run OpenClaw on your real data/apps!](https://x.com/_avichawla/status/2036727331746906605)
