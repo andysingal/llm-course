@@ -20,3 +20,9 @@
 [semantic-router](https://github.com/vllm-project/semantic-router)
 
 vLLM Semantic Router is a signal-driven intelligent router for that problem. It helps teams build model systems that are more efficient, safer, and more adaptive across cloud, data center, and edge environments.
+
+[spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
+
+This repository contains the Docker configuration and startup scripts to run a multi-node vLLM inference cluster using Ray. It supports InfiniBand/RDMA (NCCL) and custom environment configuration for high-performance setups. Cluster setup supports direct connect between dual Sparks, connecting via QSFP/RoCE switch and 3-node mesh configuration.
+
+While it was primarily developed to support multi-node inference, it works just as well on a single node setups.
