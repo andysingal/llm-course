@@ -397,3 +397,148 @@ if __name__ == "__main__":
 [ollama-playground](https://github.com/NarimanN2/ollama-playground)
 
 [text-to-sql](https://github.com/NarimanN2/ollama-playground/tree/main/text-to-sql)
+
+
+```
+export LLAMA_ARG_HOST=0.0.0.0
+./llama-server -m /models/gemma-4-E4B-it-Q4_K_M.gguf \
+ --port 8080 \
+ -ngl 0 \
+ --jinja \
+ -c 8192 \
+ --parallel 1 \
+ --temperature 1.0 \
+ --top-p 0.95 \
+ --top-k 64
+```
+
+#### Run LLMs on Kubernetes with LLMKube
+A Kubernetes operator for self-hosted LLM Inference .vLLM, llama.cpp, TGI, NVIDIA, Apple Silicon
+
+Define a model as a yaml file 
+
+```
+apiVersion: inference.llmkube.dev/v1alpha1
+kind: Model
+metadata:
+   name: phi-3-mini
+spec:
+  source: https://huggingace.co/microsoft/Phi-3-mini-4k-instruct-gguf/resolve/main/
+Phi-3-mini-4k-instruct-gguf
+  format: gguf
+  quantization: Q4_K_M
+  hardware:
+    accelerator: cude
+    gpu:
+      enabled: true
+      count: 1
+ resources:
+      cpu: "2"
+      memory: "4Gi" 
+```
+
+### InferenceService
+```
+apiVersion: inference.llmkube.dev/v1alpha1
+kind: Model
+metadata:
+   name: phi-3-mini
+spec:
+  modelRef: phi-3_mini
+  runtime: llamacpp      # or vllm, tgi, generic
+  replicas: 1
+  autoscaling:
+    minReplicas: 1
+    maxReplicas: 4
+    targetValue: "50"
+ endpoint:
+    port: 8080
+    path: /v1/chat/completions
+    type: ClusterIP
+ resources:
+    gpu: 1
+    cpu: "2"
+    memory: "4Gi"
+```
+use helm to install
+```
+helm repo add llmkube https://defilantech.github.io/LLMKube
+helm repo update
+
+helm search repo llmkube --versions
+CHART_VERSION="0.7.5"
+
+helm install llmkube llmkube/llmkube \
+   --namespace llmkube-system \
+   --version ${CHART_VERSION} \
+   --create-namespace
+```
+
+Check Installation
+```
+kubectl get pods -n llmkube-system
+- kubectl get crds | grep llmkube
+Output:
+Define a model as a yaml file
+ InferenceService
+
+- kubectl get models
+Output:
+List the models
+
+- kubectl describe models
+
+-kubectl apply -f ai/kubernetes/llm-kube/inference.yaml
+- kubectl get inferenceservices
+- Kubectl describe inferenceservices
+
+Further:
+kubectl get svc
+kubectl get pods
+
+kubectl logs (from kubectl get pods....)
+kubectl logs (from kubectl get pods....) -c model-downloader
+
+### Port forwarding
+kubectl port-orward svc/gemma-2b-service 8080:8080
+
+```
+With all the above running
+
+```
+curl -X POST http://localhost:8080/v1/chat/completions \
+     -H "Content-Type: application/json" \
+     -d '{
+        "model": "gemma-e2b",
+        "messages": [
+           {"role": "user", "content": "What is Kubernetes in one sentence?"}
+        ],
+      "max_tokens": 80
+  }'
+```
+
+How to use with OpenCode
+
+```
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "llmkube": {
+       "npm": "@ai-sdk/openai-compatible",
+       "name": "LLMKube (local)",
+       "options": {
+            "baseURL": "http://localhost:8080/v1"
+        },
+       "models": {
+          "gemma-e2b": {
+               "name": "Gemma 4 E2B (kind)",
+               "limit": {
+                   "context": 32768,
+                   "output":4096
+                 }
+             }
+        }
+     
+
+
+
