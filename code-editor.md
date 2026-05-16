@@ -49,3 +49,7 @@ Making code samples testable solves this. That means running them in CI, asserti
 ### NEWSLETTER
 
 [Bind AIBind AI: Write Code with AI. Compare best AI models.](https://blog.getbind.co/category/llm-code-generation/)
+
+[repository-level intelligence](https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/)
+
+How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context
