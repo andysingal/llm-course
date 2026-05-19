@@ -20,3 +20,10 @@
 
 [Efficient Memory Sharing for Multi-Agent Systems via KV Cache Compaction](https://x.com/RampLabs/status/2042660310851449223)
 
+[TencentDB-Agent-Memory](https://github.com/Tencent/TencentDB-Agent-Memory)
+
+TencentDB Agent Memory = symbolic short-term memory + layered long-term memory.
+
+- Symbolic short-term memory offloads heavy tool logs and condenses them into compact Mermaid symbols, cutting token usage and improving task success.
+- Layered long-term memory distills fragmented conversations into structured personas and scenes, instead of flat vector piles.
+
