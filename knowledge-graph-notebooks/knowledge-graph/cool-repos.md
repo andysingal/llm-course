@@ -32,3 +32,8 @@ uv tool install hyperextract
 
 Minne (Swedish for "memory") is a personal knowledge management system and save-for-later application for capturing, organizing, and accessing your information. Inspired by the Zettelkasten method, it uses a graph database to automatically create connections between your notes without manual linking overhead.
 
+
+[MCSKILLS/codegraph-intelligence](https://github.com/mcontheway/MCSKILLS/tree/main/codegraph-intelligence)
+
+This plugin bundles twelve reusable skills for Claude Code and Codex that make CodeGraph part of everyday code exploration, planning and review. It prefers CodeGraph MCP tools for structural questions, uses codegraph_explore for unfamiliar areas, and falls back to the CodeGraph CLI when MCP tools are unavailable.
+
