@@ -273,3 +273,33 @@ Before writing a single eval, write down what "success" means in measurable term
 - Style & Instructions: Does the output follow your conventions and the skill's directives? Right SDK, correct model IDs, team's naming conventions, the formatting you specified.
 - Efficiency: How much time, tokens, and effort did it take? No unnecessary retries, reasonable token count, no command thrashing. This is the most undervalued dimension. Two runs can produce identical correct output, but one burned 3x the tokens. Regressions here are real costs that compound.
 
+### Example
+
+[Ex_1](https://github.com/esurovtsev/langchain-lab/blob/main/experiments/01-agent-skills/skills/filesystem_navigation/SKILL.md)
+
+[vid](https://www.youtube.com/watch?v=_4ytZ0cEAAo)
+
+```
+from langchain.tools import tool
+
+
+@tool
+def load_skill(skill_name: str) -> str:
+    """Load the full content of a skill into the agent's context.
+
+    Use this when you need detailed guidance on how to approach a specific
+    type of task. Skills contain reasoning strategies, heuristics, and
+    guidelines — not actions.
+
+    Args:
+        skill_name: The name of the skill to load.
+    """
+    for s in SKILLS:
+        if s["name"] == skill_name:
+            return f"Loaded skill: {skill_name}\n\n{s['content']}"
+
+    available = ", ".join(s["name"] for s in SKILLS)
+    return f"Skill '{skill_name}' not found. Available skills: {available}"
+```
+
+
