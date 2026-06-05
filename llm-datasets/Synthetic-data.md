@@ -4,6 +4,12 @@
 
 [Synthetic-Data-Generation-using-LLM](https://github.com/AIAnytime/Synthetic-Data-Generation-using-LLM/tree/main)
 
+[text-albumentations](https://github.com/avbiswas/text-albumentations)
+
+text-albumentations is a synthetic data generation engine for text. The goal is to help generate instruction-tuning and distillation datasets from existing text corpora by applying structured augmentations over passages.
+
+This is built for the practical case where good supervised fine-tuning often requires more examples than you already have, and where synthetic data generation is one of the fastest ways to create task-shaped training data from raw documents.
+
 [deepresearch-datagen-cli](https://github.com/Oqura-ai/deepresearch-datagen-cli)
 
 [SynthVision: Building a 110K Synthetic Medical VQA Dataset with Cross-Model Validation](https://huggingface.co/blog/OpenMed/synthvision)
