@@ -44,3 +44,8 @@ managing_director = Agent(
 ```
 
 - [Interactive GroupChat](https://docs.swarms.world/en/latest/swarms/examples/igc_example/)
+- [swarmclaw](https://github.com/swarmclawai/swarmclaw)
+
+The self-hosted AI agent runtime and multi-agent framework for autonomous agents. Open-source agent swarms with durable agent memory, MCP tools, skills, delegation, schedules, and 23+ LLM providers — a practical Claude Code and LangChain alternative.
+
+
