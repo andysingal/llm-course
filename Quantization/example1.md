@@ -18,3 +18,6 @@ image = pipeline("ghibli style, a fantasy landscape with castles").images[0]
 Resource: 
 
 -[Quanto-Transformers](https://www.cnblogs.com/huggingface/p/18388714)
+- [headroom](https://github.com/chopratejas/headroom)
+
+Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens.
