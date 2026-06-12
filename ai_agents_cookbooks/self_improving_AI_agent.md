@@ -8,3 +8,8 @@ The self-improving AI agent built by Nous Research. It's the only agent with a b
 Learn to build AI agents locally without frameworks. Understand what happens under the hood before using production frameworks.
 
 <img width="3065" height="2465" alt="agent-architecture" src="https://github.com/user-attachments/assets/9bfee119-72f3-48d4-aeee-41930e0be456" />
+
+
+[Agent0 Series: Self-Evolving Agents from Zero Data](https://github.com/aiming-lab/Agent0)
+
+Unleashing Autonomous Agent Evolution via Tool-Integrated Reasoning
