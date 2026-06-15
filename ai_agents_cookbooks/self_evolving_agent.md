@@ -21,6 +21,16 @@ Sirchmunk: Raw data to self-evolving intelligence, real-time.
 
 Intelligence pipelines built upon vector-based retrieval can be rigid and brittle. They rely on static vector embeddings that are expensive to compute, blind to real-time changes, and detached from the raw context. We introduce Sirchmunk to usher in a more agile paradigm, where data is no longer treated as a snapshot, and insights can evolve together with the data.
 
+[OpenSpace](https://github.com/HKUDS/OpenSpace)
+
+Turns AI agents into self-evolving systems through shared skill experiences
+
+Today's AI agents — OpenClaw, nanobot, Claude Code, Codex, Cursor, etc. — are powerful, but they have a critical weakness: they never Learn, Adapt, and Evolve from real-world experience — let alone Share with each other.
+
+- ❌ Massive Token Waste - How to reuse successful task patterns instead of reasoning from scratch and burning tokens every time?
+- ❌ Repeated Costly Failures - How to share solutions across agents instead of repeating the same costly exploration and mistakes?
+- ❌ Poor and Unreliable Skills - How to maintain skill reliability as tools and APIs evolve — while ensuring community-contributed skills meet rigorous quality standards?
+
 [GenericAgent](https://github.com/lsdefine/GenericAgent)
 
 GenericAgent is a minimal, self-evolving autonomous agent framework. Its core is just ~3K lines of code. Through 9 atomic tools + a ~100-line Agent Loop, it grants any LLM system-level control over a local computer — covering browser, terminal, filesystem, keyboard/mouse input, screen vision, and mobile devices (ADB).
