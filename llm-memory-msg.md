@@ -27,3 +27,14 @@ TencentDB Agent Memory = symbolic short-term memory + layered long-term memory.
 - Symbolic short-term memory offloads heavy tool logs and condenses them into compact Mermaid symbols, cutting token usage and improving task success.
 - Layered long-term memory distills fragmented conversations into structured personas and scenes, instead of flat vector piles.
 
+[Continuous batching](https://huggingface.co/blog/sergiopaniego/cb-trl-grpo)
+
+```
+GRPOConfig(
+    use_transformers_continuous_batching=True,
+    transformers_continuous_batching_config={
+        "use_cuda_graph": False,
+        "max_memory_percent": 0.4,  # leave headroom for the backward pass
+    },
+)
+```
