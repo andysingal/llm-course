@@ -11,3 +11,15 @@ Top 6 RAG Architectures I wish I knew before:
 - 5️⃣ Iterative RAG: Combines retrieval and generation in a feedback loop, refining both with each iteration for greater accuracy and robustness.
 
 - 6️⃣ REFEED: Pioneers retrieval feedback, allowing generation outputs to enhance future retrieval, creating a dynamic improvement cycle. These advancements represent the forefront of AI's journey to make machines not just smarter but more contextually aware and effective. The possibilities for applications in search engines, knowledge management, and creative AI are boundless!
+
+
+
+## Article
+
+[You're doing RAG wrong ](https://x.com/akshay_pachaar/status/2052743644411765230)
+
+There's a new approach that:
+- cuts corpus size by 40x.
+- reduces tokens per query by 3x.
+- improves vector search relevance by 2.3x.
+
