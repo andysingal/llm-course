@@ -77,3 +77,35 @@ Notebooks:
 
 Issues:
 [1](https://forums.developer.nvidia.com/t/dli-building-rag-agents-with-llms-unable-to-configure-fast-api/328811)
+
+
+###Articles
+
+[Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel)
+NVIDIA NeMo AutoModel is an open library part of the NVIDIA NeMo framework for building custom generative AI models at scale. NeMo AutoModel builds cleanly on top of v5, adding Expert Parallelism, DeepEP fused all-to-all dispatch, 
+```
+import os
+import torch
+import torch.distributed as dist
+from nemo_automodel import NeMoAutoModelForCausalLM
+from nemo_automodel.recipes._dist_utils import create_distributed_setup_from_config
+
+dist.init_process_group(backend="nccl")
+torch.manual_seed(0)
+torch.cuda.set_device(int(os.environ.get("LOCAL_RANK", 0)))
+
+dist_setup = create_distributed_setup_from_config(
+    {
+        "strategy": "fsdp2",
+        "ep_size": 8,
+    },
+)
+
+model = NeMoAutoModelForCausalLM.from_pretrained(
+    "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+    dtype=torch.bfloat16,
+    distributed_setup=dist_setup,
+)
+
+dist.destroy_process_group()
+```
