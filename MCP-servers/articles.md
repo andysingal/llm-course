@@ -101,3 +101,9 @@ def reindex(projects: str | None = None, meetings: str | None = None) -> dict:
 if __name__ == "__main__":
     mcp.run()
 ```
+
+[Model Context Protocol Explained in 3 Levels of Difficulty](https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty/)
+
+- Why connecting models to external systems without a shared standard creates an integration problem that grows with every new client or tool.
+- How the host, client, and server work together, and what happens when a model’s request flows through an MCP server.
+- The transport options, security risks, and deployment choices that matter once an MCP server is running in production.
