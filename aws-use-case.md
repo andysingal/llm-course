@@ -64,6 +64,9 @@
 
 [Serverless-generative-AI-Architecture](https://aws.amazon.com/blogs/compute/serverless-generative-ai-architectural-patterns/)
 
+[From Lake to LLM: Building AI-Ready Data with Amazon S3 Tables](https://builder.aws.com/content/3G5kJV5Yzphj95hmQ2DV5ijlJ15/from-lake-to-llm-building-ai-ready-data-with-amazon-s3-tables)
+
+
 
 
 #### Application
