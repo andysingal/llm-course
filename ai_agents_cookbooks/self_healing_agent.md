@@ -14,3 +14,8 @@ These traces include:
 - Tool invocations: Agent framework tool calls and responses
 - Errors and latency: Exception details and timing data
 
+[https://www.youtube.com/watch?v=ZgV8CezSNcs](Robust Agent Compensation (RAC): Teaching AI Agents to Compensate)
+
+Planning can be faster if it is correct ---> But, if wrong, it can lead to costly replanning loops  ---> solutions that combine planning and React and a hierarchical view
+
+RAC --guarantees on unexpected side effects, With minimal additional work, No or small code changes for most agentic platforms
