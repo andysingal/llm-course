@@ -5,3 +5,6 @@
 [MCP-registry](https://github.com/modelcontextprotocol/registry/)
 
 [paperclip-mcp](https://gxl.ai/blog/paperclip)
+
+
+[TripMate-AI-Using-MCP](https://github.com/entbappy/TripMate-AI-Using-MCP)
