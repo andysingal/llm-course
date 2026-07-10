@@ -13,3 +13,12 @@ Learn to build AI agents locally without frameworks. Understand what happens und
 [Agent0 Series: Self-Evolving Agents from Zero Data](https://github.com/aiming-lab/Agent0)
 
 Unleashing Autonomous Agent Evolution via Tool-Integrated Reasoning
+
+
+[Self-Improving Agents, But Improving at What?](https://x.com/JoshARosen/status/2075345653572550972)
+
+- The Optimization Loop
+- Evals Optimize Tasks
+- Improving the Structure Behind the Harness
+- Graphs as Executable Structure
+- 
