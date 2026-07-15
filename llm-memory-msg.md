@@ -72,5 +72,15 @@ GRPOConfig(
 
 #### Article
 
+[Agent Memory-state management Framework](https://x.com/AiCamila_/status/2077249061359694204)
+
+**Agent Memory & State Management Framework**
+
+Key layers covered:
+- • Working / Short-term Memory
+- • Long-term Memory
+- • Persistent Storage
+- • Context Management
+- • Retrieval, Update, Forgetting & Security
 [Integrating Memory into AI Agents](https://amanxai.com/2026/06/24/integrating-memory-into-ai-agents/)
 
