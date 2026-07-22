@@ -19,3 +19,11 @@ Automatically discovers and extracts complete conversation history including:
 ✅ Tool use and execution results
 ✅ Timestamps and metadata
 
+
+[Fine-tune and deploy embedding models with Amazon SageMaker](https://huggingface.co/docs/sagemaker/en/examples/sagemaker-sdk-fine-tune-embedding-models)
+
+- Setup development environment
+- Create and prepare the dataset
+- Fine-tune Embedding model on Amazon SageMaker
+- Deploy & Test fine-tuned Embedding Model on Amazon SageMaker
+
