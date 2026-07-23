@@ -60,7 +60,10 @@ This is where th LLM's reasoning is used as a router
 - The Nodes (The "Workers"):
   The agents or tools that perform the tasks
 
-- The Edges (The "Routing Logic"): The 'decision-maker' that directs the flow from one node to the next   
+- The Edges (The "Routing Logic"): The 'decision-maker' that directs the flow from one node to the next
+
+<img width="891" height="188" alt="Screenshot 2026-07-23 at 10 18 05 PM" src="https://github.com/user-attachments/assets/4091a3da-b9c8-48ad-b26a-1c2a26e804cf" />
+
 
 
 <img width="572" height="168" alt="Screenshot 2026-07-23 at 9 10 30 PM" src="https://github.com/user-attachments/assets/88512ad7-cc3b-4a90-a127-6a371b803066" />
