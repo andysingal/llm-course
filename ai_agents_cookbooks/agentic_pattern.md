@@ -31,8 +31,41 @@ between specialized agents and tools
 
 <img width="814" height="296" alt="Screenshot 2026-07-23 at 9 12 37 PM" src="https://github.com/user-attachments/assets/fd7349f2-a3f1-49dd-91b8-1914105ddba9" />
 
+- The State(The Scratchpad"):
+  - The 'memory' of the workflow. What is the current status of the job?.... A stateful object that persists and accumulates dat throughout the workflow's life
+```
+{
+"user_query": "What is a Agentic RAG?",
+"research_data": null,
+"summary": null
+}
+```
+
+ - The nodes: A function, tool or agent that performs a discrete tasks
+
+Function: To read from the state, execute a task, and write back to the state
+Key Principle: Modularity (Separation of Concerns)
+ResearchNode only knows how to search
+Summary node only knows how to summarize 
+
+Importnt: A node is stateless. It receives the current state, does its jobs, and returns an update.
+
+- The Edges("The Routing Logic"):
+
+The logic that connects the Nodes. It decides "where to go next"
+Function: To red from the State and direct the workflow to the next Node
+This is where th LLM's reasoning is used as a router 
+
+
+- The Nodes (The "Workers"):
+  The agents or tools that perform the tasks
+
+- The Edges (The "Routing Logic"): The 'decision-maker' that directs the flow from one node to the next   
+
 
 <img width="572" height="168" alt="Screenshot 2026-07-23 at 9 10 30 PM" src="https://github.com/user-attachments/assets/88512ad7-cc3b-4a90-a127-6a371b803066" />
+
+
 
 
 
