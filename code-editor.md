@@ -53,3 +53,16 @@ Making code samples testable solves this. That means running them in CI, asserti
 [repository-level intelligence](https://www.marktechpost.com/2026/05/15/how-to-build-repository-level-code-intelligence-with-repowise-using-graph-analysis-dead-code-detection-decisions-and-ai-context/)
 
 How to Build Repository-Level Code Intelligence with Repowise Using Graph Analysis, Dead-Code Detection, Decisions, and AI Context
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to graph-max with Codex and 5.6 Sol:
+
+1. Draw a graph (literally in any tool, even on paper)
+2. Send it to Codex and say "write a code mode script that implements this workflow, run it with <your inputs>"
+
+<img width="947" height="597" alt="Screenshot 2026-07-26 at 4 49 36 AM" src="https://github.com/user-attachments/assets/4bb2a550-2cb0-40e8-aaf4-ab31124b9276" />
+
+
+
