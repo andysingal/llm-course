@@ -74,3 +74,68 @@ This is where th LLM's reasoning is used as a router
 
 <img width="558" height="352" alt="Screenshot 2026-07-23 at 8 58 30 PM" src="https://github.com/user-attachments/assets/adbc7b6d-0cbd-493d-b5b1-bb2d02bc72f9" />
 
+
+<img width="853" height="475" alt="Screenshot 2026-07-26 at 9 28 11 AM" src="https://github.com/user-attachments/assets/977564be-637d-4f24-9876-e8e8887fc989" />
+
+A task progress ledger in Large Language Model (LLM) agent frameworks is a structured tracking mechanism—used prominently in architectures like Microsoft's Magentic-One—that records ongoing progress, sub-goal achievements, and current agent assignments to prevent loops and drift during long-horizon tasks.
+
+Building stateful graphs is harder than it looks:
+
+1. Managing State: How do you relably pass the 'scratchpad' from step to step, ensuring its always in sync
+2. Handling cycles: The 'Magnetic Router' and 'Group Chat' patterns are cyclic simple if/while loops become deeply nested and brittle
+3. Non-Determinism: LLM's Routing choice is non-deterministic.
+4. Solution: We need a framework that natively understands our anatomy(State, Nodes, Edges) and is designed to handle cycles
+
+<img width="919" height="474" alt="Screenshot 2026-07-26 at 11 21 29 AM" src="https://github.com/user-attachments/assets/b810848c-baf8-4b7d-becc-b205e67cfaa8" />
+
+### Platforms for Building Workflows
+We took a deep, code-first dive into framworks like langGraph
+The 'code-first' approach provides maximum power and flexibility 
+Comes at the cost of development time, complexity and specialized expertise
+Analyze the role, the players and the critical trade-offs of using Low-Code / No-Code platforms to build your agentic workflows
+
+
+### Exploring the LCNC Landscape
+
+<img width="924" height="457" alt="Screenshot 2026-07-26 at 12 32 27 PM" src="https://github.com/user-attachments/assets/c2c7f720-490a-4691-99d9-cc993e6427f1" />
+
+<img width="902" height="407" alt="Screenshot 2026-07-26 at 12 33 56 PM" src="https://github.com/user-attachments/assets/ffc53fe3-9812-4d74-87b1-3575e6128565" />
+
+### The Architect's Decision Framework: When to USe What?
+
+<img width="866" height="355" alt="Screenshot 2026-07-26 at 12 36 33 PM" src="https://github.com/user-attachments/assets/dc429ce6-4db7-4730-bc49-6c73e93d1a70" />
+
+
+
+## FRAMEWORK LANDSCAPE
+
+We built a sophisticated, multi-agent workflow using a code-first framework
+
+Raw API calls to LLMs, manually parsing the JSON output and hand-crafting a state machine is unmanageble
+
+<img width="384" height="220" alt="Screenshot 2026-07-26 at 12 40 03 PM" src="https://github.com/user-attachments/assets/dcf33ef5-016e-4d9b-90e4-3c5da783fa4a" />
+
+### Why use a Framework? The Boilerplate Problem
+
+An "agent" is a simple loop.. until you add "plumbing"
+
+1. Tool Calling & Parsing: Formatting the tools schema for the LLM Parsing the LLM's non-deterministic JSON output. Handling errors if the LLM fails to call a function
+2. State Management: Reliabily passing the chat history or scratchpad between the loop iterations
+3. RAG pipelines: Connecing to Data, chunking, embedding, storing and retrieving documents
+4. Prompt Management: Templating, managing and chaining complex prompts 
+
+Generalist Toolkit: Langchain and LangGraph
+
+The Core Philosphy: "Composability"
+
+Langchain is built on that any LLm app can be composed from standard parts
+
+- Models (LLMs, Chat Models, Embedding Models)
+- Prompts: (Prompt Templates, Chat Templates )
+- Tools : (Functions, APIs, Retrievers)
+- Parsers: (Parsing LLM output into JSON, lists, etc)
+
+The "Glue" (Core Concept):
+LCEL (Language Expression Language)
+This is the | (pipe) operator) that lets you "chain" components together
+
