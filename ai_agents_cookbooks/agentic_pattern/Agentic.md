@@ -139,3 +139,8 @@ The "Glue" (Core Concept):
 LCEL (Language Expression Language)
 This is the | (pipe) operator) that lets you "chain" components together
 
+<img width="1059" height="600" alt="Screenshot 2026-07-28 at 7 42 29 PM" src="https://github.com/user-attachments/assets/f7841450-cb32-4127-af7a-0f651af830e0" />
+
+<img width="1095" height="573" alt="Screenshot 2026-07-28 at 7 46 15 PM" src="https://github.com/user-attachments/assets/3322d69f-7ad7-471e-9fef-6a2b150a5550" />
+
+
