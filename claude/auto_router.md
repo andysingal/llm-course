@@ -1,0 +1,2 @@
+A LiteLLM auto router sends every [Claude Code](https://docs.litellm.ai/docs/tutorials/claude_code_autorouter) request to the smallest model that can handle it, which is where most of the savings on a Claude Code workload come from. Pointing Claude at one takes two things beyond the usual ANTHROPIC_BASE_URL setup: a router name Claude will accept, and that name on your organization's model allowlist.
+
