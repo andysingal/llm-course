@@ -143,4 +143,23 @@ This is the | (pipe) operator) that lets you "chain" components together
 
 <img width="1095" height="573" alt="Screenshot 2026-07-28 at 7 46 15 PM" src="https://github.com/user-attachments/assets/3322d69f-7ad7-471e-9fef-6a2b150a5550" />
 
+#### Summary: The "Data Specialist"
+
+. LlamaIndex: A "data-first" framework
+
+. Core Strength: Building rich "Indexes" from diverse data sources
+
+. Key features: "Agentic RAG" - agents that can reason over and synthetic data from multiple, complex query engines 
+
+. Use for : Advanced RAG and data intensive applications 
+
+
+#### Microsoft - Multi-Agent Specialist 
+
+Autogen: which was brilliant at multi-agent collaboration
+
+Semantic Kernel: which was designed for enterprise-grade
+
+
+
 
