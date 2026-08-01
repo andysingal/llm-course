@@ -74,4 +74,43 @@ Stateful (it knows where it's been)
 ... it can be Autonomous (it can "drive the car")
 
 
+### The "Tool Use" Pattern 
+
+<img width="912" height="495" alt="Screenshot 2026-08-01 at 3 00 24 PM" src="https://github.com/user-attachments/assets/ecbda0f6-bdb7-4b02-b516-b6375a37f2af" />
+
+Mechanics Part 1: The "Schema" (Describing the Tool)
+
+<img width="925" height="423" alt="Screenshot 2026-08-01 at 3 03 49 PM" src="https://github.com/user-attachments/assets/9d75b362-d6d1-4c25-90b6-7d15a99d7a69" />
+
+Mechanics Part 2: The LLM Role (The "Chooser")
+
+The LLM Reasoning Process:
+
+- It receives the user's goal: "Whats the weather
+- It reviews the list of available tool schemas
+- It reasons: "The goal is about weather. The get_weather tool's description matches this goal. The goal specifies a city, 'London'. The tool requires a 'city" parameter"
+
+Mechanics Part 3: The Orchestrator's Role (The "Executor")
+
+<img width="930" height="382" alt="Screenshot 2026-08-01 at 3 09 27 PM" src="https://github.com/user-attachments/assets/004eeb3b-0dc9-4d19-bc1f-7e277956c9ed" />
+
+
+
+### The Planning Pattern 
+
+The process of using an LLM to deompose a high-level goal into an explicit ordered list of executable steps 
+
+The Enabling Technique: "Chain of Thought" (CoT)
+
+Thought: The user wants the weather, and they want it emailed
+Plan:
+  - Call get_weather for "London"
+  - Call send_email with the result of step
+
+Action: [Outputs the first tool call: call_weather("London")]
+
+
+
+<img width="862" height="403" alt="Screenshot 2026-08-01 at 3 15 44 PM" src="https://github.com/user-attachments/assets/45e686dd-9412-444d-b14e-b13976df598a" />
+
 
