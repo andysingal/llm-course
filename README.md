@@ -2011,4 +2011,4 @@
 
 ## Star History
 
-<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=codingonion/awesome-llm-and-aigc&type=Date" />
+<img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=codingonion/awesome-llm-and-aigc&type=Date" />
