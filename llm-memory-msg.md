@@ -70,6 +70,14 @@ GRPOConfig(
 )
 ```
 
+- Working Memory The messages and tool results currently in use within a single agent run. It exists only for the duration of that run and does not persist afterward.
+
+- Episodic Memory The record of what happened in previous agent runs. Unlike working memory, episodic memory persists across sessions, allowing an agent to recall specific past interactions rather than just the current one.
+
+- Semantic Memory Project-specific facts and knowledge an agent holds about its environment (for example, the structure or conventions of a codebase), as distinct from episodic memory's record of events, semantic memory stores facts.
+
+- Procedural Memory The workflow steps or reusable methods an agent has learned for accomplishing a task. Where semantic memory captures what is true, procedural memory captures how to do something, this is the form of memory that skills (see Skill Induction) are built from.
+
 #### Article
 
 [Agent Memory-state management Framework](https://x.com/AiCamila_/status/2077249061359694204)
