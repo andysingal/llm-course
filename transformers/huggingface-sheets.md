@@ -19,3 +19,29 @@ hftools d --filter '*_q4_?.gguf|*.json' owner/model
 - Bonus: peek reads a safetensors/GGUF header via one Range request (tensors, dtypes, params, ~few MB); scan flags unsafe pickle imports before you load a random checkpoint
 
 
+### Huggingface DLC
+
+ Hugging Face Embedding DLC is a new purpose-built Inference Container to easily deploy Embedding Models in a secure and managed environment.
+
+ The DLC is powered by Text Embedding Inference (TEI) a blazing fast and memory efficient solution for deploying and serving Embedding Models. TEI enables high-performance extraction for the most popular models, including FlagEmbedding, Ember, GTE and E5. TEI implements many features such as:
+
+- No model graph compilation step
+- Small docker images and fast boot times
+- Token based dynamic batching
+- Optimized transformers code for inference using Flash Attention, Candle and cuBLASLt
+- Safetensors weight loading
+- Production ready (distributed tracing with Open Telemetry, Prometheus metrics)
+
+TEI supports the following model architectures
+
+- BERT/CamemBERT, e.g. BAAI/bge-large-en-v1.5 or Snowflake/snowflake-arctic-embed-m
+- RoBERTa, sentence-transformers/all-roberta-large-v1
+- XLM-RoBERTa, e.g. sentence-transformers/paraphrase-xlm-r-multilingual-v1
+- NomicBert, e.g. jinaai/jina-embeddings-v2-base-en
+- JinaBert, e.g. nomic-ai/nomic-embed-text-v1.5
+
+Resources:
+
+ -[How to deploy Embedding Models to Amazon SageMaker using new Hugging Face Embedding DLC](https://huggingface.co/docs/sagemaker/en/examples/sagemaker-sdk-deploy-embedding-models)
+
+ 
