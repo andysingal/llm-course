@@ -46,3 +46,7 @@ Stock Research Agent built with Gradio, LangChain DeepAgents, and optional Brave
 
 ## Article
 [Freqtrade Strategies 101: A Quick Start for Strategy Development](https://www.freqtrade.io/en/stable/strategy-101/)
+
+## Huggingface Space
+
+[Personal_Advisor_Space](divyansh1441/Personal_Finance_Advisor)
