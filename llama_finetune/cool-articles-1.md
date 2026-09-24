@@ -27,3 +27,8 @@ Automatically discovers and extracts complete conversation history including:
 - Fine-tune Embedding model on Amazon SageMaker
 - Deploy & Test fine-tuned Embedding Model on Amazon SageMaker
 
+
+[RAG vs. Fine-Tuning for Domain Adaptation: When to Use Which](https://machinelearningmastery.com/rag-vs-fine-tuning-for-domain-adaptation-when-to-use-which/)
+
+- Fine-Tuning for Consistent Domain Output
+The scenario — deliberately different in kind from the one above — is this: a financial services company needs every incoming customer complaint sorted into a strict internal taxonomy (BILLING_DISPUTE, UNAUTHORIZED_TRANSACTION, ACCOUNT_ACCESS, FEE_INQUIRY, CARD_FRAUD_SUSPECTED), none of which map cleanly onto any public standard, with a consistent structured output every single time.
