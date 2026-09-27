@@ -211,4 +211,8 @@ Timeout / error     → Safe fallback
 
 <img width="640" height="262" alt="Screenshot 2026-09-27 at 2 54 53 PM" src="https://github.com/user-attachments/assets/066eb4f7-4534-4738-a4be-40812a8be824" />
 
+[jevgrep](https://github.com/dzhng/jevgrep)
+
+<img width="612" height="393" alt="Screenshot 2026-09-27 at 10 10 16 PM" src="https://github.com/user-attachments/assets/4c5c0c61-c339-4c11-9133-ea8707979561" />
+
 
