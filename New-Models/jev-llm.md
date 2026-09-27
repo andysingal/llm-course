@@ -112,3 +112,103 @@ Give me three personalized prompts to try next.
 Never mark the integration complete without evidence that the agent used Jev during a real task.
 
 A key point: this prompt assumes the assistant may have terminal access, file access, network access, and the ability to modify project files. In this chat environment, I do not have access to your local machine, project directory, persistent agent configuration, or external networked installation targets, so I can extract and analyze the instructions but cannot actually perform the installation described.
+
+#### Article 
+
+[9 Practical Places to Use Jev in AI Agents](https://manjeet.substack.com/p/9-practical-places-to-use-jev-in)
+
+<img width="668" height="748" alt="Screenshot 2026-09-27 at 2 46 26 PM" src="https://github.com/user-attachments/assets/8d5b736e-df34-43d5-b5f3-07eed2970db2" />
+
+- Model Routing
+
+```
+“Summarize this email”       → Small model
+“Write a SQL query”          → Coding model
+“Diagnose a production bug”  → Premium reasoning model
+“Not confident”              → Escalate
+```
+
+- Guardrails
+
+```
+Agent proposes: Delete 500 files
+        ↓
+Rules identify destructive action
+        ↓
+Jev checks user intent and context
+        ↓
+Block or require confirmation
+```
+
+- Tool-call gating
+
+```
+High confidence, allowed   → Execute
+Medium confidence          → Ask user or stronger judge
+High confidence, disallowed→ Block
+Timeout / error            → Fail safely
+```
+
+- Inbox and ticket triage
+
+```
+Incoming request
+      ↓
+Billing / bug / security / feature / sales / spam
+      ↓
+High confidence → Route automatically
+Low confidence  → Review queue
+```
+
+- Reranking search and memory
+
+```
+Search retrieves 20 documents
+            ↓
+Jev scores relevance to current task
+            ↓
+Top 3–5 documents go to the LLM
+```
+
+- Agent evaluation
+
+```
+Did the agent finish the requested task?
+Did it call the required tool?
+Is its final answer supported by tool output?
+Did it make an unsupported completion claim?
+Did it stay within scope?
+```
+
+- Bulk labeling
+
+```
+Customer feedback
+        ↓
+Bug / feature request / usability / pricing / praise / other
+        ↓
+Dashboard, routing, and trend analysis
+```
+
+-  Real-time decisions
+
+```
+New system signal
+        ↓
+Jev selects next action
+        ↓
+Update UI / prioritize alert / continue simulation
+```
+
+- Confidence gates
+
+```
+90%+ confidence     → Automate low-risk action
+70–89% confidence   → Stronger LLM or human review
+Below 70%           → Do not automate
+Timeout / error     → Safe fallback
+```
+
+<img width="640" height="262" alt="Screenshot 2026-09-27 at 2 54 53 PM" src="https://github.com/user-attachments/assets/066eb4f7-4534-4738-a4be-40812a8be824" />
+
+
