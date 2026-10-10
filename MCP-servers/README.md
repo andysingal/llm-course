@@ -34,7 +34,7 @@
 
 [docret-mcp-server](https://github.com/Sreedeep-SS/docret-mcp-server)
 
-[exa-mcp-server](https://github.com/exa-labs/exa-mcp-server)
+[exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - web search API for AI
 
 
 What is DOCRET?
