@@ -51,3 +51,4 @@ Use Case:
 - [ColiPali-Qdrant](https://github.com/andysingal/llm-course/blob/main/MCP-servers/cool-repo.md)
 The King of Multi-Modal RAG: ColPali
 - [UV + vLLM + Python-Rust Robyn API + Qdrant: Ultimate AI Engineering Rig](https://niranjanakella.medium.com/uv-vllm-python-rust-robyn-api-qdrant-ultimate-ai-engineering-rig-55571bdd829c)
+- [Qdrant FastAPI RAG API: Build a Grounded Service](https://dev.to/gateofai/qdrant-fastapi-rag-api-build-a-grounded-service-40i8)
