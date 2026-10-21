@@ -216,3 +216,15 @@ Timeout / error     → Safe fallback
 <img width="612" height="393" alt="Screenshot 2026-09-27 at 10 10 16 PM" src="https://github.com/user-attachments/assets/4c5c0c61-c339-4c11-9133-ea8707979561" />
 
 
+[Build a Data Analyst Agent With Jev as the Review Layer](https://x.com/Sumanth_077/status/2107473852850909566)
+
+For this project, the setup is intentionally small:
+- Model: Qwen (alibaba/qwen3.8-omni-flash) through the Vercel AI Gateway
+- Data: SQLite with a seeded sales database containing customers, products, and orders from 2025
+- Interface: Gradio
+- Tools: inspect_schema and run_sql
+- Review layer: Jev from TypeSafe AI
+
+<img width="454" height="182" alt="Screenshot 2026-10-21 at 5 10 29 PM" src="https://github.com/user-attachments/assets/27979321-c012-46d8-8610-ce45683bab67" />
+
+[Natural Language Data Analyst Agent](https://github.com/Sumanth077/Hands-On-AI-Engineering/tree/main/ai_agents/nl_data_analyst_agent)
