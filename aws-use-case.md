@@ -73,3 +73,20 @@
 [Strands Agents](https://dev.to/aws-builders/tying-it-all-together-how-strands-agents-weave-together-retail-performance-analysis-50p4)
 
 Strands Agents is a simple-to-use, code-first framework for building agents. It is an open-source SDK by Amazon Web Services [AWS]. Strands comprise three key components: a language model, a system prompt, and a set of tools. Strands supports multiple agent architecture patterns, scaling from a single agent up to complex networks of agents.
+
+
+### Article
+
+- [Building an E-commerce AI Agent with AWS Serverless: Understanding AI Agents](https://dev.to/serverlessl/building-an-e-commerce-ai-agent-with-aws-serverless-understanding-ai-agents-17-37db)
+
+**** What will assistant do:
+- Find products: Understand what customers are looking for, even when they describe their needs rather than use exact product names.
+- Answer product questions: Explain product features, provide additional information, and help customers compare alternatives.
+- Assist with shopping: Help customers select products and add them to their cart.
+- Answer common questions: Provide information about delivery, returns, and other shop-related topics.
+- Support registered customers: Access relevant account information, such as past orders, and perform operations available to authenticated users.
+
+<img width="741" height="517" alt="Screenshot 2026-11-05 at 3 48 40 PM" src="https://github.com/user-attachments/assets/ac243917-0ca3-4ac8-94b6-99316406a271" />
+
+
+
