@@ -39,6 +39,19 @@ That shift matters because:
 - Non-technical stakeholders can participate. When the interface is natural language, you don't need an engineer to create a new agent or assign a new task. The product manager, the operations lead, the analyst, they can all contribute.
 - Enterprise governance becomes tractable. Audit trails, access controls, and compliance aren't bolted on afterward. They're built into the management layer from the start.
 
+[Agentic System Design: A Self-Study Roadmap](https://www.kdnuggets.com/agentic-system-design-a-self-study-roadmap)
+
+The project is an incident investigator, an agent that finds the root cause of a production alert. Each step adds one piece, so every idea lands on code you've already written. You'll learn how to:
+
+- Decide which steps your code controls and which steps the model controls
+- Trace the reasoning-action loop through a full multi-turn tool interaction
+- Design tools, memory, and multi-agent coordination that hold up under real use
+- Evaluate and deploy an agent so it makes the jump from demo to daily use
+
+<img width="768" height="435" alt="Screenshot 2026-11-17 at 11 06 00 AM" src="https://github.com/user-attachments/assets/aff0f867-5397-4f69-9bb5-33e5adf51cb8" />
+
+
+
 ### Resources
 - https://github.com/simstudioai/sim
 - https://www.sim.ai/
