@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "0e5c818f-de95-4110-a5b1-01281586bf66",
+		"name": "EcomBasic",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15901394",
+		"_collection_link": "https://winter-resonance-174723.postman.co/workspace/Automation-Testing~d802ad37-536f-4ffd-8a34-321815e976f5/collection/15901394-0e5c818f-de95-4110-a5b1-01281586bf66?action=share&source=collection_link&creator=15901394"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"firstName\": \"fgf\",\n    \"lastName\": \"grgtr\",\n    \"userEmail\": \"fegre8h09t@gmail.com\",\n    \"userRole\": \"customer\",\n    \"occupation\": \"Doctor\",\n    \"gender\": \"Male\",\n    \"userMobile\": \"9843535333\",\n    \"userPassword\": \"hello123Q@\",\n    \"confirmPassword\": \"hello123Q@\",\n    \"required\": true\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/api/ecom/auth/register",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"api",
+						"ecom",
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const jsonData = pm.response.json();",
+							"pm.expect(jsonData.message).to.eql(\"Login Successfully\")",
+							"pm.collectionVariables.set(\"token\",jsonData.token);",
+							"pm.collectionVariables.set(\"userId\",jsonData.userId);",
+							"",
+							""
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"userEmail\": \"fegre8h09t@gmail.com\",\n    \"userPassword\": \"hello123Q@\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/api/ecom/auth/login",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"api",
+						"ecom",
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create order",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const jsonData = pm.response.json();",
+							"pm.collectionVariables.set(\"orderId\",jsonData.orders[0]);",
+							"pm.expect(jsonData.message).to.eql(\"Order Placed Successfully\");"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mjc0MjU0OWUyNmI3ZTFhMTBlOWZjZTAiLCJ1c2VyRW1haWwiOiJyYWh1bHNoZXR0eUBnbWFpbC5jb20iLCJ1c2VyTW9iaWxlIjo5NTQzNjQ1NzU0LCJ1c2VyUm9sZSI6ImN1c3RvbWVyIiwiaWF0IjoxNzQzMTQ1MTYzLCJleHAiOjE3NzQ3MDI3NjN9.2ZqZDDESj7lIEKxEmLytkEkbeui3HVmjsOnPAPGiBfA",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"orders\": [\n        {\n            \"country\": \"India\",\n            \"productOrderedId\": \"67a8dde5c0d3e6622a297cc8\"\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://rahulshettyacademy.com/api/ecom/order/create-order",
+					"protocol": "https",
+					"host": [
+						"rahulshettyacademy",
+						"com"
+					],
+					"path": [
+						"api",
+						"ecom",
+						"order",
+						"create-order"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "token",
+			"value": ""
+		},
+		{
+			"key": "userId",
+			"value": ""
+		},
+		{
+			"key": "orderId",
+			"value": ""
+		}
+	]
+}
