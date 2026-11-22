@@ -6,7 +6,9 @@
 
 [Agent2Agent (A2A) Protocol](https://ai.pydantic.dev/a2a/)
 
-[Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](
+[Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](https://github.com/kokchun/youtube_demos/blob/main/logfire)
+
+
 
 [Pydantic AI with Bright Data’s Web MCP for Agents with Data Access](https://brightdata.com/blog/ai/pydantic-ai-with-web-mcp)
 
