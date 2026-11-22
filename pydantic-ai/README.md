@@ -8,6 +8,8 @@
 
 [Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](https://github.com/kokchun/youtube_demos/blob/main/logfire)
 
+----[source](https://www.youtube.com/watch?v=5Vpf_PV2vA8)
+
 
 
 [Pydantic AI with Bright Data’s Web MCP for Agents with Data Access](https://brightdata.com/blog/ai/pydantic-ai-with-web-mcp)
