@@ -6,7 +6,12 @@
 
 [Agent2Agent (A2A) Protocol](https://ai.pydantic.dev/a2a/)
 
+[Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](
+
 [Pydantic AI with Bright Data’s Web MCP for Agents with Data Access](https://brightdata.com/blog/ai/pydantic-ai-with-web-mcp)
+
+<img width="533" height="171" alt="Screenshot 2026-11-22 at 2 15 03 PM" src="https://github.com/user-attachments/assets/58c42418-31f2-4675-8c27-16789920c67d" />
+
 
 <img width="1114" alt="Screenshot 2025-04-24 at 7 27 39 AM" src="https://github.com/user-attachments/assets/0ae0641c-55fa-49b9-b97f-fef0f2540398" />
 
