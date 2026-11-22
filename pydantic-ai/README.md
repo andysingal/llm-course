@@ -6,7 +6,7 @@
 
 [Agent2Agent (A2A) Protocol](https://ai.pydantic.dev/a2a/)
 
-[Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](https://github.com/kokchun/youtube_demos/blob/main/logfire)
+******[Evaluate Pydantic AI Agents with LLM Judge & Pydantic Evals & Logfire](https://github.com/kokchun/youtube_demos/blob/main/logfire)
 
 ----[source](https://www.youtube.com/watch?v=5Vpf_PV2vA8)
 
